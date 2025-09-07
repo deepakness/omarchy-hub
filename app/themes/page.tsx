@@ -5,7 +5,7 @@ import Breadcrumb from '../../components/Breadcrumb';
 import themesData from '../../data/themes.json';
 
 export default function ThemesPage() {
-  const categories = [...new Set(themesData.map(theme => theme.category))];
+  const categories = [...new Set(themesData.map(theme => theme.category))].sort();
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   
   const filteredThemes = selectedCategory 
@@ -23,7 +23,7 @@ export default function ThemesPage() {
           ]} />
           <h1 className="text-4xl font-bold text-green font-mono mb-4">Themes</h1>
           <p className="text-foreground/80 text-lg">
-            Beautiful color schemes and themes to customize your Omarchy experience.
+            Beautiful color schemes and themes shared by the community. Discover new visual styles and personalize your Omarchy desktop experience.
           </p>
         </div>
 

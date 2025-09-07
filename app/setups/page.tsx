@@ -1,8 +1,17 @@
+'use client';
+import { useState } from 'react';
 import Card from '../../components/Card';
 import Breadcrumb from '../../components/Breadcrumb';
 import setupsData from '../../data/setups.json';
 
 export default function SetupsPage() {
+  const categories = [...new Set(setupsData.map(setup => setup.category))].sort();
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  
+  const filteredSetups = selectedCategory 
+    ? setupsData.filter(setup => setup.category === selectedCategory)
+    : setupsData;
+
   return (
     <div className="min-h-screen bg-background">
       <div className="container mx-auto px-4 py-8">
@@ -18,10 +27,42 @@ export default function SetupsPage() {
           </p>
         </div>
 
+        {/* Category Filter */}
+        <div className="mb-8">
+          <h2 className="text-xl font-mono text-blue mb-4">Filter by Category</h2>
+          <div className="flex flex-wrap gap-2">
+            <button
+              onClick={() => setSelectedCategory(null)}
+              className={`px-4 py-2 rounded-lg font-mono text-sm border-2 transition-all duration-200 ${
+                selectedCategory === null
+                  ? 'bg-blue text-background border-blue'
+                  : 'bg-secondary text-foreground border-secondary hover:border-blue hover:bg-blue/10'
+              }`}
+            >
+              All Setups ({setupsData.length})
+            </button>
+            {categories.map((category) => {
+              const count = setupsData.filter(setup => setup.category === category).length;
+              return (
+                <button
+                  key={category}
+                  onClick={() => setSelectedCategory(category)}
+                  className={`px-4 py-2 rounded-lg font-mono text-sm border-2 transition-all duration-200 ${
+                    selectedCategory === category
+                      ? 'bg-blue text-background border-blue'
+                      : 'bg-secondary text-foreground border-secondary hover:border-blue hover:bg-blue/10'
+                  }`}
+                >
+                  {category} ({count})
+                </button>
+              );
+            })}
+          </div>
+        </div>
 
         {/* Setups Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {setupsData.map((setup) => (
+          {filteredSetups.map((setup) => (
             <Card
               key={setup.id}
               title={setup.name}
@@ -30,6 +71,7 @@ export default function SetupsPage() {
               screenshot={setup.screenshot}
               screenshotAlt="Setup Screenshot"
               device={setup.device}
+              category={setup.category}
               tags={setup.tags}
             />
           ))}

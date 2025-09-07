@@ -6,7 +6,7 @@ export default function OmarchyLogo() {
         OMARCHY
       </h1>
       <p className="text-blue text-lg md:text-xl font-mono">
-        An opinionated Arch + Hyprland Setup
+        An opinionated Linux distribution based on Arch Linux and Hyprland
       </p>
     </div>
   );

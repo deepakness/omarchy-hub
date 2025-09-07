@@ -6,15 +6,17 @@
     "screenshot": "setups/setup-1.jpeg",
     "link": "https://x.com/BramJetten/status/1963854925093351802",
     "device": "Apple Studio Display + Custom PC",
+    "category": "Desktop",
     "tags": ["apple", "minimal", "studio-display"]
   },
   {
     "id": "2",
-    "name": "Framework 13 Omarchy",
+    "name": "Framework 13 running Omarchy",
     "description": "Framework 13 laptop running Omarchy 2.0 with Hyprland and vibrant purple mountain wallpaper.",
     "screenshot": "setups/setup-2.jpeg",
     "link": "https://x.com/ChrisKade57/status/1960061026973421649",
     "device": "Framework 13",
+    "category": "Laptop",
     "tags": ["framework", "laptop", "orange"]
   },
   {
@@ -22,8 +24,39 @@
     "name": "2012 Apple iMac Resurrection",
     "description": "A classic 2012 Apple iMac resurrected with Omarchy, featuring Hyprland, LazyVim, and system monitoring tools.",
     "screenshot": "setups/setup-3.jpeg",
-    "link": "https://x.com/jenseickmeyer/status/1832000000000000000",
+    "link": "https://x.com/jenseickmeyer/status/1964352050113786234",
     "device": "2012 Apple iMac",
+    "category": "Desktop",
     "tags": ["apple", "imac", "vintage"]
+  },
+  {
+    "id": "4",
+    "name": "Beelink SER8 Omarchy Workstation",
+    "description": "A powerful Linux desktop setup running Omarchy and Hyprland on a Beelink SER8 mini PC.",
+    "screenshot": "setups/setup-4.jpeg",
+    "link": "https://x.com/rsstafford/status/1946625692684243202",
+    "device": "Beelink SER8 + Lofree Keyboard",
+    "category": "Desktop",
+    "tags": ["beelink", "mini-pc", "productivity"]
+  },
+  {
+    "id": "5",
+    "name": "ThinkPad X1 Carbon Gen8 Omarchy",
+    "description": "Smooth Omarchy installation on a used ThinkPad X1 Carbon Gen8 - completed in under 10 minutes with clean Linux desktop setup.",
+    "screenshot": "setups/setup-5.jpeg",
+    "link": "https://x.com/mustafaakin/status/1947996374576075000",
+    "device": "Lenovo ThinkPad X1 Carbon Gen8",
+    "category": "Laptop",
+    "tags": ["thinkpad", "x1-carbon"]
+  },
+  {
+    "id": "6",
+    "name": "Coen's Full Linux Transition",
+    "description": "A month-long journey from Arch to Omarchy - built custom idempotent setup scripts and went full Linux.",
+    "screenshot": "setups/setup-6.jpeg",
+    "link": "https://x.com/coendewit/status/1961091631102173527",
+    "device": "LG Monitor + Ergonomic Split Keyboard",
+    "category": "Desktop",
+    "tags": ["apple", "lg"]
   }
 ]
