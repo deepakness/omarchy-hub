@@ -16,6 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Omarchy Hub - Community-driven Arch + Hyprland Setup Collection",
   description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH. Share your configurations and find inspiration from the community.",
+  metadataBase: new URL("https://omarchy.deepakness.com"),
   openGraph: {
     title: "Omarchy Hub - Community-driven Arch + Hyprland Setup Collection",
     description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH. Share your configurations and find inspiration from the community.",

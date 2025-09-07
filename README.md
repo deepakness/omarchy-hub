@@ -2,7 +2,7 @@
 
 A community-driven website for collecting and sharing themes, setups, resources, and links for [Omarchy](https://omarchy.org) - the opinionated Arch + Hyprland setup by DHH.
 
-🌐 **Live Website**: [https://omarchy-hub.deepakness.com](https://omarchy-hub.deepakness.com)  
+🌐 **Live Website**: [https://omarchy.deepakness.com](https://omarchy.deepakness.com)  
 📚 **Repository**: [https://github.com/deepakness/omarchy-hub](https://github.com/deepakness/omarchy-hub)
 
 
