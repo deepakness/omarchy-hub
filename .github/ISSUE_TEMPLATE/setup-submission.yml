@@ -1,0 +1,74 @@
+name: 🖥️ Setup Submission
+description: Submit your Omarchy setup to be featured on the website
+title: "[SETUP] Your Setup Name"
+labels: ["setup", "submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for sharing your Omarchy setup! Please fill out the form below to submit your configuration.
+
+  - type: input
+    id: setup-name
+    attributes:
+      label: Setup Name
+      description: Give your setup a descriptive name
+      placeholder: "e.g., Minimalist Developer Workspace"
+    validations:
+      required: true
+
+  - type: input
+    id: setup-description
+    attributes:
+      label: Setup Description
+      description: Brief one-line description of your setup
+      placeholder: "e.g., Clean minimalist workspace combining Apple's industrial design with Omarchy on a custom PC build."
+    validations:
+      required: true
+
+  - type: input
+    id: device-hardware
+    attributes:
+      label: Device/Hardware
+      description: What hardware are you using?
+      placeholder: "e.g., Apple Studio Display + Custom PC, Framework 13, 2012 Apple iMac"
+    validations:
+      required: true
+
+  - type: input
+    id: social-link
+    attributes:
+      label: Social Media Link
+      description: Link to your post on Twitter, Reddit, or other platform
+      placeholder: "https://x.com/username/status/1234567890"
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags (e.g., apple, minimal, studio-display)
+      placeholder: "apple, minimal, studio-display"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **Screenshot Required**: Please upload a high-quality screenshot (1920x1080 or higher) of your setup directly to this issue. The image will be added to the website.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      description: Please confirm the following
+      options:
+        - label: I have read the contribution guidelines
+          required: true
+        - label: I will upload a high-quality screenshot (1920x1080 or higher)
+          required: true
+        - label: My setup is actually running Omarchy
+          required: true
+        - label: I have permission to share this content
+          required: true

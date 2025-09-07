@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "The Omarchy Manual",
+    "description": "The comprehensive documentation for the users of Omarchy",
+    "category": "Documentation",
+    "link": "https://learn.omacom.io/2/the-omarchy-manual",
+    "author": "DHH",
+    "tags": ["official", "wiki"]
+  },
+  {
+    "id": "2",
+    "name": "Omarchy on a MacBook",
+    "description": "A guide to running the Omarchy 2.0 on a MacBook via UTM VM",
+    "category": "Article",
+    "link": "https://deepakness.com/blog/omarchy-on-mac-via-utm/",
+    "author": "DeepakNess",
+    "tags": ["guide", "mac"]
+  },
+  {
+    "id": "3",
+    "name": "Building Custom PCs with Omarchy",
+    "description": "Building custom SFF PCs with Omarchy, featuring FormD T1 case and Apple Studio Display setup",
+    "category": "Article",
+    "link": "https://bramjetten.dev/articles/its-an-exciting-time-to-build-computers-again",
+    "author": "Bram Jetten",
+    "tags": ["build", "custom-pc", "formd-t1"]
+  },
+  {
+    "id": "4",
+    "name": "macOS to Omarchy Migration",
+    "description": "Switching from macOS to Omarchy after 15 years, with workflow comparisons and ThinkBook hardware review",
+    "category": "Article",
+    "link": "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/",
+    "author": "ssp.sh",
+    "tags": ["macos", "migration", "thinkbook"]
+  },
+  {
+    "id": "5",
+    "name": "Omarchy 2.0 Review",
+    "description": "Review of Omarchy 2.0 release with new ISO installation, AUR-free setup, and growing adoption",
+    "category": "Article",
+    "link": "https://lunduke.substack.com/p/omarchy-20-the-arch-based-hyprland",
+    "author": "Bryan Lunduke",
+    "tags": ["review"]
+  },
+  {
+    "id": "6",
+    "name": "Discussion on Hacker News",
+    "description": "Community discussion about Omarchy on Hacker News with user experiences and technical insights",
+    "category": "Discussion",
+    "link": "https://news.ycombinator.com/item?id=45001434",
+    "author": "Hacker News Community",
+    "tags": ["discussion", "community", "hacker-news"]
+  }
+]

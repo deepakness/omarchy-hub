@@ -1,0 +1,9 @@
+# Global code owners
+* @deepakness
+
+# Data files - require review for content changes
+/data/ @deepakness
+
+# Documentation
+README.md @deepakness
+CONTRIBUTING.md @deepakness

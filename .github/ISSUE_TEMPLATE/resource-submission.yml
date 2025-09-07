@@ -1,0 +1,88 @@
+name: 📚 Resource Submission
+description: Submit a helpful resource (documentation, guide, tutorial) for Omarchy
+title: "[RESOURCE] Your Resource Name"
+labels: ["resource", "submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for sharing a helpful resource! Please fill out the form below to submit your content.
+
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      description: Give your resource a descriptive title
+      placeholder: "e.g., Omarchy Installation Guide, Custom Theme Tutorial"
+    validations:
+      required: true
+
+  - type: input
+    id: resource-description
+    attributes:
+      label: Resource Description
+      description: Brief one-line description of your resource
+      placeholder: "e.g., A comprehensive guide to installing Omarchy on various hardware configurations"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: resource-category
+    attributes:
+      label: Resource Category
+      description: What type of resource is this?
+      options:
+        - "Documentation"
+        - "Article"
+        - "Tutorial"
+        - "Video"
+        - "Discussion"
+        - "Community"
+        - "Tool"
+    validations:
+      required: true
+
+  - type: input
+    id: author-name
+    attributes:
+      label: Author Name
+      description: Your name or the author's name
+      placeholder: "Author Name"
+    validations:
+      required: true
+
+  - type: input
+    id: resource-link
+    attributes:
+      label: Resource URL
+      description: Link to your resource (blog post, documentation, video, etc.)
+      placeholder: "https://your-blog.com/omarchy-guide"
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags (e.g., guide, installation, tutorial, beginner)
+      placeholder: "guide, installation, tutorial, beginner"
+    validations:
+      required: true
+
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      description: Please confirm the following
+      options:
+        - label: I have read the contribution guidelines
+          required: true
+        - label: This resource is directly related to Omarchy
+          required: true
+        - label: The content is accurate and helpful
+          required: true
+        - label: I have permission to share this content
+          required: true
+        - label: The link is working and accessible
+          required: true

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Apple Studio Display Setup",
+    "description": "Clean minimalist workspace combining Apple's industrial design with Omarchy on a custom PC build.",
+    "screenshot": "setups/setup-1.jpeg",
+    "link": "https://x.com/BramJetten/status/1963854925093351802",
+    "device": "Apple Studio Display + Custom PC",
+    "tags": ["apple", "minimal", "studio-display"]
+  },
+  {
+    "id": "2",
+    "name": "Framework 13 Omarchy",
+    "description": "Framework 13 laptop running Omarchy 2.0 with Hyprland and vibrant purple mountain wallpaper.",
+    "screenshot": "setups/setup-2.jpeg",
+    "link": "https://x.com/ChrisKade57/status/1960061026973421649",
+    "device": "Framework 13",
+    "tags": ["framework", "laptop", "orange"]
+  },
+  {
+    "id": "3",
+    "name": "2012 Apple iMac Resurrection",
+    "description": "A classic 2012 Apple iMac resurrected with Omarchy, featuring Hyprland, LazyVim, and system monitoring tools.",
+    "screenshot": "setups/setup-3.jpeg",
+    "link": "https://x.com/jenseickmeyer/status/1832000000000000000",
+    "device": "2012 Apple iMac",
+    "tags": ["apple", "imac", "vintage"]
+  }
+]

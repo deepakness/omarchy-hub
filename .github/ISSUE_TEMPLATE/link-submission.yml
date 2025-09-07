@@ -1,0 +1,46 @@
+name: 🔗 Link Submission
+description: Submit a useful Omarchy-related link to be added to the website
+title: "[LINK] Your Link Name"
+labels: ["link", "submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a useful link! Please fill out the form below to submit your link.
+
+  - type: input
+    id: link-name
+    attributes:
+      label: Link Name
+      description: Give the link a descriptive name
+      placeholder: "e.g., Omarchy Community Forum, Official Documentation"
+    validations:
+      required: true
+
+  - type: input
+    id: link-url
+    attributes:
+      label: Link URL
+      description: The URL you want to submit
+      placeholder: "https://example.com"
+    validations:
+      required: true
+
+
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      description: Please confirm the following
+      options:
+        - label: I have read the contribution guidelines
+          required: true
+        - label: This link is directly related to Omarchy
+          required: true
+        - label: The link is working and accessible
+          required: true
+        - label: The content is appropriate and helpful
+          required: true
+        - label: I have permission to share this link
+          required: true

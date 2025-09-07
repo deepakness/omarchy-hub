@@ -1,0 +1,90 @@
+name: 🐛 General Issue
+description: Report a bug, request a feature, or ask a question
+title: "[ISSUE] Brief description"
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to report an issue or ask a question!
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: What type of issue is this?
+      options:
+        - "Bug Report"
+        - "Feature Request"
+        - "Question"
+        - "Documentation"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a clear and detailed description of the issue or request
+      placeholder: "Describe your issue or request here..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to Reproduce (if applicable)
+      description: If this is a bug, please provide steps to reproduce it
+      placeholder: "1. Go to...\n2. Click on...\n3. See error..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: "I expected..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual Behavior
+      description: What actually happened?
+      placeholder: "Instead, I saw..."
+    validations:
+      required: false
+
+  - type: input
+    id: browser
+    attributes:
+      label: Browser (if applicable)
+      description: What browser are you using?
+      placeholder: "e.g., Chrome 120, Firefox 119, Safari 17"
+    validations:
+      required: false
+
+  - type: input
+    id: device
+    attributes:
+      label: Device (if applicable)
+      description: What device are you using?
+      placeholder: "e.g., Desktop, Mobile, Tablet"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Please confirm the following
+      options:
+        - label: I have searched existing issues to avoid duplicates
+          required: true
+        - label: I have provided all the requested information
+          required: true
+        - label: This issue is related to Omarchy Hub
+          required: true

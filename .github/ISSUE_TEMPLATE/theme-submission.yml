@@ -1,0 +1,80 @@
+name: 🎨 Theme Submission
+description: Submit a custom Omarchy theme to be featured on the website
+title: "[THEME] Your Theme Name"
+labels: ["theme", "submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for creating a custom Omarchy theme! Please fill out the form below to submit your theme.
+
+  - type: input
+    id: theme-name
+    attributes:
+      label: Theme Name
+      description: Give your theme a descriptive name
+      placeholder: "e.g., Tokyo Night, Rose Pine, Custom Dark"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: theme-category
+    attributes:
+      label: Theme Category
+      description: What type of theme is this?
+      options:
+        - "Dark Theme"
+        - "Light Theme"
+        - "High Contrast"
+        - "Colorful"
+        - "Minimal"
+    validations:
+      required: true
+
+
+  - type: input
+    id: author-name
+    attributes:
+      label: Author Name
+      description: Your name or GitHub username
+      placeholder: "Your Name or @username"
+    validations:
+      required: true
+
+  - type: input
+    id: theme-link
+    attributes:
+      label: Theme Repository/Download Link
+      description: Link to your theme files (GitHub repo, download, etc.)
+      placeholder: "https://github.com/username/omarchy-theme"
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags (e.g., official, popular, pastel, custom)
+      placeholder: "custom, dark, purple, minimal"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **Screenshot Required**: Please provide a high-quality screenshot showing your theme in action. You can upload it directly to this issue or provide a link to where it's hosted.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      description: Please confirm the following
+      options:
+        - label: I have read the contribution guidelines
+          required: true
+        - label: My theme is compatible with Omarchy
+          required: true
+        - label: My screenshot shows the theme in action
+          required: true
+        - label: I have permission to share this content
+          required: true

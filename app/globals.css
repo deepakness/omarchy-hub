@@ -1,0 +1,89 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --background: #1a1a2e;
+  --foreground: #eee;
+  --primary: #16213e;
+  --secondary: #0f3460;
+  --accent: #e94560;
+  --green: #9ece6a;
+  --blue: #7aa2f7;
+  --blue-hover: #7dcfff;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+  --color-green: var(--green);
+  --color-blue: var(--blue);
+  --color-blue-hover: var(--blue-hover);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+}
+
+/* Modern rounded button */
+.pixel-button {
+  background: var(--blue);
+  color: #1a1a2e;
+  border: none;
+  padding: 12px 24px;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 12px;
+  position: relative;
+  top: 0;
+}
+
+.pixel-button:hover {
+  background: var(--blue-hover);
+  color: #1a1a2e;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.pixel-button:active {
+  color: #1a1a2e;
+  transform: translateY(0px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Modern rounded card style */
+.pixel-card {
+  background: var(--primary);
+  border: 2px solid var(--secondary);
+  border-radius: 16px;
+  transition: all 0.3s ease;
+  padding: 20px;
+}
+
+/* Remove default padding for cards with screenshots */
+.pixel-card.overflow-hidden {
+  padding: 0;
+  overflow: hidden;
+}
+
+.pixel-card:hover {
+  border-color: var(--blue);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
