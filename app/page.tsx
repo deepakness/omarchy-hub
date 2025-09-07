@@ -12,7 +12,7 @@ import linksData from '../data/links.json';
 
 export default function Home() {
   const featuredThemes = themesData.slice(0, 3);
-  const featuredSetups = setupsData.slice(0, 2);
+  const featuredSetups = setupsData.slice(0, 3);
   const featuredResources = resourcesData.slice(0, 6);
 
   return (
@@ -60,7 +60,7 @@ export default function Home() {
           <p className="text-foreground/80 mb-8">
             Inspiring workstation configurations and hardware setups from the Omarchy community.
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {featuredSetups.map((setup) => (
               <Card
                 key={setup.id}
