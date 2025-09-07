@@ -14,18 +14,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Omarchy Hub - Community-driven Arch + Hyprland Setup Collection",
-  description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH. Share your configurations and find inspiration from the community.",
+  title: "Omarchy Hub - Resource Library for Omarchy Linux",
+  description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH.",
   metadataBase: new URL("https://omarchy.deepakness.com"),
   openGraph: {
-    title: "Omarchy Hub - Community-driven Arch + Hyprland Setup Collection",
-    description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH. Share your configurations and find inspiration from the community.",
+    title: "Omarchy Hub - Resource Library for Omarchy Linux",
+    description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH.",
     images: [
       {
         url: "/omarchy-og.png",
         width: 1200,
         height: 630,
-        alt: "Omarchy Hub - Community-driven Arch + Hyprland Setup Collection",
+        alt: "Omarchy Hub - Resource Library for Omarchy Linux",
       },
     ],
     type: "website",
@@ -33,8 +33,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Omarchy Hub - Community-driven Arch + Hyprland Setup Collection",
-    description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH. Share your configurations and find inspiration from the community.",
+    title: "Omarchy Hub - Resource Library for Omarchy Linux",
+    description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH.",
     images: ["/omarchy-og.png"],
   },
   icons: {
