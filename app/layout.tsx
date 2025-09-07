@@ -15,11 +15,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Omarchy Hub - Resource Library for Omarchy Linux",
-  description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH.",
+  description: "Discover tools, themes, setups, and resources for Omarchy Linux - the opinionated Arch + Hyprland setup.",
   metadataBase: new URL("https://omarchy.deepakness.com"),
   openGraph: {
     title: "Omarchy Hub - Resource Library for Omarchy Linux",
-    description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH.",
+    description: "Discover tools, themes, setups, and resources for Omarchy Linux - the opinionated Arch + Hyprland setup.",
     images: [
       {
         url: "/omarchy-og.png",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Omarchy Hub - Resource Library for Omarchy Linux",
-    description: "Discover tools, themes, setups, and resources for Omarchy - the opinionated Arch + Hyprland setup by DHH.",
+    description: "Discover tools, themes, setups, and resources for Omarchy Linux - the opinionated Arch + Hyprland setup.",
     images: ["/omarchy-og.png"],
   },
   icons: {
