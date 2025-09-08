@@ -8,9 +8,11 @@ export default function SetupsPage() {
   const categories = [...new Set(setupsData.map(setup => setup.category))].sort();
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   
+  // Show newest first across all views
+  const sortedSetups = [...setupsData].sort((a, b) => Number(b.id) - Number(a.id));
   const filteredSetups = selectedCategory 
-    ? setupsData.filter(setup => setup.category === selectedCategory)
-    : setupsData;
+    ? sortedSetups.filter(setup => setup.category === selectedCategory)
+    : sortedSetups;
 
   return (
     <div className="min-h-screen bg-background">

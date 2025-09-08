@@ -12,7 +12,9 @@ import linksData from '../data/links.json';
 
 export default function Home() {
   const featuredThemes = themesData.slice(0, 3);
-  const featuredSetups = setupsData.slice(0, 3);
+  const featuredSetups = [...setupsData]
+    .sort((a, b) => Number(b.id) - Number(a.id))
+    .slice(0, 3);
   const featuredResources = resourcesData.slice(0, 6);
 
   return (

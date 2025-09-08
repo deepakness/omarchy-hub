@@ -58,5 +58,15 @@
     "device": "LG Monitor + Ergonomic Split Keyboard",
     "category": "Desktop",
     "tags": ["apple", "lg"]
+  },
+  {
+    "id": "7",
+    "name": "ThinkPad Yoga 370 + Omarchy",
+    "description": "Installed and tested Omarchy on an older ThinkPad with 7th‑gen i7 — runs fast and smooth compared to an M3 Max Mac.",
+    "screenshot": "setups/setup-7.jpeg",
+    "link": "https://x.com/didier_paolini/status/1964719691165004194",
+    "device": "Lenovo ThinkPad Yoga 370 (7th‑gen i7)",
+    "category": "Laptop",
+    "tags": ["thinkpad", "yoga", "i7-7thgen"]
   }
 ]
