@@ -88,5 +88,15 @@
     "device": "Framework 13 + Samsung 49\" G9",
     "category": "Desktop",
     "tags": ["framework", "ultrawide"]
+  },
+  {
+    "id": "10",
+    "name": "Framework 13 Big Data Workstation",
+    "description": "Framework 13 ultrabook running terabyte-sized workloads with DuckDB",
+    "screenshot": "setups/setup-10.jpeg",
+    "link": "https://x.com/duckdb/status/1965132696251998603",
+    "device": "Framework 13 (AMD Ryzen AI 9 HX 370)",
+    "category": "Laptop",
+    "tags": ["framework", "duckdb", "big-data", "ryzen"]
   }
 ]

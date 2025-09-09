@@ -63,6 +63,17 @@ export default function RootLayout({
         <footer className="bg-primary border-t border-secondary py-8 mt-16">
           <div className="container mx-auto px-4 text-center">
             <div className="flex flex-col items-center gap-4">
+              <p className="text-foreground/50 text-sm font-mono">
+                This is an independent community resource and is not officially affiliated with{' '}
+                <a 
+                  href="https://omarchy.org" 
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-foreground/70 hover:text-blue transition-colors"
+                >
+                  omarchy.org
+                </a>
+              </p>
               <p className="text-foreground/60 font-mono">
                 Created by{' '}
                 <a 
