@@ -22,7 +22,7 @@
   {
     "id": "3",
     "name": "2012 Apple iMac Resurrection",
-    "description": "A classic 2012 Apple iMac resurrected with Omarchy, featuring Hyprland, LazyVim, and system monitoring tools.",
+    "description": "A classic 2012 Apple iMac resurrected with Omarchy, featuring Hyprland, LazyVim, and more tools.",
     "screenshot": "setups/setup-3.jpeg",
     "link": "https://x.com/jenseickmeyer/status/1964352050113786234",
     "device": "2012 Apple iMac",
@@ -42,7 +42,7 @@
   {
     "id": "5",
     "name": "ThinkPad X1 Carbon Gen8 Omarchy",
-    "description": "Smooth Omarchy installation on a used ThinkPad X1 Carbon Gen8 - completed in under 10 minutes with clean Linux desktop setup.",
+    "description": "Smooth Omarchy installation on a used ThinkPad X1 Carbon Gen8 - completed in under 10 minutes.",
     "screenshot": "setups/setup-5.jpeg",
     "link": "https://x.com/mustafaakin/status/1947996374576075000",
     "device": "Lenovo ThinkPad X1 Carbon Gen8",
@@ -62,7 +62,7 @@
   {
     "id": "7",
     "name": "ThinkPad Yoga 370 + Omarchy",
-    "description": "Installed and tested Omarchy on an older ThinkPad with 7th‑gen i7 — runs fast and smooth compared to an M3 Max Mac.",
+    "description": "Omarchy on an older ThinkPad with 7th‑gen i7 — runs fast and smooth compared to an M3 Max Mac.",
     "screenshot": "setups/setup-7.jpeg",
     "link": "https://x.com/didier_paolini/status/1964719691165004194",
     "device": "Lenovo ThinkPad Yoga 370 (7th‑gen i7)",
@@ -72,7 +72,7 @@
   {
     "id": "8",
     "name": "Sam's Beelink + Omarchy Setup",
-    "description": "Loving the Beelink + Omarchy setup with The Great Wave off Kanagawa wallpaper and clean desktop environment.",
+    "description": "Loving the Beelink + Omarchy setup with The Great Wave off Kanagawa wallpaper.",
     "screenshot": "setups/setup-8.jpeg",
     "link": "https://x.com/roehrich_sam/status/1965206880176992302",
     "device": "Beelink Mini PC + Monitor",
@@ -81,7 +81,7 @@
   },
   {
     "id": "9",
-    "name": "Framework13 + Samsung G9 Ultrawide Setup",
+    "name": "Framework13 + Samsung G9 Ultrawide",
     "description": "Framework13 laptop paired with Samsung 49inch G9 ultrawide monitor running Omarchy from RailsWorld.",
     "screenshot": "setups/setup-9.jpeg",
     "link": "https://x.com/LiamBateman1/status/1965390602499227927",
