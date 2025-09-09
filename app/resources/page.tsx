@@ -23,7 +23,7 @@ export default function ResourcesPage() {
           ]} />
           <h1 className="text-4xl font-bold text-green font-mono mb-4">Resources</h1>
           <p className="text-foreground/80 text-lg">
-            Helpful documentation, communities, and learning resources shared by the community. Find guides, tutorials, and tools to enhance your Omarchy experience.
+            Helpful documentation, communities, and learning resources shared by the community. Find guides, tutorials, tools, and more.
           </p>
         </div>
 
