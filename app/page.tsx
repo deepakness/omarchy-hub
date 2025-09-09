@@ -26,29 +26,29 @@ export default function Home() {
               <div className="w-3 h-3 rounded-full bg-accent"></div>
               <div className="w-3 h-3 rounded-full bg-yellow-500"></div>
               <div className="w-3 h-3 rounded-full bg-green"></div>
-              <span className="text-foreground/60 font-mono text-sm ml-2">~/omarchy-hub</span>
+              <span className="text-foreground/60 font-mono text-base ml-2">~/omarchy-hub</span>
             </div>
             <div className="font-mono text-sm">
-              <div className="text-green mb-2">$ cat README.md</div>
+              <div className="text-base text-green mb-2">$ cat README.md</div>
               <div className="text-foreground/80 mb-6">
                 <div className="mb-3">
-                  <div className="text-base">Community resource website for Omarchy Linux: an opinionated Arch + Hyprland setup by DHH</div>
+                  <div className="text-base">A community resource website for Omarchy Linux: an opinionated Arch + Hyprland setup by DHH</div>
                 </div>
               </div>
               
-              <div className="text-green mb-2">$ ls -la</div>
+              <div className="text-base text-green mb-2">$ ls -la</div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-foreground/80">
                 <div className="flex items-center gap-2">
-                  <Monitor size={16} className="text-blue" />
-                  <span>{setupsData.length} setups/</span>
+                  <Monitor size={18} className="text-blue" />
+                  <span className="text-base">{setupsData.length} setups/</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <Palette size={16} className="text-blue" />
-                  <span>{themesData.length} themes/</span>
+                  <Palette size={18} className="text-blue" />
+                  <span className="text-base">{themesData.length} themes/</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <BookOpen size={16} className="text-blue" />
-                  <span>{resourcesData.length} resources/</span>
+                  <BookOpen size={18} className="text-blue" />
+                  <span className="text-base">{resourcesData.length} resources/</span>
                 </div>
               </div>
             </div>
@@ -56,27 +56,33 @@ export default function Home() {
 
           {/* Action Cards - Main CTAs */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
-            <a href="#setups" className="pixel-card hover:border-green hover:bg-green/5 transition-all group transform hover:scale-105 border-blue/50">
-              <div className="text-center py-3">
-                <Monitor size={28} className="mx-auto mb-2 text-blue group-hover:text-green transition-colors" />
-                <h3 className="font-mono font-bold text-green mb-1">Browse Setups ({setupsData.length})</h3>
-                <p className="text-foreground/70 text-xs">Hardware configs & workstations</p>
+            <a href="#setups" className="pixel-card">
+              <div className="flex items-center gap-4 py-2 md:flex-col md:text-center md:gap-0 md:py-3">
+                <Monitor size={24} className="text-blue md:mx-auto md:mb-2 flex-shrink-0" />
+                <div className="md:w-full">
+                  <h3 className="font-mono font-bold text-green text-lg md:text-base md:mb-1">Browse Setups ({setupsData.length})</h3>
+                  <p className="text-foreground/70 text-sm hidden md:block">Hardware configs & workstations</p>
+                </div>
               </div>
             </a>
             
-            <a href="#themes" className="pixel-card hover:border-green hover:bg-green/5 transition-all group transform hover:scale-105 border-blue/50">
-              <div className="text-center py-3">
-                <Palette size={28} className="mx-auto mb-2 text-blue group-hover:text-green transition-colors" />
-                <h3 className="font-mono font-bold text-green mb-1">Discover Themes ({themesData.length})</h3>
-                <p className="text-foreground/70 text-xs">Color schemes & visual styles</p>
+            <a href="#themes" className="pixel-card">
+              <div className="flex items-center gap-4 py-2 md:flex-col md:text-center md:gap-0 md:py-3">
+                <Palette size={24} className="text-blue md:mx-auto md:mb-2 flex-shrink-0" />
+                <div className="md:w-full">
+                  <h3 className="font-mono font-bold text-green text-lg md:text-base md:mb-1">Discover Themes ({themesData.length})</h3>
+                  <p className="text-foreground/70 text-sm hidden md:block">Color schemes & visual styles</p>
+                </div>
               </div>
             </a>
             
-            <a href="#resources" className="pixel-card hover:border-green hover:bg-green/5 transition-all group transform hover:scale-105 border-blue/50">
-              <div className="text-center py-3">
-                <BookOpen size={28} className="mx-auto mb-2 text-blue group-hover:text-green transition-colors" />
-                <h3 className="font-mono font-bold text-green mb-1">Find Resources ({resourcesData.length})</h3>
-                <p className="text-foreground/70 text-xs">Guides, docs & tutorials</p>
+            <a href="#resources" className="pixel-card">
+              <div className="flex items-center gap-4 py-2 md:flex-col md:text-center md:gap-0 md:py-3">
+                <BookOpen size={24} className="text-blue md:mx-auto md:mb-2 flex-shrink-0" />
+                <div className="md:w-full">
+                  <h3 className="font-mono font-bold text-green text-lg md:text-base md:mb-1">Find Resources ({resourcesData.length})</h3>
+                  <p className="text-foreground/70 text-sm hidden md:block">Guides, docs & tutorials</p>
+                </div>
               </div>
             </a>
           </div>
@@ -84,14 +90,14 @@ export default function Home() {
           {/* Quick Links - Secondary */}
           <div className="flex flex-wrap justify-center gap-3 opacity-75">
             <a href="https://omarchy.org/" target="_blank" rel="noopener noreferrer" 
-               className="text-foreground/60 hover:text-blue transition-colors font-mono text-sm flex items-center gap-2">
-              <Globe size={14} />
-              Official Site
+               className="text-foreground/60 hover:text-blue transition-colors font-mono text-base flex items-center gap-2">
+              <Globe size={18} />
+              Official Website
             </a>
             <span className="text-foreground/40">•</span>
             <a href="https://github.com/deepakness/omarchy-hub" target="_blank" rel="noopener noreferrer"
-               className="text-foreground/60 hover:text-blue transition-colors font-mono text-sm flex items-center gap-2">
-              <Github size={14} />
+               className="text-foreground/60 hover:text-blue transition-colors font-mono text-base flex items-center gap-2">
+              <Github size={18} />
               Contribute
             </a>
           </div>
@@ -102,8 +108,11 @@ export default function Home() {
       <div className="container mx-auto px-4 py-8">
         {/* Setups Section */}
         <section id="setups" className="mb-16">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-3xl font-bold text-green font-mono">Featured Setups</h2>
+          <div className="flex items-center justify-between mb-6">
+            <div>
+              <h2 className="text-2xl font-bold text-green font-mono mb-1">Featured Setups</h2>
+              <div className="w-12 h-1 bg-green rounded-full"></div>
+            </div>
             <NavButton href="/setups">
               View All
             </NavButton>
@@ -130,8 +139,11 @@ export default function Home() {
 
         {/* Themes Section */}
         <section id="themes" className="mb-16">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-3xl font-bold text-green font-mono">Featured Themes</h2>
+          <div className="flex items-center justify-between mb-6">
+            <div>
+              <h2 className="text-2xl font-bold text-green font-mono mb-1">Featured Themes</h2>
+              <div className="w-12 h-1 bg-green rounded-full"></div>
+            </div>
             <NavButton href="/themes">
               View All
             </NavButton>
@@ -157,8 +169,11 @@ export default function Home() {
 
         {/* Resources Section */}
         <section id="resources" className="mb-16">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-3xl font-bold text-green font-mono">Featured Resources</h2>
+          <div className="flex items-center justify-between mb-6">
+            <div>
+              <h2 className="text-2xl font-bold text-green font-mono mb-1">Featured Resources</h2>
+              <div className="w-12 h-1 bg-green rounded-full"></div>
+            </div>
             <NavButton href="/resources">
               View All
             </NavButton>
@@ -183,12 +198,15 @@ export default function Home() {
 
         {/* Links Section */}
         <section id="links" className="mb-16">
-          <div className="mb-8">
-            <h2 className="text-3xl font-bold text-green font-mono">Useful Links</h2>
-            <p className="text-foreground/80 mt-2">
-              Quick access to official Omarchy resources and related projects.
-            </p>
+          <div className="mb-6">
+            <div>
+              <h2 className="text-2xl font-bold text-green font-mono mb-1">Useful Links</h2>
+              <div className="w-12 h-1 bg-green rounded-full"></div>
+            </div>
           </div>
+          <p className="text-foreground/80 mb-8">
+            Quick access to official Omarchy resources and related projects.
+          </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {linksData.map((link, index) => (
               <a
@@ -209,61 +227,66 @@ export default function Home() {
 
         {/* Contribution Section */}
         <section className="mb-16">
-          <div className="pixel-card max-w-4xl mx-auto text-center">
-            <h2 className="text-3xl font-bold text-green font-mono mb-4">Contribute to Omarchy Hub</h2>
-            <p className="text-foreground/80 mb-6">
-              Help grow the Omarchy community by sharing your setups, themes, and resources. 
-              Your contributions help others discover new ways to customize and use Omarchy.
-            </p>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-              <a 
-                href="https://github.com/deepakness/omarchy-hub/issues/new?template=setup-submission.yml"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="pixel-button text-center"
-              >
-                <Monitor size={20} className="mx-auto mb-2" />
-                Share Setup
-              </a>
-              <a 
-                href="https://github.com/deepakness/omarchy-hub/issues/new?template=theme-submission.yml"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="pixel-button text-center"
-              >
-                <Palette size={20} className="mx-auto mb-2" />
-                Submit Theme
-              </a>
-              <a 
-                href="https://github.com/deepakness/omarchy-hub/issues/new?template=resource-submission.yml"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="pixel-button text-center"
-              >
-                <BookOpen size={20} className="mx-auto mb-2" />
-                Add Resource
-              </a>
-              <a 
-                href="https://github.com/deepakness/omarchy-hub/issues/new?template=link-submission.yml"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="pixel-button text-center"
-              >
-                <Globe size={20} className="mx-auto mb-2" />
-                Suggest Link
-              </a>
+          <div className="mb-6">
+            <div>
+              <h2 className="text-2xl font-bold text-green font-mono mb-1">Contribute to Omarchy Hub</h2>
+              <div className="w-12 h-1 bg-green rounded-full"></div>
             </div>
-            <p className="text-foreground/60 text-sm mt-4">
-              <a 
-                href="https://github.com/deepakness/omarchy-hub/blob/main/CONTRIBUTING.md"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue hover:text-blue-hover transition-colors underline"
-              >
-                Read our contribution guidelines
-              </a>
-            </p>
           </div>
+          <p className="text-foreground/80 mb-8 max-w-3xl">
+            Help grow the Omarchy community by sharing your setups, themes, and resources. 
+            Your contributions help others discover new ways to customize and use Omarchy.
+          </p>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
+            <a 
+              href="https://github.com/deepakness/omarchy-hub/issues/new?template=setup-submission.yml"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="pixel-card flex items-center gap-3"
+            >
+              <Monitor size={18} className="text-blue flex-shrink-0" />
+              <span className="font-mono text-sm text-foreground">Share Setup</span>
+            </a>
+            <a 
+              href="https://github.com/deepakness/omarchy-hub/issues/new?template=theme-submission.yml"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="pixel-card flex items-center gap-3"
+            >
+              <Palette size={18} className="text-blue flex-shrink-0" />
+              <span className="font-mono text-sm text-foreground">Submit Theme</span>
+            </a>
+            <a 
+              href="https://github.com/deepakness/omarchy-hub/issues/new?template=resource-submission.yml"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="pixel-card flex items-center gap-3"
+            >
+              <BookOpen size={18} className="text-blue flex-shrink-0" />
+              <span className="font-mono text-sm text-foreground">Add Resource</span>
+            </a>
+            <a 
+              href="https://github.com/deepakness/omarchy-hub/issues/new?template=link-submission.yml"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="pixel-card flex items-center gap-3"
+            >
+              <Globe size={18} className="text-blue flex-shrink-0" />
+              <span className="font-mono text-sm text-foreground">Suggest Link</span>
+            </a>
+          </div>
+          
+          <p className="text-foreground/60 text-sm">
+            <a 
+              href="https://github.com/deepakness/omarchy-hub/blob/main/CONTRIBUTING.md"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue hover:text-blue-hover transition-colors underline font-mono"
+            >
+              Read our contribution guidelines
+            </a>
+          </p>
         </section>
       </div>
 
