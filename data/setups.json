@@ -78,5 +78,15 @@
     "device": "Beelink Mini PC + Monitor",
     "category": "Desktop",
     "tags": ["beelink", "mini-pc"]
+  },
+  {
+    "id": "9",
+    "name": "Framework13 + Samsung G9 Ultrawide Setup",
+    "description": "Framework13 laptop paired with Samsung 49inch G9 ultrawide monitor running Omarchy from RailsWorld.",
+    "screenshot": "setups/setup-9.jpeg",
+    "link": "https://x.com/LiamBateman1/status/1965390602499227927",
+    "device": "Framework 13 + Samsung 49\" G9",
+    "category": "Desktop",
+    "tags": ["framework", "ultrawide"]
   }
 ]
