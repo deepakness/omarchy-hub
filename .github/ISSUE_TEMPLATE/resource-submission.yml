@@ -26,19 +26,12 @@ body:
     validations:
       required: true
 
-  - type: dropdown
+  - type: input
     id: resource-category
     attributes:
       label: Resource Category
       description: What type of resource is this?
-      options:
-        - "Documentation"
-        - "Article"
-        - "Tutorial"
-        - "Video"
-        - "Discussion"
-        - "Community"
-        - "Tool"
+      placeholder: "e.g., Documentation, Article, Tutorial, Video, Discussion, Community, Tool"
     validations:
       required: true
 

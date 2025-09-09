@@ -8,17 +8,12 @@ body:
       value: |
         Thank you for taking the time to report an issue or ask a question!
 
-  - type: dropdown
+  - type: input
     id: issue-type
     attributes:
       label: Issue Type
       description: What type of issue is this?
-      options:
-        - "Bug Report"
-        - "Feature Request"
-        - "Question"
-        - "Documentation"
-        - "Other"
+      placeholder: "e.g., Bug Report, Feature Request, Question, Documentation, Other"
     validations:
       required: true
 

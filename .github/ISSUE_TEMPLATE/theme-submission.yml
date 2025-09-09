@@ -17,17 +17,12 @@ body:
     validations:
       required: true
 
-  - type: dropdown
+  - type: input
     id: theme-category
     attributes:
       label: Theme Category
       description: What type of theme is this?
-      options:
-        - "Dark Theme"
-        - "Light Theme"
-        - "High Contrast"
-        - "Colorful"
-        - "Minimal"
+      placeholder: "e.g., Dark Theme, Light Theme, High Contrast, Colorful, Minimal"
     validations:
       required: true
 
@@ -59,10 +54,19 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: screenshot-url
+    attributes:
+      label: Screenshot URL (Optional)
+      description: External URL to a high-quality screenshot showing your theme in action
+      placeholder: "https://example.com/theme-screenshot.jpg"
+    validations:
+      required: false
+
   - type: markdown
     attributes:
       value: |
-        **Screenshot Required**: Please provide a high-quality screenshot showing your theme in action. You can upload it directly to this issue or provide a link to where it's hosted.
+        **Screenshot**: You can either upload a screenshot directly to this issue or provide an external URL above. Please provide a high-quality screenshot showing your theme in action.
 
   - type: checkboxes
     id: checklist
@@ -74,7 +78,7 @@ body:
           required: true
         - label: My theme is compatible with Omarchy
           required: true
-        - label: My screenshot shows the theme in action
+        - label: I will provide a screenshot showing the theme in action (either by upload or URL)
           required: true
         - label: I have permission to share this content
           required: true
