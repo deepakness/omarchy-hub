@@ -60,6 +60,32 @@ export default function RootLayout({
       >
         <Header />
         {children}
+        <footer className="bg-primary border-t border-secondary py-8 mt-16">
+          <div className="container mx-auto px-4 text-center">
+            <div className="flex flex-col items-center gap-4">
+              <p className="text-foreground/60 font-mono">
+                Created by{' '}
+                <a 
+                  href="https://deepakness.com" 
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue hover:text-blue-hover transition-colors"
+                >
+                  DeepakNess
+                </a>
+              </p>
+              <a
+                href="https://github.com/deepakness/omarchy-hub"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-foreground/60 hover:text-blue transition-colors font-mono"
+              >
+                {/* Using text instead of icon to avoid extra imports here */}
+                View on GitHub
+              </a>
+            </div>
+          </div>
+        </footer>
       </body>
     </html>
   );
