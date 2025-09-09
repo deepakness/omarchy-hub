@@ -81,9 +81,16 @@ body {
   overflow: hidden;
 }
 
-.pixel-card:hover {
+/* Only clickable cards (links) should have hover effects */
+a.pixel-card:hover {
   border-color: var(--blue);
   transform: translateY(-2px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+/* Non-clickable cards (divs) should not have hover effects */
+div.pixel-card {
+  cursor: default;
 }
 

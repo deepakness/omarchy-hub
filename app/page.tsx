@@ -1,5 +1,3 @@
-import OmarchyLogo from '../components/OmarchyLogo';
-import PixelButton from '../components/PixelButton';
 import Card from '../components/Card';
 import NavButton from '../components/NavButton';
 import { Globe, Palette, Monitor, BookOpen, Github } from 'lucide-react';
@@ -20,33 +18,84 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-background">
       {/* Hero Section */}
-      <section className="container mx-auto px-4 py-16 text-center">
-        <OmarchyLogo />
-        
-        {/* Navigation Buttons */}
-        <div className="flex flex-wrap justify-center gap-4 mb-16">
-          <PixelButton href="https://omarchy.org/" external>
-            <Globe size={20} />
-            Official Website
-          </PixelButton>
-          <PixelButton href="#setups">
-            <Monitor size={20} />
-            Setups
-          </PixelButton>
-          <PixelButton href="#themes">
-            <Palette size={20} />
-            Themes
-          </PixelButton>
-          <PixelButton href="#resources">
-            <BookOpen size={20} />
-            Resources
-          </PixelButton>
-        </div>
+      <section className="container mx-auto px-4 py-16">
+        {/* Terminal-style header */}
+        <div className="max-w-4xl mx-auto">
+          <div className="pixel-card mb-8 bg-secondary border-green/20">
+            <div className="flex items-center gap-2 mb-4 pb-4 border-b border-green/20">
+              <div className="w-3 h-3 rounded-full bg-accent"></div>
+              <div className="w-3 h-3 rounded-full bg-yellow-500"></div>
+              <div className="w-3 h-3 rounded-full bg-green"></div>
+              <span className="text-foreground/60 font-mono text-sm ml-2">~/omarchy-hub</span>
+            </div>
+            <div className="font-mono text-sm">
+              <div className="text-green mb-2">$ cat README.md</div>
+              <div className="text-foreground/80 mb-6">
+                <div className="mb-3">
+                  <div className="text-base">Community resource website for Omarchy Linux: an opinionated Arch + Hyprland setup by DHH</div>
+                </div>
+              </div>
+              
+              <div className="text-green mb-2">$ ls -la</div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-foreground/80">
+                <div className="flex items-center gap-2">
+                  <Monitor size={16} className="text-blue" />
+                  <span>{setupsData.length} setups/</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <Palette size={16} className="text-blue" />
+                  <span>{themesData.length} themes/</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <BookOpen size={16} className="text-blue" />
+                  <span>{resourcesData.length} resources/</span>
+                </div>
+              </div>
+            </div>
+          </div>
 
-        <p className="text-lg text-foreground/80 max-w-2xl mx-auto mb-12 leading-relaxed">
-          Welcome to the community-driven collection of themes, setups, and resources for Omarchy. 
-          Share your configurations, discover new themes, and get inspired by fellow users.
-        </p>
+          {/* Action Cards - Main CTAs */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+            <a href="#setups" className="pixel-card hover:border-green hover:bg-green/5 transition-all group transform hover:scale-105 border-blue/50">
+              <div className="text-center py-3">
+                <Monitor size={28} className="mx-auto mb-2 text-blue group-hover:text-green transition-colors" />
+                <h3 className="font-mono font-bold text-green mb-1">Browse Setups ({setupsData.length})</h3>
+                <p className="text-foreground/70 text-xs">Hardware configs & workstations</p>
+              </div>
+            </a>
+            
+            <a href="#themes" className="pixel-card hover:border-green hover:bg-green/5 transition-all group transform hover:scale-105 border-blue/50">
+              <div className="text-center py-3">
+                <Palette size={28} className="mx-auto mb-2 text-blue group-hover:text-green transition-colors" />
+                <h3 className="font-mono font-bold text-green mb-1">Discover Themes ({themesData.length})</h3>
+                <p className="text-foreground/70 text-xs">Color schemes & visual styles</p>
+              </div>
+            </a>
+            
+            <a href="#resources" className="pixel-card hover:border-green hover:bg-green/5 transition-all group transform hover:scale-105 border-blue/50">
+              <div className="text-center py-3">
+                <BookOpen size={28} className="mx-auto mb-2 text-blue group-hover:text-green transition-colors" />
+                <h3 className="font-mono font-bold text-green mb-1">Find Resources ({resourcesData.length})</h3>
+                <p className="text-foreground/70 text-xs">Guides, docs & tutorials</p>
+              </div>
+            </a>
+          </div>
+
+          {/* Quick Links - Secondary */}
+          <div className="flex flex-wrap justify-center gap-3 opacity-75">
+            <a href="https://omarchy.org/" target="_blank" rel="noopener noreferrer" 
+               className="text-foreground/60 hover:text-blue transition-colors font-mono text-sm flex items-center gap-2">
+              <Globe size={14} />
+              Official Site
+            </a>
+            <span className="text-foreground/40">•</span>
+            <a href="https://github.com/deepakness/omarchy-hub" target="_blank" rel="noopener noreferrer"
+               className="text-foreground/60 hover:text-blue transition-colors font-mono text-sm flex items-center gap-2">
+              <Github size={14} />
+              Contribute
+            </a>
+          </div>
+        </div>
       </section>
 
       {/* Featured Sections */}
@@ -147,7 +196,7 @@ export default function Home() {
                 href={link.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="pixel-card block hover:border-blue transition-colors"
+                className="pixel-card block"
               >
                 <div className="flex items-center justify-between">
                   <span className="text-foreground font-mono">{link.name}</span>
