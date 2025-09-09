@@ -40,7 +40,7 @@ export default function Card({
       {/* Screenshot at the top - full width, no padding */}
       {screenshot && (
         <div className={`w-full bg-secondary/50 border-b border-secondary relative overflow-hidden ${
-          screenshotAlt?.includes('Setup') ? 'aspect-[4/3]' : 'h-48'
+          screenshotAlt?.includes('Setup') ? 'aspect-[5/4]' : 'h-48'
         }`}>
           <Image
             src={screenshot.startsWith('http') ? screenshot : `/${screenshot}`}
