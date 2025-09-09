@@ -68,5 +68,15 @@
     "device": "Lenovo ThinkPad Yoga 370 (7th‑gen i7)",
     "category": "Laptop",
     "tags": ["thinkpad"]
+  },
+  {
+    "id": "8",
+    "name": "Sam's Beelink + Omarchy Setup",
+    "description": "Loving the Beelink + Omarchy setup with The Great Wave off Kanagawa wallpaper and clean desktop environment.",
+    "screenshot": "setups/setup-8.jpeg",
+    "link": "https://x.com/roehrich_sam/status/1965206880176992302",
+    "device": "Beelink Mini PC + Monitor",
+    "category": "Desktop",
+    "tags": ["beelink", "hokusai", "minimal"]
   }
 ]
