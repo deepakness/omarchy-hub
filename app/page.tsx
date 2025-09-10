@@ -1,7 +1,7 @@
 import Card from '../components/Card';
 import NavButton from '../components/NavButton';
 import ReleaseCard from '../components/ReleaseCard';
-import { Globe, Palette, Monitor, BookOpen, Github, Download } from 'lucide-react';
+import { Globe, Palette, Monitor, BookOpen, Github, Download, Tag } from 'lucide-react';
 
 // Import data
 import themesData from '../data/themes.json';
@@ -17,6 +17,7 @@ export default function Home() {
     .slice(0, 3);
   const featuredResources = resourcesData.slice(0, 6);
   const featuredReleases = releasesData.slice(0, 3);
+  const latestRelease = releasesData.find(release => release.isLatest) || releasesData[0];
 
   return (
     <div className="min-h-screen bg-background">
@@ -98,6 +99,16 @@ export default function Home() {
               Official Website
             </a>
             <span className="text-foreground/40">•</span>
+            {latestRelease && (
+              <>
+                <a href={latestRelease.url} target="_blank" rel="noopener noreferrer"
+                   className="text-foreground/60 hover:text-blue transition-colors font-mono text-base flex items-center gap-2">
+                  <Tag size={18} />
+                  Latest Release
+                </a>
+                <span className="text-foreground/40">•</span>
+              </>
+            )}
             <a href="https://github.com/deepakness/omarchy-hub" target="_blank" rel="noopener noreferrer"
                className="text-foreground/60 hover:text-blue transition-colors font-mono text-base flex items-center gap-2">
               <Github size={18} />
