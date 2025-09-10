@@ -1,12 +1,14 @@
 import Card from '../components/Card';
 import NavButton from '../components/NavButton';
-import { Globe, Palette, Monitor, BookOpen, Github } from 'lucide-react';
+import ReleaseCard from '../components/ReleaseCard';
+import { Globe, Palette, Monitor, BookOpen, Github, Download } from 'lucide-react';
 
 // Import data
 import themesData from '../data/themes.json';
 import setupsData from '../data/setups.json';
 import resourcesData from '../data/resources.json';
 import linksData from '../data/links.json';
+import releasesData from '../data/releases.json';
 
 export default function Home() {
   const featuredThemes = themesData.slice(0, 3);
@@ -14,6 +16,7 @@ export default function Home() {
     .sort((a, b) => Number(b.id) - Number(a.id))
     .slice(0, 3);
   const featuredResources = resourcesData.slice(0, 6);
+  const featuredReleases = releasesData.slice(0, 3);
 
   return (
     <div className="min-h-screen bg-background">
@@ -194,6 +197,44 @@ export default function Home() {
               />
             ))}
           </div>
+        </section>
+
+        {/* Releases Section */}
+        <section id="releases" className="mb-16">
+          <div className="mb-6">
+            <div>
+              <h2 className="text-2xl font-bold text-green font-mono mb-1">Latest Releases</h2>
+              <div className="w-12 h-1 bg-green rounded-full"></div>
+            </div>
+          </div>
+          <p className="text-foreground/80 mb-8">
+            Stay up to date with the latest Omarchy releases and updates from the official repository.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {featuredReleases.map((release, index) => (
+              <ReleaseCard
+                key={release.tag || index}
+                release={release}
+              />
+            ))}
+          </div>
+          {featuredReleases.length === 0 && (
+            <div className="pixel-card text-center py-8">
+              <Download size={48} className="text-foreground/40 mx-auto mb-4" />
+              <p className="text-foreground/60 font-mono">
+                No releases data available. Check back later or visit the{' '}
+                <a 
+                  href="https://github.com/basecamp/omarchy/releases" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-blue hover:text-blue-hover transition-colors underline"
+                >
+                  GitHub releases page
+                </a>
+                .
+              </p>
+            </div>
+          )}
         </section>
 
         {/* Links Section */}

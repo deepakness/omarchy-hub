@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/fetch-releases.js",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "fetch-releases": "node scripts/fetch-releases.js"
   },
   "dependencies": {
     "lucide-react": "^0.542.0",
