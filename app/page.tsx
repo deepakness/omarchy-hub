@@ -299,7 +299,7 @@ export default function Home() {
               className="pixel-card flex items-center gap-3"
             >
               <Monitor size={18} className="text-blue flex-shrink-0" />
-              <span className="font-mono text-sm text-foreground">Share Setup</span>
+              <span className="font-mono text-base text-foreground">Share Setup</span>
             </a>
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=theme-submission.yml"
@@ -308,7 +308,7 @@ export default function Home() {
               className="pixel-card flex items-center gap-3"
             >
               <Palette size={18} className="text-blue flex-shrink-0" />
-              <span className="font-mono text-sm text-foreground">Submit Theme</span>
+              <span className="font-mono text-base text-foreground">Submit Theme</span>
             </a>
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=resource-submission.yml"
@@ -317,7 +317,7 @@ export default function Home() {
               className="pixel-card flex items-center gap-3"
             >
               <BookOpen size={18} className="text-blue flex-shrink-0" />
-              <span className="font-mono text-sm text-foreground">Add Resource</span>
+              <span className="font-mono text-base text-foreground">Add Resource</span>
             </a>
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=link-submission.yml"
@@ -326,7 +326,7 @@ export default function Home() {
               className="pixel-card flex items-center gap-3"
             >
               <Globe size={18} className="text-blue flex-shrink-0" />
-              <span className="font-mono text-sm text-foreground">Suggest Link</span>
+              <span className="font-mono text-base text-foreground">Suggest Link</span>
             </a>
           </div>
           
