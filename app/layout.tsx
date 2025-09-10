@@ -68,7 +68,7 @@ export default function RootLayout({
                 <a 
                   href="https://omarchy.org" 
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow"
                   className="text-foreground/70 hover:text-blue transition-colors"
                 >
                   omarchy.org
@@ -79,7 +79,7 @@ export default function RootLayout({
                 <a 
                   href="https://deepakness.com" 
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow"
                   className="text-blue hover:text-blue-hover transition-colors"
                 >
                   DeepakNess
@@ -88,7 +88,7 @@ export default function RootLayout({
               <a
                 href="https://github.com/deepakness/omarchy-hub"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow"
                 className="inline-flex items-center gap-2 text-foreground/60 hover:text-blue transition-colors font-mono"
               >
                 {/* Using text instead of icon to avoid extra imports here */}

@@ -93,7 +93,7 @@ export default function Home() {
 
           {/* Quick Links - Secondary */}
           <div className="flex flex-wrap justify-center gap-3 opacity-75">
-            <a href="https://omarchy.org/" target="_blank" rel="noopener noreferrer" 
+            <a href="https://omarchy.org/" target="_blank" rel="noopener noreferrer nofollow" 
                className="text-foreground/60 hover:text-blue transition-colors font-mono text-base flex items-center gap-2">
               <Globe size={18} />
               Official Website
@@ -101,7 +101,7 @@ export default function Home() {
             <span className="text-foreground/40">•</span>
             {latestRelease && (
               <>
-                <a href={latestRelease.url} target="_blank" rel="noopener noreferrer"
+                <a href={latestRelease.url} target="_blank" rel="noopener noreferrer nofollow"
                    className="text-foreground/60 hover:text-blue transition-colors font-mono text-base flex items-center gap-2">
                   <Tag size={18} />
                   Latest Release
@@ -109,7 +109,7 @@ export default function Home() {
                 <span className="text-foreground/40">•</span>
               </>
             )}
-            <a href="https://github.com/deepakness/omarchy-hub" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/deepakness/omarchy-hub" target="_blank" rel="noopener noreferrer nofollow"
                className="text-foreground/60 hover:text-blue transition-colors font-mono text-base flex items-center gap-2">
               <Github size={18} />
               Contribute
@@ -238,7 +238,7 @@ export default function Home() {
                 <a 
                   href="https://github.com/basecamp/omarchy/releases" 
                   target="_blank" 
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow"
                   className="text-blue hover:text-blue-hover transition-colors underline"
                 >
                   GitHub releases page
@@ -266,7 +266,7 @@ export default function Home() {
                 key={index}
                 href={link.url}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow"
                 className="pixel-card block"
               >
                 <div className="flex items-center justify-between">
@@ -295,7 +295,7 @@ export default function Home() {
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=setup-submission.yml"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow"
               className="pixel-card flex items-center gap-3"
             >
               <Monitor size={18} className="text-blue flex-shrink-0" />
@@ -304,7 +304,7 @@ export default function Home() {
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=theme-submission.yml"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow"
               className="pixel-card flex items-center gap-3"
             >
               <Palette size={18} className="text-blue flex-shrink-0" />
@@ -313,7 +313,7 @@ export default function Home() {
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=resource-submission.yml"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow"
               className="pixel-card flex items-center gap-3"
             >
               <BookOpen size={18} className="text-blue flex-shrink-0" />
@@ -322,7 +322,7 @@ export default function Home() {
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=link-submission.yml"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow"
               className="pixel-card flex items-center gap-3"
             >
               <Globe size={18} className="text-blue flex-shrink-0" />
@@ -334,7 +334,7 @@ export default function Home() {
             <a 
               href="https://github.com/deepakness/omarchy-hub/blob/main/CONTRIBUTING.md"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow"
               className="text-blue hover:text-blue-hover transition-colors underline font-mono"
             >
               Read our contribution guidelines

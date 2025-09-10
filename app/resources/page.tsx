@@ -87,7 +87,7 @@ export default function ResourcesPage() {
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=resource-submission.yml"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow"
               className="pixel-button inline-flex items-center gap-2"
             >
               Suggest a Resource

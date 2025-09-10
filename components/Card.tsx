@@ -28,7 +28,7 @@ export default function Card({
 }: CardProps) {
   const CardWrapper = link ? 'a' : 'div';
   const cardProps = link 
-    ? { href: link, target: '_blank', rel: 'noopener noreferrer' }
+    ? { href: link, target: '_blank', rel: 'noopener noreferrer nofollow' }
     : {};
 
   const cardClasses = screenshot 

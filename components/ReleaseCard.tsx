@@ -18,7 +18,7 @@ export default function ReleaseCard({ release }: ReleaseCardProps) {
     <a
       href={release.url}
       target="_blank"
-      rel="noopener noreferrer"
+      rel="noopener noreferrer nofollow"
       className="pixel-card block"
     >
       <div className="flex items-center justify-between">

@@ -91,7 +91,7 @@ export default function SetupsPage() {
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=setup-submission.yml"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow"
               className="pixel-button inline-flex items-center gap-2"
             >
               Submit Your Setup

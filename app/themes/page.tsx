@@ -115,7 +115,7 @@ export default function ThemesPage() {
               <a 
                 href="https://learn.omacom.io/2/the-omarchy-manual/52/themes"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow"
                 className="text-blue hover:text-blue-hover transition-colors font-mono text-sm underline"
               >
                 View official Omarchy themes documentation
@@ -136,7 +136,7 @@ export default function ThemesPage() {
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=theme-submission.yml"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow"
               className="pixel-button inline-flex items-center gap-2"
             >
               Submit a Theme

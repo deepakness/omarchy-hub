@@ -40,7 +40,7 @@ const Header = () => {
             <a
               href="https://github.com/deepakness/omarchy-hub"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow"
               className="text-foreground hover:text-blue transition-colors"
               aria-label="GitHub Repository"
             >
@@ -86,7 +86,7 @@ const Header = () => {
             <a
               href="https://github.com/deepakness/omarchy-hub"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow"
               className="text-foreground hover:text-blue transition-colors font-mono py-2 flex items-center gap-2"
               aria-label="GitHub Repository"
             >
