@@ -7,8 +7,7 @@ A community-driven website for collecting and sharing themes, setups, resources,
 <!-- Badges -->
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e4bf623c-783c-4a5e-af63-f655043ace6b/deploy-status)](https://app.netlify.com/projects/omarchy-hub/deploys)
-[![Badge License]][License]
-![Badge Language]
+[![License](https://img.shields.io/github/license/deepakness/omarchy-hub?color=64748b)](LICENSE)
 
 
 ## Project Structure
