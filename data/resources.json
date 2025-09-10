@@ -73,4 +73,19 @@
       "hacker-news"
     ]
   }
+  ,
+  {
+    "id": "7",
+    "name": "Omarchy on MacBooks via Asahi",
+    "description": "Step-by-step notes and discussion for installing Omarchy on Apple Silicon MacBooks via Asahi.",
+    "category": "Discussion",
+    "link": "https://github.com/basecamp/omarchy/discussions/155",
+    "author": "Naeem Malik",
+    "tags": [
+      "macbook",
+      "asahi",
+      "arm",
+      "guide"
+    ]
+  }
 ]
