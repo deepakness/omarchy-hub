@@ -2,33 +2,39 @@
 
 A community-driven website for collecting and sharing themes, setups, resources, and links for [Omarchy](https://omarchy.org) - the opinionated Arch + Hyprland setup by DHH.
 
-🌐 **Live Website**: [https://omarchy.deepakness.com](https://omarchy.deepakness.com)  
-📚 **Repository**: [https://github.com/deepakness/omarchy-hub](https://github.com/deepakness/omarchy-hub)
+🌐 **Live Website**: [https://omarchy.deepakness.com](https://omarchy.deepakness.com)
+
+<!-- Badges -->
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4bf623c-783c-4a5e-af63-f655043ace6b/deploy-status)](https://app.netlify.com/projects/omarchy-hub/deploys)
+[![Badge License]][License]
+![Badge Language]
 
 
 ## Project Structure
 
 ```
 ├── app/                    # Next.js App Router pages
-│   ├── page.tsx           # Homepage with featured content
-│   ├── themes/page.tsx    # Themes listing page
-│   ├── setups/page.tsx    # Setups listing page
-│   └── resources/page.tsx # Resources listing page
-├── components/            # Reusable React components
-│   ├── Card.tsx          # Content card component
-│   ├── OmarchyLogo.tsx   # Main logo component
-│   ├── PixelButton.tsx   # Retro-style button component
-│   ├── Header.tsx        # Navigation header
-│   └── Breadcrumb.tsx    # Navigation breadcrumb
-├── data/                 # JSON data files
-│   ├── themes.json       # Themes data
-│   ├── setups.json       # Setups data
-│   ├── resources.json    # Resources data
-│   └── links.json        # Links data
-├── public/               # Static assets
-│   └── setups/          # Setup screenshots
-└── .github/             # GitHub templates and workflows
-    ├── ISSUE_TEMPLATE/  # Issue templates for contributions
+│   ├── page.tsx            # Homepage with featured content
+│   ├── themes/page.tsx     # Themes listing page
+│   ├── setups/page.tsx     # Setups listing page
+│   └── resources/page.tsx  # Resources listing page
+├── components/             # Reusable React components
+│   ├── Card.tsx            # Content card component
+│   ├── OmarchyLogo.tsx     # Main logo component
+│   ├── PixelButton.tsx     # Retro-style button component
+│   ├── Header.tsx          # Navigation header
+│   └── Breadcrumb.tsx      # Navigation breadcrumb
+├── data/                   # JSON data files
+│   ├── themes.json         # Themes data
+│   ├── setups.json         # Setups data
+│   ├── resources.json      # Resources data
+│   ├── releases.json       # Omarchy releases, scrapes automatically
+│   └── links.json          # Links data
+├── public/                 # Static assets
+│   └── setups/             # Setup screenshots
+└── .github/                # GitHub templates and workflows
+    ├── ISSUE_TEMPLATE/     # Issue templates for contributions
     └── pull_request_template.md
 ```
 
@@ -66,6 +72,7 @@ We welcome contributions from the community! There are several ways to contribut
   "screenshot": "setups/setup-image.jpg",
   "link": "https://social-post-url.com",
   "device": "Hardware details",
+  "category": "Desktop",
   "tags": ["tag1", "tag2"]
 }
 ```
@@ -75,7 +82,7 @@ We welcome contributions from the community! There are several ways to contribut
 {
   "id": "unique-id",
   "name": "Theme Name",
-  "category": "Dark Theme",
+  "category": "Dark Theme | Light Theme",
   "link": "https://github.com/username/theme",
   "author": "Author Name",
   "screenshot": "https://screenshot-url.com",
@@ -89,7 +96,7 @@ We welcome contributions from the community! There are several ways to contribut
   "id": "unique-id",
   "name": "Resource Name",
   "description": "Brief one-line description of the resource",
-  "category": "Documentation",
+  "category": "Documentation | Article | Discussion | Video | Tool",
   "link": "https://resource-url.com",
   "author": "Author Name",
   "tags": ["guide", "tutorial"]
@@ -103,12 +110,6 @@ We welcome contributions from the community! There are several ways to contribut
   "url": "https://link-url.com"
 }
 ```
-
-### 📸 Image Guidelines
-
-- **Setup Screenshots**: Minimum 1920x1080, JPG/PNG format, under 2MB
-- **Theme Screenshots**: Show theme in action, can be hosted externally
-- **File Naming**: Use descriptive names like `setup-username-description.jpg`
 
 ### 📖 Detailed Guidelines
 
@@ -124,7 +125,7 @@ For complete contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Acknowledgments
 
 - [DHH](https://dhh.dk) for creating Omarchy
-- The Arch Linux and Hyprland communities for their amazing work
+- The [Arch Linux](https://archlinux.org/) and [Hyprland](https://github.com/hyprwm/Hyprland) communities for their amazing work
 - All contributors who share their setups, themes, and resources
 
 ## License
