@@ -140,6 +140,7 @@ export default function Home() {
                 key={setup.id}
                 title={setup.name}
                 description={setup.description}
+                category={setup.category}
                 link={setup.link}
                 screenshot={setup.screenshot}
                 screenshotAlt="Setup Screenshot"

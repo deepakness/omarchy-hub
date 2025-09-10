@@ -7,7 +7,11 @@
     "link": "https://x.com/BramJetten/status/1963854925093351802",
     "device": "Apple Studio Display + Custom PC",
     "category": "Desktop",
-    "tags": ["apple", "minimal", "studio-display"]
+    "tags": [
+      "apple",
+      "minimal",
+      "studio-display"
+    ]
   },
   {
     "id": "2",
@@ -17,7 +21,11 @@
     "link": "https://x.com/ChrisKade57/status/1960061026973421649",
     "device": "Framework 13",
     "category": "Laptop",
-    "tags": ["framework", "laptop", "orange"]
+    "tags": [
+      "framework",
+      "laptop",
+      "orange"
+    ]
   },
   {
     "id": "3",
@@ -27,7 +35,11 @@
     "link": "https://x.com/jenseickmeyer/status/1964352050113786234",
     "device": "2012 Apple iMac",
     "category": "Desktop",
-    "tags": ["apple", "imac", "vintage"]
+    "tags": [
+      "apple",
+      "imac",
+      "vintage"
+    ]
   },
   {
     "id": "4",
@@ -37,7 +49,11 @@
     "link": "https://x.com/rsstafford/status/1946625692684243202",
     "device": "Beelink SER8 + Lofree Keyboard",
     "category": "Desktop",
-    "tags": ["beelink", "mini-pc", "productivity"]
+    "tags": [
+      "beelink",
+      "mini-pc",
+      "productivity"
+    ]
   },
   {
     "id": "5",
@@ -47,7 +63,10 @@
     "link": "https://x.com/mustafaakin/status/1947996374576075000",
     "device": "Lenovo ThinkPad X1 Carbon Gen8",
     "category": "Laptop",
-    "tags": ["thinkpad", "x1-carbon"]
+    "tags": [
+      "thinkpad",
+      "x1-carbon"
+    ]
   },
   {
     "id": "6",
@@ -57,7 +76,10 @@
     "link": "https://x.com/coendewit/status/1961091631102173527",
     "device": "LG Monitor + Ergonomic Split Keyboard",
     "category": "Desktop",
-    "tags": ["apple", "lg"]
+    "tags": [
+      "apple",
+      "lg"
+    ]
   },
   {
     "id": "7",
@@ -67,7 +89,9 @@
     "link": "https://x.com/didier_paolini/status/1964719691165004194",
     "device": "Lenovo ThinkPad Yoga 370 (7th‑gen i7)",
     "category": "Laptop",
-    "tags": ["thinkpad"]
+    "tags": [
+      "thinkpad"
+    ]
   },
   {
     "id": "8",
@@ -77,7 +101,10 @@
     "link": "https://x.com/roehrich_sam/status/1965206880176992302",
     "device": "Beelink Mini PC + Monitor",
     "category": "Desktop",
-    "tags": ["beelink", "mini-pc"]
+    "tags": [
+      "beelink",
+      "mini-pc"
+    ]
   },
   {
     "id": "9",
@@ -87,7 +114,10 @@
     "link": "https://x.com/LiamBateman1/status/1965390602499227927",
     "device": "Framework 13 + Samsung 49\" G9",
     "category": "Desktop",
-    "tags": ["framework", "ultrawide"]
+    "tags": [
+      "framework",
+      "ultrawide"
+    ]
   },
   {
     "id": "10",
@@ -97,6 +127,22 @@
     "link": "https://x.com/duckdb/status/1965132696251998603",
     "device": "Framework 13 (AMD Ryzen AI 9 HX 370)",
     "category": "Laptop",
-    "tags": ["framework", "duckdb", "big-data", "ryzen"]
+    "tags": [
+      "framework",
+      "ryzen"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Framework Desktop + Omarchy",
+    "description": "Enjoying a clean work setup powered by Framework desktop running Omarchy.",
+    "screenshot": "setups/setup-11.jpeg",
+    "link": "https://x.com/martinmose/status/1964024176101953791",
+    "device": "Framework Desktop + Split Ergonomic Keyboard",
+    "category": "Desktop",
+    "tags": [
+      "framework",
+      "split-keyboard"
+    ]
   }
 ]

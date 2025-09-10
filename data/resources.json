@@ -6,7 +6,10 @@
     "category": "Documentation",
     "link": "https://learn.omacom.io/2/the-omarchy-manual",
     "author": "DHH",
-    "tags": ["official", "wiki"]
+    "tags": [
+      "official",
+      "wiki"
+    ]
   },
   {
     "id": "2",
@@ -15,7 +18,10 @@
     "category": "Article",
     "link": "https://deepakness.com/blog/omarchy-on-mac-via-utm/",
     "author": "DeepakNess",
-    "tags": ["guide", "mac"]
+    "tags": [
+      "guide",
+      "mac"
+    ]
   },
   {
     "id": "3",
@@ -24,7 +30,11 @@
     "category": "Article",
     "link": "https://bramjetten.dev/articles/its-an-exciting-time-to-build-computers-again",
     "author": "Bram Jetten",
-    "tags": ["build", "custom-pc", "formd-t1"]
+    "tags": [
+      "build",
+      "custom-pc",
+      "formd-t1"
+    ]
   },
   {
     "id": "4",
@@ -33,7 +43,11 @@
     "category": "Article",
     "link": "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/",
     "author": "ssp.sh",
-    "tags": ["macos", "migration", "thinkbook"]
+    "tags": [
+      "macos",
+      "migration",
+      "thinkbook"
+    ]
   },
   {
     "id": "5",
@@ -42,7 +56,9 @@
     "category": "Article",
     "link": "https://lunduke.substack.com/p/omarchy-20-the-arch-based-hyprland",
     "author": "Bryan Lunduke",
-    "tags": ["review"]
+    "tags": [
+      "review"
+    ]
   },
   {
     "id": "6",
@@ -51,6 +67,10 @@
     "category": "Discussion",
     "link": "https://news.ycombinator.com/item?id=45001434",
     "author": "Hacker News Community",
-    "tags": ["discussion", "community", "hacker-news"]
+    "tags": [
+      "discussion",
+      "community",
+      "hacker-news"
+    ]
   }
 ]
