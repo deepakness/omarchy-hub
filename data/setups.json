@@ -144,5 +144,18 @@
       "framework",
       "split-keyboard"
     ]
+  },
+  {
+    "id": "12",
+    "name": "Beelink PC + Studio Display Omarchy",
+    "description": "Omarchy running fast on a $385 Beelink PC with stunning visuals on Apple Studio Display.",
+    "screenshot": "setups/setup-12.jpeg",
+    "link": "https://x.com/lylo/status/1965826027101520290",
+    "device": "Beelink PC + Apple Studio Display",
+    "category": "Desktop",
+    "tags": [
+      "beelink",
+      "studio-display"
+    ]
   }
 ]

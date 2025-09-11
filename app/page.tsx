@@ -14,7 +14,7 @@ export default function Home() {
   const featuredThemes = themesData.slice(0, 3);
   const featuredSetups = [...setupsData]
     .sort((a, b) => Number(b.id) - Number(a.id))
-    .slice(0, 3);
+    .slice(0, 6);
   const featuredResources = resourcesData.slice(0, 6);
   const featuredReleases = releasesData.slice(0, 3);
   const latestRelease = releasesData.find(release => release.isLatest) || releasesData[0];
