@@ -157,5 +157,18 @@
       "beelink",
       "studio-display"
     ]
+  },
+  {
+    "id": "13",
+    "name": "Janky Found Hardware Omarchy",
+    "description": "Experimental Omarchy setup on found hardware - Zima board with compact display.",
+    "screenshot": "setups/setup-13.jpeg",
+    "link": "https://x.com/adrianjx/status/1965378834620186970",
+    "device": "Zima Board + Compact Display",
+    "category": "Desktop",
+    "tags": [
+      "experimental",
+      "zima-board"
+    ]
   }
 ]
