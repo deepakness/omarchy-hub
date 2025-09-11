@@ -170,5 +170,18 @@
       "experimental",
       "zima-board"
     ]
+  },
+  {
+    "id": "14",
+    "name": "Firmware Dev Desk with Omarchy",
+    "description": "Opinionated Omarchy setup for firmware development with neat single-board rig and tea.",
+    "screenshot": "setups/setup-14.jpeg",
+    "link": "https://x.com/Servet_edu/status/1966158274505650186",
+    "device": "Ducky One 2 Mini + Monitor",
+    "category": "Desktop",
+    "tags": [
+      "firmware",
+      "ducky"
+    ]
   }
 ]
