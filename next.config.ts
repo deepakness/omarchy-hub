@@ -15,6 +15,12 @@ const nextConfig: NextConfig = {
         port: '',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'learn.omacom.io',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
 };

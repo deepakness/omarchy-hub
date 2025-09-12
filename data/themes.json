@@ -135,4 +135,346 @@
       "popular"
     ]
   }
+  ,
+  {
+    "id": "12",
+    "name": "Ash",
+    "category": "Dark Theme",
+    "link": "https://github.com/bjarneo/omarchy-ash-theme",
+    "author": "bjarneo",
+    "screenshot": "https://learn.omacom.io/u/ash-theme-DnGpEy.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Aura",
+    "category": "Dark Theme",
+    "link": "https://github.com/bjarneo/omarchy-aura-theme",
+    "author": "bjarneo",
+    "screenshot": "https://learn.omacom.io/u/aura-theme-LfFuUo.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "All Hallow's Eve",
+    "category": "Dark Theme",
+    "link": "https://github.com/guilhermetk/omarchy-all-hallows-eve-theme",
+    "author": "guilhermetk",
+    "screenshot": "https://learn.omacom.io/u/all-hallows-eve-theme-XQuTDB.webp",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Azure Glow",
+    "category": "Dark Theme",
+    "link": "https://github.com/Hydradevx/omarchy-azure-glow-theme",
+    "author": "Hydradevx",
+    "screenshot": "https://learn.omacom.io/u/azure-glow-theme-vLp53z.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Blue Ridge Dark",
+    "category": "Dark Theme",
+    "link": "https://github.com/hipsterusername/omarchy-blueridge-dark-theme",
+    "author": "hipsterusername",
+    "screenshot": "https://learn.omacom.io/u/blueridge-theme-fkB0tl.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Dracula",
+    "category": "Dark Theme",
+    "link": "https://github.com/catlee/omarchy-dracula-theme",
+    "author": "catlee",
+    "screenshot": "https://learn.omacom.io/u/dracula-theme-Rq2gWj.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Green Garden",
+    "category": "Dark Theme",
+    "link": "https://github.com/kalk-ak/omarchy-green-garden-theme",
+    "author": "kalk-ak",
+    "screenshot": "https://learn.omacom.io/u/omarchy-lush-green-fZgXeQ.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Green Hakkar",
+    "category": "Dark Theme",
+    "link": "https://github.com/joaquinmeza/omarchy-hakker-green-theme",
+    "author": "joaquinmeza",
+    "screenshot": "https://learn.omacom.io/u/greenhakker-theme-LWigNZ.jpg",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Felix",
+    "category": "Dark Theme",
+    "link": "https://github.com/TyRichards/omarchy-felix-theme",
+    "author": "TyRichards",
+    "screenshot": "https://learn.omacom.io/u/felix-theme-vk8Fgx.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Flexoki Light",
+    "category": "Light Theme",
+    "link": "https://github.com/euandeas/omarchy-flexoki-light-theme",
+    "author": "euandeas",
+    "screenshot": "https://learn.omacom.io/u/flexoki-light-theme-OqUsEY.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Flexoki Dark",
+    "category": "Dark Theme",
+    "link": "https://github.com/euandeas/omarchy-flexoki-dark-theme",
+    "author": "euandeas",
+    "screenshot": "https://learn.omacom.io/u/flexoki-dark-theme-meZCr4.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Futurism",
+    "category": "Dark Theme",
+    "link": "https://github.com/bjarneo/omarchy-futurism-theme",
+    "author": "bjarneo",
+    "screenshot": "https://learn.omacom.io/u/futurism-theme-2w6HZI.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Gold Rush",
+    "category": "Dark Theme",
+    "link": "https://github.com/tahayvr/omarchy-gold-rush-theme",
+    "author": "tahayvr",
+    "screenshot": "https://learn.omacom.io/u/gold-rush-theme-n9WQiY.jpeg",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Mars",
+    "category": "Dark Theme",
+    "link": "https://github.com/steve-lohmeyer/omarchy-mars-theme",
+    "author": "steve-lohmeyer",
+    "screenshot": "https://learn.omacom.io/u/mars-theme-r03GXm.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Midnight",
+    "category": "Dark Theme",
+    "link": "https://github.com/JaxonWright/omarchy-midnight-theme",
+    "author": "JaxonWright",
+    "screenshot": "https://learn.omacom.io/u/midnight-theme-I5HKym.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Milky Matcha",
+    "category": "Light Theme",
+    "link": "https://github.com/hipsterusername/omarchy-milkmatcha-light-theme",
+    "author": "hipsterusername",
+    "screenshot": "https://learn.omacom.io/u/milkymatcha-theme-JFT2X2.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Monochrome",
+    "category": "Dark Theme",
+    "link": "https://github.com/Swarnim114/omarchy-monochrome-theme",
+    "author": "Swarnim114",
+    "screenshot": "https://learn.omacom.io/u/monochrome-theme-GwATD6.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "NES",
+    "category": "Dark Theme",
+    "link": "https://github.com/bjarneo/omarchy-nes-theme",
+    "author": "bjarneo",
+    "screenshot": "https://learn.omacom.io/u/nes-theme-1Z6uqG.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "One Dark Pro",
+    "category": "Dark Theme",
+    "link": "https://github.com/sc0ttman/omarchy-one-dark-pro-theme",
+    "author": "sc0ttman",
+    "screenshot": "https://learn.omacom.io/u/one-dark-pro-lm5SO2.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Pulsar",
+    "category": "Dark Theme",
+    "link": "https://github.com/bjarneo/omarchy-pulsar-theme",
+    "author": "bjarneo",
+    "screenshot": "https://learn.omacom.io/u/pulsar-theme-DMUX7U.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "RetroPC",
+    "category": "Dark Theme",
+    "link": "https://github.com/rondilley/omarchy-retropc-theme",
+    "author": "rondilley",
+    "screenshot": "https://learn.omacom.io/u/retropc-theme-a24vKN.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Rose Pine Dark",
+    "category": "Dark Theme",
+    "link": "https://github.com/guilhermetk/omarchy-rose-pine-dark",
+    "author": "guilhermetk",
+    "screenshot": "https://learn.omacom.io/u/rose-pine-dark-pIMUcV.webp",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Space Monkey",
+    "category": "Dark Theme",
+    "link": "https://github.com/TyRichards/omarchy-space-monkey-theme/",
+    "author": "TyRichards",
+    "screenshot": "https://learn.omacom.io/u/space-monkey-theme-UGmUHp.jpg",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Snow",
+    "category": "Light Theme",
+    "link": "https://github.com/bjarneo/omarchy-snow-theme",
+    "author": "bjarneo",
+    "screenshot": "https://learn.omacom.io/u/snow-theme-MDtvlu.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Solarized",
+    "category": "Dark Theme",
+    "link": "https://github.com/Gazler/omarchy-solarized-theme",
+    "author": "Gazler",
+    "screenshot": "https://learn.omacom.io/u/solarized-theme-9OhQ7Y.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Solarized Light",
+    "category": "Light Theme",
+    "link": "https://github.com/dfrico/omarchy-solarized-light-theme",
+    "author": "dfrico",
+    "screenshot": "https://learn.omacom.io/u/solarized-light2-OTGWbc.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Solarized Osaka",
+    "category": "Dark Theme",
+    "link": "https://github.com/motorsss/omarchy-solarizedosaka-theme",
+    "author": "motorsss",
+    "screenshot": "https://learn.omacom.io/u/solarized-osaka-theme-9pnXgG.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Super Game Bro",
+    "category": "Dark Theme",
+    "link": "https://github.com/TyRichards/omarchy-super-game-bro-theme",
+    "author": "TyRichards",
+    "screenshot": "https://learn.omacom.io/u/super-game-bro-theme-2DNtSt.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Synthwave '84",
+    "category": "Dark Theme",
+    "link": "https://github.com/omacom-io/omarchy-synthwave84-theme/",
+    "author": "omacom-io",
+    "screenshot": "https://learn.omacom.io/u/synthwave-theme-7yHWFA.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Waveform Dark",
+    "category": "Dark Theme",
+    "link": "https://github.com/hipsterusername/omarchy-waveform-dark-theme",
+    "author": "hipsterusername",
+    "screenshot": "https://learn.omacom.io/u/waveform-theme-ZiWq97.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Vague",
+    "category": "Dark Theme",
+    "link": "https://github.com/Rnedlose/omarchy-vague-theme",
+    "author": "Rnedlose",
+    "screenshot": "https://learn.omacom.io/u/screenshot-2025-09-07_17-46-00-2HrZsu.jpg",
+    "tags": [
+      "unofficial"
+    ]
+  }
 ]

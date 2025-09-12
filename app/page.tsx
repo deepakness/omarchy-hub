@@ -11,7 +11,7 @@ import linksData from '../data/links.json';
 import releasesData from '../data/releases.json';
 
 export default function Home() {
-  const featuredThemes = themesData.slice(0, 3);
+  const featuredThemes = themesData.slice(0, 6);
   const featuredSetups = [...setupsData]
     .sort((a, b) => Number(b.id) - Number(a.id))
     .slice(0, 6);
@@ -36,7 +36,7 @@ export default function Home() {
               <div className="text-base text-green mb-2">$ cat README.md</div>
               <div className="text-foreground/80 mb-6">
                 <div className="mb-3">
-                  <div className="text-base">A community resource website for Omarchy Linux: an opinionated Arch + Hyprland setup by DHH</div>
+                    <div className="text-base">Community hub for Omarchy — DHH&apos;s keyboard-driven, developer-focused Linux distribution built on Arch + Hyprland</div>
                 </div>
               </div>
               
