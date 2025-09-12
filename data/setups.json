@@ -183,5 +183,57 @@
       "firmware",
       "ducky"
     ]
+  },
+  {
+    "id": "15",
+    "name": "Dual Monitor Setup",
+    "description": "Highly customized dual-monitor gaming and productivity setup with RGB lighting.",
+    "screenshot": "setups/setup-15.jpeg",
+    "link": "https://x.com/rahnolds/status/1966240885311758338",
+    "device": "Custom PC + Dual Monitors",
+    "category": "Desktop",
+    "tags": [
+      "gaming",
+      "dual-monitor"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "ZenBook Duo + Omarchy Setup",
+    "description": "ZenBook Duo with Omarchy - dual-screen laptop with split ergonomic keyboard and external monitor.",
+    "screenshot": "setups/setup-16.jpeg",
+    "link": "https://x.com/rahnolds/status/1966251916096397573",
+    "device": "ASUS ZenBook Duo + Split Ergonomic Keyboard",
+    "category": "Laptop",
+    "tags": [
+      "dual-screen",
+      "split-keyboard"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "ASUS Flow Z13 Omarchablet",
+    "description": "Omarchy loaded beautifully on ASUS Flow Z13 128GB Strix Halo box.",
+    "screenshot": "setups/setup-17.jpeg",
+    "link": "https://x.com/moltar81435/status/1966284712735027543",
+    "device": "ASUS Flow Z13 2-in-1 Tablet",
+    "category": "Laptop",
+    "tags": [
+      "flow-z13",
+      "2-in-1"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Dual Monitor Omarchy Setup",
+    "description": "Clean dual-monitor setup with ThinkPad and external display.",
+    "screenshot": "setups/setup-18.jpeg",
+    "link": "https://x.com/realvicfei/status/1966258292059214281",
+    "device": "Lenovo ThinkPad + External Monitor",
+    "category": "Desktop",
+    "tags": [
+      "thinkpad",
+      "dual-monitor"
+    ]
   }
 ]
