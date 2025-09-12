@@ -235,5 +235,31 @@
       "thinkpad",
       "dual-monitor"
     ]
+  },
+  {
+    "id": "19",
+    "name": "Custom PC for Content Creation",
+    "description": "Professional content creation workstation with custom liquid-cooled PC with ultrawide monitor.",
+    "screenshot": "setups/setup-19.jpeg",
+    "link": "https://x.com/DenLoginoff/status/1966247834052944244",
+    "device": "Custom PC + Alienware Ultrawide",
+    "category": "Desktop",
+    "tags": [
+      "liquid-cooled",
+      "ultrawide"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Minisforum UM760 Omarchy Setup",
+    "description": "Clean and modern workspace featuring Minisforum UM760 mini PC with Samsung monitor.",
+    "screenshot": "setups/setup-20.jpeg",
+    "link": "https://x.com/pinku1/status/1966254657938010166",
+    "device": "Minisforum UM760 + Samsung Monitor",
+    "category": "Desktop",
+    "tags": [
+      "minisforum",
+      "samsung"
+    ]
   }
 ]

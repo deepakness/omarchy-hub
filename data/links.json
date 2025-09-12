@@ -26,5 +26,13 @@
   {
     "name": "Omarchy Merch Store",
     "url": "https://supply.37signals.com/collections/omarchy"
+  },
+  {
+    "name": "Omarchy Workstations",
+    "url": "https://omarchy.org/workstations/"
+  },
+  {
+    "name": "Hardware Recommendations",
+    "url": "https://learn.omacom.io/3/omacom/74/good-linux-hardware"
   }
 ]
