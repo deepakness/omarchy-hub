@@ -261,5 +261,17 @@
       "minisforum",
       "samsung"
     ]
+  },
+  {
+    "id": "21",
+    "name": "Framework Laptop Omarchy Setup",
+    "description": "Framework laptop running Omarchy with terminal panes and system metrics visible.",
+    "screenshot": "setups/setup-21.jpeg",
+    "link": "https://x.com/rsim/status/1966251634591404049",
+    "device": "Framework Laptop",
+    "category": "Laptop",
+    "tags": [
+      "framework"
+    ]
   }
 ]
