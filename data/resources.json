@@ -87,5 +87,17 @@
       "arm",
       "guide"
     ]
+  },
+  {
+    "id": "8",
+    "name": "Printable Omarchy Hotkeys",
+    "description": "A printable version of the official Omarchy hotkeys cheat sheet.",
+    "category": "Documentation",
+    "link": "https://acrogenesis.com/omarchy-cheat-sheet/",
+    "author": "Adrian Rangel",
+    "tags": [
+      "hotkeys",
+      "cheat-sheet"
+    ]
   }
 ]
