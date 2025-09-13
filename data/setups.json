@@ -286,5 +286,18 @@
       "beelink",
       "imac"
     ]
+  },
+  {
+    "id": "23",
+    "name": "Vintage Dell Latitude Revival",
+    "description": "13-year-old Dell Latitude laptop brought back to life with Omarchy installation.",
+    "screenshot": "setups/setup-23.jpeg",
+    "link": "https://x.com/corrieuys/status/1966559360076710140",
+    "device": "Dell Latitude",
+    "category": "Laptop",
+    "tags": [
+      "dell",
+      "latitude"
+    ]
   }
 ]
