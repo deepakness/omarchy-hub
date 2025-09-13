@@ -299,5 +299,18 @@
       "dell",
       "latitude"
     ]
+  },
+  {
+    "id": "24",
+    "name": "Framework Desktop Office Setup",
+    "description": "Professional office workstation featuring Framework Desktop running Omarchy.",
+    "screenshot": "setups/setup-24.jpeg",
+    "link": "https://x.com/RugvedSomwanshi/status/1966643462888947994",
+    "device": "Framework Desktop + ASUS Monitor",
+    "category": "Desktop",
+    "tags": [
+      "framework",
+      "asus"
+    ]
   }
 ]
