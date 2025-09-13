@@ -273,5 +273,18 @@
     "tags": [
       "framework"
     ]
+  },
+  {
+    "id": "22",
+    "name": "Beelink SER8 + iMac 5K Display Setup",
+    "description": "High-performance coding workstation featuring Beelink SER8 mini PC with AMD Ryzen 7 8745HS.",
+    "screenshot": "setups/setup-22.jpeg",
+    "link": "https://x.com/deanpcmad/status/1966510826019328458",
+    "device": "Beelink SER8 + iMac 5K Display",
+    "category": "Desktop",
+    "tags": [
+      "beelink",
+      "imac"
+    ]
   }
 ]
