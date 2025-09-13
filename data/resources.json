@@ -99,5 +99,18 @@
       "hotkeys",
       "cheat-sheet"
     ]
+  },
+  {
+    "id": "9",
+    "name": "Flutter UI Kit for Omarchy",
+    "description": "A Flutter package for developing applications that seamlessly integrate with Omarchy.",
+    "category": "Development",
+    "link": "https://github.com/aloisdeniel/flutter_omarchy",
+    "author": "aloisdeniel",
+    "tags": [
+      "flutter",
+      "ui-kit",
+      "development"
+    ]
   }
 ]
