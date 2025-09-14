@@ -312,5 +312,45 @@
       "framework",
       "asus"
     ]
+  },
+  {
+    "id": "25",
+    "name": "Ergonomic Omarchy Workstation",
+    "description": "Modern ergonomic workspace featuring Samsung curved monitor, split keyboard, and Mac Mini.",
+    "screenshot": "setups/setup-25.jpeg",
+    "link": "https://x.com/matteodevenuto/status/1966878941525766567",
+    "device": "Samsung Curved Monitor + Mac Mini",
+    "category": "Desktop",
+    "tags": [
+      "samsung",
+      "mac-mini",
+      "split-keyboard"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Framework Omarchy Setup",
+    "description": "Clean workspace featuring Framework Laptop connected to external monitor.",
+    "screenshot": "setups/setup-26.jpeg",
+    "link": "https://x.com/mycorealm/status/1966895062421504487",
+    "device": "Framework Laptop + External Monitor",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "external-monitor"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Resurrected Dell Inspiron",
+    "description": "Old Dell Inspiron laptop brought back to life with Omarchy Linux.",
+    "screenshot": "setups/setup-27.jpeg",
+    "link": "https://x.com/scarowar/status/1966795535957848176",
+    "device": "Dell Inspiron Laptop",
+    "category": "Laptop",
+    "tags": [
+      "dell",
+      "inspiron"
+    ]
   }
 ]
