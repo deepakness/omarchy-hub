@@ -352,5 +352,19 @@
       "dell",
       "inspiron"
     ]
+  },
+  {
+    "id": "28",
+    "name": "Custom PC with Nvidia Setup",
+    "description": "Built from old PC parts lying around - perfect excuse to try Omarchy.",
+    "screenshot": "setups/setup-28.jpeg",
+    "link": "https://x.com/ershus/status/1967232768926261479",
+    "device": "Custom PC + Dell Monitor",
+    "category": "Desktop",
+    "tags": [
+      "custom-pc",
+      "nvidia",
+      "dell"
+    ]
   }
 ]
