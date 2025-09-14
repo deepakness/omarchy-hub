@@ -23,10 +23,10 @@ export const metadata: Metadata = {
     description: "Discover themes, setups, and resources for Omarchy Linux. Community-driven collection of tools and guides.",
     images: [
       {
-        url: "/omarchy-screenshot.png?v=2",
+        url: "/omarchy-setups.png?v=3",
         width: 1200,
         height: 630,
-        alt: "Omarchy Hub - Community Resources",
+        alt: "Omarchy Setups - Community Collection",
       },
     ],
     type: "website",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Omarchy Hub - Community Resources",
     description: "Discover themes, setups, and resources for Omarchy Linux. Community-driven collection of tools and guides.",
-    images: ["/omarchy-screenshot.png?v=2"],
+    images: ["/omarchy-setups.png?v=3"],
   },
   icons: {
     icon: "/favicon.ico",
