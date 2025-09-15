@@ -366,5 +366,18 @@
       "nvidia",
       "dell"
     ]
+  },
+  {
+    "id": "29",
+    "name": "Mattbook UMPC",
+    "description": "Custom handheld UMPC built around a Framework 13 mainboard with a 10.1\" touchscreen.",
+    "screenshot": "setups/setup-29.jpeg",
+    "link": "https://x.com/2disbetter/status/1967505771132035469",
+    "device": "Framework 13 Mainboard + 10.1\" Touch",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "touchscreen"
+    ]
   }
 ]
