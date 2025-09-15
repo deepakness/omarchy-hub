@@ -476,5 +476,27 @@
     "tags": [
       "unofficial"
     ]
+  },
+  {
+    "id": "43",
+    "name": "Void Theme",
+    "category": "Dark Theme",
+    "link": "https://github.com/vyrx-dev/omarchy-dev/omarchy-void-theme.git",
+    "author": "vyrx-dev",
+    "screenshot": "https://i.postimg.cc/VsxjDpRp/setup-1.png",
+    "tags": [
+      "unofficial"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Gornergrat Station Theme",
+    "category": "Light Theme",
+    "link": "https://gitlab.com/bhavabhuthi/omarchy-gornergrat-station-theme",
+    "author": "Bhavabhuthi",
+    "screenshot": "https://gitlab.com/bhavabhuthi/omarchy-gornergrat-station-theme/-/raw/main/assets/theme-1.png",
+    "tags": [
+      "unofficial"
+    ]
   }
 ]
