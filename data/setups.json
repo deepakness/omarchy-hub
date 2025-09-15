@@ -380,4 +380,18 @@
       "touchscreen"
     ]
   }
+  ,
+  {
+    "id": "30",
+    "name": "Rails World Ultrawide Desk",
+    "description": "Omarchy trial at Rails World on a Dell curved ultrawide with laptop and wooden case keyboard.",
+    "screenshot": "setups/setup-30.jpeg",
+    "link": "https://x.com/emcousin/status/1967594396754596098",
+    "device": "Dell Curved Ultrawide + Laptop",
+    "category": "Desktop",
+    "tags": [
+      "ultrawide",
+      "dell"
+    ]
+  }
 ]
