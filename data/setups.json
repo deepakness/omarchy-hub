@@ -419,4 +419,19 @@
       "assembly"
     ]
   }
+  ,
+  {
+    "id": "33",
+    "name": "Framework 12 + Beelink SER9 Desk",
+    "description": "Framework 12 laptop for mobility; Beelink SER9 handles office work with dual Dell monitors.",
+    "screenshot": "setups/setup-33.jpeg",
+    "link": "https://x.com/MatSilva/status/1967981591009038598",
+    "device": "Framework 12 + Beelink SER9",
+    "category": "Desktop",
+    "tags": [
+      "framework",
+      "beelink",
+      "dual-monitor"
+    ]
+  }
 ]
