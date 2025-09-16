@@ -405,5 +405,18 @@
     "tags": [
       "framework"
     ]
+  },
+  {
+    "id": "32",
+    "name": "Framework Assembly",
+    "description": "Building a Framework laptop and installing Omarchy - a journey outside Apple territory after 20 years.",
+    "screenshot": "setups/setup-32.jpeg",
+    "link": "https://x.com/__au6ust__/status/1967735794795418018",
+    "device": "Framework Laptop",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "assembly"
+    ]
   }
 ]
