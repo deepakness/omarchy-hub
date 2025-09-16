@@ -393,5 +393,17 @@
       "ultrawide",
       "dell"
     ]
+  },
+  {
+    "id": "31",
+    "name": "Framework 12 Laptop",
+    "description": "Framework laptop showcasing Omarchy with a beautiful Japanese-style house wallpaper.",
+    "screenshot": "setups/setup-31.jpeg",
+    "link": "https://x.com/MatSilva/status/1967768938181431533",
+    "device": "Framework 12",
+    "category": "Laptop",
+    "tags": [
+      "framework"
+    ]
   }
 ]
