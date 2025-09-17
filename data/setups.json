@@ -485,4 +485,73 @@
       "beelink"
     ]
   }
+  ,
+  {
+    "id": "38",
+    "name": "Dark Omarchy Night Desk",
+    "description": "Curved ultrawide monitor running Omarchy in a dark room setup.",
+    "screenshot": "setups/setup-38.jpeg",
+    "link": "https://x.com/dvorakative/status/1968137366343913880",
+    "device": "Curved Ultrawide + Compact Backlit Keyboard",
+    "category": "Desktop",
+    "tags": [
+      "ultrawide",
+      "night"
+    ]
+  }
+  ,
+  {
+    "id": "39",
+    "name": "Linux Mini PC Desk",
+    "description": "Clean single-monitor desk running Omarchy on a mini PC with backlit compact keyboard.",
+    "screenshot": "setups/setup-39.jpeg",
+    "link": "https://x.com/rodrigorojop/status/1967778410333438346",
+    "device": "Mini PC + 27\" Monitor",
+    "category": "Desktop",
+    "tags": [
+      "mini-pc"
+    ]
+  }
+  ,
+  {
+    "id": "40",
+    "name": "One-Cable Creator Desk",
+    "description": "Omarchy mini PC creator setup with single-cable switching, RGB lighting, and a Stream Deck.",
+    "screenshot": "setups/setup-40.jpeg",
+    "link": "https://x.com/rodrigorojop/status/1968114997311193594",
+    "device": "Mini PC + LG Monitor + Stream Deck",
+    "category": "Desktop",
+    "tags": [
+      "mini-pc",
+      "stream-deck"
+    ]
+  }
+  ,
+  {
+    "id": "41",
+    "name": "Omarchy + Laptop Dual Desk",
+    "description": "External monitor running Omarchy alongside a laptop and tablet with a compact mechanical keyboard.",
+    "screenshot": "setups/setup-41.jpeg",
+    "link": "https://x.com/kawnnor/status/1967915491961475299",
+    "device": "External Monitor + Laptop + Tablet",
+    "category": "Desktop",
+    "tags": [
+      "external-monitor",
+      "laptop"
+    ]
+  }
+  ,
+  {
+    "id": "42",
+    "name": "Bezy on Omarchy Arch Linux",
+    "description": "Omarchy Arch Linux running Bezy with bold typography test on an LG monitor.",
+    "screenshot": "setups/setup-42.jpeg",
+    "link": "https://x.com/eliheuer/status/1967664072318652593",
+    "device": "LG Monitor + Custom Keyboard",
+    "category": "Desktop",
+    "tags": [
+      "arch",
+      "bezy"
+    ]
+  }
 ]
