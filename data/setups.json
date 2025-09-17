@@ -471,5 +471,18 @@
       "framework",
       "diy"
     ]
+  },
+  {
+    "id": "37",
+    "name": "Framework + Beelink Dual Setup",
+    "description": "Framework laptop and Beelink mini PC running Omarchy - a transition from 20+ years of Mac usage.",
+    "screenshot": "setups/setup-37.jpeg",
+    "link": "https://x.com/alansikora/status/1967964105265774976",
+    "device": "Framework Laptop + Beelink Mini PC",
+    "category": "Desktop",
+    "tags": [
+      "framework",
+      "beelink"
+    ]
   }
 ]
