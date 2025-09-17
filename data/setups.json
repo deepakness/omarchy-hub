@@ -433,5 +433,30 @@
       "beelink",
       "dual-monitor"
     ]
+  },
+  {
+    "id": "34",
+    "name": "MacBook Pro Omarchy Installation",
+    "description": "Installing Omarchy on a MacBook Pro with the distinctive green pixelated terminal interface.",
+    "screenshot": "setups/setup-34.jpeg",
+    "link": "https://x.com/treramey/status/1967741136715542671",
+    "device": "MacBook Pro",
+    "category": "Laptop",
+    "tags": [
+      "macbook",
+      "installation"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Framework Laptop running Omarchy",
+    "description": "Framework laptop showcasing Omarchy's tiling window manager with Super key navigation.",
+    "screenshot": "setups/setup-35.jpeg",
+    "link": "https://x.com/ZenFuturist/status/1968028457415348445",
+    "device": "Framework Laptop",
+    "category": "Laptop",
+    "tags": [
+      "framework"
+    ]
   }
 ]
