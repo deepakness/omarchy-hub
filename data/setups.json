@@ -458,5 +458,18 @@
     "tags": [
       "framework"
     ]
+  },
+  {
+    "id": "36",
+    "name": "Framework 13 DIY Setup",
+    "description": "Framework 13 DIY laptop with Omarchy - from hardware assembly to OS boot in under 15 minutes.",
+    "screenshot": "setups/setup-36.jpeg",
+    "link": "https://x.com/brainscott/status/1968087499575792063",
+    "device": "Framework 13 DIY",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "diy"
+    ]
   }
 ]
