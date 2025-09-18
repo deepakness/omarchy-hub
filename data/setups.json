@@ -553,5 +553,45 @@
       "arch",
       "bezy"
     ]
+  },
+  {
+    "id": "43",
+    "name": "ASUS Zenbook S16 Omarchy Installation",
+    "description": "ASUS Zenbook S16 laptop showing Omarchy installation interface.",
+    "screenshot": "setups/setup-43.jpeg",
+    "link": "https://x.com/pcnoic/status/1968289840396714422",
+    "device": "ASUS Zenbook S16",
+    "category": "Laptop",
+    "tags": [
+      "asus",
+      "zenbook",
+      "installation"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Framework Laptop 13 AMD Ryzen AI 9",
+    "description": "Framework Laptop 13 with AMD Ryzen AI 9 HX 370 running Omarchy v2.1.2.",
+    "screenshot": "setups/setup-44.jpeg",
+    "link": "https://x.com/maxart/status/1968494249311367498",
+    "device": "Framework Laptop 13",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "ryzen"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Daniel's Framework Home Office",
+    "description": "Clean home office setup featuring Framework Laptop 13, wooden desk, and purple mountain wallpaper.",
+    "screenshot": "setups/setup-45.jpeg",
+    "link": "https://x.com/dvassallo/status/1968388267512095002",
+    "device": "Framework Laptop 13 (AMD Ryzen AI 9 HX 370)",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "wooden-desk"
+    ]
   }
 ]
