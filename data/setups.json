@@ -379,8 +379,7 @@
       "framework",
       "touchscreen"
     ]
-  }
-  ,
+  },
   {
     "id": "30",
     "name": "Rails World Ultrawide Desk",
@@ -418,8 +417,7 @@
       "framework",
       "assembly"
     ]
-  }
-  ,
+  },
   {
     "id": "33",
     "name": "Framework 12 + Beelink SER9 Desk",
@@ -484,8 +482,7 @@
       "framework",
       "beelink"
     ]
-  }
-  ,
+  },
   {
     "id": "38",
     "name": "Dark Omarchy Night Desk",
@@ -498,8 +495,7 @@
       "ultrawide",
       "night"
     ]
-  }
-  ,
+  },
   {
     "id": "39",
     "name": "Linux Mini PC Desk",
@@ -511,8 +507,7 @@
     "tags": [
       "mini-pc"
     ]
-  }
-  ,
+  },
   {
     "id": "40",
     "name": "One-Cable Creator Desk",
@@ -525,8 +520,7 @@
       "mini-pc",
       "stream-deck"
     ]
-  }
-  ,
+  },
   {
     "id": "41",
     "name": "Omarchy + Laptop Dual Desk",
@@ -539,8 +533,7 @@
       "external-monitor",
       "laptop"
     ]
-  }
-  ,
+  },
   {
     "id": "42",
     "name": "Bezy on Omarchy Arch Linux",
@@ -592,6 +585,32 @@
     "tags": [
       "framework",
       "wooden-desk"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Intel MacBook Pro + Dual Monitors",
+    "description": "Old Intel MacBook Pro with dual Dell monitors running Omarchy.",
+    "screenshot": "setups/setup-46.jpeg",
+    "link": "https://x.com/JakobsenTom/status/1968646506887438676",
+    "device": "Intel MacBook Pro + Dual Dell Monitors",
+    "category": "Desktop",
+    "tags": [
+      "macbook",
+      "dual-monitor"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Dell XPS 13 + Beelink SER9 Pro Desk",
+    "description": "Dell XPS 13 9370 (2018) laptop and Beelink SER9 Pro H255 mini PC, both running Omarchy.",
+    "screenshot": "setups/setup-47.jpeg",
+    "link": "https://x.com/giovantenne/status/1968616185789853954",
+    "device": "Dell XPS 13 9370 + Beelink SER9 Pro H255",
+    "category": "Desktop",
+    "tags": [
+      "dell",
+      "beelink"
     ]
   }
 ]
