@@ -18,6 +18,7 @@ export default function Home() {
   const featuredResources = resourcesData.slice(0, 6);
   const featuredReleases = releasesData.slice(0, 3);
   const latestRelease = releasesData.find(release => release.isLatest) || releasesData[0];
+  const latestVersion = latestRelease?.tag?.replace('v', '') || '0.0.0';
 
   return (
     <div className="min-h-screen bg-background">
@@ -104,7 +105,7 @@ export default function Home() {
                 <a href={latestRelease.url} target="_blank" rel="noopener noreferrer nofollow"
                    className="text-foreground/60 hover:text-blue transition-colors font-mono text-base flex items-center gap-2">
                   <Tag size={18} />
-                  Latest Release
+                  Latest v{latestVersion}
                 </a>
                 <span className="text-foreground/40">•</span>
               </>
