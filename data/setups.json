@@ -650,5 +650,31 @@
       "macbook",
       "benq"
     ]
+  },
+  {
+    "id": "51",
+    "name": "2015 MacBook Pro Lab Workspace",
+    "description": "2015 MacBook Pro in technical lab environment with electronic testing equipment.",
+    "screenshot": "setups/setup-51.jpeg",
+    "link": "https://x.com/MehdiHacks/status/1968788507456847974",
+    "device": "MacBook Pro 2015",
+    "category": "Laptop",
+    "tags": [
+      "macbook",
+      "lab"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "MacBook Pro 2015 in a Music Studio",
+    "description": "MacBook Pro 2015 running Omarchy in a music studio environment with guitars and audio equipment.",
+    "screenshot": "setups/setup-52.jpeg",
+    "link": "https://x.com/sierracharlie24/status/1968831523496272117",
+    "device": "MacBook Pro 2015",
+    "category": "Laptop",
+    "tags": [
+      "macbook",
+      "music-studio"
+    ]
   }
 ]
