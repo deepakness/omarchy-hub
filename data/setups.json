@@ -637,5 +637,18 @@
     "tags": [
       "macbook"
     ]
+  },
+  {
+    "id": "50",
+    "name": "Intel MacBook Pro + BenQ Monitor",
+    "description": "Intel MacBook Pro with BenQ external monitor running Omarchy.",
+    "screenshot": "setups/setup-50.jpeg",
+    "link": "https://x.com/quantumfire_io/status/1968857609269600732",
+    "device": "Intel MacBook Pro + BenQ Monitor",
+    "category": "Desktop",
+    "tags": [
+      "macbook",
+      "benq"
+    ]
   }
 ]
