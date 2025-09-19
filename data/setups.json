@@ -612,5 +612,30 @@
       "dell",
       "beelink"
     ]
+  },
+  {
+    "id": "48",
+    "name": "Mid-2009 MacBook Pro Revival",
+    "description": "Mid-2009 MacBook Pro 13-inch brought back to life with Omarchy v3.0.1.",
+    "screenshot": "setups/setup-48.jpeg",
+    "link": "https://x.com/pedroprez/status/1968832059880644762",
+    "device": "MacBook Pro 13-inch (Mid-2009)",
+    "category": "Laptop",
+    "tags": [
+      "macbook",
+      "vintage"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "MacBook Pro 2017 Installation",
+    "description": "MacBook Pro 2017 with dual graphics cards running Omarchy v3.0.",
+    "screenshot": "setups/setup-49.jpeg",
+    "link": "https://x.com/rixlabs/status/1968628236750836083",
+    "device": "MacBook Pro 2017",
+    "category": "Laptop",
+    "tags": [
+      "macbook"
+    ]
   }
 ]
