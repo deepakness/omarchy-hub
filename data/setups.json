@@ -689,5 +689,19 @@
       "framework",
       "installation"
     ]
+  },
+  {
+    "id": "54",
+    "name": "iPad mini via UTM (JIT)",
+    "description": "Installing and running Omarchy on iPad mini using UTM with JIT enabled.",
+    "screenshot": "setups/setup-54.jpeg",
+    "link": "https://x.com/antoniopicone/status/1968913898318307779",
+    "device": "iPad mini",
+    "category": "Tablet",
+    "tags": [
+      "ipad",
+      "utm",
+      "jit"
+    ]
   }
 ]
