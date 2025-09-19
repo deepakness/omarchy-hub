@@ -676,5 +676,18 @@
       "macbook",
       "music-studio"
     ]
+  },
+  {
+    "id": "53",
+    "name": "Framework Omarchy Installation",
+    "description": "Framework Laptop installing Omarchy 3.0 for Android development.",
+    "screenshot": "setups/setup-53.jpeg",
+    "link": "https://x.com/charliesbot/status/1968869074701627882",
+    "device": "Framework Laptop",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "installation"
+    ]
   }
 ]
