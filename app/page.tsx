@@ -37,7 +37,7 @@ export default function Home() {
               <div className="text-base text-green mb-2">$ cat README.md</div>
               <div className="text-foreground/80 mb-6">
                 <div className="mb-3">
-                    <div className="text-base">Community hub for Omarchy — DHH&apos;s keyboard-driven, developer-focused Linux distribution built on Arch + Hyprland</div>
+                    <div className="text-base">Unofficial community hub for Omarchy — DHH&apos;s keyboard-driven, developer-focused Linux distribution built on Arch + Hyprland</div>
                 </div>
               </div>
               
