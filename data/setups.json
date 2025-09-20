@@ -741,5 +741,17 @@
     "tags": [
       "home-office"
     ]
+  },
+  {
+    "id": "58",
+    "name": "Framework Omarchy Setup",
+    "description": "Omarchy Linux setup showcasing the desktop environment and system configuration.",
+    "screenshot": "setups/setup-58.jpeg",
+    "link": "https://x.com/lhargil/status/1969393489784783150",
+    "device": "Framework Desktop",
+    "category": "Desktop",
+    "tags": [
+      "framework"
+    ]
   }
 ]
