@@ -21,7 +21,7 @@ export default function ThemesPage() {
             { label: 'Home', href: '/' },
             { label: 'Themes' }
           ]} />
-          <h1 className="text-4xl font-bold text-green font-mono mb-4">Themes</h1>
+          <h1 className="text-4xl font-bold text-green font-mono mb-4">{themesData.length} Themes</h1>
           <p className="text-foreground/80 text-lg">
             Beautiful color schemes and themes shared by the community. Discover new visual styles and personalize your Omarchy desktop experience.
           </p>

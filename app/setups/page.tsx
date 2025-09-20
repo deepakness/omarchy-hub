@@ -23,7 +23,7 @@ export default function SetupsPage() {
             { label: 'Home', href: '/' },
             { label: 'Setups' }
           ]} />
-          <h1 className="text-4xl font-bold text-green font-mono mb-4">Workstation Setups</h1>
+          <h1 className="text-4xl font-bold text-green font-mono mb-4">{setupsData.length} Workstation Setups</h1>
           <p className="text-foreground/80 text-lg">
             Beautiful Omarchy workstation setups shared by the community. Browse different configurations and get inspired for your own setup.
           </p>

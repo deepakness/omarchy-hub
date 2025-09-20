@@ -15,18 +15,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Omarchy Hub - Community Resources",
+  title: {
+    template: "%s | Omarchy Hub",
+    default: "Omarchy Hub - Workstation Setups, Themes, and Resources",
+  },
   description: "Discover themes, setups, and resources for Omarchy Linux. Community-driven collection of tools and guides.",
   metadataBase: new URL("https://omarchy.deepakness.com"),
   openGraph: {
-    title: "Omarchy Hub - Community Resources",
+    title: "Omarchy Hub - Workstation Setups, Themes, and Resources",
     description: "Discover themes, setups, and resources for Omarchy Linux. Community-driven collection of tools and guides.",
     images: [
       {
-        url: "/omarchy-setups.png?v=3",
+        url: "/omarchy-setups.png",
         width: 1200,
         height: 630,
-        alt: "Omarchy Setups - Community Collection",
+        alt: "Omarchy Setups - Workstation Setups, Themes, and Resources",
       },
     ],
     type: "website",
@@ -34,9 +37,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Omarchy Hub - Community Resources",
+    title: "Omarchy Hub - Workstation Setups, Themes, and Resources",
     description: "Discover themes, setups, and resources for Omarchy Linux. Community-driven collection of tools and guides.",
-    images: ["/omarchy-setups.png?v=3"],
+    images: ["/omarchy-setups.png"],
   },
   icons: {
     icon: "/favicon.ico",
