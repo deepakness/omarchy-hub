@@ -703,5 +703,43 @@
       "utm",
       "jit"
     ]
+  },
+  {
+    "id": "55",
+    "name": "Late 2007 MacBook White Revival",
+    "description": "Late 2007 MacBook White running Omarchy 3.0.1 with local LLM, Docker, and Brave browser capabilities.",
+    "screenshot": "setups/setup-55.jpeg",
+    "link": "https://x.com/progmee/status/1969248152965235129",
+    "device": "MacBook White (Late 2007)",
+    "category": "Laptop",
+    "tags": [
+      "macbook",
+      "vintage",
+      "revival"
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Dual Laptop Omarchy Installation",
+    "description": "Two laptops side-by-side installing Omarchy Linux distro for family use.",
+    "screenshot": "setups/setup-56.jpeg",
+    "link": "https://x.com/sspaeti/status/1969373304239562951",
+    "device": "Dual Laptop Setup",
+    "category": "Laptop",
+    "tags": [
+      "dual-laptop"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Clean Home Office Omarchy Setup",
+    "description": "Modern home office with large monitor displaying Omarchy desktop environment.",
+    "screenshot": "setups/setup-57.jpeg",
+    "link": "https://x.com/lexoj/status/1969242037930037420",
+    "device": "Large Monitor + White Keyboard",
+    "category": "Desktop",
+    "tags": [
+      "home-office"
+    ]
   }
 ]
