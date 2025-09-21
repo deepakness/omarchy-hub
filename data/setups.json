@@ -753,5 +753,31 @@
     "tags": [
       "framework"
     ]
+  },
+  {
+    "id": "59",
+    "name": "Fayi's Dual Omarchy Workstation",
+    "description": "Complete transition from Mac with Beelink SER9 HX370 desktop and Framework F13 laptop.",
+    "screenshot": "setups/setup-59.jpeg",
+    "link": "https://x.com/FaYiMoRa/status/1969525243757707391",
+    "device": "Beelink SER9 HX370 + Framework F13 HX370",
+    "category": "Desktop",
+    "tags": [
+      "beelink",
+      "framework"
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Office NUC Gaming Setup",
+    "description": "Compact NUC running Omarchy Linux in a real office environment with 24/7 access.",
+    "screenshot": "setups/setup-60.jpeg",
+    "link": "https://x.com/tauraamuix/status/1969481319416520954",
+    "device": "Intel NUC + Samsung Monitor",
+    "category": "Desktop",
+    "tags": [
+      "nuc",
+      "office"
+    ]
   }
 ]
