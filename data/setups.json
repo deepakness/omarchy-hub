@@ -779,5 +779,71 @@
       "nuc",
       "office"
     ]
+  },
+  {
+    "id": "61",
+    "name": "Orange Framework Laptop Omarchy Setup",
+    "description": "Orange Framework laptop running Omarchy with clean blue desktop showing the OMARCHY logo.",
+    "screenshot": "setups/setup-61.jpeg",
+    "link": "https://x.com/soychotic/status/1969532776660525248",
+    "device": "Framework Laptop (Orange Input Cover)",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "orange"
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Alienware Gaming Laptop Omarchy Test",
+    "description": "Black Alienware gaming laptop with blue backlit keyboard testing Omarchy Linux.",
+    "screenshot": "setups/setup-62.jpeg",
+    "link": "https://x.com/angel_santosa/status/1969672112517292179",
+    "device": "Alienware Gaming Laptop",
+    "category": "Laptop",
+    "tags": [
+      "alienware",
+      "gaming"
+    ]
+  },
+  {
+    "id": "63",
+    "name": "ThePrimeagen's Studio Omarchy Desktop",
+    "description": "Professional desktop setup in a studio environment featuring a large BenQ monitor displaying Omarchy during boot.",
+    "screenshot": "setups/setup-63.jpeg",
+    "link": "https://x.com/ThePrimeagen/status/1969798437098127523",
+    "device": "Custom Desktop PC + BenQ Monitor",
+    "category": "Desktop",
+    "tags": [
+      "primeagen",
+      "studio",
+      "benq"
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Teej DV's Purple Ambient Framework Desktop",
+    "description": "Cozy attic workspace with Framework Desktop featuring sunset landscape wallpaper and Omarchy welcome screen.",
+    "screenshot": "setups/setup-64.jpeg",
+    "link": "https://x.com/teej_dv/status/1969754380221272141",
+    "device": "Framework Desktop + Large Monitor",
+    "category": "Desktop",
+    "tags": [
+      "framework",
+      "purple-lighting"
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Dell Laptop Omarchy Revival",
+    "description": "Old Dell laptop brought back to life with Omarchy Linux, showing the distinctive green pixelated login screen.",
+    "screenshot": "setups/setup-65.jpeg",
+    "link": "https://x.com/UtopicDev/status/1969753796286058498",
+    "device": "Dell Laptop",
+    "category": "Laptop",
+    "tags": [
+      "dell",
+      "revival"
+    ]
   }
 ]
