@@ -782,7 +782,7 @@
   },
   {
     "id": "61",
-    "name": "Orange Framework Laptop Omarchy Setup",
+    "name": "Orange Framework Laptop",
     "description": "Orange Framework laptop running Omarchy with clean blue desktop showing the OMARCHY logo.",
     "screenshot": "setups/setup-61.jpeg",
     "link": "https://x.com/soychotic/status/1969532776660525248",
@@ -808,8 +808,8 @@
   },
   {
     "id": "63",
-    "name": "ThePrimeagen's Studio Omarchy Desktop",
-    "description": "Professional desktop setup in a studio environment featuring a large BenQ monitor displaying Omarchy during boot.",
+    "name": "ThePrimeagen's Studio Desktop",
+    "description": "Professional desktop setup in a studio environment featuring a large BenQ monitor.",
     "screenshot": "setups/setup-63.jpeg",
     "link": "https://x.com/ThePrimeagen/status/1969798437098127523",
     "device": "Custom Desktop PC + BenQ Monitor",
@@ -822,8 +822,8 @@
   },
   {
     "id": "64",
-    "name": "Teej DV's Purple Ambient Framework Desktop",
-    "description": "Cozy attic workspace with Framework Desktop featuring sunset landscape wallpaper and Omarchy welcome screen.",
+    "name": "Purple Ambient Framework Desktop",
+    "description": "Cozy attic workspace with Framework Desktop featuring sunset landscape wallpaper.",
     "screenshot": "setups/setup-64.jpeg",
     "link": "https://x.com/teej_dv/status/1969754380221272141",
     "device": "Framework Desktop + Large Monitor",
@@ -836,7 +836,7 @@
   {
     "id": "65",
     "name": "Dell Laptop Omarchy Revival",
-    "description": "Old Dell laptop brought back to life with Omarchy Linux, showing the distinctive green pixelated login screen.",
+    "description": "Old Dell laptop brought back to life with Omarchy Linux, showing the green login screen.",
     "screenshot": "setups/setup-65.jpeg",
     "link": "https://x.com/UtopicDev/status/1969753796286058498",
     "device": "Dell Laptop",
@@ -844,6 +844,90 @@
     "tags": [
       "dell",
       "revival"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Josh Medeski's ASUS Setup",
+    "description": "ASUS monitor with Omarchy, Keychron K2 HE keyboard, VR headset, and gaming peripherals.",
+    "screenshot": "setups/setup-66.jpeg",
+    "link": "https://x.com/joshmedeski/status/1970534418503868536",
+    "device": "ASUS Monitor + Keychron K2 HE",
+    "category": "Desktop",
+    "tags": [
+      "asus",
+      "keychron",
+      "gaming"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Blinku's Green Terminal Setup",
+    "description": "Dark minimalist workspace with dual green terminal displays and ambient lighting.",
+    "screenshot": "setups/setup-67.jpeg",
+    "link": "https://x.com/blinku_dev/status/1970780529323917441",
+    "device": "External Monitor + Laptop",
+    "category": "Desktop",
+    "tags": [
+      "dual-monitor",
+      "green-terminal",
+      "minimalist"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Ivan Stoev's Neovim Setup",
+    "description": "Samsung monitor with Omarchy Linux, LazyVim configuration, and PlayStation 5 console.",
+    "screenshot": "setups/setup-68.jpeg",
+    "link": "https://x.com/ivanzstoev10/status/1970563629734080624",
+    "device": "Samsung Monitor + Custom PC",
+    "category": "Desktop",
+    "tags": [
+      "samsung",
+      "neovim",
+      "developer"
+    ]
+  },
+  {
+    "id": "69",
+    "name": "Willem's 2017 iMac Revival",
+    "description": "2017 Apple iMac with Omarchy Linux, Tokio Night theme, and 6-minute installation.",
+    "screenshot": "setups/setup-69.jpeg",
+    "link": "https://willem.com/en/2025-09-22_omarchy-on-imac/",
+    "device": "Apple iMac 2017 (21-inch, Intel i5, 8GB RAM)",
+    "category": "Desktop",
+    "tags": [
+      "imac",
+      "apple",
+      "revival"
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Rob's ASUS ProArt 6K Setup",
+    "description": "ASUS ProArt 6K 32\" monitor with 218ppi display and green Omarchy interface.",
+    "screenshot": "setups/setup-70.jpeg",
+    "link": "https://x.com/robzolkos/status/1970123111724154974",
+    "device": "ASUS ProArt 6K 32\" Monitor",
+    "category": "Desktop",
+    "tags": [
+      "asus",
+      "proart",
+      "developer"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Stefano's Purple LED Setup",
+    "description": "Dual monitor workspace with purple/pink LED lighting and custom Omarchy screensavers.",
+    "screenshot": "setups/setup-71.jpeg",
+    "link": "https://x.com/stefanomainardi/status/1969995811661484420",
+    "device": "Dual Monitor + Apple Mac Mini",
+    "category": "Desktop",
+    "tags": [
+      "dual-monitor",
+      "led-lighting",
+      "mac-mini"
     ]
   }
 ]
