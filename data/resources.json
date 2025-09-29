@@ -112,5 +112,19 @@
       "ui-kit",
       "development"
     ]
+  },
+  {
+    "id": "10",
+    "name": "Omarchist",
+    "description": "A GUI app for Omarchy with a visual theme designer powered by Tauri, Rust, and Svelte.",
+    "category": "Application",
+    "link": "https://github.com/tahayvr/omarchist",
+    "author": "tahayvr",
+    "tags": [
+      "gui",
+      "theme-designer",
+      "tauri",
+      "svelte"
+    ]
   }
 ]
