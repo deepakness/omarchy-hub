@@ -483,7 +483,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/vyrx-dev/omarchy-void-theme",
     "author": "vyrx-dev",
-    "screenshot": "https://i.postimg.cc/VsxjDpRp/setup-1.png",
+    "screenshot": "https://raw.githubusercontent.com/vyrx-dev/omarchy-void-theme/refs/heads/master/backgrounds/124.jpg",
     "tags": [
       "unofficial"
     ]
@@ -497,6 +497,20 @@
     "screenshot": "https://gitlab.com/bhavabhuthi/omarchy-gornergrat-station-theme/-/raw/main/assets/theme-1.png",
     "tags": [
       "unofficial"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "C64",
+    "category": "Colorful",
+    "link": "https://github.com/scar45/omarchy-c64-theme",
+    "author": "@scar45",
+    "screenshot": "https://raw.githubusercontent.com/scar45/omarchy-c64-theme/refs/heads/main/theme.png",
+    "tags": [
+      "unofficial",
+      "blue",
+      "retro",
+      "nostalgic"
     ]
   }
 ]
