@@ -929,5 +929,31 @@
       "led-lighting",
       "mac-mini"
     ]
+  },
+  {
+    "id": "72",
+    "name": "DHH's Framework Laptop 12",
+    "description": "Framework Laptop 12 with impressive performance - 4m13s HEY test, under $1,000.",
+    "screenshot": "setups/setup-72.jpeg",
+    "link": "https://x.com/dhh/status/1973752275001888808",
+    "device": "Framework Laptop 12 (Intel i5 1334U)",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "dhh"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Cool Desktop Setup",
+    "description": "Smooth Omarchy v0.4.0 installation with beautiful themes. Features GOVO soundbar and mechanical keyboard.",
+    "screenshot": "setups/setup-73.jpeg",
+    "link": "https://x.com/RajaAyyanar/status/1974180922602955177",
+    "device": "Custom Desktop PC + BenQ Monitor",
+    "category": "Desktop",
+    "tags": [
+      "benq",
+      "mechanical-keyboard"
+    ]
   }
 ]
