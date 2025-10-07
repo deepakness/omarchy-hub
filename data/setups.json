@@ -970,5 +970,19 @@
       "dual-display",
       "gaming"
     ]
+  },
+  {
+    "id": "75",
+    "name": "DHH's Omarchy Retro Gaming Rig",
+    "description": "Epic home entertainment setup featuring a glorious 115\" TCL screen with high-end audio speakers and retro gamepad.",
+    "screenshot": "setups/setup-75.jpeg",
+    "link": "https://x.com/dhh/status/1975499113182761454",
+    "device": "115\" TCL Screen + High-End Speakers",
+    "category": "Desktop",
+    "tags": [
+      "dhh",
+      "retro-gaming",
+      "large-screen"
+    ]
   }
 ]
