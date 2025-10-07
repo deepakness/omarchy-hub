@@ -955,5 +955,20 @@
       "benq",
       "mechanical-keyboard"
     ]
+  },
+  {
+    "id": "74",
+    "name": "Dell Alienware X17 R1 Setup",
+    "description": "Powerful gaming laptop setup featuring Dell Alienware X17 R1 with dual external displays.",
+    "screenshot": "setups/setup-74.jpeg",
+    "link": "https://x.com/komagata/status/1975165337646809303",
+    "device": "Alienware X17 R1, Dell Displays, WOBKEY Rainy 75",
+    "category": "Desktop",
+    "tags": [
+      "alienware",
+      "dell",
+      "dual-display",
+      "gaming"
+    ]
   }
 ]

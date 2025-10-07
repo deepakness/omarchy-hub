@@ -512,5 +512,18 @@
       "retro",
       "nostalgic"
     ]
+  },
+  {
+    "id": "46",
+    "name": "Kawasaki Foundry",
+    "category": "Dark Theme",
+    "link": "https://github.com/komagata/omarchy-kawasaki-foundry-theme",
+    "author": "@komagata",
+    "screenshot": "https://raw.githubusercontent.com/komagata/omarchy-kawasaki-foundry-theme/refs/heads/main/backgrounds/kawasaki-foundry.png",
+    "tags": [
+      "unofficial",
+      "purple",
+      "pink"
+    ]
   }
 ]
