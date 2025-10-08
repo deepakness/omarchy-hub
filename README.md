@@ -26,14 +26,6 @@ A community-driven website for collecting and sharing themes, setups, resources,
 │   └── resources/          # Resources section
 │       ├── layout.tsx      # Resources layout
 │       └── page.tsx        # Resources listing page
-├── components/             # Reusable React components
-│   ├── Card.tsx            # Content card component
-│   ├── OmarchyLogo.tsx     # Main logo component
-│   ├── PixelButton.tsx     # Retro-style button component
-│   ├── Header.tsx          # Navigation header
-│   ├── NavButton.tsx       # Navigation button component
-│   ├── Breadcrumb.tsx      # Navigation breadcrumb
-│   └── ReleaseCard.tsx     # Release card component
 ├── data/                   # JSON data files
 │   ├── themes.json         # Themes data
 │   ├── setups.json         # Setups data
@@ -42,7 +34,6 @@ A community-driven website for collecting and sharing themes, setups, resources,
 │   └── links.json          # Links data
 ├── scripts/                # Automation scripts
 │   ├── generate-setups.js  # Generate setup data from screenshots
-│   ├── watch-setups.js     # Watch for new setup screenshots
 │   ├── fetch-releases.js   # Fetch latest Omarchy releases
 │   └── optimize-images.js  # Optimize setup images
 ├── public/                 # Static assets
