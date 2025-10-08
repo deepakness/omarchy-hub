@@ -1,13 +1,13 @@
 # Cool Omarchy workstation setups
 
-Welcome to the Omarchy community showcase! This page features amazing workstation setups from users around the world who have embraced the Omarchy Linux distribution. From vintage hardware revivals to cutting-edge gaming rigs, these setups demonstrate the versatility and power of Omarchy across different hardware configurations.
+Welcome to the Omarchy community showcase! This page features amazing workstation setups from users around the world who have embraced the Omarchy Linux distribution.
 
 ## Statistics
 
-- **Total Setups:** 75
-- **Desktop Setups:** 43
-- **Laptop Setups:** 31
-- **Tablet Setups:** 1
+- **Total setups:** 75
+- **Desktop setups:** 43
+- **Laptop setups:** 31
+- **Tablet setups:** 1
 
 ## About these setups
 
@@ -31,7 +31,7 @@ Clean minimalist workspace combining Apple's industrial design with Omarchy on a
 
 **Tags:** `apple`, `minimal`, `studio-display`
 
-**Source:** [View Original Post](https://x.com/BramJetten/status/1963854925093351802)
+**Source:** [View original post](https://x.com/BramJetten/status/1963854925093351802)
 
 ---
 
@@ -45,7 +45,7 @@ Framework 13 laptop running Omarchy 2.0 with Hyprland and vibrant purple mountai
 
 **Tags:** `framework`, `laptop`, `orange`
 
-**Source:** [View Original Post](https://x.com/ChrisKade57/status/1960061026973421649)
+**Source:** [View original post](https://x.com/ChrisKade57/status/1960061026973421649)
 
 ---
 
@@ -59,7 +59,7 @@ A classic 2012 Apple iMac resurrected with Omarchy, featuring Hyprland, LazyVim,
 
 **Tags:** `apple`, `imac`, `vintage`
 
-**Source:** [View Original Post](https://x.com/jenseickmeyer/status/1964352050113786234)
+**Source:** [View original post](https://x.com/jenseickmeyer/status/1964352050113786234)
 
 ---
 
@@ -73,7 +73,7 @@ A powerful Linux desktop setup running Omarchy and Hyprland on a Beelink SER8 mi
 
 **Tags:** `beelink`, `mini-pc`, `productivity`
 
-**Source:** [View Original Post](https://x.com/rsstafford/status/1946625692684243202)
+**Source:** [View original post](https://x.com/rsstafford/status/1946625692684243202)
 
 ---
 
@@ -87,7 +87,7 @@ Smooth Omarchy installation on a used ThinkPad X1 Carbon Gen8 - completed in und
 
 **Tags:** `thinkpad`, `x1-carbon`
 
-**Source:** [View Original Post](https://x.com/mustafaakin/status/1947996374576075000)
+**Source:** [View original post](https://x.com/mustafaakin/status/1947996374576075000)
 
 ---
 
@@ -101,7 +101,7 @@ A month-long journey from Arch to Omarchy - built custom idempotent setup script
 
 **Tags:** `apple`, `lg`
 
-**Source:** [View Original Post](https://x.com/coendewit/status/1961091631102173527)
+**Source:** [View original post](https://x.com/coendewit/status/1961091631102173527)
 
 ---
 
@@ -115,7 +115,7 @@ Omarchy on an older ThinkPad with 7th‑gen i7 — runs fast and smooth compared
 
 **Tags:** `thinkpad`
 
-**Source:** [View Original Post](https://x.com/didier_paolini/status/1964719691165004194)
+**Source:** [View original post](https://x.com/didier_paolini/status/1964719691165004194)
 
 ---
 
@@ -129,7 +129,7 @@ Loving the Beelink + Omarchy setup with The Great Wave off Kanagawa wallpaper.
 
 **Tags:** `beelink`, `mini-pc`
 
-**Source:** [View Original Post](https://x.com/roehrich_sam/status/1965206880176992302)
+**Source:** [View original post](https://x.com/roehrich_sam/status/1965206880176992302)
 
 ---
 
@@ -143,7 +143,7 @@ Framework13 laptop paired with Samsung 49inch G9 ultrawide monitor running Omarc
 
 **Tags:** `framework`, `ultrawide`
 
-**Source:** [View Original Post](https://x.com/LiamBateman1/status/1965390602499227927)
+**Source:** [View original post](https://x.com/LiamBateman1/status/1965390602499227927)
 
 ---
 
@@ -157,7 +157,7 @@ Framework 13 ultrabook running terabyte-sized workloads with DuckDB
 
 **Tags:** `framework`, `ryzen`
 
-**Source:** [View Original Post](https://x.com/duckdb/status/1965132696251998603)
+**Source:** [View original post](https://x.com/duckdb/status/1965132696251998603)
 
 ---
 
@@ -171,7 +171,7 @@ Enjoying a clean work setup powered by Framework desktop running Omarchy.
 
 **Tags:** `framework`, `split-keyboard`
 
-**Source:** [View Original Post](https://x.com/martinmose/status/1964024176101953791)
+**Source:** [View original post](https://x.com/martinmose/status/1964024176101953791)
 
 ---
 
@@ -185,7 +185,7 @@ Omarchy running fast on a $385 Beelink PC with stunning visuals on Apple Studio 
 
 **Tags:** `beelink`, `studio-display`
 
-**Source:** [View Original Post](https://x.com/lylo/status/1965826027101520290)
+**Source:** [View original post](https://x.com/lylo/status/1965826027101520290)
 
 ---
 
@@ -199,7 +199,7 @@ Experimental Omarchy setup on found hardware - Zima board with compact display.
 
 **Tags:** `experimental`, `zima-board`
 
-**Source:** [View Original Post](https://x.com/adrianjx/status/1965378834620186970)
+**Source:** [View original post](https://x.com/adrianjx/status/1965378834620186970)
 
 ---
 
@@ -213,7 +213,7 @@ Opinionated Omarchy setup for firmware development with neat single-board rig an
 
 **Tags:** `firmware`, `ducky`
 
-**Source:** [View Original Post](https://x.com/Servet_edu/status/1966158274505650186)
+**Source:** [View original post](https://x.com/Servet_edu/status/1966158274505650186)
 
 ---
 
@@ -227,7 +227,7 @@ Highly customized dual-monitor gaming and productivity setup with RGB lighting.
 
 **Tags:** `gaming`, `dual-monitor`
 
-**Source:** [View Original Post](https://x.com/rahnolds/status/1966240885311758338)
+**Source:** [View original post](https://x.com/rahnolds/status/1966240885311758338)
 
 ---
 
@@ -241,7 +241,7 @@ ZenBook Duo with Omarchy - dual-screen laptop with split ergonomic keyboard and 
 
 **Tags:** `dual-screen`, `split-keyboard`
 
-**Source:** [View Original Post](https://x.com/rahnolds/status/1966251916096397573)
+**Source:** [View original post](https://x.com/rahnolds/status/1966251916096397573)
 
 ---
 
@@ -255,7 +255,7 @@ Omarchy loaded beautifully on ASUS Flow Z13 128GB Strix Halo box.
 
 **Tags:** `flow-z13`, `2-in-1`
 
-**Source:** [View Original Post](https://x.com/moltar81435/status/1966284712735027543)
+**Source:** [View original post](https://x.com/moltar81435/status/1966284712735027543)
 
 ---
 
@@ -269,7 +269,7 @@ Clean dual-monitor setup with ThinkPad and external display.
 
 **Tags:** `thinkpad`, `dual-monitor`
 
-**Source:** [View Original Post](https://x.com/realvicfei/status/1966258292059214281)
+**Source:** [View original post](https://x.com/realvicfei/status/1966258292059214281)
 
 ---
 
@@ -283,7 +283,7 @@ Professional content creation workstation with custom liquid-cooled PC with ultr
 
 **Tags:** `liquid-cooled`, `ultrawide`
 
-**Source:** [View Original Post](https://x.com/DenLoginoff/status/1966247834052944244)
+**Source:** [View original post](https://x.com/DenLoginoff/status/1966247834052944244)
 
 ---
 
@@ -297,7 +297,7 @@ Clean and modern workspace featuring Minisforum UM760 mini PC with Samsung monit
 
 **Tags:** `minisforum`, `samsung`
 
-**Source:** [View Original Post](https://x.com/pinku1/status/1966254657938010166)
+**Source:** [View original post](https://x.com/pinku1/status/1966254657938010166)
 
 ---
 
@@ -311,7 +311,7 @@ Framework laptop running Omarchy with terminal panes and system metrics visible.
 
 **Tags:** `framework`
 
-**Source:** [View Original Post](https://x.com/rsim/status/1966251634591404049)
+**Source:** [View original post](https://x.com/rsim/status/1966251634591404049)
 
 ---
 
@@ -325,7 +325,7 @@ High-performance coding workstation featuring Beelink SER8 mini PC with AMD Ryze
 
 **Tags:** `beelink`, `imac`
 
-**Source:** [View Original Post](https://x.com/deanpcmad/status/1966510826019328458)
+**Source:** [View original post](https://x.com/deanpcmad/status/1966510826019328458)
 
 ---
 
@@ -339,7 +339,7 @@ High-performance coding workstation featuring Beelink SER8 mini PC with AMD Ryze
 
 **Tags:** `dell`, `latitude`
 
-**Source:** [View Original Post](https://x.com/corrieuys/status/1966559360076710140)
+**Source:** [View original post](https://x.com/corrieuys/status/1966559360076710140)
 
 ---
 
@@ -353,7 +353,7 @@ Professional office workstation featuring Framework Desktop running Omarchy.
 
 **Tags:** `framework`, `asus`
 
-**Source:** [View Original Post](https://x.com/RugvedSomwanshi/status/1966643462888947994)
+**Source:** [View original post](https://x.com/RugvedSomwanshi/status/1966643462888947994)
 
 ---
 
@@ -367,7 +367,7 @@ Modern ergonomic workspace featuring Samsung curved monitor, split keyboard, and
 
 **Tags:** `samsung`, `mac-mini`, `split-keyboard`
 
-**Source:** [View Original Post](https://x.com/matteodevenuto/status/1966878941525766567)
+**Source:** [View original post](https://x.com/matteodevenuto/status/1966878941525766567)
 
 ---
 
@@ -381,7 +381,7 @@ Clean workspace featuring Framework Laptop connected to external monitor.
 
 **Tags:** `framework`, `external-monitor`
 
-**Source:** [View Original Post](https://x.com/mycorealm/status/1966895062421504487)
+**Source:** [View original post](https://x.com/mycorealm/status/1966895062421504487)
 
 ---
 
@@ -395,7 +395,7 @@ Old Dell Inspiron laptop brought back to life with Omarchy Linux.
 
 **Tags:** `dell`, `inspiron`
 
-**Source:** [View Original Post](https://x.com/scarowar/status/1966795535957848176)
+**Source:** [View original post](https://x.com/scarowar/status/1966795535957848176)
 
 ---
 
@@ -409,7 +409,7 @@ Built from old PC parts lying around - perfect excuse to try Omarchy.
 
 **Tags:** `custom-pc`, `nvidia`, `dell`
 
-**Source:** [View Original Post](https://x.com/ershus/status/1967232768926261479)
+**Source:** [View original post](https://x.com/ershus/status/1967232768926261479)
 
 ---
 
@@ -423,7 +423,7 @@ Custom handheld UMPC built around a Framework 13 mainboard with a 10.1" touchscr
 
 **Tags:** `framework`, `touchscreen`
 
-**Source:** [View Original Post](https://x.com/2disbetter/status/1967505771132035469)
+**Source:** [View original post](https://x.com/2disbetter/status/1967505771132035469)
 
 ---
 
@@ -437,7 +437,7 @@ Omarchy trial at Rails World on a Dell curved ultrawide with laptop and wooden c
 
 **Tags:** `ultrawide`, `dell`
 
-**Source:** [View Original Post](https://x.com/emcousin/status/1967594396754596098)
+**Source:** [View original post](https://x.com/emcousin/status/1967594396754596098)
 
 ---
 
@@ -451,7 +451,7 @@ Framework laptop showcasing Omarchy with a beautiful Japanese-style house wallpa
 
 **Tags:** `framework`
 
-**Source:** [View Original Post](https://x.com/MatSilva/status/1967768938181431533)
+**Source:** [View original post](https://x.com/MatSilva/status/1967768938181431533)
 
 ---
 
@@ -465,7 +465,7 @@ Building a Framework laptop and installing Omarchy - a journey outside Apple ter
 
 **Tags:** `framework`, `assembly`
 
-**Source:** [View Original Post](https://x.com/__au6ust__/status/1967735794795418018)
+**Source:** [View original post](https://x.com/__au6ust__/status/1967735794795418018)
 
 ---
 
@@ -479,7 +479,7 @@ Framework 12 laptop for mobility; Beelink SER9 handles office work with dual Del
 
 **Tags:** `framework`, `beelink`, `dual-monitor`
 
-**Source:** [View Original Post](https://x.com/MatSilva/status/1967981591009038598)
+**Source:** [View original post](https://x.com/MatSilva/status/1967981591009038598)
 
 ---
 
@@ -493,7 +493,7 @@ Installing Omarchy on a MacBook Pro with the distinctive green pixelated termina
 
 **Tags:** `macbook`, `installation`
 
-**Source:** [View Original Post](https://x.com/treramey/status/1967741136715542671)
+**Source:** [View original post](https://x.com/treramey/status/1967741136715542671)
 
 ---
 
@@ -507,7 +507,7 @@ Framework laptop showcasing Omarchy's tiling window manager with Super key navig
 
 **Tags:** `framework`
 
-**Source:** [View Original Post](https://x.com/ZenFuturist/status/1968028457415348445)
+**Source:** [View original post](https://x.com/ZenFuturist/status/1968028457415348445)
 
 ---
 
@@ -521,7 +521,7 @@ Framework 13 DIY laptop with Omarchy - from hardware assembly to OS boot in unde
 
 **Tags:** `framework`, `diy`
 
-**Source:** [View Original Post](https://x.com/brainscott/status/1968087499575792063)
+**Source:** [View original post](https://x.com/brainscott/status/1968087499575792063)
 
 ---
 
@@ -535,7 +535,7 @@ Framework laptop and Beelink mini PC running Omarchy - a transition from 20+ yea
 
 **Tags:** `framework`, `beelink`
 
-**Source:** [View Original Post](https://x.com/alansikora/status/1967964105265774976)
+**Source:** [View original post](https://x.com/alansikora/status/1967964105265774976)
 
 ---
 
@@ -549,7 +549,7 @@ Curved ultrawide monitor running Omarchy in a dark room setup.
 
 **Tags:** `ultrawide`, `night`
 
-**Source:** [View Original Post](https://x.com/dvorakative/status/1968137366343913880)
+**Source:** [View original post](https://x.com/dvorakative/status/1968137366343913880)
 
 ---
 
@@ -563,7 +563,7 @@ Clean single-monitor desk running Omarchy on a mini PC with backlit compact keyb
 
 **Tags:** `mini-pc`
 
-**Source:** [View Original Post](https://x.com/rodrigorojop/status/1967778410333438346)
+**Source:** [View original post](https://x.com/rodrigorojop/status/1967778410333438346)
 
 ---
 
@@ -577,7 +577,7 @@ Omarchy mini PC creator setup with single-cable switching, RGB lighting, and a S
 
 **Tags:** `mini-pc`, `stream-deck`
 
-**Source:** [View Original Post](https://x.com/rodrigorojop/status/1968114997311193594)
+**Source:** [View original post](https://x.com/rodrigorojop/status/1968114997311193594)
 
 ---
 
@@ -591,7 +591,7 @@ External monitor running Omarchy alongside a laptop and tablet with a compact me
 
 **Tags:** `external-monitor`, `laptop`
 
-**Source:** [View Original Post](https://x.com/kawnnor/status/1967915491961475299)
+**Source:** [View original post](https://x.com/kawnnor/status/1967915491961475299)
 
 ---
 
@@ -605,7 +605,7 @@ Omarchy Arch Linux running Bezy with bold typography test on an LG monitor.
 
 **Tags:** `arch`, `bezy`
 
-**Source:** [View Original Post](https://x.com/eliheuer/status/1967664072318652593)
+**Source:** [View original post](https://x.com/eliheuer/status/1967664072318652593)
 
 ---
 
@@ -619,7 +619,7 @@ ASUS Zenbook S16 laptop showing Omarchy installation interface.
 
 **Tags:** `asus`, `zenbook`, `installation`
 
-**Source:** [View Original Post](https://x.com/pcnoic/status/1968289840396714422)
+**Source:** [View original post](https://x.com/pcnoic/status/1968289840396714422)
 
 ---
 
@@ -633,7 +633,7 @@ Framework Laptop 13 with AMD Ryzen AI 9 HX 370 running Omarchy v2.1.2.
 
 **Tags:** `framework`, `ryzen`
 
-**Source:** [View Original Post](https://x.com/maxart/status/1968494249311367498)
+**Source:** [View original post](https://x.com/maxart/status/1968494249311367498)
 
 ---
 
@@ -647,7 +647,7 @@ Clean home office setup featuring Framework Laptop 13, wooden desk, and purple m
 
 **Tags:** `framework`, `wooden-desk`
 
-**Source:** [View Original Post](https://x.com/dvassallo/status/1968388267512095002)
+**Source:** [View original post](https://x.com/dvassallo/status/1968388267512095002)
 
 ---
 
@@ -661,7 +661,7 @@ Old Intel MacBook Pro with dual Dell monitors running Omarchy.
 
 **Tags:** `macbook`, `dual-monitor`
 
-**Source:** [View Original Post](https://x.com/JakobsenTom/status/1968646506887438676)
+**Source:** [View original post](https://x.com/JakobsenTom/status/1968646506887438676)
 
 ---
 
@@ -675,7 +675,7 @@ Dell XPS 13 9370 (2018) laptop and Beelink SER9 Pro H255 mini PC, both running O
 
 **Tags:** `dell`, `beelink`
 
-**Source:** [View Original Post](https://x.com/giovantenne/status/1968616185789853954)
+**Source:** [View original post](https://x.com/giovantenne/status/1968616185789853954)
 
 ---
 
@@ -689,7 +689,7 @@ Mid-2009 MacBook Pro 13-inch brought back to life with Omarchy v3.0.1.
 
 **Tags:** `macbook`, `vintage`
 
-**Source:** [View Original Post](https://x.com/pedroprez/status/1968832059880644762)
+**Source:** [View original post](https://x.com/pedroprez/status/1968832059880644762)
 
 ---
 
@@ -703,7 +703,7 @@ MacBook Pro 2017 with dual graphics cards running Omarchy v3.0.
 
 **Tags:** `macbook`
 
-**Source:** [View Original Post](https://x.com/rixlabs/status/1968628236750836083)
+**Source:** [View original post](https://x.com/rixlabs/status/1968628236750836083)
 
 ---
 
@@ -717,7 +717,7 @@ Intel MacBook Pro with BenQ external monitor running Omarchy.
 
 **Tags:** `macbook`, `benq`
 
-**Source:** [View Original Post](https://x.com/quantumfire_io/status/1968857609269600732)
+**Source:** [View original post](https://x.com/quantumfire_io/status/1968857609269600732)
 
 ---
 
@@ -731,7 +731,7 @@ Intel MacBook Pro with BenQ external monitor running Omarchy.
 
 **Tags:** `macbook`, `lab`
 
-**Source:** [View Original Post](https://x.com/MehdiHacks/status/1968788507456847974)
+**Source:** [View original post](https://x.com/MehdiHacks/status/1968788507456847974)
 
 ---
 
@@ -745,7 +745,7 @@ MacBook Pro 2015 running Omarchy in a music studio environment with guitars and 
 
 **Tags:** `macbook`, `music-studio`
 
-**Source:** [View Original Post](https://x.com/sierracharlie24/status/1968831523496272117)
+**Source:** [View original post](https://x.com/sierracharlie24/status/1968831523496272117)
 
 ---
 
@@ -759,7 +759,7 @@ Framework Laptop installing Omarchy 3.0 for Android development.
 
 **Tags:** `framework`, `installation`
 
-**Source:** [View Original Post](https://x.com/charliesbot/status/1968869074701627882)
+**Source:** [View original post](https://x.com/charliesbot/status/1968869074701627882)
 
 ---
 
@@ -773,7 +773,7 @@ Installing and running Omarchy on iPad mini using UTM with JIT enabled.
 
 **Tags:** `ipad`, `utm`, `jit`
 
-**Source:** [View Original Post](https://x.com/antoniopicone/status/1968913898318307779)
+**Source:** [View original post](https://x.com/antoniopicone/status/1968913898318307779)
 
 ---
 
@@ -787,7 +787,7 @@ Late 2007 MacBook White running Omarchy 3.0.1 with local LLM, Docker, and Brave 
 
 **Tags:** `macbook`, `vintage`, `revival`
 
-**Source:** [View Original Post](https://x.com/progmee/status/1969248152965235129)
+**Source:** [View original post](https://x.com/progmee/status/1969248152965235129)
 
 ---
 
@@ -801,7 +801,7 @@ Two laptops side-by-side installing Omarchy Linux distro for family use.
 
 **Tags:** `dual-laptop`
 
-**Source:** [View Original Post](https://x.com/sspaeti/status/1969373304239562951)
+**Source:** [View original post](https://x.com/sspaeti/status/1969373304239562951)
 
 ---
 
@@ -815,7 +815,7 @@ Modern home office with large monitor displaying Omarchy desktop environment.
 
 **Tags:** `home-office`
 
-**Source:** [View Original Post](https://x.com/lexoj/status/1969242037930037420)
+**Source:** [View original post](https://x.com/lexoj/status/1969242037930037420)
 
 ---
 
@@ -829,7 +829,7 @@ Omarchy Linux setup showcasing the desktop environment and system configuration.
 
 **Tags:** `framework`
 
-**Source:** [View Original Post](https://x.com/lhargil/status/1969393489784783150)
+**Source:** [View original post](https://x.com/lhargil/status/1969393489784783150)
 
 ---
 
@@ -843,7 +843,7 @@ Complete transition from Mac with Beelink SER9 HX370 desktop and Framework F13 l
 
 **Tags:** `beelink`, `framework`
 
-**Source:** [View Original Post](https://x.com/FaYiMoRa/status/1969525243757707391)
+**Source:** [View original post](https://x.com/FaYiMoRa/status/1969525243757707391)
 
 ---
 
@@ -857,7 +857,7 @@ Compact NUC running Omarchy Linux in a real office environment with 24/7 access.
 
 **Tags:** `nuc`, `office`
 
-**Source:** [View Original Post](https://x.com/tauraamuix/status/1969481319416520954)
+**Source:** [View original post](https://x.com/tauraamuix/status/1969481319416520954)
 
 ---
 
@@ -871,7 +871,7 @@ Orange Framework laptop running Omarchy with clean blue desktop showing the OMAR
 
 **Tags:** `framework`, `orange`
 
-**Source:** [View Original Post](https://x.com/soychotic/status/1969532776660525248)
+**Source:** [View original post](https://x.com/soychotic/status/1969532776660525248)
 
 ---
 
@@ -885,7 +885,7 @@ Black Alienware gaming laptop with blue backlit keyboard testing Omarchy Linux.
 
 **Tags:** `alienware`, `gaming`
 
-**Source:** [View Original Post](https://x.com/angel_santosa/status/1969672112517292179)
+**Source:** [View original post](https://x.com/angel_santosa/status/1969672112517292179)
 
 ---
 
@@ -899,7 +899,7 @@ Professional desktop setup in a studio environment featuring a large BenQ monito
 
 **Tags:** `primeagen`, `studio`, `benq`
 
-**Source:** [View Original Post](https://x.com/ThePrimeagen/status/1969798437098127523)
+**Source:** [View original post](https://x.com/ThePrimeagen/status/1969798437098127523)
 
 ---
 
@@ -913,7 +913,7 @@ Cozy attic workspace with Framework Desktop featuring sunset landscape wallpaper
 
 **Tags:** `framework`, `purple-lighting`
 
-**Source:** [View Original Post](https://x.com/teej_dv/status/1969754380221272141)
+**Source:** [View original post](https://x.com/teej_dv/status/1969754380221272141)
 
 ---
 
@@ -927,7 +927,7 @@ Old Dell laptop brought back to life with Omarchy Linux, showing the green login
 
 **Tags:** `dell`, `revival`
 
-**Source:** [View Original Post](https://x.com/UtopicDev/status/1969753796286058498)
+**Source:** [View original post](https://x.com/UtopicDev/status/1969753796286058498)
 
 ---
 
@@ -941,7 +941,7 @@ ASUS monitor with Omarchy, Keychron K2 HE keyboard, VR headset, and gaming perip
 
 **Tags:** `asus`, `keychron`, `gaming`
 
-**Source:** [View Original Post](https://x.com/joshmedeski/status/1970534418503868536)
+**Source:** [View original post](https://x.com/joshmedeski/status/1970534418503868536)
 
 ---
 
@@ -955,7 +955,7 @@ Dark minimalist workspace with dual green terminal displays and ambient lighting
 
 **Tags:** `dual-monitor`, `green-terminal`, `minimalist`
 
-**Source:** [View Original Post](https://x.com/blinku_dev/status/1970780529323917441)
+**Source:** [View original post](https://x.com/blinku_dev/status/1970780529323917441)
 
 ---
 
@@ -969,7 +969,7 @@ Samsung monitor with Omarchy Linux, LazyVim configuration, and PlayStation 5 con
 
 **Tags:** `samsung`, `neovim`, `developer`
 
-**Source:** [View Original Post](https://x.com/ivanzstoev10/status/1970563629734080624)
+**Source:** [View original post](https://x.com/ivanzstoev10/status/1970563629734080624)
 
 ---
 
@@ -983,7 +983,7 @@ Samsung monitor with Omarchy Linux, LazyVim configuration, and PlayStation 5 con
 
 **Tags:** `imac`, `apple`, `revival`
 
-**Source:** [View Original Post](https://willem.com/en/2025-09-22_omarchy-on-imac/)
+**Source:** [View original post](https://willem.com/en/2025-09-22_omarchy-on-imac/)
 
 ---
 
@@ -997,7 +997,7 @@ ASUS ProArt 6K 32" monitor with 218ppi display and green Omarchy interface.
 
 **Tags:** `asus`, `proart`, `developer`
 
-**Source:** [View Original Post](https://x.com/robzolkos/status/1970123111724154974)
+**Source:** [View original post](https://x.com/robzolkos/status/1970123111724154974)
 
 ---
 
@@ -1011,7 +1011,7 @@ Dual monitor workspace with purple/pink LED lighting and custom Omarchy screensa
 
 **Tags:** `dual-monitor`, `led-lighting`, `mac-mini`
 
-**Source:** [View Original Post](https://x.com/stefanomainardi/status/1969995811661484420)
+**Source:** [View original post](https://x.com/stefanomainardi/status/1969995811661484420)
 
 ---
 
@@ -1025,7 +1025,7 @@ Framework Laptop 12 with impressive performance - 4m13s HEY test, under $1,000.
 
 **Tags:** `framework`, `dhh`
 
-**Source:** [View Original Post](https://x.com/dhh/status/1973752275001888808)
+**Source:** [View original post](https://x.com/dhh/status/1973752275001888808)
 
 ---
 
@@ -1039,7 +1039,7 @@ Smooth Omarchy v0.4.0 installation with beautiful themes. Features GOVO soundbar
 
 **Tags:** `benq`, `mechanical-keyboard`
 
-**Source:** [View Original Post](https://x.com/RajaAyyanar/status/1974180922602955177)
+**Source:** [View original post](https://x.com/RajaAyyanar/status/1974180922602955177)
 
 ---
 
@@ -1053,7 +1053,7 @@ Powerful gaming laptop setup featuring Dell Alienware X17 R1 with dual external 
 
 **Tags:** `alienware`, `dell`, `dual-display`, `gaming`
 
-**Source:** [View Original Post](https://x.com/komagata/status/1975165337646809303)
+**Source:** [View original post](https://x.com/komagata/status/1975165337646809303)
 
 ---
 
@@ -1067,11 +1067,11 @@ Epic home entertainment setup featuring a glorious 115" TCL screen with high-end
 
 **Tags:** `dhh`, `retro-gaming`, `large-screen`
 
-**Source:** [View Original Post](https://x.com/dhh/status/1975499113182761454)
+**Source:** [View original post](https://x.com/dhh/status/1975499113182761454)
 
 
 ---
 
-*Last updated: 2025-10-08*
+*Last updated: October 8, 2025*
 
 *Automatically generated by: `scripts/generate-setups.js`*
