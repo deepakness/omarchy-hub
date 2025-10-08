@@ -984,5 +984,31 @@
       "retro-gaming",
       "large-screen"
     ]
+  },
+  {
+    "id": "76",
+    "name": "2012 MacBook Pro Omarchy Revival",
+    "description": "2012 MacBook Pro running Omarchy v3.0.2 with Hyprland, Alacritty terminal, and Vague theme.",
+    "screenshot": "setups/setup-76.jpeg",
+    "link": "https://x.com/ben_brackenbury/status/1975447738960781450",
+    "device": "MacBook Pro 2012 (13-inch, Intel i5-3210M)",
+    "category": "Laptop",
+    "tags": [
+      "macbook",
+      "vintage"
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Framework Laptop Omarchy Installation",
+    "description": "Framework laptop showing the Omarchy installation interface with keyboard layout selection.",
+    "screenshot": "setups/setup-77.jpeg",
+    "link": "https://x.com/IroncladDev/status/1975646522764329004",
+    "device": "Framework Laptop",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "installation"
+    ]
   }
 ]

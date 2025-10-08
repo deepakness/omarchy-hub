@@ -57,7 +57,7 @@ These setups represent real-world installations of Omarchy Linux, showcasing:
 
     // Generate content for all setups in order
     setupsData.forEach((setup, index) => {
-      markdown += `### ${setup.name}\n\n`;
+      markdown += `### ${setup.id}. ${setup.name}\n\n`;
       
       // Add description
       markdown += `${setup.description}\n\n`;

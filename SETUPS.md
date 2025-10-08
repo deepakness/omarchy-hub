@@ -6,9 +6,9 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 75
+- **Total setups:** 77
 - **Desktop setups:** 43
-- **Laptop setups:** 31
+- **Laptop setups:** 33
 - **Tablet setups:** 1
 
 ## About these setups
@@ -23,7 +23,7 @@ These setups represent real-world installations of Omarchy Linux, showcasing:
 
 ## Setup gallery
 
-### Apple Studio Display Setup
+### 1. Apple Studio Display Setup
 
 Clean minimalist workspace combining Apple's industrial design with Omarchy on a custom PC build.
 
@@ -37,7 +37,7 @@ Clean minimalist workspace combining Apple's industrial design with Omarchy on a
 
 ---
 
-### Framework 13 running Omarchy
+### 2. Framework 13 running Omarchy
 
 Framework 13 laptop running Omarchy 2.0 with Hyprland and vibrant purple mountain wallpaper.
 
@@ -51,7 +51,7 @@ Framework 13 laptop running Omarchy 2.0 with Hyprland and vibrant purple mountai
 
 ---
 
-### 2012 Apple iMac Resurrection
+### 3. 2012 Apple iMac Resurrection
 
 A classic 2012 Apple iMac resurrected with Omarchy, featuring Hyprland, LazyVim, and more tools.
 
@@ -65,7 +65,7 @@ A classic 2012 Apple iMac resurrected with Omarchy, featuring Hyprland, LazyVim,
 
 ---
 
-### Beelink SER8 Omarchy Workstation
+### 4. Beelink SER8 Omarchy Workstation
 
 A powerful Linux desktop setup running Omarchy and Hyprland on a Beelink SER8 mini PC.
 
@@ -79,7 +79,7 @@ A powerful Linux desktop setup running Omarchy and Hyprland on a Beelink SER8 mi
 
 ---
 
-### ThinkPad X1 Carbon Gen8 Omarchy
+### 5. ThinkPad X1 Carbon Gen8 Omarchy
 
 Smooth Omarchy installation on a used ThinkPad X1 Carbon Gen8 - completed in under 10 minutes.
 
@@ -93,7 +93,7 @@ Smooth Omarchy installation on a used ThinkPad X1 Carbon Gen8 - completed in und
 
 ---
 
-### Coen's Full Linux Transition
+### 6. Coen's Full Linux Transition
 
 A month-long journey from Arch to Omarchy - built custom idempotent setup scripts and went full Linux.
 
@@ -107,7 +107,7 @@ A month-long journey from Arch to Omarchy - built custom idempotent setup script
 
 ---
 
-### ThinkPad Yoga 370 + Omarchy
+### 7. ThinkPad Yoga 370 + Omarchy
 
 Omarchy on an older ThinkPad with 7th‑gen i7 — runs fast and smooth compared to an M3 Max Mac.
 
@@ -121,7 +121,7 @@ Omarchy on an older ThinkPad with 7th‑gen i7 — runs fast and smooth compared
 
 ---
 
-### Sam's Beelink + Omarchy Setup
+### 8. Sam's Beelink + Omarchy Setup
 
 Loving the Beelink + Omarchy setup with The Great Wave off Kanagawa wallpaper.
 
@@ -135,7 +135,7 @@ Loving the Beelink + Omarchy setup with The Great Wave off Kanagawa wallpaper.
 
 ---
 
-### Framework13 + Samsung G9 Ultrawide
+### 9. Framework13 + Samsung G9 Ultrawide
 
 Framework13 laptop paired with Samsung 49inch G9 ultrawide monitor running Omarchy from RailsWorld.
 
@@ -149,7 +149,7 @@ Framework13 laptop paired with Samsung 49inch G9 ultrawide monitor running Omarc
 
 ---
 
-### Framework 13 Big Data Workstation
+### 10. Framework 13 Big Data Workstation
 
 Framework 13 ultrabook running terabyte-sized workloads with DuckDB
 
@@ -163,7 +163,7 @@ Framework 13 ultrabook running terabyte-sized workloads with DuckDB
 
 ---
 
-### Framework Desktop + Omarchy
+### 11. Framework Desktop + Omarchy
 
 Enjoying a clean work setup powered by Framework desktop running Omarchy.
 
@@ -177,7 +177,7 @@ Enjoying a clean work setup powered by Framework desktop running Omarchy.
 
 ---
 
-### Beelink PC + Studio Display Omarchy
+### 12. Beelink PC + Studio Display Omarchy
 
 Omarchy running fast on a $385 Beelink PC with stunning visuals on Apple Studio Display.
 
@@ -191,7 +191,7 @@ Omarchy running fast on a $385 Beelink PC with stunning visuals on Apple Studio 
 
 ---
 
-### Janky Found Hardware Omarchy
+### 13. Janky Found Hardware Omarchy
 
 Experimental Omarchy setup on found hardware - Zima board with compact display.
 
@@ -205,7 +205,7 @@ Experimental Omarchy setup on found hardware - Zima board with compact display.
 
 ---
 
-### Firmware Dev Desk with Omarchy
+### 14. Firmware Dev Desk with Omarchy
 
 Opinionated Omarchy setup for firmware development with neat single-board rig and tea.
 
@@ -219,7 +219,7 @@ Opinionated Omarchy setup for firmware development with neat single-board rig an
 
 ---
 
-### Dual Monitor Setup
+### 15. Dual Monitor Setup
 
 Highly customized dual-monitor gaming and productivity setup with RGB lighting.
 
@@ -233,7 +233,7 @@ Highly customized dual-monitor gaming and productivity setup with RGB lighting.
 
 ---
 
-### ZenBook Duo + Omarchy Setup
+### 16. ZenBook Duo + Omarchy Setup
 
 ZenBook Duo with Omarchy - dual-screen laptop with split ergonomic keyboard and external monitor.
 
@@ -247,7 +247,7 @@ ZenBook Duo with Omarchy - dual-screen laptop with split ergonomic keyboard and 
 
 ---
 
-### ASUS Flow Z13 Omarchablet
+### 17. ASUS Flow Z13 Omarchablet
 
 Omarchy loaded beautifully on ASUS Flow Z13 128GB Strix Halo box.
 
@@ -261,7 +261,7 @@ Omarchy loaded beautifully on ASUS Flow Z13 128GB Strix Halo box.
 
 ---
 
-### Dual Monitor Omarchy Setup
+### 18. Dual Monitor Omarchy Setup
 
 Clean dual-monitor setup with ThinkPad and external display.
 
@@ -275,7 +275,7 @@ Clean dual-monitor setup with ThinkPad and external display.
 
 ---
 
-### Custom PC for Content Creation
+### 19. Custom PC for Content Creation
 
 Professional content creation workstation with custom liquid-cooled PC with ultrawide monitor.
 
@@ -289,7 +289,7 @@ Professional content creation workstation with custom liquid-cooled PC with ultr
 
 ---
 
-### Minisforum UM760 Omarchy Setup
+### 20. Minisforum UM760 Omarchy Setup
 
 Clean and modern workspace featuring Minisforum UM760 mini PC with Samsung monitor.
 
@@ -303,7 +303,7 @@ Clean and modern workspace featuring Minisforum UM760 mini PC with Samsung monit
 
 ---
 
-### Framework Laptop Omarchy Setup
+### 21. Framework Laptop Omarchy Setup
 
 Framework laptop running Omarchy with terminal panes and system metrics visible.
 
@@ -317,7 +317,7 @@ Framework laptop running Omarchy with terminal panes and system metrics visible.
 
 ---
 
-### Beelink SER8 + iMac 5K Display Setup
+### 22. Beelink SER8 + iMac 5K Display Setup
 
 High-performance coding workstation featuring Beelink SER8 mini PC with AMD Ryzen 7 8745HS.
 
@@ -331,7 +331,7 @@ High-performance coding workstation featuring Beelink SER8 mini PC with AMD Ryze
 
 ---
 
-### Vintage Dell Latitude Revival
+### 23. Vintage Dell Latitude Revival
 
 13-year-old Dell Latitude laptop brought back to life with Omarchy installation.
 
@@ -345,7 +345,7 @@ High-performance coding workstation featuring Beelink SER8 mini PC with AMD Ryze
 
 ---
 
-### Framework Desktop Office Setup
+### 24. Framework Desktop Office Setup
 
 Professional office workstation featuring Framework Desktop running Omarchy.
 
@@ -359,7 +359,7 @@ Professional office workstation featuring Framework Desktop running Omarchy.
 
 ---
 
-### Ergonomic Omarchy Workstation
+### 25. Ergonomic Omarchy Workstation
 
 Modern ergonomic workspace featuring Samsung curved monitor, split keyboard, and Mac Mini.
 
@@ -373,7 +373,7 @@ Modern ergonomic workspace featuring Samsung curved monitor, split keyboard, and
 
 ---
 
-### Framework Omarchy Setup
+### 26. Framework Omarchy Setup
 
 Clean workspace featuring Framework Laptop connected to external monitor.
 
@@ -387,7 +387,7 @@ Clean workspace featuring Framework Laptop connected to external monitor.
 
 ---
 
-### Resurrected Dell Inspiron
+### 27. Resurrected Dell Inspiron
 
 Old Dell Inspiron laptop brought back to life with Omarchy Linux.
 
@@ -401,7 +401,7 @@ Old Dell Inspiron laptop brought back to life with Omarchy Linux.
 
 ---
 
-### Custom PC with Nvidia Setup
+### 28. Custom PC with Nvidia Setup
 
 Built from old PC parts lying around - perfect excuse to try Omarchy.
 
@@ -415,7 +415,7 @@ Built from old PC parts lying around - perfect excuse to try Omarchy.
 
 ---
 
-### Mattbook UMPC
+### 29. Mattbook UMPC
 
 Custom handheld UMPC built around a Framework 13 mainboard with a 10.1" touchscreen.
 
@@ -429,7 +429,7 @@ Custom handheld UMPC built around a Framework 13 mainboard with a 10.1" touchscr
 
 ---
 
-### Rails World Ultrawide Desk
+### 30. Rails World Ultrawide Desk
 
 Omarchy trial at Rails World on a Dell curved ultrawide with laptop and wooden case keyboard.
 
@@ -443,7 +443,7 @@ Omarchy trial at Rails World on a Dell curved ultrawide with laptop and wooden c
 
 ---
 
-### Framework 12 Laptop
+### 31. Framework 12 Laptop
 
 Framework laptop showcasing Omarchy with a beautiful Japanese-style house wallpaper.
 
@@ -457,7 +457,7 @@ Framework laptop showcasing Omarchy with a beautiful Japanese-style house wallpa
 
 ---
 
-### Framework Assembly
+### 32. Framework Assembly
 
 Building a Framework laptop and installing Omarchy - a journey outside Apple territory after 20 years.
 
@@ -471,7 +471,7 @@ Building a Framework laptop and installing Omarchy - a journey outside Apple ter
 
 ---
 
-### Framework 12 + Beelink SER9 Desk
+### 33. Framework 12 + Beelink SER9 Desk
 
 Framework 12 laptop for mobility; Beelink SER9 handles office work with dual Dell monitors.
 
@@ -485,7 +485,7 @@ Framework 12 laptop for mobility; Beelink SER9 handles office work with dual Del
 
 ---
 
-### MacBook Pro Omarchy Installation
+### 34. MacBook Pro Omarchy Installation
 
 Installing Omarchy on a MacBook Pro with the distinctive green pixelated terminal interface.
 
@@ -499,7 +499,7 @@ Installing Omarchy on a MacBook Pro with the distinctive green pixelated termina
 
 ---
 
-### Framework Laptop running Omarchy
+### 35. Framework Laptop running Omarchy
 
 Framework laptop showcasing Omarchy's tiling window manager with Super key navigation.
 
@@ -513,7 +513,7 @@ Framework laptop showcasing Omarchy's tiling window manager with Super key navig
 
 ---
 
-### Framework 13 DIY Setup
+### 36. Framework 13 DIY Setup
 
 Framework 13 DIY laptop with Omarchy - from hardware assembly to OS boot in under 15 minutes.
 
@@ -527,7 +527,7 @@ Framework 13 DIY laptop with Omarchy - from hardware assembly to OS boot in unde
 
 ---
 
-### Framework + Beelink Dual Setup
+### 37. Framework + Beelink Dual Setup
 
 Framework laptop and Beelink mini PC running Omarchy - a transition from 20+ years of Mac usage.
 
@@ -541,7 +541,7 @@ Framework laptop and Beelink mini PC running Omarchy - a transition from 20+ yea
 
 ---
 
-### Dark Omarchy Night Desk
+### 38. Dark Omarchy Night Desk
 
 Curved ultrawide monitor running Omarchy in a dark room setup.
 
@@ -555,7 +555,7 @@ Curved ultrawide monitor running Omarchy in a dark room setup.
 
 ---
 
-### Linux Mini PC Desk
+### 39. Linux Mini PC Desk
 
 Clean single-monitor desk running Omarchy on a mini PC with backlit compact keyboard.
 
@@ -569,7 +569,7 @@ Clean single-monitor desk running Omarchy on a mini PC with backlit compact keyb
 
 ---
 
-### One-Cable Creator Desk
+### 40. One-Cable Creator Desk
 
 Omarchy mini PC creator setup with single-cable switching, RGB lighting, and a Stream Deck.
 
@@ -583,7 +583,7 @@ Omarchy mini PC creator setup with single-cable switching, RGB lighting, and a S
 
 ---
 
-### Omarchy + Laptop Dual Desk
+### 41. Omarchy + Laptop Dual Desk
 
 External monitor running Omarchy alongside a laptop and tablet with a compact mechanical keyboard.
 
@@ -597,7 +597,7 @@ External monitor running Omarchy alongside a laptop and tablet with a compact me
 
 ---
 
-### Bezy on Omarchy Arch Linux
+### 42. Bezy on Omarchy Arch Linux
 
 Omarchy Arch Linux running Bezy with bold typography test on an LG monitor.
 
@@ -611,7 +611,7 @@ Omarchy Arch Linux running Bezy with bold typography test on an LG monitor.
 
 ---
 
-### ASUS Zenbook S16 Omarchy Installation
+### 43. ASUS Zenbook S16 Omarchy Installation
 
 ASUS Zenbook S16 laptop showing Omarchy installation interface.
 
@@ -625,7 +625,7 @@ ASUS Zenbook S16 laptop showing Omarchy installation interface.
 
 ---
 
-### Framework Laptop 13 AMD Ryzen AI 9
+### 44. Framework Laptop 13 AMD Ryzen AI 9
 
 Framework Laptop 13 with AMD Ryzen AI 9 HX 370 running Omarchy v2.1.2.
 
@@ -639,7 +639,7 @@ Framework Laptop 13 with AMD Ryzen AI 9 HX 370 running Omarchy v2.1.2.
 
 ---
 
-### Daniel's Framework Home Office
+### 45. Daniel's Framework Home Office
 
 Clean home office setup featuring Framework Laptop 13, wooden desk, and purple mountain wallpaper.
 
@@ -653,7 +653,7 @@ Clean home office setup featuring Framework Laptop 13, wooden desk, and purple m
 
 ---
 
-### Intel MacBook Pro + Dual Monitors
+### 46. Intel MacBook Pro + Dual Monitors
 
 Old Intel MacBook Pro with dual Dell monitors running Omarchy.
 
@@ -667,7 +667,7 @@ Old Intel MacBook Pro with dual Dell monitors running Omarchy.
 
 ---
 
-### Dell XPS 13 + Beelink SER9 Pro Desk
+### 47. Dell XPS 13 + Beelink SER9 Pro Desk
 
 Dell XPS 13 9370 (2018) laptop and Beelink SER9 Pro H255 mini PC, both running Omarchy.
 
@@ -681,7 +681,7 @@ Dell XPS 13 9370 (2018) laptop and Beelink SER9 Pro H255 mini PC, both running O
 
 ---
 
-### Mid-2009 MacBook Pro Revival
+### 48. Mid-2009 MacBook Pro Revival
 
 Mid-2009 MacBook Pro 13-inch brought back to life with Omarchy v3.0.1.
 
@@ -695,7 +695,7 @@ Mid-2009 MacBook Pro 13-inch brought back to life with Omarchy v3.0.1.
 
 ---
 
-### MacBook Pro 2017 Installation
+### 49. MacBook Pro 2017 Installation
 
 MacBook Pro 2017 with dual graphics cards running Omarchy v3.0.
 
@@ -709,7 +709,7 @@ MacBook Pro 2017 with dual graphics cards running Omarchy v3.0.
 
 ---
 
-### Intel MacBook Pro + BenQ Monitor
+### 50. Intel MacBook Pro + BenQ Monitor
 
 Intel MacBook Pro with BenQ external monitor running Omarchy.
 
@@ -723,7 +723,7 @@ Intel MacBook Pro with BenQ external monitor running Omarchy.
 
 ---
 
-### 2015 MacBook Pro Lab Workspace
+### 51. 2015 MacBook Pro Lab Workspace
 
 2015 MacBook Pro in technical lab environment with electronic testing equipment.
 
@@ -737,7 +737,7 @@ Intel MacBook Pro with BenQ external monitor running Omarchy.
 
 ---
 
-### MacBook Pro 2015 in a Music Studio
+### 52. MacBook Pro 2015 in a Music Studio
 
 MacBook Pro 2015 running Omarchy in a music studio environment with guitars and audio equipment.
 
@@ -751,7 +751,7 @@ MacBook Pro 2015 running Omarchy in a music studio environment with guitars and 
 
 ---
 
-### Framework Omarchy Installation
+### 53. Framework Omarchy Installation
 
 Framework Laptop installing Omarchy 3.0 for Android development.
 
@@ -765,7 +765,7 @@ Framework Laptop installing Omarchy 3.0 for Android development.
 
 ---
 
-### iPad mini via UTM (JIT)
+### 54. iPad mini via UTM (JIT)
 
 Installing and running Omarchy on iPad mini using UTM with JIT enabled.
 
@@ -779,7 +779,7 @@ Installing and running Omarchy on iPad mini using UTM with JIT enabled.
 
 ---
 
-### Late 2007 MacBook White Revival
+### 55. Late 2007 MacBook White Revival
 
 Late 2007 MacBook White running Omarchy 3.0.1 with local LLM, Docker, and Brave browser capabilities.
 
@@ -793,7 +793,7 @@ Late 2007 MacBook White running Omarchy 3.0.1 with local LLM, Docker, and Brave 
 
 ---
 
-### Dual Laptop Omarchy Installation
+### 56. Dual Laptop Omarchy Installation
 
 Two laptops side-by-side installing Omarchy Linux distro for family use.
 
@@ -807,7 +807,7 @@ Two laptops side-by-side installing Omarchy Linux distro for family use.
 
 ---
 
-### Clean Home Office Omarchy Setup
+### 57. Clean Home Office Omarchy Setup
 
 Modern home office with large monitor displaying Omarchy desktop environment.
 
@@ -821,7 +821,7 @@ Modern home office with large monitor displaying Omarchy desktop environment.
 
 ---
 
-### Framework Omarchy Setup
+### 58. Framework Omarchy Setup
 
 Omarchy Linux setup showcasing the desktop environment and system configuration.
 
@@ -835,7 +835,7 @@ Omarchy Linux setup showcasing the desktop environment and system configuration.
 
 ---
 
-### Fayi's Dual Omarchy Workstation
+### 59. Fayi's Dual Omarchy Workstation
 
 Complete transition from Mac with Beelink SER9 HX370 desktop and Framework F13 laptop.
 
@@ -849,7 +849,7 @@ Complete transition from Mac with Beelink SER9 HX370 desktop and Framework F13 l
 
 ---
 
-### Office NUC Gaming Setup
+### 60. Office NUC Gaming Setup
 
 Compact NUC running Omarchy Linux in a real office environment with 24/7 access.
 
@@ -863,7 +863,7 @@ Compact NUC running Omarchy Linux in a real office environment with 24/7 access.
 
 ---
 
-### Orange Framework Laptop
+### 61. Orange Framework Laptop
 
 Orange Framework laptop running Omarchy with clean blue desktop showing the OMARCHY logo.
 
@@ -877,7 +877,7 @@ Orange Framework laptop running Omarchy with clean blue desktop showing the OMAR
 
 ---
 
-### Alienware Gaming Laptop Omarchy Test
+### 62. Alienware Gaming Laptop Omarchy Test
 
 Black Alienware gaming laptop with blue backlit keyboard testing Omarchy Linux.
 
@@ -891,7 +891,7 @@ Black Alienware gaming laptop with blue backlit keyboard testing Omarchy Linux.
 
 ---
 
-### ThePrimeagen's Studio Desktop
+### 63. ThePrimeagen's Studio Desktop
 
 Professional desktop setup in a studio environment featuring a large BenQ monitor.
 
@@ -905,7 +905,7 @@ Professional desktop setup in a studio environment featuring a large BenQ monito
 
 ---
 
-### Purple Ambient Framework Desktop
+### 64. Purple Ambient Framework Desktop
 
 Cozy attic workspace with Framework Desktop featuring sunset landscape wallpaper.
 
@@ -919,7 +919,7 @@ Cozy attic workspace with Framework Desktop featuring sunset landscape wallpaper
 
 ---
 
-### Dell Laptop Omarchy Revival
+### 65. Dell Laptop Omarchy Revival
 
 Old Dell laptop brought back to life with Omarchy Linux, showing the green login screen.
 
@@ -933,7 +933,7 @@ Old Dell laptop brought back to life with Omarchy Linux, showing the green login
 
 ---
 
-### Josh Medeski's ASUS Setup
+### 66. Josh Medeski's ASUS Setup
 
 ASUS monitor with Omarchy, Keychron K2 HE keyboard, VR headset, and gaming peripherals.
 
@@ -947,7 +947,7 @@ ASUS monitor with Omarchy, Keychron K2 HE keyboard, VR headset, and gaming perip
 
 ---
 
-### Blinku's Green Terminal Setup
+### 67. Blinku's Green Terminal Setup
 
 Dark minimalist workspace with dual green terminal displays and ambient lighting.
 
@@ -961,7 +961,7 @@ Dark minimalist workspace with dual green terminal displays and ambient lighting
 
 ---
 
-### Ivan Stoev's Neovim Setup
+### 68. Ivan Stoev's Neovim Setup
 
 Samsung monitor with Omarchy Linux, LazyVim configuration, and PlayStation 5 console.
 
@@ -975,7 +975,7 @@ Samsung monitor with Omarchy Linux, LazyVim configuration, and PlayStation 5 con
 
 ---
 
-### Willem's 2017 iMac Revival
+### 69. Willem's 2017 iMac Revival
 
 2017 Apple iMac with Omarchy Linux, Tokio Night theme, and 6-minute installation.
 
@@ -989,7 +989,7 @@ Samsung monitor with Omarchy Linux, LazyVim configuration, and PlayStation 5 con
 
 ---
 
-### Rob's ASUS ProArt 6K Setup
+### 70. Rob's ASUS ProArt 6K Setup
 
 ASUS ProArt 6K 32" monitor with 218ppi display and green Omarchy interface.
 
@@ -1003,7 +1003,7 @@ ASUS ProArt 6K 32" monitor with 218ppi display and green Omarchy interface.
 
 ---
 
-### Stefano's Purple LED Setup
+### 71. Stefano's Purple LED Setup
 
 Dual monitor workspace with purple/pink LED lighting and custom Omarchy screensavers.
 
@@ -1017,7 +1017,7 @@ Dual monitor workspace with purple/pink LED lighting and custom Omarchy screensa
 
 ---
 
-### DHH's Framework Laptop 12
+### 72. DHH's Framework Laptop 12
 
 Framework Laptop 12 with impressive performance - 4m13s HEY test, under $1,000.
 
@@ -1031,7 +1031,7 @@ Framework Laptop 12 with impressive performance - 4m13s HEY test, under $1,000.
 
 ---
 
-### Cool Desktop Setup
+### 73. Cool Desktop Setup
 
 Smooth Omarchy v0.4.0 installation with beautiful themes. Features GOVO soundbar and mechanical keyboard.
 
@@ -1045,7 +1045,7 @@ Smooth Omarchy v0.4.0 installation with beautiful themes. Features GOVO soundbar
 
 ---
 
-### Dell Alienware X17 R1 Setup
+### 74. Dell Alienware X17 R1 Setup
 
 Powerful gaming laptop setup featuring Dell Alienware X17 R1 with dual external displays.
 
@@ -1059,7 +1059,7 @@ Powerful gaming laptop setup featuring Dell Alienware X17 R1 with dual external 
 
 ---
 
-### DHH's Omarchy Retro Gaming Rig
+### 75. DHH's Omarchy Retro Gaming Rig
 
 Epic home entertainment setup featuring a glorious 115" TCL screen with high-end audio speakers and retro gamepad.
 
@@ -1070,6 +1070,34 @@ Epic home entertainment setup featuring a glorious 115" TCL screen with high-end
 **Tags:** `dhh`, `retro-gaming`, `large-screen`
 
 **Source:** [View original post](https://x.com/dhh/status/1975499113182761454)
+
+---
+
+### 76. 2012 MacBook Pro Omarchy Revival
+
+2012 MacBook Pro running Omarchy v3.0.2 with Hyprland, Alacritty terminal, and Vague theme.
+
+**Device:** MacBook Pro 2012 (13-inch, Intel i5-3210M)
+
+<img src="/public/setups/setup-76.jpeg" alt="2012 MacBook Pro Omarchy Revival" width="450">
+
+**Tags:** `macbook`, `vintage`
+
+**Source:** [View original post](https://x.com/ben_brackenbury/status/1975447738960781450)
+
+---
+
+### 77. Framework Laptop Omarchy Installation
+
+Framework laptop showing the Omarchy installation interface with keyboard layout selection.
+
+**Device:** Framework Laptop
+
+<img src="/public/setups/setup-77.jpeg" alt="Framework Laptop Omarchy Installation" width="450">
+
+**Tags:** `framework`, `installation`
+
+**Source:** [View original post](https://x.com/IroncladDev/status/1975646522764329004)
 
 
 ---
