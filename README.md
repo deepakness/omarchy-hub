@@ -38,7 +38,7 @@ A community-driven website for collecting and sharing themes, setups, resources,
 │   └── optimize-images.js  # Optimize setup images
 ├── public/                 # Static assets
 │   └── setups/             # Setup screenshots (75+ images)
-├── SETUPS.md               # Setup gallery documentation
+├── SETUPS.md               # Setup gallery
 └── CONTRIBUTING.md         # Contribution guidelines
 ```
 
