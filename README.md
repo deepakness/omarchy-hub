@@ -15,27 +15,40 @@ A community-driven website for collecting and sharing themes, setups, resources,
 
 ```
 ├── app/                    # Next.js App Router pages
+│   ├── layout.tsx          # Root layout component
 │   ├── page.tsx            # Homepage with featured content
-│   ├── themes/page.tsx     # Themes listing page
-│   ├── setups/page.tsx     # Setups listing page
-│   └── resources/page.tsx  # Resources listing page
+│   ├── themes/             # Themes section
+│   │   ├── layout.tsx      # Themes layout
+│   │   └── page.tsx        # Themes listing page
+│   ├── setups/             # Setups section
+│   │   ├── layout.tsx      # Setups layout
+│   │   └── page.tsx        # Setups listing page
+│   └── resources/          # Resources section
+│       ├── layout.tsx      # Resources layout
+│       └── page.tsx        # Resources listing page
 ├── components/             # Reusable React components
 │   ├── Card.tsx            # Content card component
 │   ├── OmarchyLogo.tsx     # Main logo component
 │   ├── PixelButton.tsx     # Retro-style button component
 │   ├── Header.tsx          # Navigation header
-│   └── Breadcrumb.tsx      # Navigation breadcrumb
+│   ├── NavButton.tsx       # Navigation button component
+│   ├── Breadcrumb.tsx      # Navigation breadcrumb
+│   └── ReleaseCard.tsx     # Release card component
 ├── data/                   # JSON data files
 │   ├── themes.json         # Themes data
 │   ├── setups.json         # Setups data
 │   ├── resources.json      # Resources data
 │   ├── releases.json       # Omarchy releases, scrapes automatically
 │   └── links.json          # Links data
+├── scripts/                # Automation scripts
+│   ├── generate-setups.js  # Generate setup data from screenshots
+│   ├── watch-setups.js     # Watch for new setup screenshots
+│   ├── fetch-releases.js   # Fetch latest Omarchy releases
+│   └── optimize-images.js  # Optimize setup images
 ├── public/                 # Static assets
-│   └── setups/             # Setup screenshots
-└── .github/                # GitHub templates and workflows
-    ├── ISSUE_TEMPLATE/     # Issue templates for contributions
-    └── pull_request_template.md
+│   └── setups/             # Setup screenshots (75+ images)
+├── SETUPS.md               # Setup gallery documentation
+└── CONTRIBUTING.md         # Contribution guidelines
 ```
 
 
