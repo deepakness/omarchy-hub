@@ -5,7 +5,7 @@
   "scripts": {
     "predev": "node scripts/fetch-releases.js && node scripts/optimize-images.js && node scripts/generate-setups.js",
     "dev": "next dev",
-    "prebuild": "node scripts/fetch-releases.js && node scripts/generate-setups.js",
+    "prebuild": "node scripts/fetch-releases.js",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",

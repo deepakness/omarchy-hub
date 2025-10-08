@@ -14,10 +14,30 @@ function generateSetupsMarkdown() {
     const setupsPath = path.join(__dirname, '..', 'data', 'setups.json');
     const setupsData = JSON.parse(fs.readFileSync(setupsPath, 'utf8'));
     
+    // Count setups by category for stats
+    const categoryStats = {
+      'Desktop': 0,
+      'Laptop': 0,
+      'Tablet': 0
+    };
+    
+    setupsData.forEach(setup => {
+      if (categoryStats[setup.category] !== undefined) {
+        categoryStats[setup.category]++;
+      }
+    });
+
     // Start building markdown content
     let markdown = `# Cool Omarchy Workstation Setups
 
 Welcome to the Omarchy community showcase! This page features amazing workstation setups from users around the world who have embraced the Omarchy Linux distribution. From vintage hardware revivals to cutting-edge gaming rigs, these setups demonstrate the versatility and power of Omarchy across different hardware configurations.
+
+## Statistics
+
+- **Total Setups:** ${setupsData.length}
+- **Desktop Setups:** ${categoryStats.Desktop}
+- **Laptop Setups:** ${categoryStats.Laptop}
+- **Tablet Setups:** ${categoryStats.Tablet}
 
 ## About These Setups
 
@@ -32,121 +52,44 @@ These setups represent real-world installations of Omarchy Linux, showcasing:
 
 `;
 
-    // Group setups by category for better organization
-    const categories = {
-      'Desktop': [],
-      'Laptop': [],
-      'Tablet': []
-    };
-
-    setupsData.forEach(setup => {
-      if (categories[setup.category]) {
-        categories[setup.category].push(setup);
+    // Generate content for all setups in order
+    setupsData.forEach((setup, index) => {
+      markdown += `### ${setup.name}\n\n`;
+      
+      // Add description
+      markdown += `${setup.description}\n\n`;
+      
+      // Add device information
+      markdown += `**Device:** ${setup.device}\n\n`;
+      
+      // Add screenshot if available - fix image path
+      if (setup.screenshot) {
+        // Use the correct path for GitHub and local viewing
+        markdown += `![${setup.name}](/public/${setup.screenshot})\n\n`;
       }
-    });
-
-    // Generate content for each category
-    Object.entries(categories).forEach(([category, setups]) => {
-      if (setups.length > 0) {
-        markdown += `### ${category} Setups (${setups.length})\n\n`;
-        
-        setups.forEach((setup, index) => {
-          markdown += `#### ${setup.name}\n\n`;
-          
-          // Add description
-          markdown += `${setup.description}\n\n`;
-          
-          // Add device information
-          markdown += `**Device:** ${setup.device}\n\n`;
-          
-          // Add screenshot if available
-          if (setup.screenshot) {
-            const imagePath = path.join('public', setup.screenshot);
-            markdown += `![${setup.name}](${setup.screenshot})\n\n`;
-          }
-          
-          // Add tags
-          if (setup.tags && setup.tags.length > 0) {
-            markdown += `**Tags:** ${setup.tags.map(tag => `\`${tag}\``).join(', ')}\n\n`;
-          }
-          
-          // Add link if available
-          if (setup.link) {
-            markdown += `**Source:** [View Original Post](${setup.link})\n\n`;
-          }
-          
-          // Add separator between setups (except for the last one)
-          if (index < setups.length - 1) {
-            markdown += '---\n\n';
-          }
-        });
-        
-        markdown += '\n';
+      
+      // Add tags
+      if (setup.tags && setup.tags.length > 0) {
+        markdown += `**Tags:** ${setup.tags.map(tag => `\`${tag}\``).join(', ')}\n\n`;
       }
-    });
-
-    // Add statistics section
-    markdown += `## Statistics
-
-- **Total Setups:** ${setupsData.length}
-- **Desktop Setups:** ${categories.Desktop.length}
-- **Laptop Setups:** ${categories.Laptop.length}
-- **Tablet Setups:** ${categories.Tablet.length}
-
-## Popular Hardware
-
-`;
-
-    // Count popular hardware
-    const hardwareCount = {};
-    setupsData.forEach(setup => {
-      const device = setup.device.toLowerCase();
-      if (device.includes('framework')) {
-        hardwareCount['Framework'] = (hardwareCount['Framework'] || 0) + 1;
-      } else if (device.includes('macbook') || device.includes('imac') || device.includes('mac mini')) {
-        hardwareCount['Apple'] = (hardwareCount['Apple'] || 0) + 1;
-      } else if (device.includes('beelink')) {
-        hardwareCount['Beelink'] = (hardwareCount['Beelink'] || 0) + 1;
-      } else if (device.includes('thinkpad')) {
-        hardwareCount['ThinkPad'] = (hardwareCount['ThinkPad'] || 0) + 1;
-      } else if (device.includes('dell')) {
-        hardwareCount['Dell'] = (hardwareCount['Dell'] || 0) + 1;
+      
+      // Add link if available
+      if (setup.link) {
+        markdown += `**Source:** [View Original Post](${setup.link})\n\n`;
       }
-    });
-
-    // Sort and display popular hardware
-    const sortedHardware = Object.entries(hardwareCount)
-      .sort(([,a], [,b]) => b - a)
-      .slice(0, 5);
-
-    sortedHardware.forEach(([brand, count]) => {
-      markdown += `- **${brand}:** ${count} setups\n`;
+      
+      // Add separator between setups (except for the last one)
+      if (index < setupsData.length - 1) {
+        markdown += '---\n\n';
+      }
     });
 
     markdown += `
-## Contributing
-
-Want to share your Omarchy setup? Here's how:
-
-1. Take a screenshot of your setup
-2. Add your setup details to \`data/setups.json\`
-3. Run \`npm run generate-setups\` to update this documentation
-4. Submit a pull request with your changes
-
-## Auto-Generation
-
-This documentation is automatically generated from \`data/setups.json\`. To update this file:
-
-\`\`\`bash
-npm run generate-setups
-\`\`\`
-
-The script will read the latest data from \`setups.json\` and regenerate this markdown file with all current setups.
-
 ---
 
 *Last updated: ${new Date().toISOString().split('T')[0]}*
-*Generated by: scripts/generate-setups.js*
+
+*Automatically generated by: scripts/generate-setups.js*
 `;
 
     // Write to SETUPS.md
