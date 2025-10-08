@@ -2,7 +2,8 @@
 
 A community-driven website for collecting and sharing themes, setups, resources, and links for [Omarchy](https://omarchy.org) - the opinionated Arch + Hyprland setup by DHH.
 
-🌐 **Live Website**: [https://omarchy.deepakness.com](https://omarchy.deepakness.com)
+🌐 **Live website**: [https://omarchy.deepakness.com](https://omarchy.deepakness.com)  
+📸 **Setup gallery**: [SETUPS.md](SETUPS.md) - Browse amazing Omarchy workstation setups
 
 <!-- Badges -->
 
@@ -10,7 +11,7 @@ A community-driven website for collecting and sharing themes, setups, resources,
 [![License](https://img.shields.io/github/license/deepakness/omarchy-hub?color=64748b)](LICENSE)
 
 
-## Project Structure
+## Project structure
 
 ```
 ├── app/                    # Next.js App Router pages
@@ -38,11 +39,11 @@ A community-driven website for collecting and sharing themes, setups, resources,
 ```
 
 
-## Contributing Content
+## Contributing content
 
 We welcome contributions from the community! There are several ways to contribute:
 
-### 🚀 Quick Contribution (Recommended)
+### 🚀 Quick contribution (recommended)
 
 **For Beginners**: Use our GitHub issue templates for easy submission:
 
@@ -51,7 +52,7 @@ We welcome contributions from the community! There are several ways to contribut
 - 📚 **[Submit a Resource](https://github.com/deepakness/omarchy-hub/issues/new?template=resource-submission.yml)** - Share guides and tutorials
 - 🔗 **[Submit a Link](https://github.com/deepakness/omarchy-hub/issues/new?template=link-submission.yml)** - Suggest useful links
 
-### 🔧 Developer Contribution
+### 🔧 Developer contribution
 
 **For Developers**: Submit pull requests directly:
 
@@ -60,7 +61,7 @@ We welcome contributions from the community! There are several ways to contribut
 3. Follow the data structure guidelines below
 4. Submit a pull request
 
-### 📋 Data Structure Examples
+### 📋 Data structure examples
 
 **Setups** (`data/setups.json`):
 ```json
@@ -110,7 +111,7 @@ We welcome contributions from the community! There are several ways to contribut
 }
 ```
 
-### 📖 Detailed Guidelines
+### 📖 Detailed guidelines
 
 For complete contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 

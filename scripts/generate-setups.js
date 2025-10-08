@@ -76,7 +76,7 @@ These setups represent real-world installations of Omarchy Linux, showcasing:
       
       // Add link if available
       if (setup.link) {
-        markdown += `**Source:** [View Original Post](${setup.link})\n\n`;
+        markdown += `**Source:** [View original post](${setup.link})\n\n`;
       }
       
       // Add separator between setups (except for the last one)
