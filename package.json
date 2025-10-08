@@ -3,14 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "predev": "node scripts/fetch-releases.js && node scripts/optimize-images.js",
+    "predev": "node scripts/fetch-releases.js && node scripts/optimize-images.js && node scripts/generate-setups.js",
     "dev": "next dev",
-    "prebuild": "node scripts/fetch-releases.js",
+    "prebuild": "node scripts/fetch-releases.js && node scripts/generate-setups.js",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "fetch-releases": "node scripts/fetch-releases.js",
-    "optimize-images": "node scripts/optimize-images.js"
+    "optimize-images": "node scripts/optimize-images.js",
+    "generate-setups": "node scripts/generate-setups.js",
+    "watch-setups": "node scripts/watch-setups.js"
   },
   "dependencies": {
     "lucide-react": "^0.542.0",
