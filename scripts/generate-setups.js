@@ -42,6 +42,7 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 ## About these setups
 
 These setups represent real-world installations of Omarchy Linux, showcasing:
+
 - **Hardware diversity**: From Framework laptops to vintage MacBooks, custom PCs to mini computers
 - **Use cases**: Development workstations, gaming rigs, content creation setups, and more
 - **Community spirit**: Real users sharing their Omarchy experiences and configurations
@@ -65,7 +66,7 @@ These setups represent real-world installations of Omarchy Linux, showcasing:
       // Add screenshot if available - fix image path and size
       if (setup.screenshot) {
         // Use HTML img tag with width control for smaller images
-        markdown += `<img src="/public/${setup.screenshot}" alt="${setup.name}" width="600">\n\n`;
+        markdown += `<img src="/public/${setup.screenshot}" alt="${setup.name}" width="450">\n\n`;
       }
       
       // Add tags
