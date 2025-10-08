@@ -32,6 +32,8 @@ function generateSetupsMarkdown() {
 
 Welcome to the Omarchy community showcase! This page features amazing workstation setups from users around the world who have embraced the Omarchy Linux distribution.
 
+💻 **Prefer a visual experience?** Check out these setups as beautiful cards on the [website](https://omarchy.deepakness.com/setups).
+
 ## Statistics
 
 - **Total setups:** ${setupsData.length}
