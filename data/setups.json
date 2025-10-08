@@ -1010,5 +1010,31 @@
       "framework",
       "installation"
     ]
+  },
+  {
+    "id": "78",
+    "name": "Supersoniko's Attic Omarchy Workstation",
+    "description": "Detailed attic workspace featuring a custom PC with Totoro wallpaper and Angry Miao AFA split keyboard.",
+    "screenshot": "setups/setup-78.jpeg",
+    "link": "https://x.com/supersoniko_be/status/1972251333731484058",
+    "device": "Custom PC + Large Monitor + Angry Miao AFA Keyboard",
+    "category": "Desktop",
+    "tags": [
+      "angry-miao",
+      "split-keyboard",
+      "anime"
+    ]
+  },
+  {
+    "id": "79",
+    "name": "High-Performance ArchLinux Setup",
+    "description": "Powerful workstation featuring ArchLinux with Hyprland running on a 5K curved ultrawide monitor at 239Hz.",
+    "screenshot": "setups/setup-79.jpeg",
+    "link": "https://x.com/bodwinestroll/status/1974335734086545429",
+    "device": "Custom RGB PC + 5K Curved Ultrawide + Laptop",
+    "category": "Desktop",
+    "tags": [
+      "5k-monitor"
+    ]
   }
 ]

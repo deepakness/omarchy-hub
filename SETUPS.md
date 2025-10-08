@@ -6,8 +6,8 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 77
-- **Desktop setups:** 43
+- **Total setups:** 79
+- **Desktop setups:** 45
 - **Laptop setups:** 33
 - **Tablet setups:** 1
 
@@ -1098,6 +1098,34 @@ Framework laptop showing the Omarchy installation interface with keyboard layout
 **Tags:** `framework`, `installation`
 
 **Source:** [View original post](https://x.com/IroncladDev/status/1975646522764329004)
+
+---
+
+### 78. Supersoniko's Attic Omarchy Workstation
+
+Detailed attic workspace featuring a custom PC with Totoro wallpaper and Angry Miao AFA split keyboard.
+
+**Device:** Custom PC + Large Monitor + Angry Miao AFA Keyboard
+
+<img src="/public/setups/setup-78.jpeg" alt="Supersoniko's Attic Omarchy Workstation" width="450">
+
+**Tags:** `angry-miao`, `split-keyboard`, `anime`
+
+**Source:** [View original post](https://x.com/supersoniko_be/status/1972251333731484058)
+
+---
+
+### 79. High-Performance ArchLinux Setup
+
+Powerful workstation featuring ArchLinux with Hyprland running on a 5K curved ultrawide monitor at 239Hz.
+
+**Device:** Custom RGB PC + 5K Curved Ultrawide + Laptop
+
+<img src="/public/setups/setup-79.jpeg" alt="High-Performance ArchLinux Setup" width="450">
+
+**Tags:** `5k-monitor`
+
+**Source:** [View original post](https://x.com/bodwinestroll/status/1974335734086545429)
 
 
 ---
