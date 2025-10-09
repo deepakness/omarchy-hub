@@ -2,8 +2,8 @@
 
 A community-driven website for collecting and sharing themes, setups, resources, and links for [Omarchy](https://omarchy.org) - the opinionated Arch + Hyprland setup by DHH.
 
-🌐 **Live website**: [https://omarchy.deepakness.com](https://omarchy.deepakness.com)  
-📸 **Setup gallery**: [SETUPS.md](SETUPS.md) - Browse amazing Omarchy workstation setups
+🌐 **Live website**: [omarchy.deepakness.com](https://omarchy.deepakness.com)  
+📸 **Workstation setup gallery**: [SETUPS.md](SETUPS.md)
 
 <!-- Badges -->
 
