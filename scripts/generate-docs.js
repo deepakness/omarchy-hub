@@ -125,7 +125,7 @@ function generateThemesMarkdown() {
     const unofficialCount = themesData.length - officialCount;
 
     // Start building markdown content
-    let markdown = `# Omarchy Themes collection
+    let markdown = `# Omarchy themes collection
 
 Welcome to the comprehensive collection of Omarchy themes! This page showcases all available themes for the Omarchy Linux distribution, from official themes to community contributions.
 
