@@ -206,6 +206,53 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
   }
 }
 
+function updateReadmeStats() {
+  try {
+    // Read all JSON data files
+    const setupsPath = path.join(__dirname, '..', 'data', 'setups.json');
+    const themesPath = path.join(__dirname, '..', 'data', 'themes.json');
+    const resourcesPath = path.join(__dirname, '..', 'data', 'resources.json');
+    
+    const setupsData = JSON.parse(fs.readFileSync(setupsPath, 'utf8'));
+    const themesData = JSON.parse(fs.readFileSync(themesPath, 'utf8'));
+    const resourcesData = JSON.parse(fs.readFileSync(resourcesPath, 'utf8'));
+    
+    // Read current README.md
+    const readmePath = path.join(__dirname, '..', 'README.md');
+    let readmeContent = fs.readFileSync(readmePath, 'utf8');
+    
+    // Create the stats line
+    const statsLine = `Currently, omarchy-hub showcases **${setupsData.length} workstation setups**, **${themesData.length} beautiful themes**, **${resourcesData.length} useful resources** and more from the community.`;
+    
+    // Replace content between the stats comments
+    const statsRegex = /<!--STATS:START-->[\s\S]*?<!--STATS:END-->/;
+    const replacement = `<!--STATS:START-->\n${statsLine}\n<!--STATS:END-->`;
+    
+    if (statsRegex.test(readmeContent)) {
+      readmeContent = readmeContent.replace(statsRegex, replacement);
+    } else {
+      // If the comments don't exist, add them after the description
+      const descriptionMatch = readmeContent.match(/A community-driven website for collecting and sharing themes, setups, resources, and links for \[Omarchy\]\(https:\/\/omarchy\.org\) - the opinionated Arch \+ Hyprland setup by DHH\.\n\n/);
+      if (descriptionMatch) {
+        const insertPos = descriptionMatch.index + descriptionMatch[0].length;
+        readmeContent = readmeContent.slice(0, insertPos) + 
+                       `<!--STATS:START-->\n${statsLine}\n<!--STATS:END-->\n\n` + 
+                       readmeContent.slice(insertPos);
+      }
+    }
+    
+    // Write updated README.md
+    fs.writeFileSync(readmePath, readmeContent, 'utf8');
+    
+    console.log(`✅ Successfully updated README.md with current statistics`);
+    console.log(`📊 Stats: ${setupsData.length} setups, ${themesData.length} themes, ${resourcesData.length} resources`);
+    
+  } catch (error) {
+    console.error('❌ Error updating README.md stats:', error.message);
+    throw error;
+  }
+}
+
 function generateAllDocs() {
   console.log('🚀 Starting documentation generation...\n');
   
@@ -213,6 +260,8 @@ function generateAllDocs() {
     generateSetupsMarkdown();
     console.log('');
     generateThemesMarkdown();
+    console.log('');
+    updateReadmeStats();
     console.log('\n🎉 All documentation generated successfully!');
   } catch (error) {
     console.error('❌ Error generating documentation:', error.message);
@@ -225,4 +274,4 @@ if (require.main === module) {
   generateAllDocs();
 }
 
-module.exports = { generateSetupsMarkdown, generateThemesMarkdown, generateAllDocs };
+module.exports = { generateSetupsMarkdown, generateThemesMarkdown, updateReadmeStats, generateAllDocs };
