@@ -525,5 +525,20 @@
       "purple",
       "pink"
     ]
+  },
+  {
+    "id": "47",
+    "name": "Akane",
+    "category": "Dark Theme",
+    "link": "https://github.com/Grenish/omarchy-akane-theme.git",
+    "author": "@Grenish",
+    "screenshot": "https://raw.githubusercontent.com/Grenish/omarchy-akane-theme/main/preview-1.png",
+    "tags": [
+      "unofficial",
+      "red",
+      "madder-red",
+      "autumn",
+      "japanese"
+    ]
   }
 ]
