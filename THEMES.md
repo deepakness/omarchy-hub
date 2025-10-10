@@ -1,4 +1,4 @@
-# Omarchy Themes collection
+# Omarchy themes collection
 
 Welcome to the comprehensive collection of Omarchy themes! This page showcases all available themes for the Omarchy Linux distribution, from official themes to community contributions.
 
