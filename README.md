@@ -3,7 +3,8 @@
 A community-driven website for collecting and sharing themes, setups, resources, and links for [Omarchy](https://omarchy.org) - the opinionated Arch + Hyprland setup by DHH.
 
 🌐 **Live website**: [omarchy.deepakness.com](https://omarchy.deepakness.com)  
-📸 **Workstation setup gallery**: [SETUPS.md](SETUPS.md)
+📸 **Workstation setup gallery**: [SETUPS.md](SETUPS.md)  
+🎨 **Theme collection**: [THEMES.md](THEMES.md)
 
 <!-- Badges -->
 
@@ -33,12 +34,13 @@ A community-driven website for collecting and sharing themes, setups, resources,
 │   ├── releases.json       # Omarchy releases, scrapes automatically
 │   └── links.json          # Links data
 ├── scripts/                # Automation scripts
-│   ├── generate-setups.js  # Generate setup data from screenshots
+│   ├── generate-docs.js    # Generate SETUPS.md and THEMES.md from JSON data
 │   ├── fetch-releases.js   # Fetch latest Omarchy releases
 │   └── optimize-images.js  # Optimize setup images
 ├── public/                 # Static assets
 │   └── setups/             # Setup screenshots (75+ images)
 ├── SETUPS.md               # Setup gallery
+├── THEMES.md               # Theme collection
 └── CONTRIBUTING.md         # Contribution guidelines
 ```
 
