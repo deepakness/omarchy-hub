@@ -9,7 +9,7 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 - **Total themes:** 47
 - **Official themes:** 11
 - **Community themes:** 36
-- **Dark themes:** 40
+- **Dark themes:** 41
 - **Light themes:** 6
 
 ## About these themes
@@ -643,7 +643,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 ### 45. C64
 
-**Category:** Colorful
+**Category:** Dark Theme
 
 **Author:** @scar45
 
