@@ -1063,5 +1063,47 @@
       "multi-monitor",
       "gaming"
     ]
+  },
+  {
+    "id": "82",
+    "name": "GPD WIN Max 2 Portable Gaming Setup",
+    "description": "GPD WIN Max 2 laptop with retro sunset wallpaper running Omakub Linux for gaming on the go.",
+    "screenshot": "setups/setup-82.jpeg",
+    "link": "https://x.com/jessethanley/status/1944697621693771946",
+    "device": "GPD WIN Max 2",
+    "category": "Laptop",
+    "tags": [
+      "gpd",
+      "portable",
+      "gaming"
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Multi-Monitor Development Workspace",
+    "description": "Warm-lit development setup with vertical monitor showing system stats and horizontal monitor with terminal windows.",
+    "screenshot": "setups/setup-83.jpeg",
+    "link": "https://x.com/stackedlol/status/1977459327930937795",
+    "device": "MacBook + Dual External Monitors",
+    "category": "Desktop",
+    "tags": [
+      "multi-monitor",
+      "development",
+      "macbook"
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Clean Mini PC Development Setup",
+    "description": "Compact mini PC setup with Sceptre monitor displaying ChatGPT, system stats, and VS Code windows.",
+    "screenshot": "setups/setup-84.jpeg",
+    "link": "https://x.com/aki_ranin/status/1977256636554395815",
+    "device": "Mini PC + Sceptre Monitor",
+    "category": "Desktop",
+    "tags": [
+      "mini-pc",
+      "sceptre",
+      "development"
+    ]
   }
 ]
