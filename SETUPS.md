@@ -6,9 +6,9 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 81
-- **Desktop setups:** 47
-- **Laptop setups:** 33
+- **Total setups:** 84
+- **Desktop setups:** 49
+- **Laptop setups:** 34
 - **Tablet setups:** 1
 
 ## About these setups
@@ -1154,6 +1154,48 @@ Legion gaming laptop with dual external monitors displaying OMARCHY in pixelated
 **Tags:** `legion`, `multi-monitor`, `gaming`
 
 **Source:** [View original post](https://x.com/szabcsee/status/1978098256061096135)
+
+---
+
+### 82. GPD WIN Max 2 Portable Gaming Setup
+
+GPD WIN Max 2 laptop with retro sunset wallpaper running Omakub Linux for gaming on the go.
+
+**Device:** GPD WIN Max 2
+
+<img src="/public/setups/setup-82.jpeg" alt="GPD WIN Max 2 Portable Gaming Setup" width="450">
+
+**Tags:** `gpd`, `portable`, `gaming`
+
+**Source:** [View original post](https://x.com/jessethanley/status/1944697621693771946)
+
+---
+
+### 83. Multi-Monitor Development Workspace
+
+Warm-lit development setup with vertical monitor showing system stats and horizontal monitor with terminal windows.
+
+**Device:** MacBook + Dual External Monitors
+
+<img src="/public/setups/setup-83.jpeg" alt="Multi-Monitor Development Workspace" width="450">
+
+**Tags:** `multi-monitor`, `development`, `macbook`
+
+**Source:** [View original post](https://x.com/stackedlol/status/1977459327930937795)
+
+---
+
+### 84. Clean Mini PC Development Setup
+
+Compact mini PC setup with Sceptre monitor displaying ChatGPT, system stats, and VS Code windows.
+
+**Device:** Mini PC + Sceptre Monitor
+
+<img src="/public/setups/setup-84.jpeg" alt="Clean Mini PC Development Setup" width="450">
+
+**Tags:** `mini-pc`, `sceptre`, `development`
+
+**Source:** [View original post](https://x.com/aki_ranin/status/1977256636554395815)
 
 
 ---
