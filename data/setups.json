@@ -1036,5 +1036,32 @@
     "tags": [
       "5k-monitor"
     ]
+  },
+  {
+    "id": "80",
+    "name": "Beelink Mini PC with Seawink Ultrawide",
+    "description": "Beelink mini PC setup with Seawink curved ultrawide monitor, Lofree keyboard, and white mouse.",
+    "screenshot": "setups/setup-80.jpeg",
+    "link": "https://x.com/AdamMusaAly/status/1977224437431669241",
+    "device": "Beelink Mini PC + Seawink Curved Ultrawide",
+    "category": "Desktop",
+    "tags": [
+      "beelink",
+      "seawink"
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Legion Gaming Laptop Multi-Monitor Setup",
+    "description": "Legion gaming laptop with dual external monitors displaying OMARCHY in pixelated retro font.",
+    "screenshot": "setups/setup-81.jpeg",
+    "link": "https://x.com/szabcsee/status/1978098256061096135",
+    "device": "Legion Gaming Laptop + Dual External Monitors",
+    "category": "Desktop",
+    "tags": [
+      "legion",
+      "multi-monitor",
+      "gaming"
+    ]
   }
 ]
