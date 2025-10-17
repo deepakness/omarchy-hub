@@ -2,6 +2,7 @@
   "name": "omarchy-hub",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "predev": "node scripts/fetch-releases.js && node scripts/optimize-images.js && node scripts/generate-docs.js",
     "dev": "next dev",
