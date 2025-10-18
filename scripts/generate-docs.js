@@ -170,7 +170,11 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
       
       // Add screenshot if available
       if (theme.screenshot) {
-        markdown += `<img src="${theme.screenshot}" alt="${theme.name}" width="450">\n\n`;
+        // Handle both local and external URLs
+        const imageSrc = theme.screenshot.startsWith('http') 
+          ? theme.screenshot 
+          : `/${theme.screenshot}`;
+        markdown += `<img src="${imageSrc}" alt="${theme.name}" width="450">\n\n`;
       }
       
       // Add tags
