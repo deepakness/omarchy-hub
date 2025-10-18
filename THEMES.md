@@ -689,7 +689,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Hancore-linux
 
-<img src="/themes/white-gold-1.png" alt="White Gold" width="450">
+<img src="/public/themes/white-gold-1.png" alt="White Gold" width="450">
 
 **Tags:** `unofficial`, `gold`
 
