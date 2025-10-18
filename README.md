@@ -36,13 +36,14 @@ Currently, omarchy-hub showcases **84 workstation setups**, **48 beautiful theme
 │   ├── releases.json       # Omarchy releases, scrapes automatically
 │   └── links.json          # Links data
 ├── scripts/                # Automation scripts
-│   ├── generate-docs.js    # Generate SETUPS.md and THEMES.md from JSON data
+│   ├── generate-docs.js    # Generate documentation from JSON data
 │   ├── fetch-releases.js   # Fetch latest Omarchy releases
 │   └── optimize-images.js  # Optimize setup images
 ├── public/                 # Static assets
-│   └── setups/             # Setup screenshots (75+ images)
+│   └── setups/             # Setup screenshots
 ├── SETUPS.md               # Setup gallery
 ├── THEMES.md               # Theme collection
+├── RESOURCES.md            # Resources collection
 └── CONTRIBUTING.md         # Contribution guidelines
 ```
 
