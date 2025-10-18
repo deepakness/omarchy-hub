@@ -540,5 +540,17 @@
       "autumn",
       "japanese"
     ]
+  },
+  {
+    "id": "48",
+    "name": "White Gold",
+    "category": "Light Theme",
+    "link": "https://github.com/HANCORE-linux/omarchy-whitegold-theme",
+    "author": "Hancore-linux",
+    "screenshot": "https://raw.githubusercontent.com/HANCORE-linux/omarchy-whitegold-theme/refs/heads/main/backgrounds/BG1.jpg",
+    "tags": [
+      "unofficial",
+      "gold"
+    ]
   }
 ]
