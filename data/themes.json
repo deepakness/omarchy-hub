@@ -552,5 +552,17 @@
       "unofficial",
       "gold"
     ]
+  },
+  {
+    "id": "49",
+    "name": "GTA",
+    "category": "Dark Theme",
+    "link": "https://github.com/jordan-ops/omarchy-GTA-theme",
+    "author": "jordan-ops",
+    "screenshot": "themes/gta-1.png",
+    "tags": [
+      "unofficial",
+      "dark"
+    ]
   }
 ]
