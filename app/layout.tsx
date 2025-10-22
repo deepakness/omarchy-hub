@@ -62,19 +62,12 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {/* Google Analytics - Load after page content for better performance */}
+        {/* Umami Analytics */}
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-PXTVKB66HW"
+          src="https://umami.vempus.com/script.js"
+          data-website-id="5bece05e-627e-48d1-abc3-0a1100d8c220"
           strategy="afterInteractive"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-PXTVKB66HW');
-          `}
-        </Script>
         
         <Header />
         {children}
