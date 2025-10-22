@@ -564,5 +564,18 @@
       "unofficial",
       "dark"
     ]
+  },
+  {
+    "id": "50",
+    "name": "Aamis",
+    "category": "Dark Theme",
+    "link": "https://github.com/vyrx-dev/omarchy-aamis-theme",
+    "author": "vyrx-dev",
+    "screenshot": "themes/aamis-1.png",
+    "tags": [
+      "unofficial",
+      "minimal",
+      "dark"
+    ]
   }
 ]

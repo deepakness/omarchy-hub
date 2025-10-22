@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 49
+- **Total themes:** 50
 - **Official themes:** 11
-- **Community themes:** 38
-- **Dark themes:** 42
+- **Community themes:** 39
+- **Dark themes:** 43
 - **Light themes:** 7
 
 ## About these themes
@@ -708,6 +708,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`
 
 **Install:** [View theme repository](https://github.com/jordan-ops/omarchy-GTA-theme)
+
+---
+
+### 50. Aamis
+
+**Category:** Dark Theme
+
+**Author:** vyrx-dev
+
+<img src="/public/themes/aamis-1.png" alt="Aamis" width="450">
+
+**Tags:** `unofficial`, `minimal`, `dark`
+
+**Install:** [View theme repository](https://github.com/vyrx-dev/omarchy-aamis-theme)
 
 
 ---
