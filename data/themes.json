@@ -483,7 +483,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/vyrx-dev/omarchy-void-theme",
     "author": "vyrx-dev",
-    "screenshot": "https://raw.githubusercontent.com/vyrx-dev/omarchy-void-theme/refs/heads/master/backgrounds/124.jpg",
+    "screenshot": "themes/void-1.png",
     "tags": [
       "unofficial"
     ]
@@ -571,7 +571,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/vyrx-dev/omarchy-aamis-theme",
     "author": "vyrx-dev",
-    "screenshot": "themes/aamis-1.png",
+    "screenshot": "themes/aamis-2.png",
     "tags": [
       "unofficial",
       "minimal",
