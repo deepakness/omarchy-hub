@@ -577,5 +577,17 @@
       "minimal",
       "dark"
     ]
+  },
+  {
+    "id": "51",
+    "name": "Batou",
+    "category": "Dark Theme",
+    "link": "https://github.com/HANCORE-linux/omarchy-batou-theme.git",
+    "author": "HANCORE-linux",
+    "screenshot": "themes/batou-1.png",
+    "tags": [
+      "unofficial",
+      "dark"
+    ]
   }
 ]
