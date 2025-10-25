@@ -31,7 +31,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/tokyo-night/backgrounds/1-scenery-pink-lakeside-sunset-lake-landscape-scenic-panorama-7680x3215-144.png" alt="Tokyo Night" width="450">
+<img src="/public/themes/tokyo-night-1.png" alt="Tokyo Night" width="450">
 
 **Tags:** `official`, `popular`, `featured`
 
@@ -45,7 +45,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/osaka-jade/backgrounds/1-osaka-jade-bg.jpg" alt="Osaka Jade" width="450">
+<img src="/public/themes/osaka-jade-2.jpg" alt="Osaka Jade" width="450">
 
 **Tags:** `official`, `popular`, `featured`
 
@@ -59,7 +59,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/rose-pine/backgrounds/1-rose-pine.jpg" alt="Rose Pine" width="450">
+<img src="/public/themes/rose-pine-3.jpg" alt="Rose Pine" width="450">
 
 **Tags:** `official`, `pastel`, `popular`, `featured`
 
@@ -73,7 +73,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/catppuccin-latte/backgrounds/1-catppuccin-latte.png" alt="Catppuccin Latte" width="450">
+<img src="/public/themes/catppuccin-latte-4.png" alt="Catppuccin Latte" width="450">
 
 **Tags:** `official`, `pastel`
 
@@ -87,7 +87,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/everforest/backgrounds/1-everforest.jpg" alt="Everforest" width="450">
+<img src="/public/themes/everforest-5.jpg" alt="Everforest" width="450">
 
 **Tags:** `official`, `popular`
 
@@ -101,7 +101,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/gruvbox/backgrounds/1-grubox.jpg" alt="Gruvbox" width="450">
+<img src="/public/themes/gruvbox-6.jpg" alt="Gruvbox" width="450">
 
 **Tags:** `official`, `popular`
 
@@ -115,7 +115,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/matte-black/backgrounds/1-matte-black.jpg" alt="Matte Black" width="450">
+<img src="/public/themes/matte-black-7.jpg" alt="Matte Black" width="450">
 
 **Tags:** `official`, `popular`
 
@@ -129,7 +129,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/catppuccin/backgrounds/1-catppuccin.png" alt="Catppuccin" width="450">
+<img src="/public/themes/catppuccin-8.png" alt="Catppuccin" width="450">
 
 **Tags:** `official`, `pastel`
 
@@ -143,7 +143,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/kanagawa/backgrounds/1-kanagawa.jpg" alt="Kanagawa" width="450">
+<img src="/public/themes/kanagawa-9.jpg" alt="Kanagawa" width="450">
 
 **Tags:** `official`, `popular`
 
@@ -157,7 +157,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/nord/backgrounds/1-nord.png" alt="Nord" width="450">
+<img src="/public/themes/nord-10.png" alt="Nord" width="450">
 
 **Tags:** `official`, `popular`
 
@@ -171,7 +171,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Omarchy
 
-<img src="https://raw.githubusercontent.com/basecamp/omarchy/refs/heads/master/themes/ristretto/backgrounds/1-ristretto.jpg" alt="Ristretto" width="450">
+<img src="/public/themes/ristretto-11.jpg" alt="Ristretto" width="450">
 
 **Tags:** `official`, `popular`
 
@@ -185,7 +185,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** bjarneo
 
-<img src="https://learn.omacom.io/u/ash-theme-DnGpEy.png" alt="Ash" width="450">
+<img src="/public/themes/ash-12.png" alt="Ash" width="450">
 
 **Tags:** `unofficial`
 
@@ -199,7 +199,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** bjarneo
 
-<img src="https://learn.omacom.io/u/aura-theme-LfFuUo.png" alt="Aura" width="450">
+<img src="/public/themes/aura-13.png" alt="Aura" width="450">
 
 **Tags:** `unofficial`
 
@@ -213,7 +213,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** guilhermetk
 
-<img src="https://learn.omacom.io/u/all-hallows-eve-theme-XQuTDB.webp" alt="All Hallow's Eve" width="450">
+<img src="/public/themes/all-hallow-s-eve-14.webp" alt="All Hallow's Eve" width="450">
 
 **Tags:** `unofficial`
 
@@ -227,7 +227,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Hydradevx
 
-<img src="https://learn.omacom.io/u/azure-glow-theme-vLp53z.png" alt="Azure Glow" width="450">
+<img src="/public/themes/azure-glow-15.png" alt="Azure Glow" width="450">
 
 **Tags:** `unofficial`
 
@@ -241,7 +241,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** hipsterusername
 
-<img src="https://learn.omacom.io/u/blueridge-theme-fkB0tl.png" alt="Blue Ridge Dark" width="450">
+<img src="/public/themes/blue-ridge-dark-16.png" alt="Blue Ridge Dark" width="450">
 
 **Tags:** `unofficial`
 
@@ -255,7 +255,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** catlee
 
-<img src="https://learn.omacom.io/u/dracula-theme-Rq2gWj.png" alt="Dracula" width="450">
+<img src="/public/themes/dracula-17.png" alt="Dracula" width="450">
 
 **Tags:** `unofficial`
 
@@ -269,7 +269,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** kalk-ak
 
-<img src="https://learn.omacom.io/u/omarchy-lush-green-fZgXeQ.png" alt="Green Garden" width="450">
+<img src="/public/themes/green-garden-18.png" alt="Green Garden" width="450">
 
 **Tags:** `unofficial`
 
@@ -283,7 +283,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** joaquinmeza
 
-<img src="https://learn.omacom.io/u/greenhakker-theme-LWigNZ.jpg" alt="Green Hakkar" width="450">
+<img src="/public/themes/green-hakkar-19.jpg" alt="Green Hakkar" width="450">
 
 **Tags:** `unofficial`
 
@@ -297,7 +297,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** TyRichards
 
-<img src="https://learn.omacom.io/u/felix-theme-vk8Fgx.png" alt="Felix" width="450">
+<img src="/public/themes/felix-20.png" alt="Felix" width="450">
 
 **Tags:** `unofficial`
 
@@ -311,7 +311,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** euandeas
 
-<img src="https://learn.omacom.io/u/flexoki-light-theme-OqUsEY.png" alt="Flexoki Light" width="450">
+<img src="/public/themes/flexoki-light-21.png" alt="Flexoki Light" width="450">
 
 **Tags:** `unofficial`
 
@@ -325,7 +325,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** euandeas
 
-<img src="https://learn.omacom.io/u/flexoki-dark-theme-meZCr4.png" alt="Flexoki Dark" width="450">
+<img src="/public/themes/flexoki-dark-22.png" alt="Flexoki Dark" width="450">
 
 **Tags:** `unofficial`
 
@@ -339,7 +339,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** bjarneo
 
-<img src="https://learn.omacom.io/u/futurism-theme-2w6HZI.png" alt="Futurism" width="450">
+<img src="/public/themes/futurism-23.png" alt="Futurism" width="450">
 
 **Tags:** `unofficial`
 
@@ -353,7 +353,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** tahayvr
 
-<img src="https://learn.omacom.io/u/gold-rush-theme-n9WQiY.jpeg" alt="Gold Rush" width="450">
+<img src="/public/themes/gold-rush-24.jpeg" alt="Gold Rush" width="450">
 
 **Tags:** `unofficial`
 
@@ -367,7 +367,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** steve-lohmeyer
 
-<img src="https://learn.omacom.io/u/mars-theme-r03GXm.png" alt="Mars" width="450">
+<img src="/public/themes/mars-25.png" alt="Mars" width="450">
 
 **Tags:** `unofficial`
 
@@ -381,7 +381,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** JaxonWright
 
-<img src="https://learn.omacom.io/u/midnight-theme-I5HKym.png" alt="Midnight" width="450">
+<img src="/public/themes/midnight-26.png" alt="Midnight" width="450">
 
 **Tags:** `unofficial`
 
@@ -395,7 +395,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** hipsterusername
 
-<img src="https://learn.omacom.io/u/milkymatcha-theme-JFT2X2.png" alt="Milky Matcha" width="450">
+<img src="/public/themes/milky-matcha-27.png" alt="Milky Matcha" width="450">
 
 **Tags:** `unofficial`
 
@@ -409,7 +409,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Swarnim114
 
-<img src="https://learn.omacom.io/u/monochrome-theme-GwATD6.png" alt="Monochrome" width="450">
+<img src="/public/themes/monochrome-28.png" alt="Monochrome" width="450">
 
 **Tags:** `unofficial`
 
@@ -423,7 +423,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** bjarneo
 
-<img src="https://learn.omacom.io/u/nes-theme-1Z6uqG.png" alt="NES" width="450">
+<img src="/public/themes/nes-29.png" alt="NES" width="450">
 
 **Tags:** `unofficial`
 
@@ -437,7 +437,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** sc0ttman
 
-<img src="https://learn.omacom.io/u/one-dark-pro-lm5SO2.png" alt="One Dark Pro" width="450">
+<img src="/public/themes/one-dark-pro-30.png" alt="One Dark Pro" width="450">
 
 **Tags:** `unofficial`
 
@@ -451,7 +451,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** bjarneo
 
-<img src="https://learn.omacom.io/u/pulsar-theme-DMUX7U.png" alt="Pulsar" width="450">
+<img src="/public/themes/pulsar-31.png" alt="Pulsar" width="450">
 
 **Tags:** `unofficial`
 
@@ -465,7 +465,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** rondilley
 
-<img src="https://learn.omacom.io/u/retropc-theme-a24vKN.png" alt="RetroPC" width="450">
+<img src="/public/themes/retropc-32.png" alt="RetroPC" width="450">
 
 **Tags:** `unofficial`
 
@@ -479,7 +479,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** guilhermetk
 
-<img src="https://learn.omacom.io/u/rose-pine-dark-pIMUcV.webp" alt="Rose Pine Dark" width="450">
+<img src="/public/themes/rose-pine-dark-33.webp" alt="Rose Pine Dark" width="450">
 
 **Tags:** `unofficial`
 
@@ -493,7 +493,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** TyRichards
 
-<img src="https://learn.omacom.io/u/space-monkey-theme-UGmUHp.jpg" alt="Space Monkey" width="450">
+<img src="/public/themes/space-monkey-34.jpg" alt="Space Monkey" width="450">
 
 **Tags:** `unofficial`
 
@@ -507,7 +507,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** bjarneo
 
-<img src="https://learn.omacom.io/u/snow-theme-MDtvlu.png" alt="Snow" width="450">
+<img src="/public/themes/snow-35.png" alt="Snow" width="450">
 
 **Tags:** `unofficial`
 
@@ -521,7 +521,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Gazler
 
-<img src="https://learn.omacom.io/u/solarized-theme-9OhQ7Y.png" alt="Solarized" width="450">
+<img src="/public/themes/solarized-36.png" alt="Solarized" width="450">
 
 **Tags:** `unofficial`
 
@@ -535,7 +535,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** dfrico
 
-<img src="https://learn.omacom.io/u/solarized-light2-OTGWbc.png" alt="Solarized Light" width="450">
+<img src="/public/themes/solarized-light-37.png" alt="Solarized Light" width="450">
 
 **Tags:** `unofficial`
 
@@ -549,7 +549,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** motorsss
 
-<img src="https://learn.omacom.io/u/solarized-osaka-theme-9pnXgG.png" alt="Solarized Osaka" width="450">
+<img src="/public/themes/solarized-osaka-38.png" alt="Solarized Osaka" width="450">
 
 **Tags:** `unofficial`
 
@@ -563,7 +563,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** TyRichards
 
-<img src="https://learn.omacom.io/u/super-game-bro-theme-2DNtSt.png" alt="Super Game Bro" width="450">
+<img src="/public/themes/super-game-bro-39.png" alt="Super Game Bro" width="450">
 
 **Tags:** `unofficial`
 
@@ -577,7 +577,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** omacom-io
 
-<img src="https://learn.omacom.io/u/synthwave-theme-7yHWFA.png" alt="Synthwave '84" width="450">
+<img src="/public/themes/synthwave-84-40.png" alt="Synthwave '84" width="450">
 
 **Tags:** `unofficial`
 
@@ -591,7 +591,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** hipsterusername
 
-<img src="https://learn.omacom.io/u/waveform-theme-ZiWq97.png" alt="Waveform Dark" width="450">
+<img src="/public/themes/waveform-dark-41.png" alt="Waveform Dark" width="450">
 
 **Tags:** `unofficial`
 
@@ -605,7 +605,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Rnedlose
 
-<img src="https://learn.omacom.io/u/screenshot-2025-09-07_17-46-00-2HrZsu.jpg" alt="Vague" width="450">
+<img src="/public/themes/vague-42.jpg" alt="Vague" width="450">
 
 **Tags:** `unofficial`
 
@@ -633,7 +633,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Bhavabhuthi
 
-<img src="https://gitlab.com/bhavabhuthi/omarchy-gornergrat-station-theme/-/raw/main/assets/theme-1.png" alt="Gornergrat Station Theme" width="450">
+<img src="/public/themes/gornergrat-station-theme-44.png" alt="Gornergrat Station Theme" width="450">
 
 **Tags:** `unofficial`
 
@@ -647,7 +647,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** @scar45
 
-<img src="https://raw.githubusercontent.com/scar45/omarchy-c64-theme/refs/heads/main/theme.png" alt="C64" width="450">
+<img src="/public/themes/c64-45.png" alt="C64" width="450">
 
 **Tags:** `unofficial`, `blue`, `retro`, `nostalgic`
 
@@ -661,7 +661,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** @komagata
 
-<img src="https://raw.githubusercontent.com/komagata/omarchy-kawasaki-foundry-theme/refs/heads/main/backgrounds/kawasaki-foundry.png" alt="Kawasaki Foundry" width="450">
+<img src="/public/themes/kawasaki-foundry-46.png" alt="Kawasaki Foundry" width="450">
 
 **Tags:** `unofficial`, `purple`, `pink`
 
@@ -675,7 +675,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** @Grenish
 
-<img src="https://raw.githubusercontent.com/Grenish/omarchy-akane-theme/main/preview-1.png" alt="Akane" width="450">
+<img src="/public/themes/akane-47.png" alt="Akane" width="450">
 
 **Tags:** `unofficial`, `red`, `madder-red`, `autumn`, `japanese`
 
