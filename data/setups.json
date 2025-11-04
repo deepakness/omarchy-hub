@@ -946,7 +946,7 @@
   {
     "id": "73",
     "name": "Cool Desktop Setup",
-    "description": "Smooth Omarchy v0.4.0 installation with beautiful themes. Features GOVO soundbar and mechanical keyboard.",
+    "description": "Smooth Omarchy v0.4.0 installation with beautiful themes. Features GOVO soundbar and keyboard.",
     "screenshot": "setups/setup-73.jpeg",
     "link": "https://x.com/RajaAyyanar/status/1974180922602955177",
     "device": "Custom Desktop PC + BenQ Monitor",
@@ -962,7 +962,7 @@
     "description": "Powerful gaming laptop setup featuring Dell Alienware X17 R1 with dual external displays.",
     "screenshot": "setups/setup-74.jpeg",
     "link": "https://x.com/komagata/status/1975165337646809303",
-    "device": "Alienware X17 R1, Dell Displays, WOBKEY Rainy 75",
+    "device": "Alienware X17 R1, WOBKEY Rainy 75",
     "category": "Laptop",
     "tags": [
       "alienware",
@@ -974,7 +974,7 @@
   {
     "id": "75",
     "name": "DHH's Omarchy Retro Gaming Rig",
-    "description": "Epic home entertainment setup featuring a glorious 115\" TCL screen with high-end audio speakers and retro gamepad.",
+    "description": "Epic home entertainment setup featuring a glorious 115\" TCL screen with audio speakers and gamepad.",
     "screenshot": "setups/setup-75.jpeg",
     "link": "https://x.com/dhh/status/1975499113182761454",
     "device": "115\" TCL Screen + High-End Speakers",
@@ -1013,11 +1013,11 @@
   },
   {
     "id": "78",
-    "name": "Supersoniko's Attic Omarchy Workstation",
+    "name": "Supersoniko's Attic Workstation",
     "description": "Detailed attic workspace featuring a custom PC with Totoro wallpaper and Angry Miao AFA split keyboard.",
     "screenshot": "setups/setup-78.jpeg",
     "link": "https://x.com/supersoniko_be/status/1972251333731484058",
-    "device": "Custom PC + Large Monitor + Angry Miao AFA Keyboard",
+    "device": "Custom PC + Large Monitor",
     "category": "Desktop",
     "tags": [
       "angry-miao",
@@ -1052,7 +1052,7 @@
   },
   {
     "id": "81",
-    "name": "Legion Gaming Laptop Multi-Monitor Setup",
+    "name": "Legion Gaming Laptop Setup",
     "description": "Legion gaming laptop with dual external monitors displaying OMARCHY in pixelated retro font.",
     "screenshot": "setups/setup-81.jpeg",
     "link": "https://x.com/szabcsee/status/1978098256061096135",
@@ -1081,7 +1081,7 @@
   {
     "id": "83",
     "name": "Multi-Monitor Development Workspace",
-    "description": "Warm-lit development setup with vertical monitor showing system stats and horizontal monitor with terminal windows.",
+    "description": "Warm-lit development setup with vertical monitor showing system stats and monitor with terminal.",
     "screenshot": "setups/setup-83.jpeg",
     "link": "https://x.com/stackedlol/status/1977459327930937795",
     "device": "MacBook + Dual External Monitors",
@@ -1095,7 +1095,7 @@
   {
     "id": "84",
     "name": "Clean Mini PC Development Setup",
-    "description": "Compact mini PC setup with Sceptre monitor displaying ChatGPT, system stats, and VS Code windows.",
+    "description": "Compact mini PC setup with Sceptre monitor displaying ChatGPT, system stats, and VS Code.",
     "screenshot": "setups/setup-84.jpeg",
     "link": "https://x.com/aki_ranin/status/1977256636554395815",
     "device": "Mini PC + Sceptre Monitor",
@@ -1112,14 +1112,11 @@
     "description": "Omarchy v3.0.2 running smoothly on HP Stream Notebook with dual-core Celeron and 2GB RAM.",
     "screenshot": "setups/setup-85.jpeg",
     "link": "https://x.com/ryanrhughes/status/1978885149774483685",
-    "device": "HP Stream Notebook PC 11 (Intel Celeron N2840, 2GB RAM) + 17\" CRT Monitor",
+    "device": "HP Stream Notebook + CRT Monitor",
     "category": "Laptop",
     "tags": [
       "hp",
-      "stream",
-      "low-end",
-      "performance",
-      "crt"
+      "performance"
     ]
   },
   {
@@ -1128,14 +1125,11 @@
     "description": "Custom desktop with AMD Ryzen AI MAX+ 395 and checkerboard case running Omarchy.",
     "screenshot": "setups/setup-86.jpeg",
     "link": "https://x.com/typecraft_dev/status/1979219287811481746",
-    "device": "Custom Desktop (AMD Ryzen AI MAX+ 395) + 24\" Monitor + Mechanical Keyboard",
+    "device": "Custom Desktop + Monitor",
     "category": "Desktop",
     "tags": [
-      "typecraft",
-      "custom-pc",
       "amd-ryzen",
-      "high-performance",
-      "mechanical-keyboard"
+      "custom-pc"
     ]
   },
   {
@@ -1144,13 +1138,11 @@
     "description": "Framework Laptop with curved ultrawide monitor showing terminal windows and code.",
     "screenshot": "setups/setup-87.jpeg",
     "link": "https://x.com/preetham_reddyc/status/1979707534094340608",
-    "device": "Framework Laptop + Curved Ultrawide Monitor + Ergonomic Mouse",
+    "device": "Framework Laptop + Ultrawide",
     "category": "Desktop",
     "tags": [
       "framework",
-      "ultrawide",
-      "development",
-      "ergonomic"
+      "ultrawide"
     ]
   },
   {
@@ -1159,28 +1151,24 @@
     "description": "Laptop with curved ultrawide monitor showing dual-OS setup with Windows and Omarchy Linux.",
     "screenshot": "setups/setup-88.jpeg",
     "link": "https://x.com/preetham_reddyc/status/1980131520221462866",
-    "device": "Laptop + Curved Ultrawide Monitor + Ergonomic Mouse",
+    "device": "Laptop + Ultrawide Monitor",
     "category": "Desktop",
     "tags": [
       "dual-os",
-      "ultrawide",
-      "windows",
-      "ergonomic"
+      "ultrawide"
     ]
   },
   {
     "id": "89",
     "name": "Lenovo Yoga Installation",
-    "description": "Lenovo Yoga laptop showing Omarchy installation with package upgrades, transitioning from WSL to native Linux.",
+    "description": "Lenovo Yoga laptop showing Omarchy installation with package upgrades, from WSL to native Linux.",
     "screenshot": "setups/setup-89.jpeg",
     "link": "https://x.com/PanchamKhaitan/status/1981807888663556326",
     "device": "Lenovo Yoga Laptop",
     "category": "Laptop",
     "tags": [
       "lenovo",
-      "yoga",
-      "installation",
-      "wsl"
+      "installation"
     ]
   },
   {
@@ -1189,30 +1177,24 @@
     "description": "ThinkPad T480 with 16GB RAM rescued from Windows performance issues, now running Omarchy.",
     "screenshot": "setups/setup-90.jpeg",
     "link": "https://x.com/screenfluent/status/1982044347924173053",
-    "device": "Lenovo ThinkPad T480 (16GB RAM)",
+    "device": "Lenovo ThinkPad T480",
     "category": "Laptop",
     "tags": [
       "thinkpad",
-      "t480",
-      "revival",
-      "windows"
+      "revival"
     ]
   },
   {
     "id": "91",
     "name": "M2 MacBook Pro Omarchy Mac",
-    "description": "M2 MacBook Pro with external Dell monitor both running Omarchy Mac, featuring ergonomic keyboard and trackball.",
+    "description": "M2 MacBook Pro with external Dell monitor both running Omarchy Mac, featuring ergonomic keyboard.",
     "screenshot": "setups/setup-91.jpeg",
     "link": "https://x.com/GrubbyChicken/status/1982537328867278958",
-    "device": "M2 MacBook Pro + Dell External Monitor + Split Ergonomic Keyboard + Trackball Mouse",
+    "device": "M2 MacBook Pro + External Monitor",
     "category": "Desktop",
     "tags": [
       "macbook-pro",
-      "m2",
-      "omarchy-mac",
-      "external-monitor",
-      "ergonomic",
-      "trackball"
+      "omarchy-mac"
     ]
   },
   {
@@ -1221,14 +1203,11 @@
     "description": "Studio workspace with Mac mini and MacBook Pro, large monitor, JBL studio monitors, and MIDI keyboard.",
     "screenshot": "setups/setup-92.jpeg",
     "link": "https://x.com/paolino/status/1984304204303810854",
-    "device": "Mac mini + MacBook Pro + Large Monitor + JBL Studio Monitors + MIDI Keyboard",
+    "device": "Mac mini + MacBook Pro + Monitor",
     "category": "Desktop",
     "tags": [
       "mac-mini",
-      "macbook-pro",
-      "audio-production",
-      "studio-monitors",
-      "midi-keyboard"
+      "audio-production"
     ]
   },
   {
@@ -1237,7 +1216,7 @@
     "description": "HP laptop showing Omarchy installation process with package downloads and system setup.",
     "screenshot": "setups/setup-93.jpeg",
     "link": "https://x.com/gurselcakar/status/1984709794054160668",
-    "device": "HP Laptop",
+    "device": "Old HP Laptop",
     "category": "Laptop",
     "tags": [
       "hp",

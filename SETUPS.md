@@ -1033,7 +1033,7 @@ Framework Laptop 12 with impressive performance - 4m13s HEY test, under $1,000.
 
 ### 73. Cool Desktop Setup
 
-Smooth Omarchy v0.4.0 installation with beautiful themes. Features GOVO soundbar and mechanical keyboard.
+Smooth Omarchy v0.4.0 installation with beautiful themes. Features GOVO soundbar and keyboard.
 
 **Device:** Custom Desktop PC + BenQ Monitor
 
@@ -1049,7 +1049,7 @@ Smooth Omarchy v0.4.0 installation with beautiful themes. Features GOVO soundbar
 
 Powerful gaming laptop setup featuring Dell Alienware X17 R1 with dual external displays.
 
-**Device:** Alienware X17 R1, Dell Displays, WOBKEY Rainy 75
+**Device:** Alienware X17 R1, WOBKEY Rainy 75
 
 <img src="/public/setups/setup-74.jpeg" alt="Dell Alienware X17 R1 Setup" width="450">
 
@@ -1061,7 +1061,7 @@ Powerful gaming laptop setup featuring Dell Alienware X17 R1 with dual external 
 
 ### 75. DHH's Omarchy Retro Gaming Rig
 
-Epic home entertainment setup featuring a glorious 115" TCL screen with high-end audio speakers and retro gamepad.
+Epic home entertainment setup featuring a glorious 115" TCL screen with audio speakers and gamepad.
 
 **Device:** 115" TCL Screen + High-End Speakers
 
@@ -1101,13 +1101,13 @@ Framework laptop showing the Omarchy installation interface with keyboard layout
 
 ---
 
-### 78. Supersoniko's Attic Omarchy Workstation
+### 78. Supersoniko's Attic Workstation
 
 Detailed attic workspace featuring a custom PC with Totoro wallpaper and Angry Miao AFA split keyboard.
 
-**Device:** Custom PC + Large Monitor + Angry Miao AFA Keyboard
+**Device:** Custom PC + Large Monitor
 
-<img src="/public/setups/setup-78.jpeg" alt="Supersoniko's Attic Omarchy Workstation" width="450">
+<img src="/public/setups/setup-78.jpeg" alt="Supersoniko's Attic Workstation" width="450">
 
 **Tags:** `angry-miao`, `split-keyboard`, `anime`
 
@@ -1143,13 +1143,13 @@ Beelink mini PC setup with Seawink curved ultrawide monitor, Lofree keyboard, an
 
 ---
 
-### 81. Legion Gaming Laptop Multi-Monitor Setup
+### 81. Legion Gaming Laptop Setup
 
 Legion gaming laptop with dual external monitors displaying OMARCHY in pixelated retro font.
 
 **Device:** Legion Gaming Laptop + Dual External Monitors
 
-<img src="/public/setups/setup-81.jpeg" alt="Legion Gaming Laptop Multi-Monitor Setup" width="450">
+<img src="/public/setups/setup-81.jpeg" alt="Legion Gaming Laptop Setup" width="450">
 
 **Tags:** `legion`, `multi-monitor`, `gaming`
 
@@ -1173,7 +1173,7 @@ GPD WIN Max 2 laptop with retro sunset wallpaper running Omakub Linux for gaming
 
 ### 83. Multi-Monitor Development Workspace
 
-Warm-lit development setup with vertical monitor showing system stats and horizontal monitor with terminal windows.
+Warm-lit development setup with vertical monitor showing system stats and monitor with terminal.
 
 **Device:** MacBook + Dual External Monitors
 
@@ -1187,7 +1187,7 @@ Warm-lit development setup with vertical monitor showing system stats and horizo
 
 ### 84. Clean Mini PC Development Setup
 
-Compact mini PC setup with Sceptre monitor displaying ChatGPT, system stats, and VS Code windows.
+Compact mini PC setup with Sceptre monitor displaying ChatGPT, system stats, and VS Code.
 
 **Device:** Mini PC + Sceptre Monitor
 
@@ -1203,11 +1203,11 @@ Compact mini PC setup with Sceptre monitor displaying ChatGPT, system stats, and
 
 Omarchy v3.0.2 running smoothly on HP Stream Notebook with dual-core Celeron and 2GB RAM.
 
-**Device:** HP Stream Notebook PC 11 (Intel Celeron N2840, 2GB RAM) + 17" CRT Monitor
+**Device:** HP Stream Notebook + CRT Monitor
 
 <img src="/public/setups/setup-85.jpeg" alt="HP Stream Low-End Performance" width="450">
 
-**Tags:** `hp`, `stream`, `low-end`, `performance`, `crt`
+**Tags:** `hp`, `performance`
 
 **Source:** [View original post](https://x.com/ryanrhughes/status/1978885149774483685)
 
@@ -1217,11 +1217,11 @@ Omarchy v3.0.2 running smoothly on HP Stream Notebook with dual-core Celeron and
 
 Custom desktop with AMD Ryzen AI MAX+ 395 and checkerboard case running Omarchy.
 
-**Device:** Custom Desktop (AMD Ryzen AI MAX+ 395) + 24" Monitor + Mechanical Keyboard
+**Device:** Custom Desktop + Monitor
 
 <img src="/public/setups/setup-86.jpeg" alt="Typecraft AMD Ryzen Desktop" width="450">
 
-**Tags:** `typecraft`, `custom-pc`, `amd-ryzen`, `high-performance`, `mechanical-keyboard`
+**Tags:** `amd-ryzen`, `custom-pc`
 
 **Source:** [View original post](https://x.com/typecraft_dev/status/1979219287811481746)
 
@@ -1231,11 +1231,11 @@ Custom desktop with AMD Ryzen AI MAX+ 395 and checkerboard case running Omarchy.
 
 Framework Laptop with curved ultrawide monitor showing terminal windows and code.
 
-**Device:** Framework Laptop + Curved Ultrawide Monitor + Ergonomic Mouse
+**Device:** Framework Laptop + Ultrawide
 
 <img src="/public/setups/setup-87.jpeg" alt="Framework Ultrawide Dev Setup" width="450">
 
-**Tags:** `framework`, `ultrawide`, `development`, `ergonomic`
+**Tags:** `framework`, `ultrawide`
 
 **Source:** [View original post](https://x.com/preetham_reddyc/status/1979707534094340608)
 
@@ -1245,11 +1245,11 @@ Framework Laptop with curved ultrawide monitor showing terminal windows and code
 
 Laptop with curved ultrawide monitor showing dual-OS setup with Windows and Omarchy Linux.
 
-**Device:** Laptop + Curved Ultrawide Monitor + Ergonomic Mouse
+**Device:** Laptop + Ultrawide Monitor
 
 <img src="/public/setups/setup-88.jpeg" alt="Dual-OS Ultrawide Setup" width="450">
 
-**Tags:** `dual-os`, `ultrawide`, `windows`, `ergonomic`
+**Tags:** `dual-os`, `ultrawide`
 
 **Source:** [View original post](https://x.com/preetham_reddyc/status/1980131520221462866)
 
@@ -1257,13 +1257,13 @@ Laptop with curved ultrawide monitor showing dual-OS setup with Windows and Omar
 
 ### 89. Lenovo Yoga Installation
 
-Lenovo Yoga laptop showing Omarchy installation with package upgrades, transitioning from WSL to native Linux.
+Lenovo Yoga laptop showing Omarchy installation with package upgrades, from WSL to native Linux.
 
 **Device:** Lenovo Yoga Laptop
 
 <img src="/public/setups/setup-89.jpeg" alt="Lenovo Yoga Installation" width="450">
 
-**Tags:** `lenovo`, `yoga`, `installation`, `wsl`
+**Tags:** `lenovo`, `installation`
 
 **Source:** [View original post](https://x.com/PanchamKhaitan/status/1981807888663556326)
 
@@ -1273,11 +1273,11 @@ Lenovo Yoga laptop showing Omarchy installation with package upgrades, transitio
 
 ThinkPad T480 with 16GB RAM rescued from Windows performance issues, now running Omarchy.
 
-**Device:** Lenovo ThinkPad T480 (16GB RAM)
+**Device:** Lenovo ThinkPad T480
 
 <img src="/public/setups/setup-90.jpeg" alt="Lenovo ThinkPad T480 Revival" width="450">
 
-**Tags:** `thinkpad`, `t480`, `revival`, `windows`
+**Tags:** `thinkpad`, `revival`
 
 **Source:** [View original post](https://x.com/screenfluent/status/1982044347924173053)
 
@@ -1285,13 +1285,13 @@ ThinkPad T480 with 16GB RAM rescued from Windows performance issues, now running
 
 ### 91. M2 MacBook Pro Omarchy Mac
 
-M2 MacBook Pro with external Dell monitor both running Omarchy Mac, featuring ergonomic keyboard and trackball.
+M2 MacBook Pro with external Dell monitor both running Omarchy Mac, featuring ergonomic keyboard.
 
-**Device:** M2 MacBook Pro + Dell External Monitor + Split Ergonomic Keyboard + Trackball Mouse
+**Device:** M2 MacBook Pro + External Monitor
 
 <img src="/public/setups/setup-91.jpeg" alt="M2 MacBook Pro Omarchy Mac" width="450">
 
-**Tags:** `macbook-pro`, `m2`, `omarchy-mac`, `external-monitor`, `ergonomic`, `trackball`
+**Tags:** `macbook-pro`, `omarchy-mac`
 
 **Source:** [View original post](https://x.com/GrubbyChicken/status/1982537328867278958)
 
@@ -1301,11 +1301,11 @@ M2 MacBook Pro with external Dell monitor both running Omarchy Mac, featuring er
 
 Studio workspace with Mac mini and MacBook Pro, large monitor, JBL studio monitors, and MIDI keyboard.
 
-**Device:** Mac mini + MacBook Pro + Large Monitor + JBL Studio Monitors + MIDI Keyboard
+**Device:** Mac mini + MacBook Pro + Monitor
 
 <img src="/public/setups/setup-92.jpeg" alt="Mac Studio Audio Workspace" width="450">
 
-**Tags:** `mac-mini`, `macbook-pro`, `audio-production`, `studio-monitors`, `midi-keyboard`
+**Tags:** `mac-mini`, `audio-production`
 
 **Source:** [View original post](https://x.com/paolino/status/1984304204303810854)
 
@@ -1315,7 +1315,7 @@ Studio workspace with Mac mini and MacBook Pro, large monitor, JBL studio monito
 
 HP laptop showing Omarchy installation process with package downloads and system setup.
 
-**Device:** HP Laptop
+**Device:** Old HP Laptop
 
 <img src="/public/setups/setup-93.jpeg" alt="HP Laptop Omarchy Installation" width="450">
 
