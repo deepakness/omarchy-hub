@@ -1105,5 +1105,143 @@
       "sceptre",
       "development"
     ]
+  },
+  {
+    "id": "85",
+    "name": "HP Stream Low-End Performance",
+    "description": "Omarchy v3.0.2 running smoothly on HP Stream Notebook with dual-core Celeron and 2GB RAM.",
+    "screenshot": "setups/setup-85.jpeg",
+    "link": "https://x.com/ryanrhughes/status/1978885149774483685",
+    "device": "HP Stream Notebook PC 11 (Intel Celeron N2840, 2GB RAM) + 17\" CRT Monitor",
+    "category": "Laptop",
+    "tags": [
+      "hp",
+      "stream",
+      "low-end",
+      "performance",
+      "crt"
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Typecraft AMD Ryzen Desktop",
+    "description": "Custom desktop with AMD Ryzen AI MAX+ 395 and checkerboard case running Omarchy.",
+    "screenshot": "setups/setup-86.jpeg",
+    "link": "https://x.com/typecraft_dev/status/1979219287811481746",
+    "device": "Custom Desktop (AMD Ryzen AI MAX+ 395) + 24\" Monitor + Mechanical Keyboard",
+    "category": "Desktop",
+    "tags": [
+      "typecraft",
+      "custom-pc",
+      "amd-ryzen",
+      "high-performance",
+      "mechanical-keyboard"
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Framework Ultrawide Dev Setup",
+    "description": "Framework Laptop with curved ultrawide monitor showing terminal windows and code.",
+    "screenshot": "setups/setup-87.jpeg",
+    "link": "https://x.com/preetham_reddyc/status/1979707534094340608",
+    "device": "Framework Laptop + Curved Ultrawide Monitor + Ergonomic Mouse",
+    "category": "Desktop",
+    "tags": [
+      "framework",
+      "ultrawide",
+      "development",
+      "ergonomic"
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Dual-OS Ultrawide Setup",
+    "description": "Laptop with curved ultrawide monitor showing dual-OS setup with Windows and Omarchy Linux.",
+    "screenshot": "setups/setup-88.jpeg",
+    "link": "https://x.com/preetham_reddyc/status/1980131520221462866",
+    "device": "Laptop + Curved Ultrawide Monitor + Ergonomic Mouse",
+    "category": "Desktop",
+    "tags": [
+      "dual-os",
+      "ultrawide",
+      "windows",
+      "ergonomic"
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Lenovo Yoga Installation",
+    "description": "Lenovo Yoga laptop showing Omarchy installation with package upgrades, transitioning from WSL to native Linux.",
+    "screenshot": "setups/setup-89.jpeg",
+    "link": "https://x.com/PanchamKhaitan/status/1981807888663556326",
+    "device": "Lenovo Yoga Laptop",
+    "category": "Laptop",
+    "tags": [
+      "lenovo",
+      "yoga",
+      "installation",
+      "wsl"
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Lenovo ThinkPad T480 Revival",
+    "description": "ThinkPad T480 with 16GB RAM rescued from Windows performance issues, now running Omarchy.",
+    "screenshot": "setups/setup-90.jpeg",
+    "link": "https://x.com/screenfluent/status/1982044347924173053",
+    "device": "Lenovo ThinkPad T480 (16GB RAM)",
+    "category": "Laptop",
+    "tags": [
+      "thinkpad",
+      "t480",
+      "revival",
+      "windows"
+    ]
+  },
+  {
+    "id": "91",
+    "name": "M2 MacBook Pro Omarchy Mac",
+    "description": "M2 MacBook Pro with external Dell monitor both running Omarchy Mac, featuring ergonomic keyboard and trackball.",
+    "screenshot": "setups/setup-91.jpeg",
+    "link": "https://x.com/GrubbyChicken/status/1982537328867278958",
+    "device": "M2 MacBook Pro + Dell External Monitor + Split Ergonomic Keyboard + Trackball Mouse",
+    "category": "Desktop",
+    "tags": [
+      "macbook-pro",
+      "m2",
+      "omarchy-mac",
+      "external-monitor",
+      "ergonomic",
+      "trackball"
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Mac Studio Audio Workspace",
+    "description": "Studio workspace with Mac mini and MacBook Pro, large monitor, JBL studio monitors, and MIDI keyboard.",
+    "screenshot": "setups/setup-92.jpeg",
+    "link": "https://x.com/paolino/status/1984304204303810854",
+    "device": "Mac mini + MacBook Pro + Large Monitor + JBL Studio Monitors + MIDI Keyboard",
+    "category": "Desktop",
+    "tags": [
+      "mac-mini",
+      "macbook-pro",
+      "audio-production",
+      "studio-monitors",
+      "midi-keyboard"
+    ]
+  },
+  {
+    "id": "93",
+    "name": "HP Laptop Omarchy Installation",
+    "description": "HP laptop showing Omarchy installation process with package downloads and system setup.",
+    "screenshot": "setups/setup-93.jpeg",
+    "link": "https://x.com/gurselcakar/status/1984709794054160668",
+    "device": "HP Laptop",
+    "category": "Laptop",
+    "tags": [
+      "hp",
+      "installation"
+    ]
   }
 ]

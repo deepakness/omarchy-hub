@@ -535,7 +535,6 @@
     "tags": [
       "unofficial",
       "red",
-      "madder-red",
       "autumn",
       "japanese"
     ]
@@ -581,9 +580,21 @@
     "id": "51",
     "name": "Batou",
     "category": "Dark Theme",
-    "link": "https://github.com/HANCORE-linux/omarchy-batou-theme.git",
+    "link": "https://github.com/HANCORE-linux/omarchy-batou-theme",
     "author": "HANCORE-linux",
     "screenshot": "themes/batou-1.png",
+    "tags": [
+      "unofficial",
+      "dark"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Sunset Drive",
+    "category": "Dark Theme",
+    "link": "https://github.com/tahayvr/omarchy-sunset-drive-theme",
+    "author": "tahayvr",
+    "screenshot": "themes/sunset-drive-1.png",
     "tags": [
       "unofficial",
       "dark"
