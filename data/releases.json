@@ -1,5 +1,21 @@
 [
   {
+    "tag": "v3.1.5",
+    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.1.5",
+    "publishedAt": null,
+    "isLatest": false,
+    "changelog": "<ul>\n<li>Add <code>Super + O</code> to pop a window out into a pinned and floating overlay by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/ryrobes/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/ryrobes\">@ryrobes</a></li>\n<li>Fix possibility for walker/elephant to brick on upgrading by introducing omarchy-walker meta package by <a class=\"user-mention notranslate\" data-hovercard-type=\"use...",
+    "description": "Add Super + O to pop a window out into a pinned and floating overlay by @ryrobes Fix possibility for..."
+  },
+  {
+    "tag": "v3.1.4",
+    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.1.4",
+    "publishedAt": null,
+    "isLatest": false,
+    "changelog": "<ul>\n<li>Add better presentation of keybindings in order of importance by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/dhh/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/dhh\">@dhh</a></li>\n<li>Add <code>Super + S</code> to reveal scratchpad workspace overlay and <code>Super + Alt + S</code> to move an app there by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hover...",
+    "description": "Add better presentation of keybindings in order of importance by @dhh Add Super + S to reveal scratc..."
+  },
+  {
     "tag": "v3.1.3",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.1.3",
     "publishedAt": null,
@@ -58,22 +74,6 @@
   {
     "tag": "v2.1.1",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v2.1.1",
-    "publishedAt": null,
-    "isLatest": false,
-    "changelog": "",
-    "description": ""
-  },
-  {
-    "tag": "v2.1.0",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v2.1.0",
-    "publishedAt": null,
-    "isLatest": false,
-    "changelog": "",
-    "description": ""
-  },
-  {
-    "tag": "v2.0.5",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v2.0.5",
     "publishedAt": null,
     "isLatest": false,
     "changelog": "",
