@@ -599,5 +599,17 @@
       "unofficial",
       "dark"
     ]
+  },
+  {
+    "id": "53",
+    "name": "Cobalt2",
+    "category": "Dark Theme",
+    "link": "https://github.com/hoblin/omarchy-cobalt2-theme",
+    "author": "@hoblin",
+    "screenshot": "themes/cobalt2-1.webp",
+    "tags": [
+      "unofficial",
+      "dark"
+    ]
   }
 ]

@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 52
+- **Total themes:** 53
 - **Official themes:** 11
-- **Community themes:** 41
-- **Dark themes:** 45
+- **Community themes:** 42
+- **Dark themes:** 46
 - **Light themes:** 7
 
 ## About these themes
@@ -750,6 +750,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`
 
 **Install:** [View theme repository](https://github.com/tahayvr/omarchy-sunset-drive-theme)
+
+---
+
+### 53. Cobalt2
+
+**Category:** Dark Theme
+
+**Author:** @hoblin
+
+<img src="/public/themes/cobalt2-1.webp" alt="Cobalt2" width="450">
+
+**Tags:** `unofficial`, `dark`
+
+**Install:** [View theme repository](https://github.com/hoblin/omarchy-cobalt2-theme)
 
 
 ---
