@@ -29,7 +29,7 @@ Clean minimalist workspace combining Apple's industrial design with Omarchy on a
 
 **Device:** Apple Studio Display + Custom PC
 
-<img src="/public/setups/setup-1.jpeg" alt="Apple Studio Display Setup" width="450">
+<img src="/public/setups/setup-1.webp" alt="Apple Studio Display Setup" width="450">
 
 **Tags:** `apple`, `minimal`, `studio-display`
 
@@ -43,7 +43,7 @@ Framework 13 laptop running Omarchy 2.0 with Hyprland and vibrant purple mountai
 
 **Device:** Framework 13
 
-<img src="/public/setups/setup-2.jpeg" alt="Framework 13 running Omarchy" width="450">
+<img src="/public/setups/setup-2.webp" alt="Framework 13 running Omarchy" width="450">
 
 **Tags:** `framework`, `laptop`, `orange`
 
@@ -57,7 +57,7 @@ A classic 2012 Apple iMac resurrected with Omarchy, featuring Hyprland, LazyVim,
 
 **Device:** 2012 Apple iMac
 
-<img src="/public/setups/setup-3.jpeg" alt="2012 Apple iMac Resurrection" width="450">
+<img src="/public/setups/setup-3.webp" alt="2012 Apple iMac Resurrection" width="450">
 
 **Tags:** `apple`, `imac`, `vintage`
 
@@ -71,7 +71,7 @@ A powerful Linux desktop setup running Omarchy and Hyprland on a Beelink SER8 mi
 
 **Device:** Beelink SER8 + Lofree Keyboard
 
-<img src="/public/setups/setup-4.jpeg" alt="Beelink SER8 Omarchy Workstation" width="450">
+<img src="/public/setups/setup-4.webp" alt="Beelink SER8 Omarchy Workstation" width="450">
 
 **Tags:** `beelink`, `mini-pc`, `productivity`
 
@@ -85,7 +85,7 @@ Smooth Omarchy installation on a used ThinkPad X1 Carbon Gen8 - completed in und
 
 **Device:** Lenovo ThinkPad X1 Carbon Gen8
 
-<img src="/public/setups/setup-5.jpeg" alt="ThinkPad X1 Carbon Gen8 Omarchy" width="450">
+<img src="/public/setups/setup-5.webp" alt="ThinkPad X1 Carbon Gen8 Omarchy" width="450">
 
 **Tags:** `thinkpad`, `x1-carbon`
 
@@ -99,7 +99,7 @@ A month-long journey from Arch to Omarchy - built custom idempotent setup script
 
 **Device:** LG Monitor + Ergonomic Split Keyboard
 
-<img src="/public/setups/setup-6.jpeg" alt="Coen's Full Linux Transition" width="450">
+<img src="/public/setups/setup-6.webp" alt="Coen's Full Linux Transition" width="450">
 
 **Tags:** `apple`, `lg`
 
@@ -113,7 +113,7 @@ Omarchy on an older ThinkPad with 7th‑gen i7 — runs fast and smooth compared
 
 **Device:** Lenovo ThinkPad Yoga 370 (7th‑gen i7)
 
-<img src="/public/setups/setup-7.jpeg" alt="ThinkPad Yoga 370 + Omarchy" width="450">
+<img src="/public/setups/setup-7.webp" alt="ThinkPad Yoga 370 + Omarchy" width="450">
 
 **Tags:** `thinkpad`
 
@@ -127,7 +127,7 @@ Loving the Beelink + Omarchy setup with The Great Wave off Kanagawa wallpaper.
 
 **Device:** Beelink Mini PC + Monitor
 
-<img src="/public/setups/setup-8.jpeg" alt="Sam's Beelink + Omarchy Setup" width="450">
+<img src="/public/setups/setup-8.webp" alt="Sam's Beelink + Omarchy Setup" width="450">
 
 **Tags:** `beelink`, `mini-pc`
 
@@ -141,7 +141,7 @@ Framework13 laptop paired with Samsung 49inch G9 ultrawide monitor running Omarc
 
 **Device:** Framework 13 + Samsung 49" G9
 
-<img src="/public/setups/setup-9.jpeg" alt="Framework13 + Samsung G9 Ultrawide" width="450">
+<img src="/public/setups/setup-9.webp" alt="Framework13 + Samsung G9 Ultrawide" width="450">
 
 **Tags:** `framework`, `ultrawide`
 
@@ -155,7 +155,7 @@ Framework 13 ultrabook running terabyte-sized workloads with DuckDB
 
 **Device:** Framework 13 (AMD Ryzen AI 9 HX 370)
 
-<img src="/public/setups/setup-10.jpeg" alt="Framework 13 Big Data Workstation" width="450">
+<img src="/public/setups/setup-10.webp" alt="Framework 13 Big Data Workstation" width="450">
 
 **Tags:** `framework`, `ryzen`
 
@@ -169,7 +169,7 @@ Enjoying a clean work setup powered by Framework desktop running Omarchy.
 
 **Device:** Framework Desktop + Split Ergonomic Keyboard
 
-<img src="/public/setups/setup-11.jpeg" alt="Framework Desktop + Omarchy" width="450">
+<img src="/public/setups/setup-11.webp" alt="Framework Desktop + Omarchy" width="450">
 
 **Tags:** `framework`, `split-keyboard`
 
@@ -183,7 +183,7 @@ Omarchy running fast on a $385 Beelink PC with stunning visuals on Apple Studio 
 
 **Device:** Beelink PC + Apple Studio Display
 
-<img src="/public/setups/setup-12.jpeg" alt="Beelink PC + Studio Display Omarchy" width="450">
+<img src="/public/setups/setup-12.webp" alt="Beelink PC + Studio Display Omarchy" width="450">
 
 **Tags:** `beelink`, `studio-display`
 
@@ -197,7 +197,7 @@ Experimental Omarchy setup on found hardware - Zima board with compact display.
 
 **Device:** Zima Board + Compact Display
 
-<img src="/public/setups/setup-13.jpeg" alt="Janky Found Hardware Omarchy" width="450">
+<img src="/public/setups/setup-13.webp" alt="Janky Found Hardware Omarchy" width="450">
 
 **Tags:** `experimental`, `zima-board`
 
@@ -211,7 +211,7 @@ Opinionated Omarchy setup for firmware development with neat single-board rig an
 
 **Device:** Ducky One 2 Mini + Monitor
 
-<img src="/public/setups/setup-14.jpeg" alt="Firmware Dev Desk with Omarchy" width="450">
+<img src="/public/setups/setup-14.webp" alt="Firmware Dev Desk with Omarchy" width="450">
 
 **Tags:** `firmware`, `ducky`
 
@@ -225,7 +225,7 @@ Highly customized dual-monitor gaming and productivity setup with RGB lighting.
 
 **Device:** Custom PC + Dual Monitors
 
-<img src="/public/setups/setup-15.jpeg" alt="Dual Monitor Setup" width="450">
+<img src="/public/setups/setup-15.webp" alt="Dual Monitor Setup" width="450">
 
 **Tags:** `gaming`, `dual-monitor`
 
@@ -239,7 +239,7 @@ ZenBook Duo with Omarchy - dual-screen laptop with split ergonomic keyboard and 
 
 **Device:** ASUS ZenBook Duo + Split Ergonomic Keyboard
 
-<img src="/public/setups/setup-16.jpeg" alt="ZenBook Duo + Omarchy Setup" width="450">
+<img src="/public/setups/setup-16.webp" alt="ZenBook Duo + Omarchy Setup" width="450">
 
 **Tags:** `dual-screen`, `split-keyboard`
 
@@ -253,7 +253,7 @@ Omarchy loaded beautifully on ASUS Flow Z13 128GB Strix Halo box.
 
 **Device:** ASUS Flow Z13 2-in-1 Tablet
 
-<img src="/public/setups/setup-17.jpeg" alt="ASUS Flow Z13 Omarchablet" width="450">
+<img src="/public/setups/setup-17.webp" alt="ASUS Flow Z13 Omarchablet" width="450">
 
 **Tags:** `flow-z13`, `2-in-1`
 
@@ -267,7 +267,7 @@ Clean dual-monitor setup with ThinkPad and external display.
 
 **Device:** Lenovo ThinkPad + External Monitor
 
-<img src="/public/setups/setup-18.jpeg" alt="Dual Monitor Omarchy Setup" width="450">
+<img src="/public/setups/setup-18.webp" alt="Dual Monitor Omarchy Setup" width="450">
 
 **Tags:** `thinkpad`, `dual-monitor`
 
@@ -281,7 +281,7 @@ Professional content creation workstation with custom liquid-cooled PC with ultr
 
 **Device:** Custom PC + Alienware Ultrawide
 
-<img src="/public/setups/setup-19.jpeg" alt="Custom PC for Content Creation" width="450">
+<img src="/public/setups/setup-19.webp" alt="Custom PC for Content Creation" width="450">
 
 **Tags:** `liquid-cooled`, `ultrawide`
 
@@ -295,7 +295,7 @@ Clean and modern workspace featuring Minisforum UM760 mini PC with Samsung monit
 
 **Device:** Minisforum UM760 + Samsung Monitor
 
-<img src="/public/setups/setup-20.jpeg" alt="Minisforum UM760 Omarchy Setup" width="450">
+<img src="/public/setups/setup-20.webp" alt="Minisforum UM760 Omarchy Setup" width="450">
 
 **Tags:** `minisforum`, `samsung`
 
@@ -309,7 +309,7 @@ Framework laptop running Omarchy with terminal panes and system metrics visible.
 
 **Device:** Framework Laptop
 
-<img src="/public/setups/setup-21.jpeg" alt="Framework Laptop Omarchy Setup" width="450">
+<img src="/public/setups/setup-21.webp" alt="Framework Laptop Omarchy Setup" width="450">
 
 **Tags:** `framework`
 
@@ -323,7 +323,7 @@ High-performance coding workstation featuring Beelink SER8 mini PC with AMD Ryze
 
 **Device:** Beelink SER8 + iMac 5K Display
 
-<img src="/public/setups/setup-22.jpeg" alt="Beelink SER8 + iMac 5K Display Setup" width="450">
+<img src="/public/setups/setup-22.webp" alt="Beelink SER8 + iMac 5K Display Setup" width="450">
 
 **Tags:** `beelink`, `imac`
 
@@ -337,7 +337,7 @@ High-performance coding workstation featuring Beelink SER8 mini PC with AMD Ryze
 
 **Device:** Dell Latitude
 
-<img src="/public/setups/setup-23.jpeg" alt="Vintage Dell Latitude Revival" width="450">
+<img src="/public/setups/setup-23.webp" alt="Vintage Dell Latitude Revival" width="450">
 
 **Tags:** `dell`, `latitude`
 
@@ -351,7 +351,7 @@ Professional office workstation featuring Framework Desktop running Omarchy.
 
 **Device:** Framework Desktop + ASUS Monitor
 
-<img src="/public/setups/setup-24.jpeg" alt="Framework Desktop Office Setup" width="450">
+<img src="/public/setups/setup-24.webp" alt="Framework Desktop Office Setup" width="450">
 
 **Tags:** `framework`, `asus`
 
@@ -365,7 +365,7 @@ Modern ergonomic workspace featuring Samsung curved monitor, split keyboard, and
 
 **Device:** Samsung Curved Monitor + Mac Mini
 
-<img src="/public/setups/setup-25.jpeg" alt="Ergonomic Omarchy Workstation" width="450">
+<img src="/public/setups/setup-25.webp" alt="Ergonomic Omarchy Workstation" width="450">
 
 **Tags:** `samsung`, `mac-mini`, `split-keyboard`
 
@@ -379,7 +379,7 @@ Clean workspace featuring Framework Laptop connected to external monitor.
 
 **Device:** Framework Laptop + External Monitor
 
-<img src="/public/setups/setup-26.jpeg" alt="Framework Omarchy Setup" width="450">
+<img src="/public/setups/setup-26.webp" alt="Framework Omarchy Setup" width="450">
 
 **Tags:** `framework`, `external-monitor`
 
@@ -393,7 +393,7 @@ Old Dell Inspiron laptop brought back to life with Omarchy Linux.
 
 **Device:** Dell Inspiron Laptop
 
-<img src="/public/setups/setup-27.jpeg" alt="Resurrected Dell Inspiron" width="450">
+<img src="/public/setups/setup-27.webp" alt="Resurrected Dell Inspiron" width="450">
 
 **Tags:** `dell`, `inspiron`
 
@@ -407,7 +407,7 @@ Built from old PC parts lying around - perfect excuse to try Omarchy.
 
 **Device:** Custom PC + Dell Monitor
 
-<img src="/public/setups/setup-28.jpeg" alt="Custom PC with Nvidia Setup" width="450">
+<img src="/public/setups/setup-28.webp" alt="Custom PC with Nvidia Setup" width="450">
 
 **Tags:** `custom-pc`, `nvidia`, `dell`
 
@@ -421,7 +421,7 @@ Custom handheld UMPC built around a Framework 13 mainboard with a 10.1" touchscr
 
 **Device:** Framework 13 Mainboard + 10.1" Touch
 
-<img src="/public/setups/setup-29.jpeg" alt="Mattbook UMPC" width="450">
+<img src="/public/setups/setup-29.webp" alt="Mattbook UMPC" width="450">
 
 **Tags:** `framework`, `touchscreen`
 
@@ -435,7 +435,7 @@ Omarchy trial at Rails World on a Dell curved ultrawide with laptop and wooden c
 
 **Device:** Dell Curved Ultrawide + Laptop
 
-<img src="/public/setups/setup-30.jpeg" alt="Rails World Ultrawide Desk" width="450">
+<img src="/public/setups/setup-30.webp" alt="Rails World Ultrawide Desk" width="450">
 
 **Tags:** `ultrawide`, `dell`
 
@@ -449,7 +449,7 @@ Framework laptop showcasing Omarchy with a beautiful Japanese-style house wallpa
 
 **Device:** Framework 12
 
-<img src="/public/setups/setup-31.jpeg" alt="Framework 12 Laptop" width="450">
+<img src="/public/setups/setup-31.webp" alt="Framework 12 Laptop" width="450">
 
 **Tags:** `framework`
 
@@ -463,7 +463,7 @@ Building a Framework laptop and installing Omarchy - a journey outside Apple ter
 
 **Device:** Framework Laptop
 
-<img src="/public/setups/setup-32.jpeg" alt="Framework Assembly" width="450">
+<img src="/public/setups/setup-32.webp" alt="Framework Assembly" width="450">
 
 **Tags:** `framework`, `assembly`
 
@@ -477,7 +477,7 @@ Framework 12 laptop for mobility; Beelink SER9 handles office work with dual Del
 
 **Device:** Framework 12 + Beelink SER9
 
-<img src="/public/setups/setup-33.jpeg" alt="Framework 12 + Beelink SER9 Desk" width="450">
+<img src="/public/setups/setup-33.webp" alt="Framework 12 + Beelink SER9 Desk" width="450">
 
 **Tags:** `framework`, `beelink`, `dual-monitor`
 
@@ -491,7 +491,7 @@ Installing Omarchy on a MacBook Pro with the distinctive green pixelated termina
 
 **Device:** MacBook Pro
 
-<img src="/public/setups/setup-34.jpeg" alt="MacBook Pro Omarchy Installation" width="450">
+<img src="/public/setups/setup-34.webp" alt="MacBook Pro Omarchy Installation" width="450">
 
 **Tags:** `macbook`, `installation`
 
@@ -505,7 +505,7 @@ Framework laptop showcasing Omarchy's tiling window manager with Super key navig
 
 **Device:** Framework Laptop
 
-<img src="/public/setups/setup-35.jpeg" alt="Framework Laptop running Omarchy" width="450">
+<img src="/public/setups/setup-35.webp" alt="Framework Laptop running Omarchy" width="450">
 
 **Tags:** `framework`
 
@@ -519,7 +519,7 @@ Framework 13 DIY laptop with Omarchy - from hardware assembly to OS boot in unde
 
 **Device:** Framework 13 DIY
 
-<img src="/public/setups/setup-36.jpeg" alt="Framework 13 DIY Setup" width="450">
+<img src="/public/setups/setup-36.webp" alt="Framework 13 DIY Setup" width="450">
 
 **Tags:** `framework`, `diy`
 
@@ -533,7 +533,7 @@ Framework laptop and Beelink mini PC running Omarchy - a transition from 20+ yea
 
 **Device:** Framework Laptop + Beelink Mini PC
 
-<img src="/public/setups/setup-37.jpeg" alt="Framework + Beelink Dual Setup" width="450">
+<img src="/public/setups/setup-37.webp" alt="Framework + Beelink Dual Setup" width="450">
 
 **Tags:** `framework`, `beelink`
 
@@ -547,7 +547,7 @@ Curved ultrawide monitor running Omarchy in a dark room setup.
 
 **Device:** Curved Ultrawide + Compact Backlit Keyboard
 
-<img src="/public/setups/setup-38.jpeg" alt="Dark Omarchy Night Desk" width="450">
+<img src="/public/setups/setup-38.webp" alt="Dark Omarchy Night Desk" width="450">
 
 **Tags:** `ultrawide`, `night`
 
@@ -561,7 +561,7 @@ Clean single-monitor desk running Omarchy on a mini PC with backlit compact keyb
 
 **Device:** Mini PC + 27" Monitor
 
-<img src="/public/setups/setup-39.jpeg" alt="Linux Mini PC Desk" width="450">
+<img src="/public/setups/setup-39.webp" alt="Linux Mini PC Desk" width="450">
 
 **Tags:** `mini-pc`
 
@@ -575,7 +575,7 @@ Omarchy mini PC creator setup with single-cable switching, RGB lighting, and a S
 
 **Device:** Mini PC + LG Monitor + Stream Deck
 
-<img src="/public/setups/setup-40.jpeg" alt="One-Cable Creator Desk" width="450">
+<img src="/public/setups/setup-40.webp" alt="One-Cable Creator Desk" width="450">
 
 **Tags:** `mini-pc`, `stream-deck`
 
@@ -589,7 +589,7 @@ External monitor running Omarchy alongside a laptop and tablet with a compact me
 
 **Device:** External Monitor + Laptop + Tablet
 
-<img src="/public/setups/setup-41.jpeg" alt="Omarchy + Laptop Dual Desk" width="450">
+<img src="/public/setups/setup-41.webp" alt="Omarchy + Laptop Dual Desk" width="450">
 
 **Tags:** `external-monitor`, `laptop`
 
@@ -603,7 +603,7 @@ Omarchy Arch Linux running Bezy with bold typography test on an LG monitor.
 
 **Device:** LG Monitor + Custom Keyboard
 
-<img src="/public/setups/setup-42.jpeg" alt="Bezy on Omarchy Arch Linux" width="450">
+<img src="/public/setups/setup-42.webp" alt="Bezy on Omarchy Arch Linux" width="450">
 
 **Tags:** `arch`, `bezy`
 
@@ -617,7 +617,7 @@ ASUS Zenbook S16 laptop showing Omarchy installation interface.
 
 **Device:** ASUS Zenbook S16
 
-<img src="/public/setups/setup-43.jpeg" alt="ASUS Zenbook S16 Omarchy Installation" width="450">
+<img src="/public/setups/setup-43.webp" alt="ASUS Zenbook S16 Omarchy Installation" width="450">
 
 **Tags:** `asus`, `zenbook`, `installation`
 
@@ -631,7 +631,7 @@ Framework Laptop 13 with AMD Ryzen AI 9 HX 370 running Omarchy v2.1.2.
 
 **Device:** Framework Laptop 13
 
-<img src="/public/setups/setup-44.jpeg" alt="Framework Laptop 13 AMD Ryzen AI 9" width="450">
+<img src="/public/setups/setup-44.webp" alt="Framework Laptop 13 AMD Ryzen AI 9" width="450">
 
 **Tags:** `framework`, `ryzen`
 
@@ -645,7 +645,7 @@ Clean home office setup featuring Framework Laptop 13, wooden desk, and purple m
 
 **Device:** Framework Laptop 13 (AMD Ryzen AI 9 HX 370)
 
-<img src="/public/setups/setup-45.jpeg" alt="Daniel's Framework Home Office" width="450">
+<img src="/public/setups/setup-45.webp" alt="Daniel's Framework Home Office" width="450">
 
 **Tags:** `framework`, `wooden-desk`
 
@@ -659,7 +659,7 @@ Old Intel MacBook Pro with dual Dell monitors running Omarchy.
 
 **Device:** Intel MacBook Pro + Dual Dell Monitors
 
-<img src="/public/setups/setup-46.jpeg" alt="Intel MacBook Pro + Dual Monitors" width="450">
+<img src="/public/setups/setup-46.webp" alt="Intel MacBook Pro + Dual Monitors" width="450">
 
 **Tags:** `macbook`, `dual-monitor`
 
@@ -673,7 +673,7 @@ Dell XPS 13 9370 (2018) laptop and Beelink SER9 Pro H255 mini PC, both running O
 
 **Device:** Dell XPS 13 9370 + Beelink SER9 Pro H255
 
-<img src="/public/setups/setup-47.jpeg" alt="Dell XPS 13 + Beelink SER9 Pro Desk" width="450">
+<img src="/public/setups/setup-47.webp" alt="Dell XPS 13 + Beelink SER9 Pro Desk" width="450">
 
 **Tags:** `dell`, `beelink`
 
@@ -687,7 +687,7 @@ Mid-2009 MacBook Pro 13-inch brought back to life with Omarchy v3.0.1.
 
 **Device:** MacBook Pro 13-inch (Mid-2009)
 
-<img src="/public/setups/setup-48.jpeg" alt="Mid-2009 MacBook Pro Revival" width="450">
+<img src="/public/setups/setup-48.webp" alt="Mid-2009 MacBook Pro Revival" width="450">
 
 **Tags:** `macbook`, `vintage`
 
@@ -701,7 +701,7 @@ MacBook Pro 2017 with dual graphics cards running Omarchy v3.0.
 
 **Device:** MacBook Pro 2017
 
-<img src="/public/setups/setup-49.jpeg" alt="MacBook Pro 2017 Installation" width="450">
+<img src="/public/setups/setup-49.webp" alt="MacBook Pro 2017 Installation" width="450">
 
 **Tags:** `macbook`
 
@@ -715,7 +715,7 @@ Intel MacBook Pro with BenQ external monitor running Omarchy.
 
 **Device:** Intel MacBook Pro + BenQ Monitor
 
-<img src="/public/setups/setup-50.jpeg" alt="Intel MacBook Pro + BenQ Monitor" width="450">
+<img src="/public/setups/setup-50.webp" alt="Intel MacBook Pro + BenQ Monitor" width="450">
 
 **Tags:** `macbook`, `benq`
 
@@ -729,7 +729,7 @@ Intel MacBook Pro with BenQ external monitor running Omarchy.
 
 **Device:** MacBook Pro 2015
 
-<img src="/public/setups/setup-51.jpeg" alt="2015 MacBook Pro Lab Workspace" width="450">
+<img src="/public/setups/setup-51.webp" alt="2015 MacBook Pro Lab Workspace" width="450">
 
 **Tags:** `macbook`, `lab`
 
@@ -743,7 +743,7 @@ MacBook Pro 2015 running Omarchy in a music studio environment with guitars and 
 
 **Device:** MacBook Pro 2015
 
-<img src="/public/setups/setup-52.jpeg" alt="MacBook Pro 2015 in a Music Studio" width="450">
+<img src="/public/setups/setup-52.webp" alt="MacBook Pro 2015 in a Music Studio" width="450">
 
 **Tags:** `macbook`, `music-studio`
 
@@ -757,7 +757,7 @@ Framework Laptop installing Omarchy 3.0 for Android development.
 
 **Device:** Framework Laptop
 
-<img src="/public/setups/setup-53.jpeg" alt="Framework Omarchy Installation" width="450">
+<img src="/public/setups/setup-53.webp" alt="Framework Omarchy Installation" width="450">
 
 **Tags:** `framework`, `installation`
 
@@ -771,7 +771,7 @@ Installing and running Omarchy on iPad mini using UTM with JIT enabled.
 
 **Device:** iPad mini
 
-<img src="/public/setups/setup-54.jpeg" alt="iPad mini via UTM (JIT)" width="450">
+<img src="/public/setups/setup-54.webp" alt="iPad mini via UTM (JIT)" width="450">
 
 **Tags:** `ipad`, `utm`, `jit`
 
@@ -785,7 +785,7 @@ Late 2007 MacBook White running Omarchy 3.0.1 with local LLM, Docker, and Brave 
 
 **Device:** MacBook White (Late 2007)
 
-<img src="/public/setups/setup-55.jpeg" alt="Late 2007 MacBook White Revival" width="450">
+<img src="/public/setups/setup-55.webp" alt="Late 2007 MacBook White Revival" width="450">
 
 **Tags:** `macbook`, `vintage`, `revival`
 
@@ -799,7 +799,7 @@ Two laptops side-by-side installing Omarchy Linux distro for family use.
 
 **Device:** Dual Laptop Setup
 
-<img src="/public/setups/setup-56.jpeg" alt="Dual Laptop Omarchy Installation" width="450">
+<img src="/public/setups/setup-56.webp" alt="Dual Laptop Omarchy Installation" width="450">
 
 **Tags:** `dual-laptop`
 
@@ -813,7 +813,7 @@ Modern home office with large monitor displaying Omarchy desktop environment.
 
 **Device:** Large Monitor + White Keyboard
 
-<img src="/public/setups/setup-57.jpeg" alt="Clean Home Office Omarchy Setup" width="450">
+<img src="/public/setups/setup-57.webp" alt="Clean Home Office Omarchy Setup" width="450">
 
 **Tags:** `home-office`
 
@@ -827,7 +827,7 @@ Omarchy Linux setup showcasing the desktop environment and system configuration.
 
 **Device:** Framework Desktop
 
-<img src="/public/setups/setup-58.jpeg" alt="Framework Omarchy Setup" width="450">
+<img src="/public/setups/setup-58.webp" alt="Framework Omarchy Setup" width="450">
 
 **Tags:** `framework`
 
@@ -841,7 +841,7 @@ Complete transition from Mac with Beelink SER9 HX370 desktop and Framework F13 l
 
 **Device:** Beelink SER9 HX370 + Framework F13 HX370
 
-<img src="/public/setups/setup-59.jpeg" alt="Fayi's Dual Omarchy Workstation" width="450">
+<img src="/public/setups/setup-59.webp" alt="Fayi's Dual Omarchy Workstation" width="450">
 
 **Tags:** `beelink`, `framework`
 
@@ -855,7 +855,7 @@ Compact NUC running Omarchy Linux in a real office environment with 24/7 access.
 
 **Device:** Intel NUC + Samsung Monitor
 
-<img src="/public/setups/setup-60.jpeg" alt="Office NUC Gaming Setup" width="450">
+<img src="/public/setups/setup-60.webp" alt="Office NUC Gaming Setup" width="450">
 
 **Tags:** `nuc`, `office`
 
@@ -869,7 +869,7 @@ Orange Framework laptop running Omarchy with clean blue desktop showing the OMAR
 
 **Device:** Framework Laptop (Orange Input Cover)
 
-<img src="/public/setups/setup-61.jpeg" alt="Orange Framework Laptop" width="450">
+<img src="/public/setups/setup-61.webp" alt="Orange Framework Laptop" width="450">
 
 **Tags:** `framework`, `orange`
 
@@ -883,7 +883,7 @@ Black Alienware gaming laptop with blue backlit keyboard testing Omarchy Linux.
 
 **Device:** Alienware Gaming Laptop
 
-<img src="/public/setups/setup-62.jpeg" alt="Alienware Gaming Laptop Omarchy Test" width="450">
+<img src="/public/setups/setup-62.webp" alt="Alienware Gaming Laptop Omarchy Test" width="450">
 
 **Tags:** `alienware`, `gaming`
 
@@ -897,7 +897,7 @@ Professional desktop setup in a studio environment featuring a large BenQ monito
 
 **Device:** Custom Desktop PC + BenQ Monitor
 
-<img src="/public/setups/setup-63.jpeg" alt="ThePrimeagen's Studio Desktop" width="450">
+<img src="/public/setups/setup-63.webp" alt="ThePrimeagen's Studio Desktop" width="450">
 
 **Tags:** `primeagen`, `studio`, `benq`
 
@@ -911,7 +911,7 @@ Cozy attic workspace with Framework Desktop featuring sunset landscape wallpaper
 
 **Device:** Framework Desktop + Large Monitor
 
-<img src="/public/setups/setup-64.jpeg" alt="Purple Ambient Framework Desktop" width="450">
+<img src="/public/setups/setup-64.webp" alt="Purple Ambient Framework Desktop" width="450">
 
 **Tags:** `framework`, `purple-lighting`
 
@@ -925,7 +925,7 @@ Old Dell laptop brought back to life with Omarchy Linux, showing the green login
 
 **Device:** Dell Laptop
 
-<img src="/public/setups/setup-65.jpeg" alt="Dell Laptop Omarchy Revival" width="450">
+<img src="/public/setups/setup-65.webp" alt="Dell Laptop Omarchy Revival" width="450">
 
 **Tags:** `dell`, `revival`
 
@@ -939,7 +939,7 @@ ASUS monitor with Omarchy, Keychron K2 HE keyboard, VR headset, and gaming perip
 
 **Device:** ASUS Monitor + Keychron K2 HE
 
-<img src="/public/setups/setup-66.jpeg" alt="Josh Medeski's ASUS Setup" width="450">
+<img src="/public/setups/setup-66.webp" alt="Josh Medeski's ASUS Setup" width="450">
 
 **Tags:** `asus`, `keychron`, `gaming`
 
@@ -953,7 +953,7 @@ Dark minimalist workspace with dual green terminal displays and ambient lighting
 
 **Device:** External Monitor + Laptop
 
-<img src="/public/setups/setup-67.jpeg" alt="Blinku's Green Terminal Setup" width="450">
+<img src="/public/setups/setup-67.webp" alt="Blinku's Green Terminal Setup" width="450">
 
 **Tags:** `dual-monitor`, `green-terminal`, `minimalist`
 
@@ -967,7 +967,7 @@ Samsung monitor with Omarchy Linux, LazyVim configuration, and PlayStation 5 con
 
 **Device:** Samsung Monitor + Custom PC
 
-<img src="/public/setups/setup-68.jpeg" alt="Ivan Stoev's Neovim Setup" width="450">
+<img src="/public/setups/setup-68.webp" alt="Ivan Stoev's Neovim Setup" width="450">
 
 **Tags:** `samsung`, `neovim`, `developer`
 
@@ -981,7 +981,7 @@ Samsung monitor with Omarchy Linux, LazyVim configuration, and PlayStation 5 con
 
 **Device:** Apple iMac 2017 (21-inch, Intel i5, 8GB RAM)
 
-<img src="/public/setups/setup-69.jpeg" alt="Willem's 2017 iMac Revival" width="450">
+<img src="/public/setups/setup-69.webp" alt="Willem's 2017 iMac Revival" width="450">
 
 **Tags:** `imac`, `apple`, `revival`
 
@@ -995,7 +995,7 @@ ASUS ProArt 6K 32" monitor with 218ppi display and green Omarchy interface.
 
 **Device:** ASUS ProArt 6K 32" Monitor
 
-<img src="/public/setups/setup-70.jpeg" alt="Rob's ASUS ProArt 6K Setup" width="450">
+<img src="/public/setups/setup-70.webp" alt="Rob's ASUS ProArt 6K Setup" width="450">
 
 **Tags:** `asus`, `proart`, `developer`
 
@@ -1009,7 +1009,7 @@ Dual monitor workspace with purple/pink LED lighting and custom Omarchy screensa
 
 **Device:** Dual Monitor + Apple Mac Mini
 
-<img src="/public/setups/setup-71.jpeg" alt="Stefano's Purple LED Setup" width="450">
+<img src="/public/setups/setup-71.webp" alt="Stefano's Purple LED Setup" width="450">
 
 **Tags:** `dual-monitor`, `led-lighting`, `mac-mini`
 
@@ -1023,7 +1023,7 @@ Framework Laptop 12 with impressive performance - 4m13s HEY test, under $1,000.
 
 **Device:** Framework Laptop 12 (Intel i5 1334U)
 
-<img src="/public/setups/setup-72.jpeg" alt="DHH's Framework Laptop 12" width="450">
+<img src="/public/setups/setup-72.webp" alt="DHH's Framework Laptop 12" width="450">
 
 **Tags:** `framework`, `dhh`
 
@@ -1037,7 +1037,7 @@ Smooth Omarchy v0.4.0 installation with beautiful themes. Features GOVO soundbar
 
 **Device:** Custom Desktop PC + BenQ Monitor
 
-<img src="/public/setups/setup-73.jpeg" alt="Cool Desktop Setup" width="450">
+<img src="/public/setups/setup-73.webp" alt="Cool Desktop Setup" width="450">
 
 **Tags:** `benq`, `mechanical-keyboard`
 
@@ -1051,7 +1051,7 @@ Powerful gaming laptop setup featuring Dell Alienware X17 R1 with dual external 
 
 **Device:** Alienware X17 R1, WOBKEY Rainy 75
 
-<img src="/public/setups/setup-74.jpeg" alt="Dell Alienware X17 R1 Setup" width="450">
+<img src="/public/setups/setup-74.webp" alt="Dell Alienware X17 R1 Setup" width="450">
 
 **Tags:** `alienware`, `dell`, `dual-display`, `gaming`
 
@@ -1065,7 +1065,7 @@ Epic home entertainment setup featuring a glorious 115" TCL screen with audio sp
 
 **Device:** 115" TCL Screen + High-End Speakers
 
-<img src="/public/setups/setup-75.jpeg" alt="DHH's Omarchy Retro Gaming Rig" width="450">
+<img src="/public/setups/setup-75.webp" alt="DHH's Omarchy Retro Gaming Rig" width="450">
 
 **Tags:** `dhh`, `retro-gaming`, `large-screen`
 
@@ -1079,7 +1079,7 @@ Epic home entertainment setup featuring a glorious 115" TCL screen with audio sp
 
 **Device:** MacBook Pro 2012 (13-inch, Intel i5-3210M)
 
-<img src="/public/setups/setup-76.jpeg" alt="2012 MacBook Pro Omarchy Revival" width="450">
+<img src="/public/setups/setup-76.webp" alt="2012 MacBook Pro Omarchy Revival" width="450">
 
 **Tags:** `macbook`, `vintage`
 
@@ -1093,7 +1093,7 @@ Framework laptop showing the Omarchy installation interface with keyboard layout
 
 **Device:** Framework Laptop
 
-<img src="/public/setups/setup-77.jpeg" alt="Framework Laptop Omarchy Installation" width="450">
+<img src="/public/setups/setup-77.webp" alt="Framework Laptop Omarchy Installation" width="450">
 
 **Tags:** `framework`, `installation`
 
@@ -1107,7 +1107,7 @@ Detailed attic workspace featuring a custom PC with Totoro wallpaper and Angry M
 
 **Device:** Custom PC + Large Monitor
 
-<img src="/public/setups/setup-78.jpeg" alt="Supersoniko's Attic Workstation" width="450">
+<img src="/public/setups/setup-78.webp" alt="Supersoniko's Attic Workstation" width="450">
 
 **Tags:** `angry-miao`, `split-keyboard`, `anime`
 
@@ -1121,7 +1121,7 @@ Powerful workstation featuring ArchLinux with Hyprland running on a 5K curved ul
 
 **Device:** Custom RGB PC + 5K Curved Ultrawide + Laptop
 
-<img src="/public/setups/setup-79.jpeg" alt="High-Performance ArchLinux Setup" width="450">
+<img src="/public/setups/setup-79.webp" alt="High-Performance ArchLinux Setup" width="450">
 
 **Tags:** `5k-monitor`
 
@@ -1135,7 +1135,7 @@ Beelink mini PC setup with Seawink curved ultrawide monitor, Lofree keyboard, an
 
 **Device:** Beelink Mini PC + Seawink Curved Ultrawide
 
-<img src="/public/setups/setup-80.jpeg" alt="Beelink Mini PC with Seawink Ultrawide" width="450">
+<img src="/public/setups/setup-80.webp" alt="Beelink Mini PC with Seawink Ultrawide" width="450">
 
 **Tags:** `beelink`, `seawink`
 
@@ -1149,7 +1149,7 @@ Legion gaming laptop with dual external monitors displaying OMARCHY in pixelated
 
 **Device:** Legion Gaming Laptop + Dual External Monitors
 
-<img src="/public/setups/setup-81.jpeg" alt="Legion Gaming Laptop Setup" width="450">
+<img src="/public/setups/setup-81.webp" alt="Legion Gaming Laptop Setup" width="450">
 
 **Tags:** `legion`, `multi-monitor`, `gaming`
 
@@ -1163,7 +1163,7 @@ GPD WIN Max 2 laptop with retro sunset wallpaper running Omakub Linux for gaming
 
 **Device:** GPD WIN Max 2
 
-<img src="/public/setups/setup-82.jpeg" alt="GPD WIN Max 2 Portable Gaming Setup" width="450">
+<img src="/public/setups/setup-82.webp" alt="GPD WIN Max 2 Portable Gaming Setup" width="450">
 
 **Tags:** `gpd`, `portable`, `gaming`
 
@@ -1177,7 +1177,7 @@ Warm-lit development setup with vertical monitor showing system stats and monito
 
 **Device:** MacBook + Dual External Monitors
 
-<img src="/public/setups/setup-83.jpeg" alt="Multi-Monitor Development Workspace" width="450">
+<img src="/public/setups/setup-83.webp" alt="Multi-Monitor Development Workspace" width="450">
 
 **Tags:** `multi-monitor`, `development`, `macbook`
 
@@ -1191,7 +1191,7 @@ Compact mini PC setup with Sceptre monitor displaying ChatGPT, system stats, and
 
 **Device:** Mini PC + Sceptre Monitor
 
-<img src="/public/setups/setup-84.jpeg" alt="Clean Mini PC Development Setup" width="450">
+<img src="/public/setups/setup-84.webp" alt="Clean Mini PC Development Setup" width="450">
 
 **Tags:** `mini-pc`, `sceptre`, `development`
 
@@ -1205,7 +1205,7 @@ Omarchy v3.0.2 running smoothly on HP Stream Notebook with dual-core Celeron and
 
 **Device:** HP Stream Notebook + CRT Monitor
 
-<img src="/public/setups/setup-85.jpeg" alt="HP Stream Low-End Performance" width="450">
+<img src="/public/setups/setup-85.webp" alt="HP Stream Low-End Performance" width="450">
 
 **Tags:** `hp`, `performance`
 
@@ -1219,7 +1219,7 @@ Custom desktop with AMD Ryzen AI MAX+ 395 and checkerboard case running Omarchy.
 
 **Device:** Custom Desktop + Monitor
 
-<img src="/public/setups/setup-86.jpeg" alt="Typecraft AMD Ryzen Desktop" width="450">
+<img src="/public/setups/setup-86.webp" alt="Typecraft AMD Ryzen Desktop" width="450">
 
 **Tags:** `amd-ryzen`, `custom-pc`
 
@@ -1233,7 +1233,7 @@ Framework Laptop with curved ultrawide monitor showing terminal windows and code
 
 **Device:** Framework Laptop + Ultrawide
 
-<img src="/public/setups/setup-87.jpeg" alt="Framework Ultrawide Dev Setup" width="450">
+<img src="/public/setups/setup-87.webp" alt="Framework Ultrawide Dev Setup" width="450">
 
 **Tags:** `framework`, `ultrawide`
 
@@ -1247,7 +1247,7 @@ Laptop with curved ultrawide monitor showing dual-OS setup with Windows and Omar
 
 **Device:** Laptop + Ultrawide Monitor
 
-<img src="/public/setups/setup-88.jpeg" alt="Dual-OS Ultrawide Setup" width="450">
+<img src="/public/setups/setup-88.webp" alt="Dual-OS Ultrawide Setup" width="450">
 
 **Tags:** `dual-os`, `ultrawide`
 
@@ -1261,7 +1261,7 @@ Lenovo Yoga laptop showing Omarchy installation with package upgrades, from WSL 
 
 **Device:** Lenovo Yoga Laptop
 
-<img src="/public/setups/setup-89.jpeg" alt="Lenovo Yoga Installation" width="450">
+<img src="/public/setups/setup-89.webp" alt="Lenovo Yoga Installation" width="450">
 
 **Tags:** `lenovo`, `installation`
 
@@ -1275,7 +1275,7 @@ ThinkPad T480 with 16GB RAM rescued from Windows performance issues, now running
 
 **Device:** Lenovo ThinkPad T480
 
-<img src="/public/setups/setup-90.jpeg" alt="Lenovo ThinkPad T480 Revival" width="450">
+<img src="/public/setups/setup-90.webp" alt="Lenovo ThinkPad T480 Revival" width="450">
 
 **Tags:** `thinkpad`, `revival`
 
@@ -1289,7 +1289,7 @@ M2 MacBook Pro with external Dell monitor both running Omarchy Mac, featuring er
 
 **Device:** M2 MacBook Pro + External Monitor
 
-<img src="/public/setups/setup-91.jpeg" alt="M2 MacBook Pro Omarchy Mac" width="450">
+<img src="/public/setups/setup-91.webp" alt="M2 MacBook Pro Omarchy Mac" width="450">
 
 **Tags:** `macbook-pro`, `omarchy-mac`
 
@@ -1303,7 +1303,7 @@ Studio workspace with Mac mini and MacBook Pro, large monitor, JBL studio monito
 
 **Device:** Mac mini + MacBook Pro + Monitor
 
-<img src="/public/setups/setup-92.jpeg" alt="Mac Studio Audio Workspace" width="450">
+<img src="/public/setups/setup-92.webp" alt="Mac Studio Audio Workspace" width="450">
 
 **Tags:** `mac-mini`, `audio-production`
 
@@ -1317,7 +1317,7 @@ HP laptop showing Omarchy installation process with package downloads and system
 
 **Device:** Old HP Laptop
 
-<img src="/public/setups/setup-93.jpeg" alt="HP Laptop Omarchy Installation" width="450">
+<img src="/public/setups/setup-93.webp" alt="HP Laptop Omarchy Installation" width="450">
 
 **Tags:** `hp`, `installation`
 
@@ -1326,6 +1326,6 @@ HP laptop showing Omarchy installation process with package downloads and system
 
 ---
 
-*Last updated: November 8, 2025*
+*Last updated: November 13, 2025*
 
 *Automatically generated by: `scripts/generate-docs.js`*

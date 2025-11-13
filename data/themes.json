@@ -5,7 +5,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/tokyo-night",
     "author": "Omarchy",
-    "screenshot": "themes/tokyo-night-1.png",
+    "screenshot": "themes/tokyo-night-1.webp",
     "tags": [
       "official",
       "popular",
@@ -18,7 +18,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/osaka-jade",
     "author": "Omarchy",
-    "screenshot": "themes/osaka-jade-2.jpg",
+    "screenshot": "themes/osaka-jade-2.webp",
     "tags": [
       "official",
       "popular",
@@ -31,7 +31,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/rose-pine",
     "author": "Omarchy",
-    "screenshot": "themes/rose-pine-3.jpg",
+    "screenshot": "themes/rose-pine-3.webp",
     "tags": [
       "official",
       "pastel",
@@ -45,7 +45,7 @@
     "category": "Light Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/catppuccin-latte",
     "author": "Omarchy",
-    "screenshot": "themes/catppuccin-latte-4.png",
+    "screenshot": "themes/catppuccin-latte-4.webp",
     "tags": [
       "official",
       "pastel"
@@ -57,7 +57,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/everforest",
     "author": "Omarchy",
-    "screenshot": "themes/everforest-5.jpg",
+    "screenshot": "themes/everforest-5.webp",
     "tags": [
       "official",
       "popular"
@@ -69,7 +69,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/gruvbox",
     "author": "Omarchy",
-    "screenshot": "themes/gruvbox-6.jpg",
+    "screenshot": "themes/gruvbox-6.webp",
     "tags": [
       "official",
       "popular"
@@ -81,7 +81,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/matte-black",
     "author": "Omarchy",
-    "screenshot": "themes/matte-black-7.jpg",
+    "screenshot": "themes/matte-black-7.webp",
     "tags": [
       "official",
       "popular"
@@ -93,7 +93,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/catppuccin",
     "author": "Omarchy",
-    "screenshot": "themes/catppuccin-8.png",
+    "screenshot": "themes/catppuccin-8.webp",
     "tags": [
       "official",
       "pastel"
@@ -105,7 +105,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/kanagawa",
     "author": "Omarchy",
-    "screenshot": "themes/kanagawa-9.jpg",
+    "screenshot": "themes/kanagawa-9.webp",
     "tags": [
       "official",
       "popular"
@@ -117,7 +117,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/nord",
     "author": "Omarchy",
-    "screenshot": "themes/nord-10.png",
+    "screenshot": "themes/nord-10.webp",
     "tags": [
       "official",
       "popular"
@@ -129,7 +129,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/basecamp/omarchy/tree/master/themes/ristretto",
     "author": "Omarchy",
-    "screenshot": "themes/ristretto-11.jpg",
+    "screenshot": "themes/ristretto-11.webp",
     "tags": [
       "official",
       "popular"
@@ -141,7 +141,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/bjarneo/omarchy-ash-theme",
     "author": "bjarneo",
-    "screenshot": "themes/ash-12.png",
+    "screenshot": "themes/ash-12.webp",
     "tags": [
       "unofficial"
     ]
@@ -152,7 +152,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/bjarneo/omarchy-aura-theme",
     "author": "bjarneo",
-    "screenshot": "themes/aura-13.png",
+    "screenshot": "themes/aura-13.webp",
     "tags": [
       "unofficial"
     ]
@@ -174,7 +174,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/Hydradevx/omarchy-azure-glow-theme",
     "author": "Hydradevx",
-    "screenshot": "themes/azure-glow-15.png",
+    "screenshot": "themes/azure-glow-15.webp",
     "tags": [
       "unofficial"
     ]
@@ -185,7 +185,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/hipsterusername/omarchy-blueridge-dark-theme",
     "author": "hipsterusername",
-    "screenshot": "themes/blue-ridge-dark-16.png",
+    "screenshot": "themes/blue-ridge-dark-16.webp",
     "tags": [
       "unofficial"
     ]
@@ -196,7 +196,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/catlee/omarchy-dracula-theme",
     "author": "catlee",
-    "screenshot": "themes/dracula-17.png",
+    "screenshot": "themes/dracula-17.webp",
     "tags": [
       "unofficial"
     ]
@@ -207,7 +207,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/kalk-ak/omarchy-green-garden-theme",
     "author": "kalk-ak",
-    "screenshot": "themes/green-garden-18.png",
+    "screenshot": "themes/green-garden-18.webp",
     "tags": [
       "unofficial"
     ]
@@ -218,7 +218,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/joaquinmeza/omarchy-hakker-green-theme",
     "author": "joaquinmeza",
-    "screenshot": "themes/green-hakkar-19.jpg",
+    "screenshot": "themes/green-hakkar-19.webp",
     "tags": [
       "unofficial"
     ]
@@ -229,7 +229,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/TyRichards/omarchy-felix-theme",
     "author": "TyRichards",
-    "screenshot": "themes/felix-20.png",
+    "screenshot": "themes/felix-20.webp",
     "tags": [
       "unofficial"
     ]
@@ -240,7 +240,7 @@
     "category": "Light Theme",
     "link": "https://github.com/euandeas/omarchy-flexoki-light-theme",
     "author": "euandeas",
-    "screenshot": "themes/flexoki-light-21.png",
+    "screenshot": "themes/flexoki-light-21.webp",
     "tags": [
       "unofficial"
     ]
@@ -251,7 +251,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/euandeas/omarchy-flexoki-dark-theme",
     "author": "euandeas",
-    "screenshot": "themes/flexoki-dark-22.png",
+    "screenshot": "themes/flexoki-dark-22.webp",
     "tags": [
       "unofficial"
     ]
@@ -262,7 +262,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/bjarneo/omarchy-futurism-theme",
     "author": "bjarneo",
-    "screenshot": "themes/futurism-23.png",
+    "screenshot": "themes/futurism-23.webp",
     "tags": [
       "unofficial"
     ]
@@ -273,7 +273,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/tahayvr/omarchy-gold-rush-theme",
     "author": "tahayvr",
-    "screenshot": "themes/gold-rush-24.jpeg",
+    "screenshot": "themes/gold-rush-24.webp",
     "tags": [
       "unofficial"
     ]
@@ -284,7 +284,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/steve-lohmeyer/omarchy-mars-theme",
     "author": "steve-lohmeyer",
-    "screenshot": "themes/mars-25.png",
+    "screenshot": "themes/mars-25.webp",
     "tags": [
       "unofficial"
     ]
@@ -295,7 +295,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/JaxonWright/omarchy-midnight-theme",
     "author": "JaxonWright",
-    "screenshot": "themes/midnight-26.png",
+    "screenshot": "themes/midnight-26.webp",
     "tags": [
       "unofficial"
     ]
@@ -306,7 +306,7 @@
     "category": "Light Theme",
     "link": "https://github.com/hipsterusername/omarchy-milkmatcha-light-theme",
     "author": "hipsterusername",
-    "screenshot": "themes/milky-matcha-27.png",
+    "screenshot": "themes/milky-matcha-27.webp",
     "tags": [
       "unofficial"
     ]
@@ -317,7 +317,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/Swarnim114/omarchy-monochrome-theme",
     "author": "Swarnim114",
-    "screenshot": "themes/monochrome-28.png",
+    "screenshot": "themes/monochrome-28.webp",
     "tags": [
       "unofficial"
     ]
@@ -328,7 +328,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/bjarneo/omarchy-nes-theme",
     "author": "bjarneo",
-    "screenshot": "themes/nes-29.png",
+    "screenshot": "themes/nes-29.webp",
     "tags": [
       "unofficial"
     ]
@@ -339,7 +339,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/sc0ttman/omarchy-one-dark-pro-theme",
     "author": "sc0ttman",
-    "screenshot": "themes/one-dark-pro-30.png",
+    "screenshot": "themes/one-dark-pro-30.webp",
     "tags": [
       "unofficial"
     ]
@@ -350,7 +350,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/bjarneo/omarchy-pulsar-theme",
     "author": "bjarneo",
-    "screenshot": "themes/pulsar-31.png",
+    "screenshot": "themes/pulsar-31.webp",
     "tags": [
       "unofficial"
     ]
@@ -361,7 +361,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/rondilley/omarchy-retropc-theme",
     "author": "rondilley",
-    "screenshot": "themes/retropc-32.png",
+    "screenshot": "themes/retropc-32.webp",
     "tags": [
       "unofficial"
     ]
@@ -383,7 +383,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/TyRichards/omarchy-space-monkey-theme/",
     "author": "TyRichards",
-    "screenshot": "themes/space-monkey-34.jpg",
+    "screenshot": "themes/space-monkey-34.webp",
     "tags": [
       "unofficial"
     ]
@@ -394,7 +394,7 @@
     "category": "Light Theme",
     "link": "https://github.com/bjarneo/omarchy-snow-theme",
     "author": "bjarneo",
-    "screenshot": "themes/snow-35.png",
+    "screenshot": "themes/snow-35.webp",
     "tags": [
       "unofficial"
     ]
@@ -405,7 +405,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/Gazler/omarchy-solarized-theme",
     "author": "Gazler",
-    "screenshot": "themes/solarized-36.png",
+    "screenshot": "themes/solarized-36.webp",
     "tags": [
       "unofficial"
     ]
@@ -416,7 +416,7 @@
     "category": "Light Theme",
     "link": "https://github.com/dfrico/omarchy-solarized-light-theme",
     "author": "dfrico",
-    "screenshot": "themes/solarized-light-37.png",
+    "screenshot": "themes/solarized-light-37.webp",
     "tags": [
       "unofficial"
     ]
@@ -427,7 +427,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/motorsss/omarchy-solarizedosaka-theme",
     "author": "motorsss",
-    "screenshot": "themes/solarized-osaka-38.png",
+    "screenshot": "themes/solarized-osaka-38.webp",
     "tags": [
       "unofficial"
     ]
@@ -438,7 +438,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/TyRichards/omarchy-super-game-bro-theme",
     "author": "TyRichards",
-    "screenshot": "themes/super-game-bro-39.png",
+    "screenshot": "themes/super-game-bro-39.webp",
     "tags": [
       "unofficial"
     ]
@@ -449,7 +449,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/omacom-io/omarchy-synthwave84-theme/",
     "author": "omacom-io",
-    "screenshot": "themes/synthwave-84-40.png",
+    "screenshot": "themes/synthwave-84-40.webp",
     "tags": [
       "unofficial"
     ]
@@ -460,7 +460,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/hipsterusername/omarchy-waveform-dark-theme",
     "author": "hipsterusername",
-    "screenshot": "themes/waveform-dark-41.png",
+    "screenshot": "themes/waveform-dark-41.webp",
     "tags": [
       "unofficial"
     ]
@@ -471,7 +471,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/Rnedlose/omarchy-vague-theme",
     "author": "Rnedlose",
-    "screenshot": "themes/vague-42.jpg",
+    "screenshot": "themes/vague-42.webp",
     "tags": [
       "unofficial"
     ]
@@ -482,7 +482,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/vyrx-dev/omarchy-void-theme",
     "author": "vyrx-dev",
-    "screenshot": "themes/void-1.png",
+    "screenshot": "themes/void-1.webp",
     "tags": [
       "unofficial"
     ]
@@ -493,7 +493,7 @@
     "category": "Light Theme",
     "link": "https://gitlab.com/bhavabhuthi/omarchy-gornergrat-station-theme",
     "author": "Bhavabhuthi",
-    "screenshot": "themes/gornergrat-station-theme-44.png",
+    "screenshot": "themes/gornergrat-station-theme-44.webp",
     "tags": [
       "unofficial"
     ]
@@ -504,7 +504,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/scar45/omarchy-c64-theme",
     "author": "@scar45",
-    "screenshot": "themes/c64-45.png",
+    "screenshot": "themes/c64-45.webp",
     "tags": [
       "unofficial",
       "blue",
@@ -518,7 +518,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/komagata/omarchy-kawasaki-foundry-theme",
     "author": "@komagata",
-    "screenshot": "themes/kawasaki-foundry-46.png",
+    "screenshot": "themes/kawasaki-foundry-46.webp",
     "tags": [
       "unofficial",
       "purple",
@@ -531,7 +531,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/Grenish/omarchy-akane-theme.git",
     "author": "@Grenish",
-    "screenshot": "themes/akane-47.png",
+    "screenshot": "themes/akane-47.webp",
     "tags": [
       "unofficial",
       "red",
@@ -545,7 +545,7 @@
     "category": "Light Theme",
     "link": "https://github.com/HANCORE-linux/omarchy-whitegold-theme",
     "author": "Hancore-linux",
-    "screenshot": "themes/white-gold-1.png",
+    "screenshot": "themes/white-gold-1.webp",
     "tags": [
       "unofficial",
       "gold"
@@ -557,7 +557,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/jordan-ops/omarchy-GTA-theme",
     "author": "jordan-ops",
-    "screenshot": "themes/gta-1.png",
+    "screenshot": "themes/gta-1.webp",
     "tags": [
       "unofficial",
       "dark"
@@ -569,7 +569,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/vyrx-dev/omarchy-aamis-theme",
     "author": "vyrx-dev",
-    "screenshot": "themes/aamis-2.png",
+    "screenshot": "themes/aamis-2.webp",
     "tags": [
       "unofficial",
       "minimal",
@@ -582,7 +582,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/HANCORE-linux/omarchy-batou-theme",
     "author": "HANCORE-linux",
-    "screenshot": "themes/batou-1.png",
+    "screenshot": "themes/batou-1.webp",
     "tags": [
       "unofficial",
       "dark"
@@ -594,7 +594,7 @@
     "category": "Dark Theme",
     "link": "https://github.com/tahayvr/omarchy-sunset-drive-theme",
     "author": "tahayvr",
-    "screenshot": "themes/sunset-drive-1.png",
+    "screenshot": "themes/sunset-drive-1.webp",
     "tags": [
       "unofficial",
       "dark"
