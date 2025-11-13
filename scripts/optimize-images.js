@@ -9,10 +9,12 @@ const __dirname = path.dirname(__filename);
 const setupsDir = path.join(__dirname, '..', 'public', 'setups');
 const themesDir = path.join(__dirname, '..', 'public', 'themes');
 const maxWidth = 1080;
+const webpQuality = 80;
+const webpEffort = 6;
 const setupsMetadataFile = path.join(__dirname, '..', 'public', 'setups', '.optimization-metadata.json');
 const themesMetadataFile = path.join(__dirname, '..', 'public', 'themes', '.optimization-metadata.json');
 
-// Supported image formats
+// Supported image formats (input formats to convert)
 const supportedFormats = /\.(jpe?g|png|webp|tiff|gif|avif)$/i;
 
 // Ensure the directories exist
@@ -51,11 +53,40 @@ const getFileHash = (filePath) => {
   return `${stats.mtime.getTime()}-${stats.size}`;
 };
 
+// Function to get file size in bytes
+const getFileSize = (filePath) => {
+  return fs.statSync(filePath).size;
+};
+
+// Function to format file size for display
+const formatFileSize = (bytes) => {
+  if (bytes === 0) return '0 B';
+  const k = 1024;
+  const sizes = ['B', 'KB', 'MB'];
+  const i = Math.floor(Math.log(bytes) / Math.log(k));
+  return Math.round((bytes / Math.pow(k, i)) * 100) / 100 + ' ' + sizes[i];
+};
+
+// Function to get WebP filename from original filename
+const getWebpFilename = (originalFile) => {
+  const ext = path.extname(originalFile).toLowerCase();
+  if (ext === '.webp') {
+    return originalFile; // Already WebP
+  }
+  return originalFile.replace(/\.(jpe?g|png|tiff|gif|avif)$/i, '.webp');
+};
+
 // Function to check if image needs optimization
-const needsOptimization = (file, filePath, metadata) => {
-  // Check if original file has been modified since last optimization
+const needsOptimization = (file, filePath, metadata, webpFile) => {
+  // Always process if converting to WebP (different format)
+  const ext = path.extname(file).toLowerCase();
+  if (ext !== '.webp') {
+    return true; // Need to convert to WebP
+  }
+  
+  // For existing WebP files, check if they've been modified
   const currentHash = getFileHash(filePath);
-  const lastHash = metadata[file];
+  const lastHash = metadata[webpFile] || metadata[file];
   
   if (lastHash !== currentHash) {
     return true;
@@ -73,70 +104,96 @@ const processDirectory = async (dirPath, dirName, metadata, metadataFile) => {
   
   if (imageFiles.length === 0) {
     console.log(`No images found in ${dirName} to optimize`);
-    return { processedCount: 0, skippedCount: 0, errorCount: 0 };
+    return { processedCount: 0, skippedCount: 0, errorCount: 0, totalSizeReduction: 0 };
   }
 
   let processedCount = 0;
   let skippedCount = 0;
   let errorCount = 0;
+  let totalSizeReduction = 0;
 
   for (const file of imageFiles) {
     const filePath = path.join(dirPath, file);
+    const webpFile = getWebpFilename(file);
+    const webpPath = path.join(dirPath, webpFile);
 
     // Check if optimization is needed
-    if (!needsOptimization(file, filePath, metadata)) {
+    if (!needsOptimization(file, filePath, metadata, webpFile)) {
       console.log(`⏭️  Skipping already optimized: ${file}`);
       skippedCount++;
       continue;
     }
 
     try {
+      // Get original file size
+      const originalSize = getFileSize(filePath);
+      
       const image = sharp(filePath);
       const imageMetadata = await image.metadata();
       
-      console.log(`🔄 Processing: ${file} (${imageMetadata.width}x${imageMetadata.height})`);
+      const originalFormat = path.extname(file).toLowerCase();
+      const isConverting = originalFormat !== '.webp';
+      
+      console.log(`🔄 Processing: ${file} (${imageMetadata.width}x${imageMetadata.height})${isConverting ? ` → Converting to WebP` : ''}`);
 
       // Create optimization pipeline
       let pipeline = image;
 
+      // Strip all metadata (Sharp automatically strips most metadata when converting formats,
+      // but we explicitly remove EXIF orientation data)
+      pipeline = pipeline.rotate();
+      
       // Resize if the image is wider than maxWidth
       if (imageMetadata.width > maxWidth) {
         pipeline = pipeline.resize({ width: maxWidth, withoutEnlargement: true });
       }
 
-      // Optimize based on format
-      if (file.toLowerCase().endsWith('.jpg') || file.toLowerCase().endsWith('.jpeg')) {
-        pipeline = pipeline.jpeg({ 
-          quality: 85, 
-          progressive: true,
-          mozjpeg: true 
-        });
-      } else if (file.toLowerCase().endsWith('.png')) {
-        pipeline = pipeline.png({ 
-          quality: 85,
-          progressive: true,
-          compressionLevel: 9
-        });
-      } else if (file.toLowerCase().endsWith('.webp')) {
-        pipeline = pipeline.webp({ 
-          quality: 85,
-          effort: 6
-        });
-      }
+      // Convert all formats to WebP
+      // Configure WebP output with quality and effort settings
+      const webpOptions = {
+        quality: webpQuality,
+        effort: webpEffort,
+      };
+      
+      // Convert to WebP (Sharp preserves alpha channel automatically)
+      pipeline = pipeline.webp(webpOptions);
 
       // Create a temporary file for the optimized image
-      const tempPath = filePath + '.tmp';
+      const tempPath = webpPath + '.tmp';
       
       // Process and save to temporary file
       await pipeline.toFile(tempPath);
       
-      // Replace original with optimized version
-      fs.renameSync(tempPath, filePath);
-
-      // Update metadata
-      metadata[file] = getFileHash(filePath);
+      // Get optimized file size
+      const optimizedSize = getFileSize(tempPath);
+      const sizeReduction = originalSize - optimizedSize;
+      const reductionPercent = ((sizeReduction / originalSize) * 100).toFixed(1);
       
-      console.log(`✅ Optimized: ${file}`);
+      // If converting format, delete original file
+      if (isConverting && filePath !== webpPath) {
+        fs.unlinkSync(filePath);
+      }
+      
+      // Replace temporary file with final WebP file
+      if (fs.existsSync(webpPath)) {
+        fs.unlinkSync(webpPath);
+      }
+      fs.renameSync(tempPath, webpPath);
+
+      // Update metadata with WebP filename
+      metadata[webpFile] = getFileHash(webpPath);
+      // Remove old metadata entry if filename changed
+      if (file !== webpFile && metadata[file]) {
+        delete metadata[file];
+      }
+      
+      totalSizeReduction += sizeReduction;
+      
+      const sizeInfo = sizeReduction > 0 
+        ? ` (${formatFileSize(originalSize)} → ${formatFileSize(optimizedSize)}, -${reductionPercent}%)`
+        : ` (${formatFileSize(optimizedSize)})`;
+      
+      console.log(`✅ Optimized: ${isConverting ? `${file} → ${webpFile}` : webpFile}${sizeInfo}`);
       processedCount++;
 
     } catch (error) {
@@ -148,12 +205,13 @@ const processDirectory = async (dirPath, dirName, metadata, metadataFile) => {
   // Save updated metadata
   fs.writeFileSync(metadataFile, JSON.stringify(metadata, null, 2));
 
-  return { processedCount, skippedCount, errorCount };
+  return { processedCount, skippedCount, errorCount, totalSizeReduction };
 };
 
 // Function to process all images
 const processImages = async () => {
   console.log('🖼️  Starting image optimization...');
+  console.log('📝 Converting all images to WebP format...\n');
   
   // Process setups directory
   const setupsResults = await processDirectory(setupsDir, 'setups', setupsMetadata, setupsMetadataFile);
@@ -165,16 +223,27 @@ const processImages = async () => {
   const totalProcessed = setupsResults.processedCount + themesResults.processedCount;
   const totalSkipped = setupsResults.skippedCount + themesResults.skippedCount;
   const totalErrors = setupsResults.errorCount + themesResults.errorCount;
+  const totalSizeReduction = setupsResults.totalSizeReduction + themesResults.totalSizeReduction;
 
   console.log('\n📊 Optimization Summary:');
   console.log(`   Setups - Processed: ${setupsResults.processedCount}, Skipped: ${setupsResults.skippedCount}, Errors: ${setupsResults.errorCount}`);
+  if (setupsResults.totalSizeReduction > 0) {
+    console.log(`            Size reduction: ${formatFileSize(setupsResults.totalSizeReduction)}`);
+  }
   console.log(`   Themes - Processed: ${themesResults.processedCount}, Skipped: ${themesResults.skippedCount}, Errors: ${themesResults.errorCount}`);
+  if (themesResults.totalSizeReduction > 0) {
+    console.log(`            Size reduction: ${formatFileSize(themesResults.totalSizeReduction)}`);
+  }
   console.log(`   Total - Processed: ${totalProcessed}, Skipped: ${totalSkipped}, Errors: ${totalErrors}`);
+  if (totalSizeReduction > 0) {
+    console.log(`            Total size reduction: ${formatFileSize(totalSizeReduction)}`);
+  }
   
   if (totalProcessed > 0) {
-    console.log('🎉 Image optimization completed!');
+    console.log('\n🎉 Image optimization completed!');
+    console.log('⚠️  Remember to update JSON data files to change file extensions from .jpeg/.png to .webp');
   } else {
-    console.log('✨ All images are already optimized!');
+    console.log('\n✨ All images are already optimized!');
   }
 };
 
