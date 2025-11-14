@@ -1,36 +1,24 @@
 import { Smartphone } from 'lucide-react';
 
-// Helper function to add i0.wp.com prefix to image URLs in production
-function getImageUrl(screenshot: string, hostname?: string): string {
-  // Check if we're in production (on omarchy.deepakness.com)
-  // Can check either from server (hostname param) or client (window)
-  const isProduction = hostname === 'omarchy.deepakness.com' || 
-    (typeof window !== 'undefined' && window.location.hostname === 'omarchy.deepakness.com');
-  
-  // If it's already a full URL (external)
+// Helper function to add i0.wp.com prefix to all image URLs
+function getImageUrl(screenshot: string): string {
+  // If it's already a full URL
   if (screenshot.startsWith('http')) {
-    // In production, if it's from omarchy.deepakness.com, add i0.wp.com prefix
-    if (isProduction) {
-      try {
-        const url = new URL(screenshot);
-        if (url.hostname === 'omarchy.deepakness.com') {
-          return `https://i0.wp.com/${url.hostname}${url.pathname}${url.search}${url.hash}`;
-        }
-      } catch {
-        // Invalid URL, return as is
+    try {
+      const url = new URL(screenshot);
+      // If it's from our domain, add i0.wp.com prefix
+      if (url.hostname === 'omarchy.deepakness.com') {
+        return `https://i0.wp.com/${url.hostname}${url.pathname}${url.search}${url.hash}`;
       }
+    } catch {
+      // Invalid URL, return as is
     }
     return screenshot;
   }
   
-  // For relative paths, in production construct the full URL with i0.wp.com prefix
-  if (isProduction) {
-    const path = screenshot.startsWith('/') ? screenshot : `/${screenshot}`;
-    return `https://i0.wp.com/omarchy.deepakness.com${path}`;
-  }
-  
-  // In development, return relative path
-  return screenshot.startsWith('/') ? screenshot : `/${screenshot}`;
+  // For relative paths, always add i0.wp.com prefix
+  const path = screenshot.startsWith('/') ? screenshot : `/${screenshot}`;
+  return `https://i0.wp.com/omarchy.deepakness.com${path}`;
 }
 
 interface CardProps {
