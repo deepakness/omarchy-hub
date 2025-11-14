@@ -1,5 +1,37 @@
-import Image from 'next/image';
 import { Smartphone } from 'lucide-react';
+
+// Helper function to add i0.wp.com prefix to image URLs in production
+function getImageUrl(screenshot: string, hostname?: string): string {
+  // Check if we're in production (on omarchy.deepakness.com)
+  // Can check either from server (hostname param) or client (window)
+  const isProduction = hostname === 'omarchy.deepakness.com' || 
+    (typeof window !== 'undefined' && window.location.hostname === 'omarchy.deepakness.com');
+  
+  // If it's already a full URL (external)
+  if (screenshot.startsWith('http')) {
+    // In production, if it's from omarchy.deepakness.com, add i0.wp.com prefix
+    if (isProduction) {
+      try {
+        const url = new URL(screenshot);
+        if (url.hostname === 'omarchy.deepakness.com') {
+          return `https://i0.wp.com/${url.hostname}${url.pathname}${url.search}${url.hash}`;
+        }
+      } catch {
+        // Invalid URL, return as is
+      }
+    }
+    return screenshot;
+  }
+  
+  // For relative paths, in production construct the full URL with i0.wp.com prefix
+  if (isProduction) {
+    const path = screenshot.startsWith('/') ? screenshot : `/${screenshot}`;
+    return `https://i0.wp.com/omarchy.deepakness.com${path}`;
+  }
+  
+  // In development, return relative path
+  return screenshot.startsWith('/') ? screenshot : `/${screenshot}`;
+}
 
 interface CardProps {
   title: string;
@@ -42,12 +74,11 @@ export default function Card({
         <div className={`w-full bg-secondary/50 border-b border-secondary relative overflow-hidden ${
           screenshotAlt?.includes('Setup') ? 'aspect-[1/1]' : 'h-64'
         }`}>
-          <Image
-            src={screenshot.startsWith('http') ? screenshot : `/${screenshot}`}
+          <img
+            src={getImageUrl(screenshot)}
             alt={screenshotAlt || 'Screenshot'}
-            fill
-            className="object-cover"
-            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            className="w-full h-full object-cover"
+            loading="lazy"
           />
         </div>
       )}
