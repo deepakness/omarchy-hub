@@ -611,5 +611,31 @@
       "unofficial",
       "dark"
     ]
+  },
+  {
+    "id": "54",
+    "name": "Grudark",
+    "category": "Dark Theme",
+    "link": "https://github.com/zillamtt/omarchy-grudark",
+    "author": "zillamtt",
+    "screenshot": "themes/grudark-1.png",
+    "tags": [
+      "unofficial",
+      "dark",
+      "space"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "purple-haze",
+    "category": "Dark Theme",
+    "link": "https://github.com/bochamaakram/purple-haze",
+    "author": "bouchama akram",
+    "screenshot": "themes/purple-haze-1.png",
+    "tags": [
+      "unofficial",
+      "purple",
+      "dark"
+    ]
   }
 ]
