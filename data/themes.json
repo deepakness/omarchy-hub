@@ -637,5 +637,19 @@
       "purple",
       "dark"
     ]
+  },
+  {
+    "id": "56",
+    "name": "Green City",
+    "category": "Dark Theme",
+    "link": "https://github.com/zillamtt/omarchy-green-city",
+    "author": "zillamtt",
+    "screenshot": "themes/omarchy-green-city-1.webp",
+    "tags": [
+      "unofficial",
+      "custom",
+      "aether",
+      "green"
+    ]
   }
 ]
