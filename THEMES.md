@@ -801,9 +801,9 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** zillamtt
 
-<img src="/public/themes/omarchy-green-city-1.png" alt="Green City" width="450">
+<img src="/public/themes/omarchy-green-city-1.webp" alt="Green City" width="450">
 
-**Tags:** `unofficial`, `custom`, `aether`, `green`, `pixel`
+**Tags:** `unofficial`, `custom`, `aether`, `green`
 
 **Install:** [View theme repository](https://github.com/zillamtt/omarchy-green-city)
 
