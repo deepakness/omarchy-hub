@@ -1,5 +1,21 @@
 [
   {
+    "tag": "v3.2.2",
+    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.2.2",
+    "publishedAt": null,
+    "isLatest": false,
+    "changelog": "<ul>\n<li>Add <code>Super + O</code> to pop a window out into a pinned and floating overlay by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/ryrobes/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/ryrobes\">@ryrobes</a></li>\n<li>Fix possibility for walker/elephant to brick on upgrading by introducing omarchy-walker meta package by <a class=\"user-mention notranslate\" data-hovercard-type=\"use...",
+    "description": "Add Super + O to pop a window out into a pinned and floating overlay by @ryrobes Fix possibility for..."
+  },
+  {
+    "tag": "v3.2.1",
+    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.2.1",
+    "publishedAt": null,
+    "isLatest": false,
+    "changelog": "<ul>\n<li>Add <code>Super + O</code> to pop a window out into a pinned and floating overlay by <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/ryrobes/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/ryrobes\">@ryrobes</a></li>\n<li>Fix possibility for walker/elephant to brick on upgrading by introducing omarchy-walker meta package by <a class=\"user-mention notranslate\" data-hovercard-type=\"use...",
+    "description": "Add Super + O to pop a window out into a pinned and floating overlay by @ryrobes Fix possibility for..."
+  },
+  {
     "tag": "v3.2.0",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.2.0",
     "publishedAt": null,
@@ -58,22 +74,6 @@
   {
     "tag": "v3.1.1",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.1.1",
-    "publishedAt": null,
-    "isLatest": false,
-    "changelog": "",
-    "description": ""
-  },
-  {
-    "tag": "v3.1.0",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.1.0",
-    "publishedAt": null,
-    "isLatest": false,
-    "changelog": "",
-    "description": ""
-  },
-  {
-    "tag": "v3.0.2",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.0.2",
     "publishedAt": null,
     "isLatest": false,
     "changelog": "",
