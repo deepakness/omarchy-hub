@@ -96,15 +96,25 @@ export default function RootLayout({
                   DeepakNess
                 </a>
               </p>
-              <a
-                href="https://github.com/deepakness/omarchy-hub"
-                target="_blank"
-                rel="noopener noreferrer nofollow"
-                className="inline-flex items-center gap-2 text-foreground/60 hover:text-blue transition-colors font-mono"
-              >
-                {/* Using text instead of icon to avoid extra imports here */}
-                View on GitHub
-              </a>
+              <div className="flex items-center gap-4">
+                <a
+                  href="https://github.com/deepakness/omarchy-hub"
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                  className="inline-flex items-center gap-2 text-foreground/60 hover:text-blue transition-colors font-mono"
+                >
+                  View on GitHub
+                </a>
+                <span className="text-foreground/30">•</span>
+                <a
+                  href="https://buymeacoffee.com/deepakness"
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                  className="inline-flex items-center gap-2 text-foreground/60 hover:text-yellow transition-colors font-mono"
+                >
+                  Support
+                </a>
+              </div>
             </div>
           </div>
         </footer>
