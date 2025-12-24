@@ -647,9 +647,21 @@
     "screenshot": "themes/omarchy-green-city-1.webp",
     "tags": [
       "unofficial",
-      "custom",
       "aether",
       "green"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Stillwood",
+    "category": "Dark Theme",
+    "link": "https://github.com/shresth-dwivedi/omarchy-stillwood-theme",
+    "author": "@shresth-dwivedi",
+    "screenshot": "themes/stillwood-1.webp",
+    "tags": [
+      "unofficial",
+      "autumn",
+      "nature"
     ]
   }
 ]

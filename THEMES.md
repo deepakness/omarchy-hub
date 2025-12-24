@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 56
+- **Total themes:** 57
 - **Official themes:** 11
-- **Community themes:** 45
-- **Dark themes:** 49
+- **Community themes:** 46
+- **Dark themes:** 50
 - **Light themes:** 7
 
 ## About these themes
@@ -803,9 +803,23 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 <img src="/public/themes/omarchy-green-city-1.webp" alt="Green City" width="450">
 
-**Tags:** `unofficial`, `custom`, `aether`, `green`
+**Tags:** `unofficial`, `aether`, `green`
 
 **Install:** [View theme repository](https://github.com/zillamtt/omarchy-green-city)
+
+---
+
+### 57. Stillwood
+
+**Category:** Dark Theme
+
+**Author:** @shresth-dwivedi
+
+<img src="/public/themes/stillwood-1.webp" alt="Stillwood" width="450">
+
+**Tags:** `unofficial`, `autumn`, `nature`
+
+**Install:** [View theme repository](https://github.com/shresth-dwivedi/omarchy-stillwood-theme)
 
 
 ---
