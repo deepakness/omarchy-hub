@@ -1222,5 +1222,47 @@
       "hp",
       "installation"
     ]
+  },
+  {
+    "id": "94",
+    "name": "Prateek Jain's Hyprland Setup",
+    "description": "Dual-monitor LG setup with vertical secondary, custom PC, and PS5 running Omarchy.",
+    "screenshot": "setups/setup-94.webp",
+    "link": "https://x.com/PrateekJainDev/status/1999832194773291358",
+    "device": "Dual Monitor + Custom PC + PS5",
+    "category": "Desktop",
+    "tags": [
+      "hyprland",
+      "dual-monitor",
+      "purple-rgb"
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Raghad's XP-Pen Creative Setup",
+    "description": "Creative setup with ultrawide LG monitor and XP-Pen tablet running Omarchy Linux.",
+    "screenshot": "setups/setup-95.webp",
+    "link": "https://x.com/BPanda3M/status/1998745391794192765",
+    "device": "PC + XP-Pen Tablet + Ultrawide Monitor",
+    "category": "Desktop",
+    "tags": [
+      "xp-pen",
+      "tablet",
+      "ultrawide"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Wey Gu's MacBook 12 Omarchy Setup",
+    "description": "Ultra-portable MacBook 12\" running Omarchy, showing its versatility on Apple tech.",
+    "screenshot": "setups/setup-96.webp",
+    "link": "https://x.com/wey_gu/status/1972982254419980668",
+    "device": "MacBook 12\"",
+    "category": "Laptop",
+    "tags": [
+      "apple",
+      "macbook",
+      "ultra-portable"
+    ]
   }
 ]

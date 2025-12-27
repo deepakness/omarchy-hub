@@ -6,9 +6,9 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 93
-- **Desktop setups:** 54
-- **Laptop setups:** 38
+- **Total setups:** 96
+- **Desktop setups:** 56
+- **Laptop setups:** 39
 - **Tablet setups:** 1
 
 ## About these setups
@@ -1322,6 +1322,48 @@ HP laptop showing Omarchy installation process with package downloads and system
 **Tags:** `hp`, `installation`
 
 **Source:** [View original post](https://x.com/gurselcakar/status/1984709794054160668)
+
+---
+
+### 94. Prateek Jain's Hyprland Setup
+
+Dual-monitor LG setup with vertical secondary, custom PC, and PS5 running Omarchy.
+
+**Device:** Dual Monitor + Custom PC + PS5
+
+<img src="/public/setups/setup-94.webp" alt="Prateek Jain's Hyprland Setup" width="450">
+
+**Tags:** `hyprland`, `dual-monitor`, `custom-pc`, `purple-rgb`
+
+**Source:** [View original post](https://x.com/PrateekJainDev/status/1999832194773291358)
+
+---
+
+### 95. Raghad's XP-Pen Creative Setup
+
+Creative setup with ultrawide LG monitor and XP-Pen tablet running Omarchy Linux.
+
+**Device:** PC + XP-Pen Tablet + Ultrawide Monitor
+
+<img src="/public/setups/setup-95.webp" alt="Raghad's XP-Pen Creative Setup" width="450">
+
+**Tags:** `xp-pen`, `tablet`, `ultrawide`, `creative`
+
+**Source:** [View original post](https://x.com/BPanda3M/status/1998745391794192765)
+
+---
+
+### 96. Wey Gu's MacBook 12 Omarchy Setup
+
+Ultra-portable MacBook 12" running Omarchy, showing its versatility on Apple tech.
+
+**Device:** MacBook 12"
+
+<img src="/public/setups/setup-96.webp" alt="Wey Gu's MacBook 12 Omarchy Setup" width="450">
+
+**Tags:** `apple`, `macbook`, `ultra-portable`
+
+**Source:** [View original post](https://x.com/wey_gu/status/1972982254419980668)
 
 
 ---
