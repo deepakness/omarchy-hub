@@ -6,9 +6,9 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 96
-- **Desktop setups:** 56
-- **Laptop setups:** 39
+- **Total setups:** 101
+- **Desktop setups:** 60
+- **Laptop setups:** 40
 - **Tablet setups:** 1
 
 ## About these setups
@@ -1333,7 +1333,7 @@ Dual-monitor LG setup with vertical secondary, custom PC, and PS5 running Omarch
 
 <img src="/public/setups/setup-94.webp" alt="Prateek Jain's Hyprland Setup" width="450">
 
-**Tags:** `hyprland`, `dual-monitor`, `custom-pc`, `purple-rgb`
+**Tags:** `hyprland`, `dual-monitor`, `purple-rgb`
 
 **Source:** [View original post](https://x.com/PrateekJainDev/status/1999832194773291358)
 
@@ -1347,7 +1347,7 @@ Creative setup with ultrawide LG monitor and XP-Pen tablet running Omarchy Linux
 
 <img src="/public/setups/setup-95.webp" alt="Raghad's XP-Pen Creative Setup" width="450">
 
-**Tags:** `xp-pen`, `tablet`, `ultrawide`, `creative`
+**Tags:** `xp-pen`, `tablet`, `ultrawide`
 
 **Source:** [View original post](https://x.com/BPanda3M/status/1998745391794192765)
 
@@ -1364,6 +1364,76 @@ Ultra-portable MacBook 12" running Omarchy, showing its versatility on Apple tec
 **Tags:** `apple`, `macbook`, `ultra-portable`
 
 **Source:** [View original post](https://x.com/wey_gu/status/1972982254419980668)
+
+---
+
+### 97. Theo Vararu's 9.95L Workstation
+
+Backpackable 9.95L workstation with RTX 5090 and 9800X3D running Omarchy.
+
+**Device:** 9.95L SFF PC + 5090 + 9800X3D
+
+<img src="/public/setups/setup-97.webp" alt="Theo Vararu's 9.95L Workstation" width="450">
+
+**Tags:** `sff`, `5090`, `backpackable`
+
+**Source:** [View original post](https://x.com/NihilSineTheo/status/1997497367025811967)
+
+---
+
+### 98. Pierre Henry's Mac Replacement Setup
+
+Multi-monitor developer workstation running Omarchy as a Mac replacement.
+
+**Device:** Multi-monitor Desktop
+
+<img src="/public/setups/setup-98.webp" alt="Pierre Henry's Mac Replacement Setup" width="450">
+
+**Tags:** `mac-replacement`, `multi-monitor`, `developer`
+
+**Source:** [View original post](https://x.com/phenrysay/status/1995820108057641003)
+
+---
+
+### 99. Sambit Biswas's DIY Framework Setup
+
+DIY $40 setup with a Framework laptop and dual monitors running Omarchy 3.1.
+
+**Device:** Framework Laptop + Dual Monitors
+
+<img src="/public/setups/setup-99.webp" alt="Sambit Biswas's DIY Framework Setup" width="450">
+
+**Tags:** `framework`, `diy`, `dual-monitor`
+
+**Source:** [View original post](https://x.com/SambitBiswas/status/1994949072168653128)
+
+---
+
+### 100. Joyboy's Ultrawide Split Setup
+
+Vibrant ultrawide setup with a split ergonomic keyboard and Omarchy customization.
+
+**Device:** Ultrawide Monitor + Split Keyboard
+
+<img src="/public/setups/setup-100.webp" alt="Joyboy's Ultrawide Split Setup" width="450">
+
+**Tags:** `ultrawide`, `split-keyboard`, `ergonomic`
+
+**Source:** [View original post](https://x.com/Itssjoyboy/status/1993835369637523548)
+
+---
+
+### 101. jhon__codes' Dual Stacked Setup
+
+Dual stacked monitor setup running Omarchy with a custom mechanical keyboard.
+
+**Device:** Dual Stacked Monitors + Custom PC
+
+<img src="/public/setups/setup-101.webp" alt="jhon__codes' Dual Stacked Setup" width="450">
+
+**Tags:** `stacked-monitors`, `mechanical-keyboard`
+
+**Source:** [View original post](https://www.reddit.com/r/setups/comments/1pgrcmx/linux_setup_witch_omarchy/)
 
 
 ---

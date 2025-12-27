@@ -1264,5 +1264,74 @@
       "macbook",
       "ultra-portable"
     ]
+  },
+  {
+    "id": "97",
+    "name": "Theo Vararu's 9.95L Workstation",
+    "description": "Backpackable 9.95L workstation with RTX 5090 and 9800X3D running Omarchy.",
+    "screenshot": "setups/setup-97.webp",
+    "link": "https://x.com/NihilSineTheo/status/1997497367025811967",
+    "device": "9.95L SFF PC + 5090 + 9800X3D",
+    "category": "Desktop",
+    "tags": [
+      "sff",
+      "5090",
+      "backpackable"
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Pierre Henry's Mac Replacement Setup",
+    "description": "Multi-monitor developer workstation running Omarchy as a Mac replacement.",
+    "screenshot": "setups/setup-98.webp",
+    "link": "https://x.com/phenrysay/status/1995820108057641003",
+    "device": "Multi-monitor Desktop",
+    "category": "Desktop",
+    "tags": [
+      "mac-replacement",
+      "multi-monitor",
+      "developer"
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Sambit Biswas's DIY Framework Setup",
+    "description": "DIY $40 setup with a Framework laptop and dual monitors running Omarchy 3.1.",
+    "screenshot": "setups/setup-99.webp",
+    "link": "https://x.com/SambitBiswas/status/1994949072168653128",
+    "device": "Framework Laptop + Dual Monitors",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "diy",
+      "dual-monitor"
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Joyboy's Ultrawide Split Setup",
+    "description": "Vibrant ultrawide setup with a split ergonomic keyboard and Omarchy customization.",
+    "screenshot": "setups/setup-100.webp",
+    "link": "https://x.com/Itssjoyboy/status/1993835369637523548",
+    "device": "Ultrawide Monitor + Split Keyboard",
+    "category": "Desktop",
+    "tags": [
+      "ultrawide",
+      "split-keyboard",
+      "ergonomic"
+    ]
+  },
+  {
+    "id": "101",
+    "name": "jhon__codes' Dual Stacked Setup",
+    "description": "Dual stacked monitor setup running Omarchy with a custom mechanical keyboard.",
+    "screenshot": "setups/setup-101.webp",
+    "link": "https://www.reddit.com/r/setups/comments/1pgrcmx/linux_setup_witch_omarchy/",
+    "device": "Dual Stacked Monitors + Custom PC",
+    "category": "Desktop",
+    "tags": [
+      "stacked-monitors",
+      "mechanical-keyboard"
+    ]
   }
 ]
