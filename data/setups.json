@@ -1333,5 +1333,33 @@
       "stacked-monitors",
       "mechanical-keyboard"
     ]
+  },
+  {
+    "id": "102",
+    "name": "JIsnatdino's Clean Desk + RGB PC",
+    "description": "Clean desk setup with ultrawide display and blue-lit PC running Omarchy.",
+    "screenshot": "setups/setup-102.webp",
+    "link": "https://x.com/JIsnatdino1203/status/2005574955128565877",
+    "device": "Ultrawide Monitor + Custom PC",
+    "category": "Desktop",
+    "tags": [
+      "ultrawide",
+      "rgb",
+      "minimal"
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Raigeki's ThinkPad Daily Driver",
+    "description": "ThinkPad daily driver running Omarchy, upgraded with 1TB SSD and 64GB RAM.",
+    "screenshot": "setups/setup-103.webp",
+    "link": "https://x.com/Raigeki_Dev/status/2004881035516150020",
+    "device": "Lenovo ThinkPad",
+    "category": "Laptop",
+    "tags": [
+      "thinkpad",
+      "laptop",
+      "upgrade"
+    ]
   }
 ]
