@@ -663,5 +663,19 @@
       "autumn",
       "nature"
     ]
+  },
+  {
+    "id": "58",
+    "name": "Krishna",
+    "category": "Dark Theme",
+    "link": "https://github.com/tanishenigma/omarchy-krishna-theme",
+    "author": "tanishenigma",
+    "screenshot": "themes/krishna-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "blue",
+      "peaceful"
+    ]
   }
 ]
