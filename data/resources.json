@@ -126,5 +126,57 @@
       "tauri",
       "svelte"
     ]
+  },
+  {
+    "id": "11",
+    "name": "How to Install Omarchy on a Partition (Dual-Boot Windows)",
+    "description": "Guide for installing Omarchy on a partition alongside Windows with dual-boot setup.",
+    "category": "Article",
+    "link": "https://travis.media/blog/install-omarchy-partition-dual-boot-windows/",
+    "author": "Travis Media",
+    "tags": [
+      "dual-boot",
+      "windows",
+      "installation"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Omarchy on DistroWatch",
+    "description": "Comprehensive DistroWatch page with Omarchy information, reviews, ratings, and package details.",
+    "category": "Documentation",
+    "link": "https://distrowatch.com/table.php?distribution=omarchy",
+    "author": "DistroWatch",
+    "tags": [
+      "reference",
+      "reviews",
+      "ratings"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Omarchy User Reviews and Ratings",
+    "description": "DistroWatch page featuring user-submitted reviews and ratings for Omarchy Linux distribution.",
+    "category": "Discussion",
+    "link": "https://distrowatch.com/dwres.php?resource=ratings&distro=omarchy",
+    "author": "DistroWatch",
+    "tags": [
+      "reviews",
+      "ratings",
+      "community"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Omarchy Linux Review: Why It's Winning Developers in 2025",
+    "description": "Comprehensive review comparing Omarchy to Ubuntu, Fedora, and Arch with migration guides.",
+    "category": "Article",
+    "link": "https://www.thinklet.blog/omarchy-linux-review-arch-hyprland",
+    "author": "Kartik Maurya",
+    "tags": [
+      "review",
+      "comparison",
+      "guide"
+    ]
   }
 ]

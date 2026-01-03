@@ -126,6 +126,54 @@ A GUI app for Omarchy with a visual theme designer powered by Tauri, Rust, and S
 
 **Link:** [View resource](https://github.com/tahayvr/omarchist)
 
+---
+
+### 11. How to Install Omarchy on a Partition (Dual-Boot Windows)
+
+Guide for installing Omarchy on a partition alongside Windows with dual-boot setup.
+
+**Category:** Article
+
+**Author:** Travis Media
+
+**Link:** [View resource](https://travis.media/blog/install-omarchy-partition-dual-boot-windows/)
+
+---
+
+### 12. Omarchy on DistroWatch
+
+Comprehensive DistroWatch page with Omarchy information, reviews, ratings, and package details.
+
+**Category:** Documentation
+
+**Author:** DistroWatch
+
+**Link:** [View resource](https://distrowatch.com/table.php?distribution=omarchy)
+
+---
+
+### 13. Omarchy User Reviews and Ratings
+
+DistroWatch page featuring user-submitted reviews and ratings for Omarchy Linux distribution.
+
+**Category:** Discussion
+
+**Author:** DistroWatch
+
+**Link:** [View resource](https://distrowatch.com/dwres.php?resource=ratings&distro=omarchy)
+
+---
+
+### 14. Omarchy Linux Review: Why It's Winning Developers in 2025
+
+Comprehensive review comparing Omarchy to Ubuntu, Fedora, and Arch with migration guides.
+
+**Category:** Article
+
+**Author:** Kartik Maurya
+
+**Link:** [View resource](https://www.thinklet.blog/omarchy-linux-review-arch-hyprland)
+
 
 ---
 
