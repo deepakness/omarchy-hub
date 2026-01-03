@@ -1361,5 +1361,20 @@
       "laptop",
       "upgrade"
     ]
+  },
+  {
+    "id": "104",
+    "name": "Bill Heyman's 2012 iMac Resurrection",
+    "description": "2012 iMac resurrected with Omarchy 3.2 after Fusion Drive failure. 112GB SSD.",
+    "screenshot": "setups/setup-104.webp",
+    "link": "https://x.com/BillHeyman/status/2007164222732386407",
+    "device": "Late 2012 iMac (3.4GHz Intel i7, 32GB RAM)",
+    "category": "Desktop",
+    "tags": [
+      "imac",
+      "apple",
+      "vintage",
+      "revival"
+    ]
   }
 ]
