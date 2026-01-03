@@ -6,9 +6,9 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 104
+- **Total setups:** 105
 - **Desktop setups:** 62
-- **Laptop setups:** 41
+- **Laptop setups:** 42
 - **Tablet setups:** 1
 
 ## About these setups
@@ -1476,6 +1476,20 @@ ThinkPad daily driver running Omarchy, upgraded with 1TB SSD and 64GB RAM.
 **Tags:** `imac`, `apple`, `vintage`, `revival`
 
 **Source:** [View original post](https://x.com/BillHeyman/status/2007164222732386407)
+
+---
+
+### 105. Strayy's 2015 MacBook Pro Revival
+
+Early 2015 MacBook Pro running Omarchy 3.2.3, bringing new life to older hardware.
+
+**Device:** MacBook Pro 13-inch Early 2015 (Intel i5-5257U, 8GB RAM)
+
+<img src="/public/setups/setup-105.webp" alt="Strayy's 2015 MacBook Pro Revival" width="450">
+
+**Tags:** `macbook`, `apple`, `vintage`, `revival`
+
+**Source:** [View original post](https://x.com/strayyhat/status/2007053248591716362)
 
 
 ---
