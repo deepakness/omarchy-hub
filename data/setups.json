@@ -1376,5 +1376,20 @@
       "vintage",
       "revival"
     ]
+  },
+  {
+    "id": "105",
+    "name": "Strayy's 2015 MacBook Pro Revival",
+    "description": "Early 2015 MacBook Pro running Omarchy 3.2.3, bringing new life to older hardware.",
+    "screenshot": "setups/setup-105.webp",
+    "link": "https://x.com/strayyhat/status/2007053248591716362",
+    "device": "MacBook Pro 13-inch Early 2015 (Intel i5-5257U, 8GB RAM)",
+    "category": "Laptop",
+    "tags": [
+      "macbook",
+      "apple",
+      "vintage",
+      "revival"
+    ]
   }
 ]
