@@ -677,5 +677,19 @@
       "blue",
       "peaceful"
     ]
+  },
+  {
+    "id": "59",
+    "name": "Snow",
+    "category": "Dark Theme",
+    "link": "https://github.com/28bby/Snow-Theme.git",
+    "author": "28bby",
+    "screenshot": "themes/snow-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "minimal",
+      "snow"
+    ]
   }
 ]

@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 58
+- **Total themes:** 59
 - **Official themes:** 11
-- **Community themes:** 47
-- **Dark themes:** 51
+- **Community themes:** 48
+- **Dark themes:** 52
 - **Light themes:** 7
 
 ## About these themes
@@ -834,6 +834,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `blue`, `peaceful`
 
 **Install:** [View theme repository](https://github.com/tanishenigma/omarchy-krishna-theme)
+
+---
+
+### 59. Snow
+
+**Category:** Dark Theme
+
+**Author:** 28bby
+
+<img src="/public/themes/snow-1.webp" alt="Snow" width="450">
+
+**Tags:** `unofficial`, `dark`, `minimal`, `snow`
+
+**Install:** [View theme repository](https://github.com/28bby/Snow-Theme.git)
 
 
 ---
