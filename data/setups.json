@@ -1391,5 +1391,19 @@
       "vintage",
       "revival"
     ]
+  },
+  {
+    "id": "106",
+    "name": "Htet Waiyan's Omarchy Workspace from Oakhouse",
+    "description": "A clean, creativity-focused workspace blending Omarchy aesthetics with a custom RGB desktop setup.",
+    "screenshot": "setups/setup-106.webp",
+    "link": "https://x.com/KoKim10012718/status/2013994229681291609",
+    "device": "Gigabyte Monitor, Custom Desktop with RGB Lighting, Green Tech Gaming Keyboard and Mouse, Microlab Speaker",
+    "category": "Desktop",
+    "tags": [
+      "rgb",
+      "gigabyte",
+      "gaming"
+    ]
   }
 ]
