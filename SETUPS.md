@@ -6,8 +6,8 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 105
-- **Desktop setups:** 62
+- **Total setups:** 106
+- **Desktop setups:** 63
 - **Laptop setups:** 42
 - **Tablet setups:** 1
 
@@ -1490,6 +1490,20 @@ Early 2015 MacBook Pro running Omarchy 3.2.3, bringing new life to older hardwar
 **Tags:** `macbook`, `apple`, `vintage`, `revival`
 
 **Source:** [View original post](https://x.com/strayyhat/status/2007053248591716362)
+
+---
+
+### 106. Htet Waiyan's Omarchy Workspace from Oakhouse
+
+A clean, creativity-focused workspace blending Omarchy aesthetics with a custom RGB desktop setup.
+
+**Device:** Gigabyte Monitor, Custom Desktop with RGB Lighting, Green Tech Gaming Keyboard and Mouse, Microlab Speaker
+
+<img src="/public/setups/setup-106.webp" alt="Htet Waiyan's Omarchy Workspace from Oakhouse" width="450">
+
+**Tags:** `rgb`, `gigabyte`, `gaming`
+
+**Source:** [View original post](https://x.com/KoKim10012718/status/2013994229681291609)
 
 
 ---
