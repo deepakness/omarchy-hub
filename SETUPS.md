@@ -1497,7 +1497,7 @@ Early 2015 MacBook Pro running Omarchy 3.2.3, bringing new life to older hardwar
 
 A clean, creativity-focused workspace blending Omarchy aesthetics with a custom RGB desktop setup.
 
-**Device:** Gigabyte Monitor, Custom Desktop with RGB Lighting, Green Tech Gaming Keyboard and Mouse, Microlab Speaker
+**Device:** Gigabyte Monitor, Microlab Speaker
 
 <img src="/public/setups/setup-106.webp" alt="Htet Waiyan's Omarchy Workspace from Oakhouse" width="450">
 
