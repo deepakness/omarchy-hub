@@ -1,7 +1,7 @@
 # Omarchy Hub
 
 A community-driven website for collecting and sharing themes, setups, resources, and links for [Omarchy](https://omarchy.org) - the opinionated Arch + Hyprland setup by DHH. <!--STATS:START-->
-Currently, omarchy-hub showcases **106 workstation setups**, **59 beautiful themes**, **14 useful resources** and more from the community.
+Currently, omarchy-hub showcases **106 workstation setups**, **60 beautiful themes**, **14 useful resources** and more from the community.
 <!--STATS:END-->
 
 🌐 **Live website**: [omarchy.deepakness.com](https://omarchy.deepakness.com)  
