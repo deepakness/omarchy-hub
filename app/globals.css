@@ -5,6 +5,29 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Skip to content link - hidden until focused */
+.skip-to-content {
+  position: absolute;
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  background: var(--blue);
+  color: var(--background);
+  padding: 12px 24px;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 0 0 12px 12px;
+  transition: top 0.2s ease;
+}
+
+.skip-to-content:focus {
+  top: 0;
+  outline: 2px solid var(--green);
+  outline-offset: 2px;
+}
+
 :root {
   --background: #1a1a2e;
   --foreground: #eee;

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import setupsData from "../../data/setups.json";
+import { CollectionPageJsonLd } from "../../components/JsonLd";
 
 const setupCount = setupsData.length;
 
@@ -32,5 +33,16 @@ export default function SetupsLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  return (
+    <>
+      <CollectionPageJsonLd
+        name={`${setupCount} Omarchy Workstation Setups`}
+        description={`Browse ${setupCount} beautiful Omarchy workstation setups. Get inspired for your own Linux desktop configuration.`}
+        url="https://omarchy.deepakness.com/setups"
+        numberOfItems={setupCount}
+      />
+      {children}
+    </>
+  );
 }
+

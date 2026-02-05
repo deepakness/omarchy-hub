@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import resourcesData from "../../data/resources.json";
+import { CollectionPageJsonLd } from "../../components/JsonLd";
 
 const resourceCount = resourcesData.length;
 
@@ -23,5 +24,16 @@ export default function ResourcesLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  return (
+    <>
+      <CollectionPageJsonLd
+        name={`${resourceCount} Omarchy Resources`}
+        description={`Find ${resourceCount} helpful guides, tutorials, and documentation for Omarchy Linux.`}
+        url="https://omarchy.deepakness.com/resources"
+        numberOfItems={resourceCount}
+      />
+      {children}
+    </>
+  );
 }
+

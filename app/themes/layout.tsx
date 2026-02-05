@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import themesData from "../../data/themes.json";
+import { CollectionPageJsonLd } from "../../components/JsonLd";
 
 const themeCount = themesData.length;
 
@@ -23,5 +24,16 @@ export default function ThemesLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  return (
+    <>
+      <CollectionPageJsonLd
+        name={`${themeCount} Omarchy Themes`}
+        description={`Discover ${themeCount} beautiful color schemes and themes for Omarchy Linux.`}
+        url="https://omarchy.deepakness.com/themes"
+        numberOfItems={themeCount}
+      />
+      {children}
+    </>
+  );
 }
+
