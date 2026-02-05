@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
 import Header from "../components/Header";
+import { WebSiteJsonLd, OrganizationJsonLd } from "../components/JsonLd";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -58,6 +59,8 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <WebSiteJsonLd />
+        <OrganizationJsonLd />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
@@ -69,8 +72,15 @@ export default function RootLayout({
           strategy="afterInteractive"
         />
         
+        {/* Skip to content link for accessibility */}
+        <a href="#main-content" className="skip-to-content">
+          Skip to main content
+        </a>
+        
         <Header />
-        {children}
+        <main id="main-content">
+          {children}
+        </main>
         <footer className="bg-primary border-t border-secondary py-8 mt-16">
           <div className="container mx-auto px-4 text-center">
             <div className="flex flex-col items-center gap-4">
