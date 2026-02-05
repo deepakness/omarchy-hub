@@ -691,5 +691,16 @@
       "minimal",
       "snow"
     ]
+  },
+  {
+    "id": "60",
+    "name": "Copper night",
+    "category": "Minimal",
+    "link": "https://github.com/hembramnishant50-glitch/omarchy-coppernight-theme.git",
+    "author": "hembramnishant50-glitch",
+    "screenshot": "themes/copper-night-1.webp",
+    "tags": [
+      "minimal"
+    ]
   }
 ]
