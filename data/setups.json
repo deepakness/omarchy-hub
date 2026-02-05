@@ -1405,5 +1405,47 @@
       "gigabyte",
       "gaming"
     ]
+  },
+  {
+    "id": "107",
+    "name": "Mat Silva's Framework + RGB Vibes",
+    "description": "Framework laptop running Omarchy with a stunning green vine wallpaper and colorful RGB lighting setup.",
+    "screenshot": "setups/setup-107.webp",
+    "link": "https://x.com/MatSilva/status/2018395752247021970",
+    "device": "Framework Laptop",
+    "category": "Laptop",
+    "tags": [
+      "framework",
+      "rgb",
+      "aesthetic"
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Vlad's Cozy Standing Desk Setup",
+    "description": "Elegant dual-monitor standing desk workspace with warm string lights and clean Omarchy desktop.",
+    "screenshot": "setups/setup-108.webp",
+    "link": "https://x.com/_architected/status/2017506752699503038",
+    "device": "Standing Desk + Dual Monitors + Laptop",
+    "category": "Desktop",
+    "tags": [
+      "standing-desk",
+      "dual-monitor",
+      "cozy"
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Developer's Cozy Desk with Pikachu",
+    "description": "Clean development workspace running Omarchy after switching from Apple - dual monitor setup.",
+    "screenshot": "setups/setup-109.webp",
+    "link": "https://x.com/typeangled/status/2012827010872308066",
+    "device": "External Monitor + Laptop",
+    "category": "Desktop",
+    "tags": [
+      "dual-monitor",
+      "development",
+      "cozy"
+    ]
   }
 ]
