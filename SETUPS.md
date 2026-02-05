@@ -6,9 +6,9 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 106
-- **Desktop setups:** 63
-- **Laptop setups:** 42
+- **Total setups:** 109
+- **Desktop setups:** 65
+- **Laptop setups:** 43
 - **Tablet setups:** 1
 
 ## About these setups
@@ -1504,6 +1504,48 @@ A clean, creativity-focused workspace blending Omarchy aesthetics with a custom 
 **Tags:** `rgb`, `gigabyte`, `gaming`
 
 **Source:** [View original post](https://x.com/KoKim10012718/status/2013994229681291609)
+
+---
+
+### 107. Mat Silva's Framework + RGB Vibes
+
+Framework laptop running Omarchy with a stunning green vine wallpaper and colorful RGB lighting setup.
+
+**Device:** Framework Laptop
+
+<img src="/public/setups/setup-107.webp" alt="Mat Silva's Framework + RGB Vibes" width="450">
+
+**Tags:** `framework`, `rgb`, `aesthetic`
+
+**Source:** [View original post](https://x.com/MatSilva/status/2018395752247021970)
+
+---
+
+### 108. Vlad's Cozy Standing Desk Setup
+
+Elegant dual-monitor standing desk workspace with warm string lights and clean Omarchy desktop.
+
+**Device:** Standing Desk + Dual Monitors + Laptop
+
+<img src="/public/setups/setup-108.webp" alt="Vlad's Cozy Standing Desk Setup" width="450">
+
+**Tags:** `standing-desk`, `dual-monitor`, `cozy`
+
+**Source:** [View original post](https://x.com/_architected/status/2017506752699503038)
+
+---
+
+### 109. Developer's Cozy Desk with Pikachu
+
+Clean development workspace running Omarchy after switching from Apple - dual monitor setup.
+
+**Device:** External Monitor + Laptop
+
+<img src="/public/setups/setup-109.webp" alt="Developer's Cozy Desk with Pikachu" width="450">
+
+**Tags:** `dual-monitor`, `development`, `cozy`
+
+**Source:** [View original post](https://x.com/typeangled/status/2012827010872308066)
 
 
 ---
