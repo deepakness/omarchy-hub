@@ -695,11 +695,26 @@
   {
     "id": "60",
     "name": "Copper night",
-    "category": "Minimal",
+    "category": "Dark Theme",
     "link": "https://github.com/hembramnishant50-glitch/omarchy-coppernight-theme.git",
     "author": "hembramnishant50-glitch",
     "screenshot": "themes/copper-night-1.webp",
     "tags": [
+      "unofficial",
+      "minimal"
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Rainy-Night",
+    "category": "Dark Theme",
+    "link": "https://github.com/atif-1402/omarchy-rainynight-theme",
+    "author": "atif-1402",
+    "screenshot": "themes/rainy-night-1.webp",
+    "tags": [
+      "unofficial",
+      "purple",
+      "cozy",
       "minimal"
     ]
   }

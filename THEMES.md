@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 60
+- **Total themes:** 61
 - **Official themes:** 11
-- **Community themes:** 49
-- **Dark themes:** 52
+- **Community themes:** 50
+- **Dark themes:** 54
 - **Light themes:** 7
 
 ## About these themes
@@ -853,15 +853,29 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 ### 60. Copper night
 
-**Category:** Minimal
+**Category:** Dark Theme
 
 **Author:** hembramnishant50-glitch
 
 <img src="/public/themes/copper-night-1.webp" alt="Copper night" width="450">
 
-**Tags:** `minimal`
+**Tags:** `unofficial`, `minimal`
 
 **Install:** [View theme repository](https://github.com/hembramnishant50-glitch/omarchy-coppernight-theme.git)
+
+---
+
+### 61. Rainy-Night
+
+**Category:** Dark Theme
+
+**Author:** atif-1402
+
+<img src="/public/themes/rainy-night-1.webp" alt="Rainy-Night" width="450">
+
+**Tags:** `unofficial`, `purple`, `cozy`, `minimal`
+
+**Install:** [View theme repository](https://github.com/atif-1402/omarchy-rainynight-theme)
 
 
 ---
