@@ -871,7 +871,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** atif-1402
 
-<img src="/public/themes/rainy-night-1.webp" alt="Rainy-Night" width="450">
+<img src="/public/themes/rainy-night-2.webp" alt="Rainy-Night" width="450">
 
 **Tags:** `unofficial`, `purple`, `cozy`, `minimal`
 
