@@ -717,5 +717,18 @@
       "cozy",
       "minimal"
     ]
+  },
+  {
+    "id": "62",
+    "name": "Aureth",
+    "category": "Dark Theme",
+    "link": "https://github.com/atif-1402/omarchy-aureth-theme",
+    "author": "atif-1402",
+    "screenshot": "themes/aureth-1.webp",
+    "tags": [
+      "unofficial",
+      "minimal",
+      "colorful"
+    ]
   }
 ]

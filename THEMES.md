@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 61
+- **Total themes:** 62
 - **Official themes:** 11
-- **Community themes:** 50
-- **Dark themes:** 54
+- **Community themes:** 51
+- **Dark themes:** 55
 - **Light themes:** 7
 
 ## About these themes
@@ -876,6 +876,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `purple`, `cozy`, `minimal`
 
 **Install:** [View theme repository](https://github.com/atif-1402/omarchy-rainynight-theme)
+
+---
+
+### 62. Aureth
+
+**Category:** Dark Theme
+
+**Author:** @atif-1402
+
+<img src="/public/themes/aureth-1.webp" alt="Aureth" width="450">
+
+**Tags:** `unofficial`, `minimal`, `colorful`
+
+**Install:** [View theme repository](https://github.com/atif-1402/omarchy-aureth-theme)
 
 
 ---
