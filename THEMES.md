@@ -883,7 +883,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Category:** Dark Theme
 
-**Author:** @atif-1402
+**Author:** atif-1402
 
 <img src="/public/themes/aureth-1.webp" alt="Aureth" width="450">
 

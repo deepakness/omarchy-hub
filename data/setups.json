@@ -1447,5 +1447,19 @@
       "development",
       "cozy"
     ]
+  },
+  {
+    "id": "110",
+    "name": "Omarchy on Mac Pro (Trash Can)",
+    "description": "This just looks right — Omarchy's installation screen on a Dell monitor next to the iconic cylindrical Mac Pro.",
+    "screenshot": "setups/setup-110.webp",
+    "link": "https://x.com/ryanvogel/status/2027026283666837761",
+    "device": "Mac Pro (Late 2013) + Dell Monitor",
+    "category": "Desktop",
+    "tags": [
+      "mac-pro",
+      "apple",
+      "dell"
+    ]
   }
 ]
