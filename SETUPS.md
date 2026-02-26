@@ -6,8 +6,8 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 109
-- **Desktop setups:** 65
+- **Total setups:** 110
+- **Desktop setups:** 66
 - **Laptop setups:** 43
 - **Tablet setups:** 1
 
@@ -1546,6 +1546,20 @@ Clean development workspace running Omarchy after switching from Apple - dual mo
 **Tags:** `dual-monitor`, `development`, `cozy`
 
 **Source:** [View original post](https://x.com/typeangled/status/2012827010872308066)
+
+---
+
+### 110. Omarchy on Mac Pro (Trash Can)
+
+This just looks right — Omarchy's installation screen on a Dell monitor next to the iconic cylindrical Mac Pro.
+
+**Device:** Mac Pro (Late 2013) + Dell Monitor
+
+<img src="/public/setups/setup-110.webp" alt="Omarchy on Mac Pro (Trash Can)" width="450">
+
+**Tags:** `mac-pro`, `apple`, `dell`
+
+**Source:** [View original post](https://x.com/ryanvogel/status/2027026283666837761)
 
 
 ---
