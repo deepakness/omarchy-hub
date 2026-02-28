@@ -1,5 +1,21 @@
 [
   {
+    "tag": "v3.4.1",
+    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.4.1",
+    "publishedAt": null,
+    "isLatest": false,
+    "changelog": "",
+    "description": ""
+  },
+  {
+    "tag": "v3.4.0",
+    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.4.0",
+    "publishedAt": null,
+    "isLatest": false,
+    "changelog": "",
+    "description": ""
+  },
+  {
     "tag": "v3.3.3",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.3.3",
     "publishedAt": null,
@@ -58,22 +74,6 @@
   {
     "tag": "v3.2.0",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.2.0",
-    "publishedAt": null,
-    "isLatest": false,
-    "changelog": "",
-    "description": ""
-  },
-  {
-    "tag": "v3.1.7",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.1.7",
-    "publishedAt": null,
-    "isLatest": false,
-    "changelog": "",
-    "description": ""
-  },
-  {
-    "tag": "v3.1.6",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.1.6",
     "publishedAt": null,
     "isLatest": false,
     "changelog": "",
