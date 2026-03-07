@@ -730,5 +730,19 @@
       "minimal",
       "colorful"
     ]
+  },
+  {
+    "id": "63",
+    "name": "Cyberpunk Cyan",
+    "category": "Dark Theme",
+    "link": "https://github.com/Matcraft94/cyberpunk-cyan",
+    "author": "Matcraft94",
+    "screenshot": "themes/cyberpunk-cyan-1.webp",
+    "tags": [
+      "unofficial",
+      "cyberpunk",
+      "cyan",
+      "neon"
+    ]
   }
 ]
