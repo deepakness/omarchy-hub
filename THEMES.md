@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 62
+- **Total themes:** 63
 - **Official themes:** 11
-- **Community themes:** 51
-- **Dark themes:** 55
+- **Community themes:** 52
+- **Dark themes:** 56
 - **Light themes:** 7
 
 ## About these themes
@@ -890,6 +890,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `minimal`, `colorful`
 
 **Install:** [View theme repository](https://github.com/atif-1402/omarchy-aureth-theme)
+
+---
+
+### 63. Cyberpunk Cyan
+
+**Category:** Dark Theme
+
+**Author:** Matcraft94
+
+<img src="/public/themes/cyberpunk-cyan-1.webp" alt="Cyberpunk Cyan" width="450">
+
+**Tags:** `unofficial`, `cyberpunk`, `cyan`, `neon`
+
+**Install:** [View theme repository](https://github.com/Matcraft94/cyberpunk-cyan)
 
 
 ---
