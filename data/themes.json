@@ -744,5 +744,18 @@
       "cyan",
       "neon"
     ]
+  },
+  {
+    "id": "64",
+    "name": "Ghost Pastel",
+    "category": "Dark Theme",
+    "link": "https://github.com/row-huh/omarchy-ghost-pastel-theme",
+    "author": "Roha Pathan (Row-Huh)",
+    "screenshot": "themes/ghost-pastel-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "minimal"
+    ]
   }
 ]
