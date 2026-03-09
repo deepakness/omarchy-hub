@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 63
+- **Total themes:** 64
 - **Official themes:** 11
-- **Community themes:** 52
-- **Dark themes:** 56
+- **Community themes:** 53
+- **Dark themes:** 57
 - **Light themes:** 7
 
 ## About these themes
@@ -904,6 +904,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `cyberpunk`, `cyan`, `neon`
 
 **Install:** [View theme repository](https://github.com/Matcraft94/cyberpunk-cyan)
+
+---
+
+### 64. Ghost Pastel
+
+**Category:** Dark Theme
+
+**Author:** Roha Pathan (Row-Huh)
+
+<img src="/public/themes/ghost-pastel-1.webp" alt="Ghost Pastel" width="450">
+
+**Tags:** `unofficial`, `dark`, `minimal`
+
+**Install:** [View theme repository](https://github.com/row-huh/omarchy-ghost-pastel-theme)
 
 
 ---
