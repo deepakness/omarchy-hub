@@ -8,9 +8,11 @@ export default function ResourcesPage() {
   const categories = [...new Set(resourcesData.map(resource => resource.category))].sort();
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   
-  const filteredResources = selectedCategory 
-    ? resourcesData.filter(resource => resource.category === selectedCategory)
-    : resourcesData;
+  // Show newest first across all views
+  const sortedResources = [...resourcesData].sort((a, b) => Number(b.id) - Number(a.id));
+  const filteredResources = selectedCategory
+    ? sortedResources.filter(resource => resource.category === selectedCategory)
+    : sortedResources;
 
   return (
     <div className="min-h-screen bg-background">
