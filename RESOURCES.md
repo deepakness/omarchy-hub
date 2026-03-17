@@ -174,6 +174,18 @@ Comprehensive review comparing Omarchy to Ubuntu, Fedora, and Arch with migratio
 
 **Link:** [View resource](https://www.thinklet.blog/omarchy-linux-review-arch-hyprland)
 
+---
+
+### 15. A La Carchy
+
+A two-panel TUI (Terminal User Interface) debloater and optimizer for Omarchy Linux.
+
+**Category:** Tool
+
+**Author:** Daniel Coffey
+
+**Link:** [View resource](https://github.com/DanielCoffey1/a-la-carchy)
+
 
 ---
 

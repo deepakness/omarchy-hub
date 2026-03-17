@@ -178,5 +178,19 @@
       "comparison",
       "guide"
     ]
+  },
+  {
+    "id": "15",
+    "name": "A La Carchy",
+    "description": "A two-panel TUI (Terminal User Interface) debloater and optimizer for Omarchy Linux.",
+    "category": "Tool",
+    "link": "https://github.com/DanielCoffey1/a-la-carchy",
+    "author": "Daniel Coffey",
+    "tags": [
+      "installation",
+      "tool",
+      "debloat",
+      "optimize"
+    ]
   }
 ]
