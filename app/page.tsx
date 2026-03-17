@@ -11,11 +11,15 @@ import linksData from '../data/links.json';
 import releasesData from '../data/releases.json';
 
 export default function Home() {
-  const featuredThemes = themesData.slice(0, 6);
+  const featuredThemes = [...themesData]
+    .sort((a, b) => Number(b.id) - Number(a.id))
+    .slice(0, 6);
   const featuredSetups = [...setupsData]
     .sort((a, b) => Number(b.id) - Number(a.id))
     .slice(0, 6);
-  const featuredResources = resourcesData.slice(0, 6);
+  const featuredResources = [...resourcesData]
+    .sort((a, b) => Number(b.id) - Number(a.id))
+    .slice(0, 6);
   const featuredReleases = releasesData.slice(0, 3);
   const latestRelease = releasesData.find(release => release.isLatest) || releasesData[0];
   const latestVersion = latestRelease?.tag?.replace('v', '') || '0.0.0';

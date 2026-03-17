@@ -8,9 +8,11 @@ export default function ThemesPage() {
   const categories = [...new Set(themesData.map(theme => theme.category))].sort();
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   
-  const filteredThemes = selectedCategory 
-    ? themesData.filter(theme => theme.category === selectedCategory)
-    : themesData;
+  // Show newest first across all views
+  const sortedThemes = [...themesData].sort((a, b) => Number(b.id) - Number(a.id));
+  const filteredThemes = selectedCategory
+    ? sortedThemes.filter(theme => theme.category === selectedCategory)
+    : sortedThemes;
 
   return (
     <div className="min-h-screen bg-background">
