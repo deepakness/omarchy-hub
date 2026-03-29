@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 64
+- **Total themes:** 65
 - **Official themes:** 11
-- **Community themes:** 53
-- **Dark themes:** 57
+- **Community themes:** 54
+- **Dark themes:** 58
 - **Light themes:** 7
 
 ## About these themes
@@ -918,6 +918,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `minimal`
 
 **Install:** [View theme repository](https://github.com/row-huh/omarchy-ghost-pastel-theme)
+
+---
+
+### 65. Kurenai
+
+**Category:** Dark Theme
+
+**Author:** @Jannik-Schroeder
+
+<img src="/public/themes/kurenai-1.webp" alt="Kurenai" width="450">
+
+**Tags:** `unofficial`, `red`, `dark`, `crimson`, `japanese`, `minimal`, `wcag-aa`
+
+**Install:** [View theme repository](https://github.com/Jannik-Schroeder/omarchy-kurenai-theme)
 
 
 ---
