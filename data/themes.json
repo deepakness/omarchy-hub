@@ -757,5 +757,19 @@
       "dark",
       "minimal"
     ]
+  },
+  {
+    "id": "65",
+    "name": "Kurenai",
+    "category": "Dark Theme",
+    "link": "https://github.com/Jannik-Schroeder/omarchy-kurenai-theme",
+    "author": "@Jannik-Schroeder",
+    "screenshot": "themes/kurenai-1.webp",
+    "tags": [
+      "unofficial",
+      "red",
+      "crimson",
+      "japanese"
+    ]
   }
 ]
