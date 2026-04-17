@@ -929,7 +929,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 <img src="/public/themes/kurenai-1.webp" alt="Kurenai" width="450">
 
-**Tags:** `unofficial`, `red`, `dark`, `crimson`, `japanese`, `minimal`, `wcag-aa`
+**Tags:** `unofficial`, `red`, `crimson`, `japanese`
 
 **Install:** [View theme repository](https://github.com/Jannik-Schroeder/omarchy-kurenai-theme)
 
