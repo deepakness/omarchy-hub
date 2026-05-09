@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 65
+- **Total themes:** 66
 - **Official themes:** 11
-- **Community themes:** 54
-- **Dark themes:** 58
+- **Community themes:** 55
+- **Dark themes:** 59
 - **Light themes:** 7
 
 ## About these themes
@@ -932,6 +932,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `red`, `crimson`, `japanese`
 
 **Install:** [View theme repository](https://github.com/Jannik-Schroeder/omarchy-kurenai-theme)
+
+---
+
+### 66. God Is In The Rain
+
+**Category:** Dark Theme
+
+**Author:** @mavdi
+
+<img src="/public/themes/god-is-in-the-rain-1.webp" alt="God Is In The Rain" width="450">
+
+**Tags:** `unofficial`, `dark`, `monochrome`, `vantablack`
+
+**Install:** [View theme repository](https://github.com/mavdi/omarchy-god-is-in-the-rain)
 
 
 ---
