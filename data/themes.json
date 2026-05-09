@@ -771,5 +771,19 @@
       "crimson",
       "japanese"
     ]
+  },
+  {
+    "id": "66",
+    "name": "God Is In The Rain",
+    "category": "Dark Theme",
+    "link": "https://github.com/mavdi/omarchy-god-is-in-the-rain",
+    "author": "@mavdi",
+    "screenshot": "themes/god-is-in-the-rain-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "monochrome",
+      "vantablack"
+    ]
   }
 ]
