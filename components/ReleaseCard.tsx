@@ -1,4 +1,4 @@
-import { Github } from 'lucide-react';
+import { GitPullRequest } from 'lucide-react';
 
 interface Release {
   tag: string;
@@ -30,7 +30,7 @@ export default function ReleaseCard({ release }: ReleaseCardProps) {
             </span>
           )}
         </div>
-        <Github size={16} className="text-blue" />
+        <GitPullRequest size={16} className="text-blue" />
       </div>
     </a>
   );

@@ -1,7 +1,7 @@
 import Card from '../components/Card';
 import NavButton from '../components/NavButton';
 import ReleaseCard from '../components/ReleaseCard';
-import { Globe, Palette, Monitor, BookOpen, Github, Download, Tag } from 'lucide-react';
+import { Globe, Palette, Monitor, BookOpen, GitPullRequest, Download, Tag } from 'lucide-react';
 
 // Import data
 import themesData from '../data/themes.json';
@@ -116,7 +116,7 @@ export default function Home() {
             )}
             <a href="https://github.com/deepakness/omarchy-hub" target="_blank" rel="noopener noreferrer nofollow"
                className="text-foreground/60 hover:text-blue transition-colors font-mono text-base flex items-center gap-2">
-              <Github size={18} />
+              <GitPullRequest size={18} />
               Contribute
             </a>
           </div>
