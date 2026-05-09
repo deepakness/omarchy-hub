@@ -785,5 +785,20 @@
       "monochrome",
       "vantablack"
     ]
+  },
+  {
+    "id": "67",
+    "name": "Cyber Aura",
+    "category": "Dark Theme",
+    "link": "https://github.com/joaovic-tech/omarchy-cyber-aura-theme",
+    "author": "joaovic-tech",
+    "screenshot": "themes/cyber-aura-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "purple",
+      "cyberpunk",
+      "neon"
+    ]
   }
 ]
