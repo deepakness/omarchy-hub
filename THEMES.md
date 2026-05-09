@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 66
+- **Total themes:** 67
 - **Official themes:** 11
-- **Community themes:** 55
-- **Dark themes:** 59
+- **Community themes:** 56
+- **Dark themes:** 60
 - **Light themes:** 7
 
 ## About these themes
@@ -946,6 +946,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `monochrome`, `vantablack`
 
 **Install:** [View theme repository](https://github.com/mavdi/omarchy-god-is-in-the-rain)
+
+---
+
+### 67. Cyber Aura
+
+**Category:** Dark Theme
+
+**Author:** joaovic-tech
+
+<img src="/public/themes/cyber-aura-1.webp" alt="Cyber Aura" width="450">
+
+**Tags:** `unofficial`, `dark`, `purple`, `cyberpunk`, `neon`
+
+**Install:** [View theme repository](https://github.com/joaovic-tech/omarchy-cyber-aura-theme)
 
 
 ---
