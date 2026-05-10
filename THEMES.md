@@ -973,7 +973,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `unofficial`, `dark`, `purple`, `minimal`, `catppuccin`
 
-**Install:** [View theme repository](https://github.com/bjarneo/omarchy-pulsar-theme)
+**Install:** [View theme repository](https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme)
 
 
 ---
