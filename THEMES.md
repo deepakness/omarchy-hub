@@ -963,13 +963,13 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 ---
 
-### 68. Omarchy Macchiato Core
+### 68. Macchiato Core
 
 **Category:** Dark Theme
 
 **Author:** hembramnishant50-glitch
 
-<img src="/public/themes/macchiato-core-1.webp" alt="Omarchy Macchiato Core" width="450">
+<img src="/public/themes/macchiato-core-1.webp" alt="Macchiato Core" width="450">
 
 **Tags:** `unofficial`, `dark`, `purple`, `minimal`, `catppuccin`
 
