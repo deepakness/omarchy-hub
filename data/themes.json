@@ -800,5 +800,20 @@
       "cyberpunk",
       "neon"
     ]
+  },
+  {
+    "id": "68",
+    "name": "Omarchy Macchiato Core",
+    "category": "Dark Theme",
+    "link": "https://github.com/bjarneo/omarchy-pulsar-theme",
+    "author": "hembramnishant50-glitch",
+    "screenshot": "themes/macchiato-core-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "purple",
+      "minimal",
+      "catppuccin"
+    ]
   }
 ]
