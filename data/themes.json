@@ -815,5 +815,19 @@
       "minimal",
       "catppuccin"
     ]
+  },
+  {
+    "id": "69",
+    "name": "Helios",
+    "category": "Dark Theme",
+    "link": "https://github.com/LeblancAlex/omarchy-helios-theme",
+    "author": "LeblancAlex",
+    "screenshot": "themes/helios-1.webp",
+    "tags": [
+      "unofficial",
+      "orange",
+      "gold",
+      "sun"
+    ]
   }
 ]
