@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 68
+- **Total themes:** 69
 - **Official themes:** 11
-- **Community themes:** 57
-- **Dark themes:** 61
+- **Community themes:** 58
+- **Dark themes:** 62
 - **Light themes:** 7
 
 ## About these themes
@@ -974,6 +974,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `purple`, `minimal`, `catppuccin`
 
 **Install:** [View theme repository](https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme)
+
+---
+
+### 69. Helios
+
+**Category:** Dark Theme
+
+**Author:** LeblancAlex
+
+<img src="/public/themes/helios-1.webp" alt="Helios" width="450">
+
+**Tags:** `unofficial`, `orange`, `gold`, `sun`
+
+**Install:** [View theme repository](https://github.com/LeblancAlex/omarchy-helios-theme)
 
 
 ---
