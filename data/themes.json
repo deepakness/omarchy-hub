@@ -829,5 +829,34 @@
       "gold",
       "sun"
     ]
+  },
+  {
+    "id": "70",
+    "name": "Catppuccin Mocha Dark",
+    "category": "Dark Theme",
+    "link": "https://github.com/Luquatic/omarchy-catppuccin-dark",
+    "author": "@luquatic",
+    "screenshot": "themes/catppuccin-mocha-dark-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "catppuccin",
+      "mocha"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Catppuccin Mocha Glass",
+    "category": "Light Theme",
+    "link": "https://github.com/Luquatic/omarchy-catppuccin-glass",
+    "author": "@luquatic",
+    "screenshot": "themes/catppuccin-mocha-glass-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "catppuccin",
+      "mocha",
+      "glass"
+    ]
   }
 ]

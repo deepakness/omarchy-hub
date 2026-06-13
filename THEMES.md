@@ -6,11 +6,11 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 69
+- **Total themes:** 71
 - **Official themes:** 11
-- **Community themes:** 58
-- **Dark themes:** 62
-- **Light themes:** 7
+- **Community themes:** 60
+- **Dark themes:** 63
+- **Light themes:** 8
 
 ## About these themes
 
@@ -988,6 +988,34 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `orange`, `gold`, `sun`
 
 **Install:** [View theme repository](https://github.com/LeblancAlex/omarchy-helios-theme)
+
+---
+
+### 70. Catppuccin Mocha Dark
+
+**Category:** Dark Theme
+
+**Author:** @luquatic
+
+<img src="/public/themes/catppuccin-mocha-dark-1.webp" alt="Catppuccin Mocha Dark" width="450">
+
+**Tags:** `unofficial`, `dark`, `catppuccin`, `mocha`
+
+**Install:** [View theme repository](https://github.com/Luquatic/omarchy-catppuccin-dark)
+
+---
+
+### 71. Catppuccin Mocha Glass
+
+**Category:** Light Theme
+
+**Author:** @luquatic
+
+<img src="/public/themes/catppuccin-mocha-glass-1.webp" alt="Catppuccin Mocha Glass" width="450">
+
+**Tags:** `unofficial`, `light`, `catppuccin`, `mocha`, `glass`
+
+**Install:** [View theme repository](https://github.com/Luquatic/omarchy-catppuccin-glass)
 
 
 ---
