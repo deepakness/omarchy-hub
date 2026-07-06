@@ -1027,7 +1027,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 <img src="/public/themes/camille-pissarro-1.webp" alt="Camille Pissarro" width="450">
 
-**Tags:** `unofficial`, `light`, `impressionist`, `art`, `pastel`, `nature`, `earthy`, `minimal`
+**Tags:** `unofficial`, `light`, `pastel`, `minimal`
 
 **Install:** [View theme repository](https://github.com/mattbbia/pissarro-omarchy)
 
@@ -1041,7 +1041,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 <img src="/public/themes/railroad-visions-1.webp" alt="Railroad Visions" width="450">
 
-**Tags:** `unofficial`, `dark`, `monochrome`, `anthony-j-russell`, `hyprland`, `waybar`
+**Tags:** `unofficial`, `dark`, `monochrome`
 
 **Install:** [View theme repository](https://github.com/mattbbia/railroad-visions-omarchy)
 
@@ -1055,7 +1055,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 <img src="/public/themes/perkins-harnly-1.webp" alt="Perkins Harnly" width="450">
 
-**Tags:** `unofficial`, `light`, `public-domain-art`, `architecture`, `warm-colors`, `minimal`
+**Tags:** `unofficial`, `light`, `warm-colors`, `minimal`
 
 **Install:** [View theme repository](https://github.com/mattbbia/heritage-palette-omarchy)
 
