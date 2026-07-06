@@ -858,5 +858,55 @@
       "mocha",
       "glass"
     ]
+  },
+  {
+    "id": "72",
+    "name": "Camille Pissarro",
+    "category": "Light Theme",
+    "link": "https://github.com/mattbbia/pissarro-omarchy",
+    "author": "mattbbia",
+    "screenshot": "themes/camille-pissarro-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "impressionist",
+      "art",
+      "pastel",
+      "nature",
+      "earthy",
+      "minimal"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Railroad Visions",
+    "category": "Dark Theme",
+    "link": "https://github.com/mattbbia/railroad-visions-omarchy",
+    "author": "mattbbia",
+    "screenshot": "themes/railroad-visions-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "monochrome",
+      "anthony-j-russell",
+      "hyprland",
+      "waybar"
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Perkins Harnly",
+    "category": "Light Theme",
+    "link": "https://github.com/mattbbia/heritage-palette-omarchy",
+    "author": "mattbbia",
+    "screenshot": "themes/perkins-harnly-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "public-domain-art",
+      "architecture",
+      "warm-colors",
+      "minimal"
+    ]
   }
 ]
