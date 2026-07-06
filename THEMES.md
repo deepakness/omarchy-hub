@@ -6,11 +6,11 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 71
+- **Total themes:** 74
 - **Official themes:** 11
-- **Community themes:** 60
-- **Dark themes:** 63
-- **Light themes:** 8
+- **Community themes:** 63
+- **Dark themes:** 64
+- **Light themes:** 10
 
 ## About these themes
 
@@ -1016,6 +1016,48 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `light`, `catppuccin`, `mocha`, `glass`
 
 **Install:** [View theme repository](https://github.com/Luquatic/omarchy-catppuccin-glass)
+
+---
+
+### 72. Camille Pissarro
+
+**Category:** Light Theme
+
+**Author:** mattbbia
+
+<img src="/public/themes/camille-pissarro-1.webp" alt="Camille Pissarro" width="450">
+
+**Tags:** `unofficial`, `light`, `impressionist`, `art`, `pastel`, `nature`, `earthy`, `minimal`
+
+**Install:** [View theme repository](https://github.com/mattbbia/pissarro-omarchy)
+
+---
+
+### 73. Railroad Visions
+
+**Category:** Dark Theme
+
+**Author:** mattbbia
+
+<img src="/public/themes/railroad-visions-1.webp" alt="Railroad Visions" width="450">
+
+**Tags:** `unofficial`, `dark`, `monochrome`, `anthony-j-russell`, `hyprland`, `waybar`
+
+**Install:** [View theme repository](https://github.com/mattbbia/railroad-visions-omarchy)
+
+---
+
+### 74. Perkins Harnly
+
+**Category:** Light Theme
+
+**Author:** mattbbia
+
+<img src="/public/themes/perkins-harnly-1.webp" alt="Perkins Harnly" width="450">
+
+**Tags:** `unofficial`, `light`, `public-domain-art`, `architecture`, `warm-colors`, `minimal`
+
+**Install:** [View theme repository](https://github.com/mattbbia/heritage-palette-omarchy)
 
 
 ---
