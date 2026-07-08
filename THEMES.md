@@ -6,11 +6,11 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 74
+- **Total themes:** 75
 - **Official themes:** 11
-- **Community themes:** 63
+- **Community themes:** 64
 - **Dark themes:** 64
-- **Light themes:** 10
+- **Light themes:** 11
 
 ## About these themes
 
@@ -1058,6 +1058,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `light`, `warm-colors`, `minimal`
 
 **Install:** [View theme repository](https://github.com/mattbbia/heritage-palette-omarchy)
+
+---
+
+### 75. Venice From Above
+
+**Category:** Light Theme
+
+**Author:** mattbbia
+
+<img src="/public/themes/venice-from-above-1.webp" alt="Venice From Above" width="450">
+
+**Tags:** `unofficial`, `light`, `art-theme`, `minimal`
+
+**Install:** [View theme repository](https://github.com/mattbbia/venice-from-above-omarchy)
 
 
 ---
