@@ -899,5 +899,19 @@
       "warm-colors",
       "minimal"
     ]
+  },
+  {
+    "id": "75",
+    "name": "Venice From Above",
+    "category": "Light Theme",
+    "link": "https://github.com/mattbbia/venice-from-above-omarchy",
+    "author": "mattbbia",
+    "screenshot": "themes/venice-from-above-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "art-theme",
+      "minimal"
+    ]
   }
 ]
