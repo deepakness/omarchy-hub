@@ -6,11 +6,11 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 75
+- **Total themes:** 76
 - **Official themes:** 11
-- **Community themes:** 64
+- **Community themes:** 65
 - **Dark themes:** 64
-- **Light themes:** 11
+- **Light themes:** 12
 
 ## About these themes
 
@@ -1072,6 +1072,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `light`, `art-theme`, `minimal`
 
 **Install:** [View theme repository](https://github.com/mattbbia/venice-from-above-omarchy)
+
+---
+
+### 76. Bulwer Omarchy
+
+**Category:** Light Theme
+
+**Author:** mattbbia
+
+<img src="/public/themes/bulwer-omarchy-1.webp" alt="Bulwer Omarchy" width="450">
+
+**Tags:** `unofficial`, `light`, `art-theme`, `minimal`
+
+**Install:** [View theme repository](https://github.com/mattbbia/bulwer-omarchy)
 
 
 ---
