@@ -913,5 +913,19 @@
       "art-theme",
       "minimal"
     ]
+  },
+  {
+    "id": "76",
+    "name": "Bulwer Omarchy",
+    "category": "Light Theme",
+    "link": "https://github.com/mattbbia/bulwer-omarchy",
+    "author": "mattbbia",
+    "screenshot": "themes/bulwer-omarchy-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "art-theme",
+      "minimal"
+    ]
   }
 ]
