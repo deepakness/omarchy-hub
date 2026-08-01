@@ -16,7 +16,11 @@ async function fetchReleases() {
     console.log('Fetching Omarchy releases from GitHub...');
     
     // Fetch the releases page
-    const response = await fetch('https://github.com/basecamp/omarchy/releases');
+    const response = await fetch('https://github.com/basecamp/omarchy/releases', {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; OmarchyHub/1.0; +https://github.com/deepakness/omarchy-hub)'
+      }
+    });
     
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
@@ -29,7 +33,7 @@ async function fetchReleases() {
     
     // Save to data file
     const dataPath = path.join(__dirname, '..', 'data', 'releases.json');
-    fs.writeFileSync(dataPath, JSON.stringify(releases, null, 2));
+    fs.writeFileSync(dataPath, JSON.stringify(releases, null, 2) + '\n');
     
     console.log(`✅ Successfully fetched ${releases.length} releases`);
     console.log(`📁 Saved to: ${dataPath}`);
@@ -56,66 +60,91 @@ async function fetchReleases() {
 function parseReleasesFromHTML(html) {
   const releases = [];
   
-  // Look for release links in the format: href="/basecamp/omarchy/releases/tag/v2.1.1"
-  const releaseLinkRegex = /href="\/basecamp\/omarchy\/releases\/tag\/([^"]+)"/g;
-  
+  // Extract unique version tags in page order (newest first typically)
+  const releaseLinkRegex = /href="\/basecamp\/omarchy\/releases\/tag\/(v[^"]+)"/g;
+  const foundTags = [];
+  const seen = new Set();
   let match;
-  const foundTags = new Set();
-  
   while ((match = releaseLinkRegex.exec(html)) !== null) {
     const tag = match[1].trim();
-    
-    // Skip if it's not a version tag or we've already processed it
-    if (!tag.startsWith('v') || foundTags.has(tag)) {
-      continue;
+    if (!seen.has(tag)) {
+      seen.add(tag);
+      foundTags.push(tag);
     }
-    
-    foundTags.add(tag);
-    
-    // Extract date from relative-time elements near this tag
-    const tagEscaped = tag.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const dateRegex = new RegExp(`<relative-time[^>]*datetime="([^"]*)"[^>]*>[^<]*</relative-time>[^<]*<a[^>]*href="/basecamp/omarchy/releases/tag/${tagEscaped}"`, 'i');
-    const dateMatch = html.match(dateRegex);
-    const publishedAt = dateMatch ? dateMatch[1] : null;
-    
-    // Extract release URL
+  }
+  
+  // Extract published dates from relative-time elements (in same order as tags)
+  const dateRegex = /<relative-time class="no-wrap"[^>]*datetime="([^"]+)"/g;
+  const dates = [];
+  while ((match = dateRegex.exec(html)) !== null) {
+    dates.push(match[1]);
+  }
+  
+  // Identify latest: look for the tag that has the "Latest" success label nearby
+  let latestTag = null;
+  for (const tag of foundTags) {
+    const escaped = tag.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const latestPattern = new RegExp(
+      `href="/basecamp/omarchy/releases/tag/${escaped}"[\\s\\S]{0,600}Label--success[\\s\\S]{0,80}Latest`,
+      'i'
+    );
+    if (latestPattern.test(html)) {
+      latestTag = tag;
+      break;
+    }
+  }
+  // Fallback: first tag is usually latest
+  if (!latestTag && foundTags.length > 0) {
+    latestTag = foundTags[0];
+  }
+  
+  for (let i = 0; i < foundTags.length; i++) {
+    const tag = foundTags[i];
+    const publishedAt = dates[i] || null;
     const url = `https://github.com/basecamp/omarchy/releases/tag/${tag}`;
+    const isLatest = tag === latestTag;
     
-    // Check if this is the latest release by looking for "Latest" label near the tag
-    const latestRegex = new RegExp(`href="/basecamp/omarchy/releases/tag/${tagEscaped}"[^>]*>[^<]*</a>[^<]*<span[^>]*class="[^"]*Label[^"]*Label--success[^"]*"[^>]*>Latest</span>`, 'i');
-    const isLatest = latestRegex.test(html);
-    
-    // Try to extract changelog content
-    const changelogRegex = new RegExp(`href="/basecamp/omarchy/releases/tag/${tagEscaped}"[\\s\\S]*?<div[^>]*class="[^"]*markdown-body[^"]*"[\\s\\S]*?<h2[^>]*>What changed\\?<\\/h2>([\\s\\S]*?)(?=<h2|<div[^>]*class="[^"]*markdown-body[^"]*"|$)`, 'i');
-    const changelogMatch = html.match(changelogRegex);
-    const changelog = changelogMatch ? changelogMatch[1].trim() : '';
+    // Attempt to extract a short changelog snippet from the release body if present
+    // GitHub renders release notes in markdown-body; keep it simple and limited
+    let changelog = '';
+    let description = '';
+    const bodyPattern = new RegExp(
+      `href="/basecamp/omarchy/releases/tag/${tag.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"[\\s\\S]{0,2000}?<div[^>]*class="[^"]*markdown-body[^"]*"[^>]*>([\\s\\S]*?)(?=<div[^>]*class="[^"]*markdown-body|</article|$)`,
+      'i'
+    );
+    const bodyMatch = html.match(bodyPattern);
+    if (bodyMatch) {
+      changelog = bodyMatch[1]
+        .replace(/<[^>]+>/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim()
+        .substring(0, 500);
+      description = extractDescription(changelog);
+    }
     
     releases.push({
       tag,
       url,
       publishedAt,
       isLatest,
-      changelog: changelog.substring(0, 500) + (changelog.length > 500 ? '...' : ''),
-      description: extractDescription(changelog)
+      changelog: changelog + (changelog.length >= 500 ? '...' : ''),
+      description
     });
   }
   
-  // Sort by version (newest first)
+  // Sort by version (newest first) as safety
   releases.sort((a, b) => {
-    const aVersion = a.tag.replace('v', '').split('.').map(Number);
-    const bVersion = b.tag.replace('v', '').split('.').map(Number);
-    
+    const aVersion = a.tag.replace(/^v/, '').split('.').map(Number);
+    const bVersion = b.tag.replace(/^v/, '').split('.').map(Number);
     for (let i = 0; i < Math.max(aVersion.length, bVersion.length); i++) {
       const aNum = aVersion[i] || 0;
       const bNum = bVersion[i] || 0;
-      if (aNum !== bNum) {
-        return bNum - aNum;
-      }
+      if (aNum !== bNum) return bNum - aNum;
     }
     return 0;
   });
   
-  return releases.slice(0, 10); // Limit to 10 most recent releases
+  return releases.slice(0, 10); // Limit to 10 most recent
 }
 
 /**
@@ -124,16 +153,14 @@ function parseReleasesFromHTML(html) {
 function extractDescription(changelog) {
   if (!changelog) return '';
   
-  // Remove HTML tags and clean up
   const cleanText = changelog
     .replace(/<[^>]*>/g, '')
     .replace(/\s+/g, ' ')
     .trim();
   
-  // Take first sentence or first 100 characters
-  const firstSentence = cleanText.split('.')[0];
-  if (firstSentence.length <= 100) {
-    return firstSentence + (cleanText.includes('.') ? '.' : '');
+  const firstSentence = cleanText.split(/[.!?]/)[0];
+  if (firstSentence.length <= 120) {
+    return firstSentence + (cleanText.match(/[.!?]/) ? '.' : '');
   }
   
   return cleanText.substring(0, 100) + '...';
