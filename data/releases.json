@@ -2,81 +2,81 @@
   {
     "tag": "v3.8.4",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.4",
-    "publishedAt": "2026-07-21T00:21:00Z",
+    "publishedAt": "2026-07-21T00:21:50Z",
     "isLatest": true,
-    "changelog": "Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.4.iso SHA256: 7bc1dc7d98f3d088e57dc06581a494ea441fb15f3edd191360fd1696931bd895 ## Fixes * Fix Neovim theme symlink pointing at the Omarchy 4 theme location by @dhh * Fix Install > Gaming > Retroarch installer by @dhh * Fix Foot bindings migration by @dhh * Fix waybar not restarting correctly by @dhh",
-    "description": "Fix Neovim theme symlink, Retroarch installer, Foot bindings migration, and waybar restart."
+    "changelog": "Omarchy 3.8.4 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.4.iso SHA256: 7bc1dc7d98f3d088e57dc06581a494ea441fb15f3edd191360fd1696931bd895 Fixes Fix Neovim theme symlink pointing at the Omarchy 4 theme location by @dhh Fix Install > Gaming > Retroarch installer by @dhh Fix Foot bindings migration by @dhh Fix waybar not restarting correctly by @dhh Full Changelog : v...",
+    "description": "Fixes Fix Neovim theme symlink pointing at the Omarchy 4 theme location by @dhh Fix Install > Gaming > Retroarch install..."
   },
   {
     "tag": "v3.8.3",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.3",
-    "publishedAt": "2026-07-13T23:10:00Z",
+    "publishedAt": "2026-07-13T23:10:19Z",
     "isLatest": false,
-    "changelog": "Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.3.iso SHA256: 40c9368eeb7e021a13d0899b379517843b4839f6e7721473169369fbd0fe61ac ## Additions * Add easier tmux pane controls... ## Fixes * Fix the wrong keyboard layout at the LUKS prompt...",
-    "description": "Additions for tmux controls, aliases, and fixes for keyboard layout, Vulkan drivers, power-profile, sof-firmware."
+    "changelog": "Omarchy 3.8.3 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.3.iso SHA256: 40c9368eeb7e021a13d0899b379517843b4839f6e7721473169369fbd0fe61ac Additions Add easier tmux pane controls with Alt+Enter / Alt+Shift+Enter / Alt+Escape splits, plus CSI-u Shift+Return encoding across Alacritty, Foot, Ghostty, and Kitty so tmux can distinguish the bindings. Existing customized c...",
+    "description": "Additions Add easier tmux pane controls with Alt+Enter / Alt+Shift+Enter / Alt+Escape splits, plus CSI-u Shift+Return en..."
   },
   {
     "tag": "v3.8.2",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.2",
-    "publishedAt": "2026-05-24T11:23:00Z",
+    "publishedAt": "2026-05-24T11:23:18Z",
     "isLatest": false,
-    "changelog": "Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.2.iso SHA256: dc3d096ed17f50cadc74d5f2fe1914b12e1ba6b69e84447225deaf1896a0820d ## What's Changed * Fix logs uploading by switching to Omarchy-owned log container by @ryanrhughes * Fix compatibility with Hyprland 0.55 * Fix cases where boot could put you on the wrong channel",
-    "description": "Fix logs uploading, Hyprland 0.55 compatibility, and boot channel issues."
+    "changelog": "Omarchy 3.8.2 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.2.iso SHA256: dc3d096ed17f50cadc74d5f2fe1914b12e1ba6b69e84447225deaf1896a0820d What's Changed Fix logs uploading by switching to Omarchy-owned log container by @ryanrhughes Fix compatibility with Hyprland 0.55 (but without converting configs to lua) @tuklu , @dhh Fix cases where boot could put you on the wr...",
+    "description": "What's Changed Fix logs uploading by switching to Omarchy-owned log container by @ryanrhughes Fix compatibility with Hyp..."
   },
   {
     "tag": "v3.8.1",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.1",
-    "publishedAt": "2026-05-14T17:24:00Z",
+    "publishedAt": "2026-05-14T17:24:53Z",
     "isLatest": false,
-    "changelog": "Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). ## Fixes * Hotfix to pin omarchy-reinstall-git to master branch to prevent accidental switch to dev by @ryanrhughes",
-    "description": "Hotfix to pin omarchy-reinstall-git to master branch."
+    "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Fixes Hotfix to pin omarchy-reinstall-git to master branch to prevent accidental switch to dev by @ryanrhughes Full Changelog : v3.8.0...v3.8.1",
+    "description": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space )."
   },
   {
     "tag": "v3.8.0",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.0",
-    "publishedAt": "2026-05-09T15:22:00Z",
+    "publishedAt": "2026-05-09T15:22:29Z",
     "isLatest": false,
-    "changelog": "Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO. ## Features * Add setting reminders via Super + Ctrl + R * Add live weather in the waybar * Add Trigger > Transcode and more.",
-    "description": "Features: reminders, live weather, transcode, RetroArch cores, hooks, Voxtype, Bluetooth A2DP and more."
+    "changelog": "Omarchy 3.8.0 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO. Features Add setting reminders via Super + Ctrl + R , seeing all the ones set via Super + Ctrl + Alt + R, and dismissing them via Super + Ctrl + Shift + R. Add live weather in the waybar. Add Trigger > Transcode and more. Full Changelog : v3.7.1...v3.8.0",
+    "description": "Features Add setting reminders via Super + Ctrl + R , seeing all the ones set via Super + Ctrl + Alt + R, and dismissing..."
   },
   {
     "tag": "v3.7.1",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.7.1",
-    "publishedAt": "2026-05-04T23:53:00Z",
+    "publishedAt": "2026-05-04T23:53:20Z",
     "isLatest": false,
-    "changelog": "Hotfix to remove xe.enable_panel_replay=0 from KERNEL_CMDLINE.",
-    "description": "Hotfix to remove xe.enable_panel_replay=0 from KERNEL_CMDLINE."
+    "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Hotfix to remove xe.enable_panel_replay=0 from KERNEL_CMDLINE. Full Changelog : v3.7.0...v3.7.1",
+    "description": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space )."
   },
   {
     "tag": "v3.7.0",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.7.0",
-    "publishedAt": "2026-05-04T13:59:00Z",
+    "publishedAt": "2026-05-04T13:59:51Z",
     "isLatest": false,
-    "changelog": "Huge release with new CLI, tons more gaming options, unlock screen themeing, OCR text extraction, cliamp, Asus ExpertBook PTL compatibility, and a million other fixes and improvements.",
-    "description": "Huge release with new CLI, gaming options, unlock screen theming, OCR text extraction, and more."
+    "changelog": "Huge release with new CLI, tons more gaming options, unlock screen themeing, OCR text extraction, cliamp, Asus ExpertBook PTL compatibility, and a million other fixes and improvements. Features Add unified omarchy CLI by @ryanrhughes Add text extraction from anywhere on the screen via Trigger > Capture >...",
+    "description": "Features Add unified omarchy CLI by @ryanrhughes Add text extraction from anywhere on the screen via Trigger > Capture >..."
   },
   {
     "tag": "v3.6.0",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.6.0",
-    "publishedAt": "2026-04-23T13:31:00Z",
+    "publishedAt": "2026-04-23T13:31:06Z",
     "isLatest": false,
-    "changelog": "Additions: kernel patches for Panther Lake, lid control, persistent toggles, touchpad support, scaling, audio normalization, and more. Fixes for disk usage, voxtype, updates, etc.",
-    "description": "Kernel patches for Panther Lake, lid control, touchpad support, scaling, audio normalization and fixes."
+    "changelog": "The Panther Lake Plus Extreme Efficiency Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.6.0-2.iso SHA256: b43914a3c842920c6b8bec6a8fc1878291a359551945f17595b7a4ca3ef7ab44 Additions Add additional kernel patches to custom kernel 6.19.13 build for Panther Lake to extract maximum efficiency by @TsaiGaggery , @spencerbull Add full control of laptop display on lid...",
+    "description": "Additions Add additional kernel patches to custom kernel 6.19."
   },
   {
     "tag": "v3.5.1",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.5.1",
-    "publishedAt": "2026-04-16T14:32:00Z",
+    "publishedAt": "2026-04-16T14:32:15Z",
     "isLatest": false,
-    "changelog": "Additions: Dell XPS mute mic key support, resume performance boost, laptop display toggle, trackpad restart, Logitech bindings. Various fixes.",
-    "description": "Dell XPS mute mic support, resume boost, laptop display toggle, trackpad restart and fixes."
+    "changelog": "The New Release Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.5.1-2.iso SHA256: f28ce9f6d0d70d2a79ae584e52de7ce3cb5c21c6c1ffb806073db1df2140b03a Additions Add Dell XPS mute mic key support with hardware LED sync by @spencerbull , @dhh Add resume performance boost on Panther Lake systems to avoid sluggishness after wake from sleep by @dhh Add Trigger > Toggle > Lapto...",
+    "description": "Additions Add Dell XPS mute mic key support with hardware LED sync by @spencerbull , @dhh Add resume performance boost o..."
   },
   {
     "tag": "v3.5.0",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.5.0",
-    "publishedAt": "2026-04-03T17:31:00Z",
+    "publishedAt": "2026-04-03T17:31:42Z",
     "isLatest": false,
-    "changelog": "Features: Panther Lake compatibility/kernel, performance management, LocalSend, sff, ONCE installer, and more. New themes and compatibility fixes.",
-    "description": "Panther Lake compatibility, performance management, LocalSend, new themes and compatibility fixes."
+    "changelog": "The Panther Lake Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.5.0-2.iso SHA256: 0d3a7944240df631c5c9f7802d735a96bb0a6a3f8a65b7d45b609699aa888bd5 Features Add full compatibility with Intel Panther Lake machines using a patched 6.19.10 kernel (until 7.0 includes everything) and IPU7 camera driver for webcam compatibility by @spencerbull , @TsaiGaggery , @dhh ...",
+    "description": "Features Add full compatibility with Intel Panther Lake machines using a patched 6.19.10 kernel (until 7."
   }
 ]

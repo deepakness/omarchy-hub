@@ -97,6 +97,26 @@ function parseReleasesFromHTML(html) {
   if (!latestTag && foundTags.length > 0) {
     latestTag = foundTags[0];
   }
+
+  // Extract release body snippets from markdown-body sections (in page order, matches tags)
+  // GitHub currently renders each release's notes in a div.markdown-body
+  const bodyParts = html.split(/<div[^>]*class="[^"]*markdown-body[^"]*"[^>]*>/i);
+  const bodyTexts = [];
+  for (let i = 1; i < bodyParts.length; i++) {
+    // Take content until a reasonable end; strip tags for clean text
+    let raw = bodyParts[i];
+    // Limit to avoid pulling in subsequent page content
+    const closeIdx = raw.search(/<\/article>|<div[^>]*class="[^"]*Box-footer/i);
+    if (closeIdx > 0) raw = raw.substring(0, closeIdx);
+    const text = raw
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/&gt;/g, '>')
+      .replace(/&lt;/g, '<')
+      .replace(/&amp;/g, '&')
+      .replace(/\s+/g, ' ')
+      .trim();
+    bodyTexts.push(text);
+  }
   
   for (let i = 0; i < foundTags.length; i++) {
     const tag = foundTags[i];
@@ -104,21 +124,11 @@ function parseReleasesFromHTML(html) {
     const url = `https://github.com/basecamp/omarchy/releases/tag/${tag}`;
     const isLatest = tag === latestTag;
     
-    // Attempt to extract a short changelog snippet from the release body if present
-    // GitHub renders release notes in markdown-body; keep it simple and limited
+    // Match body by order (bodies appear in same order as tags on the page)
     let changelog = '';
     let description = '';
-    const bodyPattern = new RegExp(
-      `href="/basecamp/omarchy/releases/tag/${tag.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"[\\s\\S]{0,2000}?<div[^>]*class="[^"]*markdown-body[^"]*"[^>]*>([\\s\\S]*?)(?=<div[^>]*class="[^"]*markdown-body|</article|$)`,
-      'i'
-    );
-    const bodyMatch = html.match(bodyPattern);
-    if (bodyMatch) {
-      changelog = bodyMatch[1]
-        .replace(/<[^>]+>/g, ' ')
-        .replace(/\s+/g, ' ')
-        .trim()
-        .substring(0, 500);
+    if (bodyTexts[i]) {
+      changelog = bodyTexts[i].substring(0, 500);
       description = extractDescription(changelog);
     }
     
@@ -153,17 +163,30 @@ function parseReleasesFromHTML(html) {
 function extractDescription(changelog) {
   if (!changelog) return '';
   
-  const cleanText = changelog
+  let cleanText = changelog
     .replace(/<[^>]*>/g, '')
     .replace(/\s+/g, ' ')
     .trim();
+
+  // Skip leading "Omarchy x.y.z" title if present
+  cleanText = cleanText.replace(/^Omarchy\s+v?\d+(?:\.\d+)*\s*/i, '').trim();
   
-  const firstSentence = cleanText.split(/[.!?]/)[0];
-  if (firstSentence.length <= 120) {
-    return firstSentence + (cleanText.match(/[.!?]/) ? '.' : '');
+  // Prefer content after the install blurb if present
+  const afterIso = cleanText.match(/SHA256:\s*[a-f0-9]+\s*(.*)/i);
+  if (afterIso && afterIso[1] && afterIso[1].length > 40) {
+    cleanText = afterIso[1].trim();
   }
-  
-  return cleanText.substring(0, 100) + '...';
+
+  // Take first meaningful chunk (up to ~120 chars, prefer sentence end)
+  if (cleanText.length <= 120) {
+    return cleanText;
+  }
+  const cut = cleanText.substring(0, 120);
+  const lastPunct = Math.max(cut.lastIndexOf('.'), cut.lastIndexOf('!'), cut.lastIndexOf('?'));
+  if (lastPunct > 40) {
+    return cut.substring(0, lastPunct + 1);
+  }
+  return cut.trim() + '...';
 }
 
 // Run if called directly
