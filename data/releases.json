@@ -28,7 +28,7 @@
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.1",
     "publishedAt": "2026-05-14T17:24:53Z",
     "isLatest": false,
-    "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Fixes Hotfix to pin omarchy-reinstall-git to master branch to prevent accidental switch to dev by @ryanrhughes Full Changelog : v3.8.0...v3.8.1",
+    "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Fixes Hotfix to pin omarchy-reinstall-git to master branch to prevent accidental switch to dev by @ryanrhughes",
     "description": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space )."
   },
   {
@@ -36,15 +36,15 @@
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.0",
     "publishedAt": "2026-05-09T15:22:29Z",
     "isLatest": false,
-    "changelog": "Omarchy 3.8.0 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO. Features Add setting reminders via Super + Ctrl + R , seeing all the ones set via Super + Ctrl + Alt + R, and dismissing them via Super + Ctrl + Shift + R. Add live weather in the waybar. Add Trigger > Transcode and more. Full Changelog : v3.7.1...v3.8.0",
-    "description": "Features Add setting reminders via Super + Ctrl + R , seeing all the ones set via Super + Ctrl + Alt + R, and dismissing..."
+    "changelog": "The Defaults Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.0.iso SHA256: a9b271e8884dc123f0787e10cff3153dca7361cc6583edd1a3baa283a031f872 Features Add setting reminders via Super + Ctrl + R , seeing all the ones set via Super + Ctrl + Alt + R , and clearing all via Super + Ctrl + Shift + R . Everything also accessible via Trigger > Reminder by @dhh Add liv...",
+    "description": "Features Add setting reminders via Super + Ctrl + R , seeing all the ones set via Super + Ctrl + Alt + R , and clearing..."
   },
   {
     "tag": "v3.7.1",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.7.1",
     "publishedAt": "2026-05-04T23:53:20Z",
     "isLatest": false,
-    "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Hotfix to remove xe.enable_panel_replay=0 from KERNEL_CMDLINE. Full Changelog : v3.7.0...v3.7.1",
+    "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Fixes Hotfix to remove lingering xe.enable_panel_replay=0 setting from KERNEL_CMDLINE by @ryanrhughes",
     "description": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space )."
   },
   {
@@ -52,7 +52,7 @@
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.7.0",
     "publishedAt": "2026-05-04T13:59:51Z",
     "isLatest": false,
-    "changelog": "Huge release with new CLI, tons more gaming options, unlock screen themeing, OCR text extraction, cliamp, Asus ExpertBook PTL compatibility, and a million other fixes and improvements. Features Add unified omarchy CLI by @ryanrhughes Add text extraction from anywhere on the screen via Trigger > Capture >...",
+    "changelog": "The Gaming Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.7.0-2.iso SHA256: f74c1ed2ab6d2164c530e97a10e8dc5debe72bd9aec32989c7354ecb406bea99 Features Add unified omarchy CLI by @ryanrhughes Add text extraction from anywhere on the screen via Trigger > Capture > Text Extract and Super + Ctrl + PrtScr using tereseract OCR by @Prajwal-Prathiksh Add monitor mirro...",
     "description": "Features Add unified omarchy CLI by @ryanrhughes Add text extraction from anywhere on the screen via Trigger > Capture >..."
   },
   {
