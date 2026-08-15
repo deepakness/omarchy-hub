@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 77
+- **Total themes:** 78
 - **Official themes:** 11
-- **Community themes:** 66
-- **Dark themes:** 65
+- **Community themes:** 67
+- **Dark themes:** 66
 - **Light themes:** 12
 
 ## About these themes
@@ -1100,6 +1100,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `pure-black`, `muted-sage`
 
 **Install:** [View theme repository](https://github.com/tahadx/omarchy-noir-theme)
+
+---
+
+### 78. Stills in Motion
+
+**Category:** Dark Theme
+
+**Author:** mattbbia
+
+<img src="/public/themes/stills-in-motion-1.webp" alt="Stills in Motion" width="450">
+
+**Tags:** `unofficial`, `dark`, `art-theme`, `monochrome`
+
+**Install:** [View theme repository](https://github.com/mattbbia/stills-in-motion-omarchy)
 
 
 ---

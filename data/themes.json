@@ -941,5 +941,19 @@
       "pure-black",
       "muted-sage"
     ]
+  },
+  {
+    "id": "78",
+    "name": "Stills in Motion",
+    "category": "Dark Theme",
+    "link": "https://github.com/mattbbia/stills-in-motion-omarchy",
+    "author": "mattbbia",
+    "screenshot": "themes/stills-in-motion-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "art-theme",
+      "monochrome"
+    ]
   }
 ]
