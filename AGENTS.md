@@ -11,6 +11,11 @@ Omarchy Hub is a Next.js site listing community themes, setups, and resources fo
 5. Run `npm run generate-docs` — regenerates THEMES.md and README stats.
 6. Verify with `npm run build`.
 
+## Maintenance scripts
+
+- `npm run fetch-releases` — updates `data/releases.json` from GitHub. Run before committing when origin has newer release-sync commits.
+- `npm run generate-docs` — regenerates THEMES.md and README stats.
+
 ## Conventions
 
 - Tags: keep them short — start with `unofficial`, then 2–3 tags trimmed from the issue (hyphenate multi-word tags, e.g. `pure-black`). Follow recent entries in `data/themes.json`.
