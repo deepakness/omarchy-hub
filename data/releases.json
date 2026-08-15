@@ -1,9 +1,17 @@
 [
   {
+    "tag": "v4.0.0",
+    "url": "https://github.com/basecamp/omarchy/releases/tag/v4.0.0",
+    "publishedAt": "2026-08-14T16:35:40Z",
+    "isLatest": true,
+    "changelog": "The Quattro Release Omarchy 4 aka Quattro is the biggest release since the project started. The entire desktop shell has been reimagined in Quickshell : the bar, launcher, menus, notifications, on-screen displays, control panels, lock screen, and polkit agent now all live inside a single long-running shell process with a plugin architecture. That means Waybar, Walker, Mako, SwayOSD, hyprlock, hypridle, swaybg, and polkit-gnome are all gone, replaced by one coherent, fully-themed, IPC-scriptable ...",
+    "description": "The Quattro Release Omarchy 4 aka Quattro is the biggest release since the project started."
+  },
+  {
     "tag": "v3.8.4",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.4",
     "publishedAt": "2026-07-21T00:21:50Z",
-    "isLatest": true,
+    "isLatest": false,
     "changelog": "Omarchy 3.8.4 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.4.iso SHA256: 7bc1dc7d98f3d088e57dc06581a494ea441fb15f3edd191360fd1696931bd895 Fixes Fix Neovim theme symlink pointing at the Omarchy 4 theme location by @dhh Fix Install > Gaming > Retroarch installer by @dhh Fix Foot bindings migration by @dhh Fix waybar not restarting correctly by @dhh Full Changelog : v...",
     "description": "Fixes Fix Neovim theme symlink pointing at the Omarchy 4 theme location by @dhh Fix Install > Gaming > Retroarch install..."
   },
@@ -70,13 +78,5 @@
     "isLatest": false,
     "changelog": "The New Release Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.5.1-2.iso SHA256: f28ce9f6d0d70d2a79ae584e52de7ce3cb5c21c6c1ffb806073db1df2140b03a Additions Add Dell XPS mute mic key support with hardware LED sync by @spencerbull , @dhh Add resume performance boost on Panther Lake systems to avoid sluggishness after wake from sleep by @dhh Add Trigger > Toggle > Lapto...",
     "description": "Additions Add Dell XPS mute mic key support with hardware LED sync by @spencerbull , @dhh Add resume performance boost o..."
-  },
-  {
-    "tag": "v3.5.0",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.5.0",
-    "publishedAt": "2026-04-03T17:31:42Z",
-    "isLatest": false,
-    "changelog": "The Panther Lake Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.5.0-2.iso SHA256: 0d3a7944240df631c5c9f7802d735a96bb0a6a3f8a65b7d45b609699aa888bd5 Features Add full compatibility with Intel Panther Lake machines using a patched 6.19.10 kernel (until 7.0 includes everything) and IPU7 camera driver for webcam compatibility by @spencerbull , @TsaiGaggery , @dhh ...",
-    "description": "Features Add full compatibility with Intel Panther Lake machines using a patched 6.19.10 kernel (until 7."
   }
 ]
