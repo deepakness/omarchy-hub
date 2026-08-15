@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 79
+- **Total themes:** 80
 - **Official themes:** 11
-- **Community themes:** 68
-- **Dark themes:** 66
+- **Community themes:** 69
+- **Dark themes:** 67
 - **Light themes:** 13
 
 ## About these themes
@@ -1128,6 +1128,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `light`, `art-theme`, `landscapes`
 
 **Install:** [View theme repository](https://github.com/mattbbia/lakes-and-light)
+
+---
+
+### 80. Fire & Shadow
+
+**Category:** Dark Theme
+
+**Author:** mattbbia
+
+<img src="/public/themes/fire-and-shadow-1.webp" alt="Fire & Shadow" width="450">
+
+**Tags:** `unofficial`, `dark`, `dramatic`, `mystic`
+
+**Install:** [View theme repository](https://github.com/mattbbia/fire-and-shadow)
 
 
 ---

@@ -969,5 +969,19 @@
       "art-theme",
       "landscapes"
     ]
+  },
+  {
+    "id": "80",
+    "name": "Fire & Shadow",
+    "category": "Dark Theme",
+    "link": "https://github.com/mattbbia/fire-and-shadow",
+    "author": "mattbbia",
+    "screenshot": "themes/fire-and-shadow-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "dramatic",
+      "mystic"
+    ]
   }
 ]
