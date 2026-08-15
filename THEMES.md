@@ -6,11 +6,11 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 78
+- **Total themes:** 79
 - **Official themes:** 11
-- **Community themes:** 67
+- **Community themes:** 68
 - **Dark themes:** 66
-- **Light themes:** 12
+- **Light themes:** 13
 
 ## About these themes
 
@@ -1114,6 +1114,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `art-theme`, `monochrome`
 
 **Install:** [View theme repository](https://github.com/mattbbia/stills-in-motion-omarchy)
+
+---
+
+### 79. Lakes & Light
+
+**Category:** Light Theme
+
+**Author:** mattbbia
+
+<img src="/public/themes/lakes-and-light-1.webp" alt="Lakes & Light" width="450">
+
+**Tags:** `unofficial`, `light`, `art-theme`, `landscapes`
+
+**Install:** [View theme repository](https://github.com/mattbbia/lakes-and-light)
 
 
 ---

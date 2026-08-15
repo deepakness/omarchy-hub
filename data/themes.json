@@ -955,5 +955,19 @@
       "art-theme",
       "monochrome"
     ]
+  },
+  {
+    "id": "79",
+    "name": "Lakes & Light",
+    "category": "Light Theme",
+    "link": "https://github.com/mattbbia/lakes-and-light",
+    "author": "mattbbia",
+    "screenshot": "themes/lakes-and-light-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "art-theme",
+      "landscapes"
+    ]
   }
 ]
