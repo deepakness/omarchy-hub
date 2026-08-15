@@ -927,5 +927,19 @@
       "art-theme",
       "minimal"
     ]
+  },
+  {
+    "id": "77",
+    "name": "Noir",
+    "category": "Dark Theme",
+    "link": "https://github.com/tahadx/omarchy-noir-theme",
+    "author": "tahadx",
+    "screenshot": "themes/noir-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "pure-black",
+      "muted-sage"
+    ]
   }
 ]

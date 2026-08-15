@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 76
+- **Total themes:** 77
 - **Official themes:** 11
-- **Community themes:** 65
-- **Dark themes:** 64
+- **Community themes:** 66
+- **Dark themes:** 65
 - **Light themes:** 12
 
 ## About these themes
@@ -1086,6 +1086,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `light`, `art-theme`, `minimal`
 
 **Install:** [View theme repository](https://github.com/mattbbia/bulwer-omarchy)
+
+---
+
+### 77. Noir
+
+**Category:** Dark Theme
+
+**Author:** tahadx
+
+<img src="/public/themes/noir-1.webp" alt="Noir" width="450">
+
+**Tags:** `unofficial`, `dark`, `pure-black`, `muted-sage`
+
+**Install:** [View theme repository](https://github.com/tahadx/omarchy-noir-theme)
 
 
 ---
