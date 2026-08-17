@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 80
+- **Total themes:** 81
 - **Official themes:** 11
-- **Community themes:** 69
-- **Dark themes:** 67
+- **Community themes:** 70
+- **Dark themes:** 68
 - **Light themes:** 13
 
 ## About these themes
@@ -1142,6 +1142,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `dramatic`, `mystic`
 
 **Install:** [View theme repository](https://github.com/mattbbia/fire-and-shadow)
+
+---
+
+### 81. Crimson Gold
+
+**Category:** Dark Theme
+
+**Author:** knappkevin
+
+<img src="/public/themes/crimson-gold-1.webp" alt="Crimson Gold" width="450">
+
+**Tags:** `unofficial`, `dark`, `crimson`, `gold`
+
+**Install:** [View theme repository](https://github.com/knappkevin/omarchy-crimson-gold-theme)
 
 
 ---

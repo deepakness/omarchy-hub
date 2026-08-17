@@ -983,5 +983,19 @@
       "dramatic",
       "mystic"
     ]
+  },
+  {
+    "id": "81",
+    "name": "Crimson Gold",
+    "category": "Dark Theme",
+    "link": "https://github.com/knappkevin/omarchy-crimson-gold-theme",
+    "author": "knappkevin",
+    "screenshot": "themes/crimson-gold-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "crimson",
+      "gold"
+    ]
   }
 ]
