@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 81
+- **Total themes:** 82
 - **Official themes:** 11
-- **Community themes:** 70
-- **Dark themes:** 68
+- **Community themes:** 71
+- **Dark themes:** 69
 - **Light themes:** 13
 
 ## About these themes
@@ -1156,6 +1156,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `crimson`, `gold`
 
 **Install:** [View theme repository](https://github.com/knappkevin/omarchy-crimson-gold-theme)
+
+---
+
+### 82. Diablo Dreams
+
+**Category:** Dark Theme
+
+**Author:** dhh
+
+<img src="/public/themes/diablo-dreams-1.webp" alt="Diablo Dreams" width="450">
+
+**Tags:** `unofficial`, `dark`, `bronze`, `terracotta`
+
+**Install:** [View theme repository](https://github.com/dhh/omarchy-diablo-dreams-theme)
 
 
 ---

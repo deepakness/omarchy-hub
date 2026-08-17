@@ -997,5 +997,19 @@
       "crimson",
       "gold"
     ]
+  },
+  {
+    "id": "82",
+    "name": "Diablo Dreams",
+    "category": "Dark Theme",
+    "link": "https://github.com/dhh/omarchy-diablo-dreams-theme",
+    "author": "dhh",
+    "screenshot": "themes/diablo-dreams-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "bronze",
+      "terracotta"
+    ]
   }
 ]
