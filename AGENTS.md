@@ -10,6 +10,7 @@ Omarchy Hub is a Next.js site listing community themes, setups, and resources fo
 4. Add the new file's hash to `public/themes/.optimization-metadata.json` (format: `mtime-size`, e.g. `"noir-1.webp": "1786750168472-58054"`).
 5. Run `npm run generate-docs` — regenerates THEMES.md and README stats.
 6. Verify with `npm run build`.
+7. Commit and push, then close the issue with a thank-you comment linking to the live listing. The site is hosted at `https://omarchy.deepakness.com` (themes live at `https://omarchy.deepakness.com/themes`) — do not link to `omarchy.org`, which is the Omarchy project site, not the hub.
 
 ## Maintenance scripts
 
