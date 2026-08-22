@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 82
+- **Total themes:** 83
 - **Official themes:** 11
-- **Community themes:** 71
-- **Dark themes:** 69
+- **Community themes:** 72
+- **Dark themes:** 70
 - **Light themes:** 13
 
 ## About these themes
@@ -1170,6 +1170,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `bronze`, `terracotta`
 
 **Install:** [View theme repository](https://github.com/dhh/omarchy-diablo-dreams-theme)
+
+---
+
+### 83. Amethyst
+
+**Category:** Dark Theme
+
+**Author:** rj9884
+
+<img src="/public/themes/amethyst-1.webp" alt="Amethyst" width="450">
+
+**Tags:** `unofficial`, `amethyst`, `purple`
+
+**Install:** [View theme repository](https://github.com/rj9884/omarchy-amethyst-theme)
 
 
 ---

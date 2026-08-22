@@ -1011,5 +1011,18 @@
       "bronze",
       "terracotta"
     ]
+  },
+  {
+    "id": "83",
+    "name": "Amethyst",
+    "category": "Dark Theme",
+    "link": "https://github.com/rj9884/omarchy-amethyst-theme",
+    "author": "rj9884",
+    "screenshot": "themes/amethyst-1.webp",
+    "tags": [
+      "unofficial",
+      "amethyst",
+      "purple"
+    ]
   }
 ]
