@@ -1024,5 +1024,61 @@
       "amethyst",
       "purple"
     ]
+  },
+  {
+    "id": "84",
+    "name": "Terminus",
+    "category": "Dark Theme",
+    "link": "https://github.com/r-bart/omarchy-terminus-theme",
+    "author": "r-bart",
+    "screenshot": "themes/terminus-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "navy",
+      "gold"
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Periphery",
+    "category": "Dark Theme",
+    "link": "https://github.com/r-bart/omarchy-periphery-theme",
+    "author": "r-bart",
+    "screenshot": "themes/periphery-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "teal",
+      "minimal"
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Starsend",
+    "category": "Dark Theme",
+    "link": "https://github.com/r-bart/omarchy-starsend-theme",
+    "author": "r-bart",
+    "screenshot": "themes/starsend-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "amber",
+      "minimal"
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Vault",
+    "category": "Dark Theme",
+    "link": "https://github.com/r-bart/omarchy-vault-theme",
+    "author": "r-bart",
+    "screenshot": "themes/vault-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "sepia",
+      "warm"
+    ]
   }
 ]

@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 83
+- **Total themes:** 87
 - **Official themes:** 11
-- **Community themes:** 72
-- **Dark themes:** 70
+- **Community themes:** 76
+- **Dark themes:** 74
 - **Light themes:** 13
 
 ## About these themes
@@ -1184,6 +1184,62 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `amethyst`, `purple`
 
 **Install:** [View theme repository](https://github.com/rj9884/omarchy-amethyst-theme)
+
+---
+
+### 84. Terminus
+
+**Category:** Dark Theme
+
+**Author:** r-bart
+
+<img src="/public/themes/terminus-1.webp" alt="Terminus" width="450">
+
+**Tags:** `unofficial`, `dark`, `navy`, `gold`
+
+**Install:** [View theme repository](https://github.com/r-bart/omarchy-terminus-theme)
+
+---
+
+### 85. Periphery
+
+**Category:** Dark Theme
+
+**Author:** r-bart
+
+<img src="/public/themes/periphery-1.webp" alt="Periphery" width="450">
+
+**Tags:** `unofficial`, `dark`, `teal`, `minimal`
+
+**Install:** [View theme repository](https://github.com/r-bart/omarchy-periphery-theme)
+
+---
+
+### 86. Starsend
+
+**Category:** Dark Theme
+
+**Author:** r-bart
+
+<img src="/public/themes/starsend-1.webp" alt="Starsend" width="450">
+
+**Tags:** `unofficial`, `dark`, `amber`, `minimal`
+
+**Install:** [View theme repository](https://github.com/r-bart/omarchy-starsend-theme)
+
+---
+
+### 87. Vault
+
+**Category:** Dark Theme
+
+**Author:** r-bart
+
+<img src="/public/themes/vault-1.webp" alt="Vault" width="450">
+
+**Tags:** `unofficial`, `dark`, `sepia`, `warm`
+
+**Install:** [View theme repository](https://github.com/r-bart/omarchy-vault-theme)
 
 
 ---
