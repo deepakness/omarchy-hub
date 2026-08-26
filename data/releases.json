@@ -1,9 +1,17 @@
 [
   {
+    "tag": "v4.0.1",
+    "url": "https://github.com/basecamp/omarchy/releases/tag/v4.0.1",
+    "publishedAt": "2026-08-25T11:24:30Z",
+    "isLatest": true,
+    "changelog": "Fast-Follow Fixes This is mostly for a collection of security fixes that was validated and examined by the new Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security 🙏 You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.1.iso SHA256: 69cbb4e10d98ad831c3c9f245b5757a9d1fedfd0c9592780e977d6f950dea8c3 Security Launch cla...",
+    "description": "Fast-Follow Fixes This is mostly for a collection of security fixes that was validated and examined by the new Omarchy S..."
+  },
+  {
     "tag": "v4.0.0",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v4.0.0",
     "publishedAt": "2026-08-14T16:35:40Z",
-    "isLatest": true,
+    "isLatest": false,
     "changelog": "The Quattro Release Omarchy 4 aka Quattro is the biggest release since the project started. The entire desktop shell has been reimagined in Quickshell : the bar, launcher, menus, notifications, on-screen displays, control panels, lock screen, and polkit agent now all live inside a single long-running shell process with a plugin architecture. That means Waybar, Walker, Mako, SwayOSD, hyprlock, hypridle, swaybg, and polkit-gnome are all gone, replaced by one coherent, fully-themed, IPC-scriptable ...",
     "description": "The Quattro Release Omarchy 4 aka Quattro is the biggest release since the project started."
   },
@@ -70,13 +78,5 @@
     "isLatest": false,
     "changelog": "The Panther Lake Plus Extreme Efficiency Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.6.0-2.iso SHA256: b43914a3c842920c6b8bec6a8fc1878291a359551945f17595b7a4ca3ef7ab44 Additions Add additional kernel patches to custom kernel 6.19.13 build for Panther Lake to extract maximum efficiency by @TsaiGaggery , @spencerbull Add full control of laptop display on lid...",
     "description": "Additions Add additional kernel patches to custom kernel 6.19."
-  },
-  {
-    "tag": "v3.5.1",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.5.1",
-    "publishedAt": "2026-04-16T14:32:15Z",
-    "isLatest": false,
-    "changelog": "The New Release Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.5.1-2.iso SHA256: f28ce9f6d0d70d2a79ae584e52de7ce3cb5c21c6c1ffb806073db1df2140b03a Additions Add Dell XPS mute mic key support with hardware LED sync by @spencerbull , @dhh Add resume performance boost on Panther Lake systems to avoid sluggishness after wake from sleep by @dhh Add Trigger > Toggle > Lapto...",
-    "description": "Additions Add Dell XPS mute mic key support with hardware LED sync by @spencerbull , @dhh Add resume performance boost o..."
   }
 ]
