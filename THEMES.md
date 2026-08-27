@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 87
+- **Total themes:** 88
 - **Official themes:** 11
-- **Community themes:** 76
-- **Dark themes:** 74
+- **Community themes:** 77
+- **Dark themes:** 75
 - **Light themes:** 13
 
 ## About these themes
@@ -1240,6 +1240,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `sepia`, `warm`
 
 **Install:** [View theme repository](https://github.com/r-bart/omarchy-vault-theme)
+
+---
+
+### 88. Warm Catppuccin Mocha
+
+**Category:** Dark Theme
+
+**Author:** lennertvhoy
+
+<img src="/public/themes/warm-catppuccin-mocha-1.webp" alt="Warm Catppuccin Mocha" width="450">
+
+**Tags:** `unofficial`, `dark`, `catppuccin`, `pink`
+
+**Install:** [View theme repository](https://github.com/lennertvhoy/omarchy-warm-catppuccin-theme)
 
 
 ---

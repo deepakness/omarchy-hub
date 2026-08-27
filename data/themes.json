@@ -1080,5 +1080,19 @@
       "sepia",
       "warm"
     ]
+  },
+  {
+    "id": "88",
+    "name": "Warm Catppuccin Mocha",
+    "category": "Dark Theme",
+    "link": "https://github.com/lennertvhoy/omarchy-warm-catppuccin-theme",
+    "author": "lennertvhoy",
+    "screenshot": "themes/warm-catppuccin-mocha-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "catppuccin",
+      "pink"
+    ]
   }
 ]
