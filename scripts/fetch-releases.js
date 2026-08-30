@@ -67,7 +67,7 @@ function parseReleasesFromHTML(html) {
   
   // Extract unique version tags in page order (newest first typically).
   // Upstream moved from basecamp/omarchy to omacom/omarchy; match both paths.
-  const releaseLinkRegex = /href=\"\\/(?:basecamp|omacom)\\/omarchy\\/releases\\/tag\\/(v[^\"]+)\"/g;
+  const releaseLinkRegex = /href="\/(?:basecamp|omacom)\/omarchy\/releases\/tag\/(v[^"]+)"/g;
   const foundTags = [];
   const seen = new Set();
   let match;
@@ -80,18 +80,18 @@ function parseReleasesFromHTML(html) {
   }
   
   // Extract published dates from relative-time elements (in same order as tags)
-  const dateRegex = /<relative-time class=\"no-wrap\"[^>]*datetime=\"([^\"]+)\"/g;
+  const dateRegex = /<relative-time class="no-wrap"[^>]*datetime="([^"]+)"/g;
   const dates = [];
   while ((match = dateRegex.exec(html)) !== null) {
     dates.push(match[1]);
   }
   
-  // Identify latest: look for the tag that has the \"Latest\" success label nearby
+  // Identify latest: look for the tag that has the "Latest" success label nearby
   let latestTag = null;
   for (const tag of foundTags) {
-    const escaped = tag.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\$&');
+    const escaped = tag.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     const latestPattern = new RegExp(
-      `href=\"/(?:basecamp|omacom)/omarchy/releases/tag/${escaped}\"[\\s\\S]{0,800}Label--success[\\s\\S]{0,80}Latest`,
+      `href="/(?:basecamp|omacom)/omarchy/releases/tag/${escaped}"[\\s\\S]{0,800}Label--success[\\s\\S]{0,80}Latest`,
       'i'
     );
     if (latestPattern.test(html)) {
@@ -106,20 +106,20 @@ function parseReleasesFromHTML(html) {
 
   // Extract release body snippets from markdown-body sections (in page order, matches tags)
   // GitHub currently renders each release's notes in a div.markdown-body
-  const bodyParts = html.split(/<div[^>]*class=\"[^\"]*markdown-body[^\"]*\"[^>]*>/i);
+  const bodyParts = html.split(/<div[^>]*class="[^"]*markdown-body[^"]*"[^>]*>/i);
   const bodyTexts = [];
   for (let i = 1; i < bodyParts.length; i++) {
     // Take content until a reasonable end; strip tags for clean text
     let raw = bodyParts[i];
     // Limit to avoid pulling in subsequent page content
-    const closeIdx = raw.search(/<\\/article>|<div[^>]*class=\"[^\"]*Box-footer/i);
+    const closeIdx = raw.search(/<\/article>|<div[^>]*class="[^"]*Box-footer/i);
     if (closeIdx > 0) raw = raw.substring(0, closeIdx);
     const text = raw
       .replace(/<[^>]+>/g, ' ')
       .replace(/&gt;/g, '>')
       .replace(/&lt;/g, '<')
       .replace(/&amp;/g, '&')
-      .replace(/\\s+/g, ' ')
+      .replace(/\s+/g, ' ')
       .trim();
     bodyTexts.push(text);
   }
@@ -171,14 +171,14 @@ function extractDescription(changelog) {
   
   let cleanText = changelog
     .replace(/<[^>]*>/g, '')
-    .replace(/\\s+/g, ' ')
+    .replace(/\s+/g, ' ')
     .trim();
 
-  // Skip leading \"Omarchy x.y.z\" title if present
-  cleanText = cleanText.replace(/^Omarchy\\s+v?\\d+(?:\\.\\d+)*\\s*/i, '').trim();
+  // Skip leading "Omarchy x.y.z" title if present
+  cleanText = cleanText.replace(/^Omarchy\s+v?\d+(?:\.\d+)*\s*/i, '').trim();
   
   // Prefer content after the install blurb if present
-  const afterIso = cleanText.match(/SHA256:\\s*[a-f0-9]+\\s*(.*)/i);
+  const afterIso = cleanText.match(/SHA256:\s*[a-f0-9]+\s*(.*)/i);
   if (afterIso && afterIso[1] && afterIso[1].length > 40) {
     cleanText = afterIso[1].trim();
   }
