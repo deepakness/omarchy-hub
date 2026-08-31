@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 88
+- **Total themes:** 89
 - **Official themes:** 11
-- **Community themes:** 77
-- **Dark themes:** 75
+- **Community themes:** 78
+- **Dark themes:** 76
 - **Light themes:** 13
 
 ## About these themes
@@ -1254,6 +1254,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `catppuccin`, `pink`
 
 **Install:** [View theme repository](https://github.com/lennertvhoy/omarchy-warm-catppuccin-theme)
+
+---
+
+### 89. Terminal Delight
+
+**Category:** Dark Theme
+
+**Author:** parker-brown-family
+
+<img src="/public/themes/terminal-delight-1.webp" alt="Terminal Delight" width="450">
+
+**Tags:** `unofficial`, `dark`, `phosphor`
+
+**Install:** [View theme repository](https://github.com/parker-brown-family/omarchy-terminal-delight-theme)
 
 
 ---

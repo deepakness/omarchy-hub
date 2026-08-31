@@ -1094,5 +1094,18 @@
       "catppuccin",
       "pink"
     ]
+  },
+  {
+    "id": "89",
+    "name": "Terminal Delight",
+    "category": "Dark Theme",
+    "link": "https://github.com/parker-brown-family/omarchy-terminal-delight-theme",
+    "author": "parker-brown-family",
+    "screenshot": "themes/terminal-delight-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "phosphor"
+    ]
   }
 ]
