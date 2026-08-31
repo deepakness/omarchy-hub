@@ -1461,5 +1461,19 @@
       "apple",
       "dell"
     ]
+  },
+  {
+    "id": "111",
+    "name": "Dmitrii's Blue LED Battlestation",
+    "description": "Blue LED wall lighting over a dual-display battlestation running Omarchy on a ThinkPad X1 Carbon.",
+    "screenshot": "setups/setup-111.webp",
+    "link": "https://x.com/ChShersh/status/2094443293455024314",
+    "device": "ThinkPad X1 Carbon + Dual Monitors",
+    "category": "Desktop",
+    "tags": [
+      "rgb",
+      "dual-monitor",
+      "thinkpad"
+    ]
   }
 ]

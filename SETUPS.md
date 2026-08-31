@@ -6,8 +6,8 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 110
-- **Desktop setups:** 66
+- **Total setups:** 111
+- **Desktop setups:** 67
 - **Laptop setups:** 43
 - **Tablet setups:** 1
 
@@ -1560,6 +1560,20 @@ This just looks right — Omarchy's installation screen on a Dell monitor next t
 **Tags:** `mac-pro`, `apple`, `dell`
 
 **Source:** [View original post](https://x.com/ryanvogel/status/2027026283666837761)
+
+---
+
+### 111. Dmitrii's Blue LED Battlestation
+
+Blue LED wall lighting over a dual-display battlestation running Omarchy on a ThinkPad X1 Carbon.
+
+**Device:** ThinkPad X1 Carbon + Dual Monitors
+
+<img src="/public/setups/setup-111.webp" alt="Dmitrii's Blue LED Battlestation" width="450">
+
+**Tags:** `rgb`, `dual-monitor`, `thinkpad`
+
+**Source:** [View original post](https://x.com/ChShersh/status/2094443293455024314)
 
 
 ---
