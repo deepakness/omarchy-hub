@@ -1,9 +1,17 @@
 [
   {
+    "tag": "v4.0.2",
+    "url": "https://github.com/basecamp/omarchy/releases/tag/v4.0.2",
+    "publishedAt": "2026-08-31T03:42:33Z",
+    "isLatest": true,
+    "changelog": "This is an additional set of security fixes that were validated and examined by the Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security . 🙏 You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.2.iso SHA256: 2ef8e624aa1bec7e277e28056b8535a6c9373ba48d7ede3f1a01cb6d2373cfb8 Improvements Repair legacy paths and privile...",
+    "description": "Improvements Repair legacy paths and privile"
+  },
+  {
     "tag": "v4.0.1",
     "url": "https://github.com/basecamp/omarchy/releases/tag/v4.0.1",
     "publishedAt": "2026-08-25T11:24:30Z",
-    "isLatest": true,
+    "isLatest": false,
     "changelog": "Fast-Follow Fixes This is mostly for a collection of security fixes that was validated and examined by the new Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security 🙏 You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.1.iso SHA256: 69cbb4e10d98ad831c3c9f245b5757a9d1fedfd0c9592780e977d6f950dea8c3 Security Launch cla...",
     "description": "Fast-Follow Fixes This is mostly for a collection of security fixes that was validated and examined by the new Omarchy S..."
   },
@@ -70,13 +78,5 @@
     "isLatest": false,
     "changelog": "The Gaming Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.7.0-2.iso SHA256: f74c1ed2ab6d2164c530e97a10e8dc5debe72bd9aec32989c7354ecb406bea99 Features Add unified omarchy CLI by @ryanrhughes Add text extraction from anywhere on the screen via Trigger > Capture > Text Extract and Super + Ctrl + PrtScr using tereseract OCR by @Prajwal-Prathiksh Add monitor mirro...",
     "description": "Features Add unified omarchy CLI by @ryanrhughes Add text extraction from anywhere on the screen via Trigger > Capture >..."
-  },
-  {
-    "tag": "v3.6.0",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.6.0",
-    "publishedAt": "2026-04-23T13:31:06Z",
-    "isLatest": false,
-    "changelog": "The Panther Lake Plus Extreme Efficiency Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.6.0-2.iso SHA256: b43914a3c842920c6b8bec6a8fc1878291a359551945f17595b7a4ca3ef7ab44 Additions Add additional kernel patches to custom kernel 6.19.13 build for Panther Lake to extract maximum efficiency by @TsaiGaggery , @spencerbull Add full control of laptop display on lid...",
-    "description": "Additions Add additional kernel patches to custom kernel 6.19."
   }
 ]
