@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import crypto from 'crypto';
 import sharp from 'sharp';
 import { fileURLToPath } from 'url';
 
@@ -47,10 +48,11 @@ if (fs.existsSync(themesMetadataFile)) {
   }
 }
 
-// Function to get file hash for change detection
+// Function to get content hash for change detection.
+// Content-based (not mtime-based) so git checkout/pull/clone, which reset
+// modification times, never trigger spurious re-processing of identical files.
 const getFileHash = (filePath) => {
-  const stats = fs.statSync(filePath);
-  return `${stats.mtime.getTime()}-${stats.size}`;
+  return crypto.createHash('sha256').update(fs.readFileSync(filePath)).digest('hex');
 };
 
 // Function to get file size in bytes
@@ -86,8 +88,16 @@ const needsOptimization = (file, filePath, metadata, webpFile) => {
   
   // For existing WebP files, check if they've been modified
   const currentHash = getFileHash(filePath);
+
+  // Migrate legacy mtime-size hashes (e.g. "1783353930945-80946") to content
+  // hashes in place. Committed .webp files are always outputs of this script,
+  // so their current content is by definition already optimized.
   const lastHash = metadata[webpFile] || metadata[file];
-  
+  if (typeof lastHash === 'string' && /^\d+-\d+$/.test(lastHash)) {
+    metadata[webpFile] = currentHash;
+    return false;
+  }
+
   if (lastHash !== currentHash) {
     return true;
   }
