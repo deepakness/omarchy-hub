@@ -41,7 +41,7 @@ export default function Home() {
               <div className="text-base text-green mb-2">$ cat README.md</div>
               <div className="text-foreground/80 mb-6">
                 <div className="mb-3">
-                    <div className="text-base">Unofficial community hub for Omarchy — DHH&apos;s keyboard-driven, developer-focused Linux distribution built on Arch + Hyprland</div>
+                    <div className="text-base">Unofficial community hub for Omarchy — DHH&apos;s beautiful, fun &amp; agentic Linux distribution built on Arch + Hyprland</div>
                 </div>
               </div>
               
@@ -241,7 +241,7 @@ export default function Home() {
               <p className="text-foreground/60 font-mono">
                 No releases data available. Check back later or visit the{' '}
                 <a 
-                  href="https://github.com/basecamp/omarchy/releases" 
+                  href="https://github.com/omacom/omarchy/releases" 
                   target="_blank" 
                   rel="noopener noreferrer nofollow"
                   className="text-blue hover:text-blue-hover transition-colors underline"

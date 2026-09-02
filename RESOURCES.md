@@ -16,7 +16,7 @@ The comprehensive documentation for the users of Omarchy
 
 **Author:** DHH
 
-**Link:** [View resource](https://learn.omacom.io/2/the-omarchy-manual)
+**Link:** [View resource](https://omarchy.org/manual/)
 
 ---
 
@@ -88,7 +88,7 @@ Step-by-step notes and discussion for installing Omarchy on Apple Silicon MacBoo
 
 **Author:** Naeem Malik
 
-**Link:** [View resource](https://github.com/basecamp/omarchy/discussions/155)
+**Link:** [View resource](https://github.com/omacom/omarchy/discussions/155)
 
 ---
 
@@ -161,18 +161,6 @@ DistroWatch page featuring user-submitted reviews and ratings for Omarchy Linux 
 **Author:** DistroWatch
 
 **Link:** [View resource](https://distrowatch.com/dwres.php?resource=ratings&distro=omarchy)
-
----
-
-### 14. Omarchy Linux Review: Why It's Winning Developers in 2025
-
-Comprehensive review comparing Omarchy to Ubuntu, Fedora, and Arch with migration guides.
-
-**Category:** Article
-
-**Author:** Kartik Maurya
-
-**Link:** [View resource](https://www.thinklet.blog/omarchy-linux-review-arch-hyprland)
 
 ---
 

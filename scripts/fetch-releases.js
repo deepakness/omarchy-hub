@@ -16,7 +16,7 @@ async function fetchReleases() {
     console.log('Fetching Omarchy releases from GitHub...');
     
     // Fetch the releases page
-    const response = await fetch('https://github.com/basecamp/omarchy/releases', {
+    const response = await fetch('https://github.com/omacom/omarchy/releases', {
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; OmarchyHub/1.0; +https://github.com/deepakness/omarchy-hub)'
       }
@@ -127,7 +127,7 @@ function parseReleasesFromHTML(html) {
   for (let i = 0; i < foundTags.length; i++) {
     const tag = foundTags[i];
     const publishedAt = dates[i] || null;
-    const url = `https://github.com/basecamp/omarchy/releases/tag/${tag}`;
+    const url = `https://github.com/omacom/omarchy/releases/tag/${tag}`;
     const isLatest = tag === latestTag;
     
     // Match body by order (bodies appear in same order as tags on the page)

@@ -33,7 +33,7 @@ The script generates a `data/releases.json` file with the following structure:
 [
   {
     "tag": "v2.1.1",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v2.1.1",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v2.1.1",
     "publishedAt": "2024-09-09T19:37:00Z",
     "isLatest": true,
     "changelog": "What changed? content...",

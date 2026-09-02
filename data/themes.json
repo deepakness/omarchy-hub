@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Tokyo Night",
     "category": "Dark Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/tokyo-night",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/tokyo-night",
     "author": "Omarchy",
     "screenshot": "themes/tokyo-night-1.webp",
     "tags": [
@@ -16,7 +16,7 @@
     "id": "2",
     "name": "Osaka Jade",
     "category": "Dark Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/osaka-jade",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/osaka-jade",
     "author": "Omarchy",
     "screenshot": "themes/osaka-jade-2.webp",
     "tags": [
@@ -29,7 +29,7 @@
     "id": "3",
     "name": "Rose Pine",
     "category": "Dark Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/rose-pine",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/rose-pine",
     "author": "Omarchy",
     "screenshot": "themes/rose-pine-3.webp",
     "tags": [
@@ -43,7 +43,7 @@
     "id": "4",
     "name": "Catppuccin Latte",
     "category": "Light Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/catppuccin-latte",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/catppuccin-latte",
     "author": "Omarchy",
     "screenshot": "themes/catppuccin-latte-4.webp",
     "tags": [
@@ -55,7 +55,7 @@
     "id": "5",
     "name": "Everforest",
     "category": "Dark Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/everforest",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/everforest",
     "author": "Omarchy",
     "screenshot": "themes/everforest-5.webp",
     "tags": [
@@ -67,7 +67,7 @@
     "id": "6",
     "name": "Gruvbox",
     "category": "Dark Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/gruvbox",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/gruvbox",
     "author": "Omarchy",
     "screenshot": "themes/gruvbox-6.webp",
     "tags": [
@@ -79,7 +79,7 @@
     "id": "7",
     "name": "Matte Black",
     "category": "Dark Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/matte-black",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/matte-black",
     "author": "Omarchy",
     "screenshot": "themes/matte-black-7.webp",
     "tags": [
@@ -91,7 +91,7 @@
     "id": "8",
     "name": "Catppuccin",
     "category": "Dark Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/catppuccin",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/catppuccin",
     "author": "Omarchy",
     "screenshot": "themes/catppuccin-8.webp",
     "tags": [
@@ -103,7 +103,7 @@
     "id": "9",
     "name": "Kanagawa",
     "category": "Dark Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/kanagawa",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/kanagawa",
     "author": "Omarchy",
     "screenshot": "themes/kanagawa-9.webp",
     "tags": [
@@ -115,7 +115,7 @@
     "id": "10",
     "name": "Nord",
     "category": "Dark Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/nord",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/nord",
     "author": "Omarchy",
     "screenshot": "themes/nord-10.webp",
     "tags": [
@@ -127,7 +127,7 @@
     "id": "11",
     "name": "Ristretto",
     "category": "Dark Theme",
-    "link": "https://github.com/basecamp/omarchy/tree/master/themes/ristretto",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/ristretto",
     "author": "Omarchy",
     "screenshot": "themes/ristretto-11.webp",
     "tags": [
@@ -216,7 +216,6 @@
     "id": "19",
     "name": "Green Hakkar",
     "category": "Dark Theme",
-    "link": "https://github.com/joaquinmeza/omarchy-hakker-green-theme",
     "author": "joaquinmeza",
     "screenshot": "themes/green-hakkar-19.webp",
     "tags": [
@@ -469,7 +468,6 @@
     "id": "42",
     "name": "Vague",
     "category": "Dark Theme",
-    "link": "https://github.com/Rnedlose/omarchy-vague-theme",
     "author": "Rnedlose",
     "screenshot": "themes/vague-42.webp",
     "tags": [
@@ -1106,6 +1104,142 @@
       "unofficial",
       "dark",
       "phosphor"
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Ethereal",
+    "category": "Dark Theme",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/ethereal",
+    "description": "Deep navy backgrounds with soft violet accents for a calm, ethereal desktop",
+    "author": "Omarchy",
+    "screenshot": "themes/ethereal-1.webp",
+    "tags": [
+      "official",
+      "pastel"
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Hackerman",
+    "category": "Dark Theme",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/hackerman",
+    "description": "Green-on-dark terminal aesthetic straight out of a hacker movie",
+    "author": "Omarchy",
+    "screenshot": "themes/hackerman-1.webp",
+    "tags": [
+      "official",
+      "hacker",
+      "green"
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Last Horizon",
+    "category": "Dark Theme",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/last-horizon",
+    "description": "Near-black backgrounds with warm dusty-rose accents inspired by the horizon at dusk",
+    "author": "Omarchy",
+    "screenshot": "themes/last-horizon-1.webp",
+    "tags": [
+      "official",
+      "rose"
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Lumon",
+    "category": "Dark Theme",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/lumon",
+    "description": "Cold blue-grey palette inspired by Lumon Industries from Severance",
+    "author": "Omarchy",
+    "screenshot": "themes/lumon-1.webp",
+    "tags": [
+      "official",
+      "severance",
+      "blue"
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Lupine",
+    "category": "Light Theme",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/lupine",
+    "description": "Clean light theme with vivid blue accents",
+    "author": "Omarchy",
+    "screenshot": "themes/lupine-1.webp",
+    "tags": [
+      "official",
+      "light",
+      "blue"
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Miasma",
+    "category": "Dark Theme",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/miasma",
+    "description": "Mossy olive-green accents over warm charcoal backgrounds",
+    "author": "Omarchy",
+    "screenshot": "themes/miasma-1.webp",
+    "tags": [
+      "official",
+      "moss"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Retro 82",
+    "category": "Dark Theme",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/retro-82",
+    "description": "Amber-on-navy retro terminal look straight out of 1982",
+    "author": "Omarchy",
+    "screenshot": "themes/retro-82-1.webp",
+    "tags": [
+      "official",
+      "retro",
+      "amber"
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Solitude",
+    "category": "Dark Theme",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/solitude",
+    "description": "Muted grey-blue tones for a quiet, focused workspace",
+    "author": "Omarchy",
+    "screenshot": "themes/solitude-1.webp",
+    "tags": [
+      "official",
+      "minimal"
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Vantablack",
+    "category": "Dark Theme",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/vantablack",
+    "description": "True black backgrounds with minimal grey accents",
+    "author": "Omarchy",
+    "screenshot": "themes/vantablack-1.webp",
+    "tags": [
+      "official",
+      "minimal",
+      "monochrome"
+    ]
+  },
+  {
+    "id": "99",
+    "name": "White",
+    "category": "Light Theme",
+    "link": "https://github.com/omacom/omarchy/tree/quattro/themes/white",
+    "description": "Pure monochrome white and black light theme",
+    "author": "Omarchy",
+    "screenshot": "themes/white-1.webp",
+    "tags": [
+      "official",
+      "minimal",
+      "light"
     ]
   }
 ]

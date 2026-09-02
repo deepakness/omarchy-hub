@@ -6,11 +6,11 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 89
-- **Official themes:** 11
+- **Total themes:** 99
+- **Official themes:** 21
 - **Community themes:** 78
-- **Dark themes:** 76
-- **Light themes:** 13
+- **Dark themes:** 84
+- **Light themes:** 15
 
 ## About these themes
 
@@ -35,7 +35,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `popular`, `featured`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/tokyo-night)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/tokyo-night)
 
 ---
 
@@ -49,7 +49,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `popular`, `featured`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/osaka-jade)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/osaka-jade)
 
 ---
 
@@ -63,7 +63,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `pastel`, `popular`, `featured`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/rose-pine)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/rose-pine)
 
 ---
 
@@ -77,7 +77,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `pastel`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/catppuccin-latte)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/catppuccin-latte)
 
 ---
 
@@ -91,7 +91,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `popular`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/everforest)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/everforest)
 
 ---
 
@@ -105,7 +105,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `popular`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/gruvbox)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/gruvbox)
 
 ---
 
@@ -119,7 +119,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `popular`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/matte-black)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/matte-black)
 
 ---
 
@@ -133,7 +133,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `pastel`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/catppuccin)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/catppuccin)
 
 ---
 
@@ -147,7 +147,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `popular`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/kanagawa)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/kanagawa)
 
 ---
 
@@ -161,7 +161,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `popular`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/nord)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/nord)
 
 ---
 
@@ -175,7 +175,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `official`, `popular`
 
-**Install:** [View theme repository](https://github.com/basecamp/omarchy/tree/master/themes/ristretto)
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/ristretto)
 
 ---
 
@@ -286,8 +286,6 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 <img src="/public/themes/green-hakkar-19.webp" alt="Green Hakkar" width="450">
 
 **Tags:** `unofficial`
-
-**Install:** [View theme repository](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
 
 ---
 
@@ -608,8 +606,6 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 <img src="/public/themes/vague-42.webp" alt="Vague" width="450">
 
 **Tags:** `unofficial`
-
-**Install:** [View theme repository](https://github.com/Rnedlose/omarchy-vague-theme)
 
 ---
 
@@ -1268,6 +1264,146 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `phosphor`
 
 **Install:** [View theme repository](https://github.com/parker-brown-family/omarchy-terminal-delight-theme)
+
+---
+
+### 90. Ethereal
+
+**Category:** Dark Theme
+
+**Author:** Omarchy
+
+<img src="/public/themes/ethereal-1.webp" alt="Ethereal" width="450">
+
+**Tags:** `official`, `pastel`
+
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/ethereal)
+
+---
+
+### 91. Hackerman
+
+**Category:** Dark Theme
+
+**Author:** Omarchy
+
+<img src="/public/themes/hackerman-1.webp" alt="Hackerman" width="450">
+
+**Tags:** `official`, `hacker`, `green`
+
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/hackerman)
+
+---
+
+### 92. Last Horizon
+
+**Category:** Dark Theme
+
+**Author:** Omarchy
+
+<img src="/public/themes/last-horizon-1.webp" alt="Last Horizon" width="450">
+
+**Tags:** `official`, `rose`
+
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/last-horizon)
+
+---
+
+### 93. Lumon
+
+**Category:** Dark Theme
+
+**Author:** Omarchy
+
+<img src="/public/themes/lumon-1.webp" alt="Lumon" width="450">
+
+**Tags:** `official`, `severance`, `blue`
+
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/lumon)
+
+---
+
+### 94. Lupine
+
+**Category:** Light Theme
+
+**Author:** Omarchy
+
+<img src="/public/themes/lupine-1.webp" alt="Lupine" width="450">
+
+**Tags:** `official`, `light`, `blue`
+
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/lupine)
+
+---
+
+### 95. Miasma
+
+**Category:** Dark Theme
+
+**Author:** Omarchy
+
+<img src="/public/themes/miasma-1.webp" alt="Miasma" width="450">
+
+**Tags:** `official`, `moss`
+
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/miasma)
+
+---
+
+### 96. Retro 82
+
+**Category:** Dark Theme
+
+**Author:** Omarchy
+
+<img src="/public/themes/retro-82-1.webp" alt="Retro 82" width="450">
+
+**Tags:** `official`, `retro`, `amber`
+
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/retro-82)
+
+---
+
+### 97. Solitude
+
+**Category:** Dark Theme
+
+**Author:** Omarchy
+
+<img src="/public/themes/solitude-1.webp" alt="Solitude" width="450">
+
+**Tags:** `official`, `minimal`
+
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/solitude)
+
+---
+
+### 98. Vantablack
+
+**Category:** Dark Theme
+
+**Author:** Omarchy
+
+<img src="/public/themes/vantablack-1.webp" alt="Vantablack" width="450">
+
+**Tags:** `official`, `minimal`, `monochrome`
+
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/vantablack)
+
+---
+
+### 99. White
+
+**Category:** Light Theme
+
+**Author:** Omarchy
+
+<img src="/public/themes/white-1.webp" alt="White" width="450">
+
+**Tags:** `official`, `minimal`, `light`
+
+**Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/white)
 
 
 ---

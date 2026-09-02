@@ -1,7 +1,7 @@
 [
   {
     "tag": "v4.0.2",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v4.0.2",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.2",
     "publishedAt": "2026-08-31T03:42:33Z",
     "isLatest": true,
     "changelog": "This is an additional set of security fixes that were validated and examined by the Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security . 🙏 You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.2.iso SHA256: 2ef8e624aa1bec7e277e28056b8535a6c9373ba48d7ede3f1a01cb6d2373cfb8 Improvements Repair legacy paths and privile...",
@@ -9,7 +9,7 @@
   },
   {
     "tag": "v4.0.1",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v4.0.1",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.1",
     "publishedAt": "2026-08-25T11:24:30Z",
     "isLatest": false,
     "changelog": "Fast-Follow Fixes This is mostly for a collection of security fixes that was validated and examined by the new Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security 🙏 You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.1.iso SHA256: 69cbb4e10d98ad831c3c9f245b5757a9d1fedfd0c9592780e977d6f950dea8c3 Security Launch cla...",
@@ -17,7 +17,7 @@
   },
   {
     "tag": "v4.0.0",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v4.0.0",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.0",
     "publishedAt": "2026-08-14T16:35:40Z",
     "isLatest": false,
     "changelog": "The Quattro Release Omarchy 4 aka Quattro is the biggest release since the project started. The entire desktop shell has been reimagined in Quickshell : the bar, launcher, menus, notifications, on-screen displays, control panels, lock screen, and polkit agent now all live inside a single long-running shell process with a plugin architecture. That means Waybar, Walker, Mako, SwayOSD, hyprlock, hypridle, swaybg, and polkit-gnome are all gone, replaced by one coherent, fully-themed, IPC-scriptable ...",
@@ -25,7 +25,7 @@
   },
   {
     "tag": "v3.8.4",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.4",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v3.8.4",
     "publishedAt": "2026-07-21T00:21:50Z",
     "isLatest": false,
     "changelog": "Omarchy 3.8.4 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.4.iso SHA256: 7bc1dc7d98f3d088e57dc06581a494ea441fb15f3edd191360fd1696931bd895 Fixes Fix Neovim theme symlink pointing at the Omarchy 4 theme location by @dhh Fix Install > Gaming > Retroarch installer by @dhh Fix Foot bindings migration by @dhh Fix waybar not restarting correctly by @dhh Full Changelog : v...",
@@ -33,7 +33,7 @@
   },
   {
     "tag": "v3.8.3",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.3",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v3.8.3",
     "publishedAt": "2026-07-13T23:10:19Z",
     "isLatest": false,
     "changelog": "Omarchy 3.8.3 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.3.iso SHA256: 40c9368eeb7e021a13d0899b379517843b4839f6e7721473169369fbd0fe61ac Additions Add easier tmux pane controls with Alt+Enter / Alt+Shift+Enter / Alt+Escape splits, plus CSI-u Shift+Return encoding across Alacritty, Foot, Ghostty, and Kitty so tmux can distinguish the bindings. Existing customized c...",
@@ -41,7 +41,7 @@
   },
   {
     "tag": "v3.8.2",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.2",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v3.8.2",
     "publishedAt": "2026-05-24T11:23:18Z",
     "isLatest": false,
     "changelog": "Omarchy 3.8.2 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.2.iso SHA256: dc3d096ed17f50cadc74d5f2fe1914b12e1ba6b69e84447225deaf1896a0820d What's Changed Fix logs uploading by switching to Omarchy-owned log container by @ryanrhughes Fix compatibility with Hyprland 0.55 (but without converting configs to lua) @tuklu , @dhh Fix cases where boot could put you on the wr...",
@@ -49,7 +49,7 @@
   },
   {
     "tag": "v3.8.1",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.1",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v3.8.1",
     "publishedAt": "2026-05-14T17:24:53Z",
     "isLatest": false,
     "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Fixes Hotfix to pin omarchy-reinstall-git to master branch to prevent accidental switch to dev by @ryanrhughes",
@@ -57,7 +57,7 @@
   },
   {
     "tag": "v3.8.0",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.8.0",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v3.8.0",
     "publishedAt": "2026-05-09T15:22:29Z",
     "isLatest": false,
     "changelog": "The Defaults Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.0.iso SHA256: a9b271e8884dc123f0787e10cff3153dca7361cc6583edd1a3baa283a031f872 Features Add setting reminders via Super + Ctrl + R , seeing all the ones set via Super + Ctrl + Alt + R , and clearing all via Super + Ctrl + Shift + R . Everything also accessible via Trigger > Reminder by @dhh Add liv...",
@@ -65,7 +65,7 @@
   },
   {
     "tag": "v3.7.1",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.7.1",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v3.7.1",
     "publishedAt": "2026-05-04T23:53:20Z",
     "isLatest": false,
     "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Fixes Hotfix to remove lingering xe.enable_panel_replay=0 setting from KERNEL_CMDLINE by @ryanrhughes",
@@ -73,7 +73,7 @@
   },
   {
     "tag": "v3.7.0",
-    "url": "https://github.com/basecamp/omarchy/releases/tag/v3.7.0",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v3.7.0",
     "publishedAt": "2026-05-04T13:59:51Z",
     "isLatest": false,
     "changelog": "The Gaming Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.7.0-2.iso SHA256: f74c1ed2ab6d2164c530e97a10e8dc5debe72bd9aec32989c7354ecb406bea99 Features Add unified omarchy CLI by @ryanrhughes Add text extraction from anywhere on the screen via Trigger > Capture > Text Extract and Super + Ctrl + PrtScr using tereseract OCR by @Prajwal-Prathiksh Add monitor mirro...",

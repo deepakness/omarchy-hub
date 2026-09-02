@@ -5,11 +5,19 @@
   },
   {
     "name": "Omarchy GitHub Repository",
-    "url": "https://github.com/basecamp/omarchy"
+    "url": "https://github.com/omacom/omarchy"
+  },
+  {
+    "name": "Omarchy Plugin Marketplace",
+    "url": "https://plugins.omarchy.org/"
+  },
+  {
+    "name": "Omarchy News",
+    "url": "https://omarchy.org/news/"
   },
   {
     "name": "Omarchy Discord Community",
-    "url": "https://discord.gg/tXFUdasqhY"
+    "url": "https://discord.com/invite/tXFUdasqhY"
   },
   {
     "name": "Omarchy X (Twitter)",
@@ -26,6 +34,18 @@
   {
     "name": "Omarchy Workstations",
     "url": "https://omarchy.org/workstations/"
+  },
+  {
+    "name": "Omarchy Security",
+    "url": "https://omarchy.org/security/"
+  },
+  {
+    "name": "Omarchy Meetups",
+    "url": "https://omarchy.org/meetups/"
+  },
+  {
+    "name": "Omarchy AIR",
+    "url": "https://omarchy.org/air/"
   },
   {
     "name": "Hardware Recommendations",

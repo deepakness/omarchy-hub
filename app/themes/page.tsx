@@ -106,7 +106,7 @@ export default function ThemesPage() {
               <div>
                 <h4 className="text-lg font-semibold text-blue font-mono mb-2">What Gets Styled</h4>
                 <p className="text-foreground/80 text-sm">
-                  Each theme styles desktop, terminal, Neovim, btop, notifications, waybar, walker, and hyprlock
+                  Each theme styles the desktop, terminal, Neovim, btop, and the entire Omarchy shell: top bar, menu, notifications, OSD, and the lock screen
                 </p>
               </div>
             </div>
@@ -115,7 +115,7 @@ export default function ThemesPage() {
                 For detailed theme information and customization options:
               </p>
               <a 
-                href="https://learn.omacom.io/2/the-omarchy-manual/52/themes"
+                href="https://omarchy.org/manual/themes/"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 className="text-blue hover:text-blue-hover transition-colors font-mono text-sm underline"

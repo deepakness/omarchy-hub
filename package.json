@@ -14,10 +14,10 @@
     "generate-docs": "node scripts/generate-docs.js"
   },
   "dependencies": {
-    "lucide-react": "^1.14.0",
-    "next": "^16.2.6",
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6",
+    "lucide-react": "^1.39.0",
+    "next": "^16.3.4",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
     "sharp": "^0.34.5"
   },
   "devDependencies": {
@@ -28,8 +28,8 @@
     "@types/react-dom": "^19.2.3",
     "baseline-browser-mapping": "^2.10.29",
     "eslint": "^9.39.4",
-    "eslint-config-next": "^16.2.6",
-    "tailwindcss": "^4.3.0",
+    "eslint-config-next": "^16.3.4",
+    "tailwindcss": "^4.3.3",
     "typescript": "^6.0.3"
   },
   "overrides": {
