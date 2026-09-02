@@ -7,7 +7,7 @@ Omarchy Hub is a Next.js site listing community themes, setups, and resources fo
 1. Download the screenshot (PNG/JPG) from the submitter's repo into `public/themes/<slug>-1.png` (slug = kebab-case theme name).
 2. Run `npm run optimize-images` — converts to WebP (1080px max width) and deletes the original.
 3. Add an entry to `data/themes.json` with the next sequential `id`, referencing only the `.webp` file in `screenshot` (e.g. `themes/noir-1.webp`).
-4. Add the new file's hash to `public/themes/.optimization-metadata.json` (format: `mtime-size`, e.g. `"noir-1.webp": "1786750168472-58054"`).
+4. Add the new file's hash to `public/themes/.optimization-metadata.json` (content SHA-256 hex, e.g. `"noir-1.webp": "db98afa543e0b97016f27394dcf4a0cdf635253b57c303330983d270a2959b85"`; `optimize-images` adds it automatically, so this step is normally not needed).
 5. Run `npm run generate-docs` — regenerates THEMES.md and README stats.
 6. Verify with `npm run build`.
 7. Commit and push, then close the issue with a thank-you comment linking to the live listing. The site is hosted at `https://omarchy.deepakness.com` (themes live at `https://omarchy.deepakness.com/themes`) — do not link to `omarchy.org`, which is the Omarchy project site, not the hub.
@@ -34,5 +34,5 @@ Omarchy Hub is a Next.js site listing community themes, setups, and resources fo
 
 ## Pitfalls
 
-- After `git pull`, mtime hashes in `.optimization-metadata.json` go stale and `optimize-images` re-processes every existing webp. Revert those unrelated changes (`git checkout -- public/themes/ public/setups/`) and keep only the new media file and its metadata entry.
-- `optimize-images` processes both `public/themes/` and `public/setups/`; if stale hashes trigger reprocessing of existing images, only the new image's changes (new `.webp` + its metadata line) should survive.
+- `optimize-images` processes both `public/themes/` and `public/setups/`; if unrelated reprocessing happens, only the new image's changes (new `.webp` + its metadata line) should survive — revert the rest (`git checkout -- public/themes/ public/setups/`).
+- Hashes are content-based (SHA-256), so `git pull`/checkouts no longer trigger spurious reprocessing.

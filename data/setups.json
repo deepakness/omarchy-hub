@@ -1475,5 +1475,19 @@
       "dual-monitor",
       "thinkpad"
     ]
+  },
+  {
+    "id": "112",
+    "name": "Newarr's White Standing Desk",
+    "description": "Clean minimal workspace with a single ultrawide on a monitor arm running Omarchy on a white standing desk.",
+    "screenshot": "setups/setup-112.webp",
+    "link": "https://github.com/Newarr",
+    "device": "Custom PC + Ultrawide on Arm",
+    "category": "Desktop",
+    "tags": [
+      "standing-desk",
+      "ultrawide",
+      "white"
+    ]
   }
 ]

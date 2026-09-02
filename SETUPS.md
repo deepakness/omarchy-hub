@@ -6,8 +6,8 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 111
-- **Desktop setups:** 67
+- **Total setups:** 112
+- **Desktop setups:** 68
 - **Laptop setups:** 43
 - **Tablet setups:** 1
 
@@ -1574,6 +1574,20 @@ Blue LED wall lighting over a dual-display battlestation running Omarchy on a Th
 **Tags:** `rgb`, `dual-monitor`, `thinkpad`
 
 **Source:** [View original post](https://x.com/ChShersh/status/2094443293455024314)
+
+---
+
+### 112. Newarr's White Standing Desk
+
+Clean minimal workspace with a single ultrawide on a monitor arm running Omarchy on a white standing desk.
+
+**Device:** Custom PC + Ultrawide on Arm
+
+<img src="/public/setups/setup-112.webp" alt="Newarr's White Standing Desk" width="450">
+
+**Tags:** `standing-desk`, `ultrawide`, `white`
+
+**Source:** [View original post](https://github.com/Newarr)
 
 
 ---
