@@ -6,9 +6,9 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 112
+- **Total setups:** 113
 - **Desktop setups:** 68
-- **Laptop setups:** 43
+- **Laptop setups:** 44
 - **Tablet setups:** 1
 
 ## About these setups
@@ -1588,6 +1588,20 @@ Clean minimal workspace with a single ultrawide on a monitor arm running Omarchy
 **Tags:** `standing-desk`, `ultrawide`, `white`
 
 **Source:** [View original post](https://github.com/Newarr)
+
+---
+
+### 113. Prithviraj's Minimal Student Setup
+
+Warm orange LED glow over a student desk with a TUF laptop, external monitor, and anime posters.
+
+**Device:** ASUS TUF F15 + Lenovo Legion R24e Monitor
+
+<img src="/public/setups/setup-113.webp" alt="Prithviraj's Minimal Student Setup" width="450">
+
+**Tags:** `minimal`, `asus-tuf`, `student`
+
+**Source:** [View original post](https://www.reddit.com/r/omarchy/comments/1w6zv4i/my_setup_as_a_student_in_a_college_hostel/)
 
 
 ---

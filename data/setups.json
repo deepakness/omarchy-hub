@@ -1489,5 +1489,19 @@
       "ultrawide",
       "white"
     ]
+  },
+  {
+    "id": "113",
+    "name": "Prithviraj's Minimal Student Setup",
+    "description": "Warm orange LED glow over a student desk with a TUF laptop, external monitor, and anime posters.",
+    "screenshot": "setups/setup-113.webp",
+    "link": "https://www.reddit.com/r/omarchy/comments/1w6zv4i/my_setup_as_a_student_in_a_college_hostel/",
+    "device": "ASUS TUF F15 + Lenovo Legion R24e Monitor",
+    "category": "Laptop",
+    "tags": [
+      "minimal",
+      "asus-tuf",
+      "student"
+    ]
   }
 ]
