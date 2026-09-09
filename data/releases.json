@@ -1,9 +1,17 @@
 [
   {
+    "tag": "v4.0.3",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.3",
+    "publishedAt": "2026-09-08T19:50:46Z",
+    "isLatest": true,
+    "changelog": "This release brings amazing out-of-the-box integration for both Hermes and Openclaw as well as additional set of security fixes that were validated and examined by the Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security . 🙏 You can upgrade existing machines with Update > Omarchy. Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.3.iso SHA256: 03d60bc74306dca51f96e1a84b...",
+    "description": "This release brings amazing out-of-the-box integration for both Hermes and Openclaw as well as additional set of securit..."
+  },
+  {
     "tag": "v4.0.2",
     "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.2",
     "publishedAt": "2026-08-31T03:42:33Z",
-    "isLatest": true,
+    "isLatest": false,
     "changelog": "This is an additional set of security fixes that were validated and examined by the Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security . 🙏 You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.2.iso SHA256: 2ef8e624aa1bec7e277e28056b8535a6c9373ba48d7ede3f1a01cb6d2373cfb8 Improvements Repair legacy paths and privile...",
     "description": "Improvements Repair legacy paths and privile"
   },
@@ -70,13 +78,5 @@
     "isLatest": false,
     "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Fixes Hotfix to remove lingering xe.enable_panel_replay=0 setting from KERNEL_CMDLINE by @ryanrhughes",
     "description": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space )."
-  },
-  {
-    "tag": "v3.7.0",
-    "url": "https://github.com/omacom/omarchy/releases/tag/v3.7.0",
-    "publishedAt": "2026-05-04T13:59:51Z",
-    "isLatest": false,
-    "changelog": "The Gaming Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.7.0-2.iso SHA256: f74c1ed2ab6d2164c530e97a10e8dc5debe72bd9aec32989c7354ecb406bea99 Features Add unified omarchy CLI by @ryanrhughes Add text extraction from anywhere on the screen via Trigger > Capture > Text Extract and Super + Ctrl + PrtScr using tereseract OCR by @Prajwal-Prathiksh Add monitor mirro...",
-    "description": "Features Add unified omarchy CLI by @ryanrhughes Add text extraction from anywhere on the screen via Trigger > Capture >..."
   }
 ]
