@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 99
+- **Total themes:** 100
 - **Official themes:** 21
-- **Community themes:** 78
-- **Dark themes:** 84
+- **Community themes:** 79
+- **Dark themes:** 85
 - **Light themes:** 15
 
 ## About these themes
@@ -1404,6 +1404,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `official`, `minimal`, `light`
 
 **Install:** [View theme repository](https://github.com/omacom/omarchy/tree/quattro/themes/white)
+
+---
+
+### 100. Turner
+
+**Category:** Dark Theme
+
+**Author:** simoz
+
+<img src="/public/themes/turner-1.webp" alt="Turner" width="450">
+
+**Tags:** `unofficial`, `dark`, `painting`
+
+**Install:** [View theme repository](https://github.com/simoz/omarchy-turner-theme)
 
 
 ---

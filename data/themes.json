@@ -1241,5 +1241,18 @@
       "minimal",
       "light"
     ]
+  },
+  {
+    "id": "100",
+    "name": "Turner",
+    "category": "Dark Theme",
+    "link": "https://github.com/simoz/omarchy-turner-theme",
+    "author": "simoz",
+    "screenshot": "themes/turner-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "painting"
+    ]
   }
 ]
