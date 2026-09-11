@@ -6,8 +6,8 @@ Welcome to the Omarchy community showcase! This page features amazing workstatio
 
 ## Statistics
 
-- **Total setups:** 113
-- **Desktop setups:** 68
+- **Total setups:** 114
+- **Desktop setups:** 69
 - **Laptop setups:** 44
 - **Tablet setups:** 1
 
@@ -1602,6 +1602,20 @@ Warm orange LED glow over a student desk with a TUF laptop, external monitor, an
 **Tags:** `minimal`, `asus-tuf`, `student`
 
 **Source:** [View original post](https://www.reddit.com/r/omarchy/comments/1w6zv4i/my_setup_as_a_student_in_a_college_hostel/)
+
+---
+
+### 114. Dmytro's Green Anime Ultrawide
+
+Curved ultrawide with a green anime cityscape, cream-and-red mechanical keyboard, and Yeelight bar.
+
+**Device:** Custom PC + Curved Ultrawide
+
+<img src="/public/setups/setup-114.webp" alt="Dmytro's Green Anime Ultrawide" width="450">
+
+**Tags:** `ultrawide`, `anime`, `mechanical-keyboard`
+
+**Source:** [View original post](https://x.com/gladimdim/status/2098024291769921953)
 
 
 ---

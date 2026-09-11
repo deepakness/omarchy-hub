@@ -1503,5 +1503,19 @@
       "asus-tuf",
       "student"
     ]
+  },
+  {
+    "id": "114",
+    "name": "Dmytro's Green Anime Ultrawide",
+    "description": "Curved ultrawide with a green anime cityscape, cream-and-red mechanical keyboard, and Yeelight bar.",
+    "screenshot": "setups/setup-114.webp",
+    "link": "https://x.com/gladimdim/status/2098024291769921953",
+    "device": "Custom PC + Curved Ultrawide",
+    "category": "Desktop",
+    "tags": [
+      "ultrawide",
+      "anime",
+      "mechanical-keyboard"
+    ]
   }
 ]
