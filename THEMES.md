@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 100
+- **Total themes:** 101
 - **Official themes:** 21
-- **Community themes:** 79
-- **Dark themes:** 85
+- **Community themes:** 80
+- **Dark themes:** 86
 - **Light themes:** 15
 
 ## About these themes
@@ -1418,6 +1418,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `painting`
 
 **Install:** [View theme repository](https://github.com/simoz/omarchy-turner-theme)
+
+---
+
+### 101. Outpost
+
+**Category:** Dark Theme
+
+**Author:** simoz
+
+<img src="/public/themes/outpost-1.webp" alt="Outpost" width="450">
+
+**Tags:** `unofficial`, `dark`, `pixel-art`
+
+**Install:** [View theme repository](https://github.com/simoz/omarchy-outpost-theme)
 
 
 ---

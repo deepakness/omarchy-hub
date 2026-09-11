@@ -1254,5 +1254,18 @@
       "dark",
       "painting"
     ]
+  },
+  {
+    "id": "101",
+    "name": "Outpost",
+    "category": "Dark Theme",
+    "link": "https://github.com/simoz/omarchy-outpost-theme",
+    "author": "simoz",
+    "screenshot": "themes/outpost-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "pixel-art"
+    ]
   }
 ]
