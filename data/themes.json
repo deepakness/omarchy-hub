@@ -1267,5 +1267,18 @@
       "dark",
       "pixel-art"
     ]
+  },
+  {
+    "id": "102",
+    "name": "Haven",
+    "category": "Light Theme",
+    "link": "https://github.com/simoz/omarchy-haven-theme",
+    "author": "simoz",
+    "screenshot": "themes/haven-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "pixel-art"
+    ]
   }
 ]

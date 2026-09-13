@@ -6,11 +6,11 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 101
+- **Total themes:** 102
 - **Official themes:** 21
-- **Community themes:** 80
+- **Community themes:** 81
 - **Dark themes:** 86
-- **Light themes:** 15
+- **Light themes:** 16
 
 ## About these themes
 
@@ -1432,6 +1432,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `pixel-art`
 
 **Install:** [View theme repository](https://github.com/simoz/omarchy-outpost-theme)
+
+---
+
+### 102. Haven
+
+**Category:** Light Theme
+
+**Author:** simoz
+
+<img src="/public/themes/haven-1.webp" alt="Haven" width="450">
+
+**Tags:** `unofficial`, `light`, `pixel-art`
+
+**Install:** [View theme repository](https://github.com/simoz/omarchy-haven-theme)
 
 
 ---
