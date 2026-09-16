@@ -1,12 +1,14 @@
 import Card from '../components/Card';
 import NavButton from '../components/NavButton';
+import PluginCard from '../components/PluginCard';
 import ReleaseCard from '../components/ReleaseCard';
-import { Globe, Palette, Monitor, BookOpen, GitPullRequest, Download, Tag } from 'lucide-react';
+import { Globe, Palette, Monitor, BookOpen, GitPullRequest, Download, Tag, Puzzle } from 'lucide-react';
 
 // Import data
 import themesData from '../data/themes.json';
 import setupsData from '../data/setups.json';
 import resourcesData from '../data/resources.json';
+import pluginsData from '../data/plugins.json';
 import linksData from '../data/links.json';
 import releasesData from '../data/releases.json';
 
@@ -20,6 +22,9 @@ export default function Home() {
   const featuredResources = [...resourcesData]
     .sort((a, b) => Number(b.id) - Number(a.id))
     .slice(0, 6);
+  const featuredPlugins = [...pluginsData]
+    .sort((a, b) => Number(b.id) - Number(a.id))
+    .slice(0, 3);
   const featuredReleases = releasesData.slice(0, 3);
   const latestRelease = releasesData.find(release => release.isLatest) || releasesData[0];
   const latestVersion = latestRelease?.tag?.replace('v', '') || '0.0.0';
@@ -46,7 +51,7 @@ export default function Home() {
               </div>
               
               <div className="text-base text-green mb-2">$ ls -la</div>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-foreground/80">
+              <div className="grid grid-cols-1 md:grid-cols-4 gap-4 text-foreground/80">
                 <div className="flex items-center gap-2">
                   <Monitor size={18} className="text-blue" />
                   <span className="text-base">{setupsData.length} setups/</span>
@@ -54,6 +59,10 @@ export default function Home() {
                 <div className="flex items-center gap-2">
                   <Palette size={18} className="text-blue" />
                   <span className="text-base">{themesData.length} themes/</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <Puzzle size={18} className="text-blue" />
+                  <span className="text-base">{pluginsData.length} plugins/</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <BookOpen size={18} className="text-blue" />
@@ -64,7 +73,7 @@ export default function Home() {
           </div>
 
           {/* Action Cards - Main CTAs */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
             <a href="#setups" className="pixel-card">
               <div className="flex items-center gap-4 py-2 md:flex-col md:text-center md:gap-0 md:py-3">
                 <Monitor size={24} className="text-blue md:mx-auto md:mb-2 flex-shrink-0" />
@@ -81,6 +90,15 @@ export default function Home() {
                 <div className="md:w-full">
                   <h3 className="font-mono font-bold text-green text-lg md:text-base md:mb-1">Discover Themes ({themesData.length})</h3>
                   <p className="text-foreground/70 text-sm hidden md:block">Color schemes & visual styles</p>
+                </div>
+              </div>
+            </a>
+            <a href="#plugins" className="pixel-card">
+              <div className="flex items-center gap-4 py-2 md:flex-col md:text-center md:gap-0 md:py-3">
+                <Puzzle size={24} className="text-blue md:mx-auto md:mb-2 flex-shrink-0" />
+                <div className="md:w-full">
+                  <h3 className="font-mono font-bold text-green text-lg md:text-base md:mb-1">Browse Plugins ({pluginsData.length})</h3>
+                  <p className="text-foreground/70 text-sm hidden md:block">Bar widgets & shell extensions</p>
                 </div>
               </div>
             </a>
@@ -182,6 +200,38 @@ export default function Home() {
                 link={theme.link}
                 screenshot={theme.screenshot}
                 screenshotAlt="Theme Screenshot"
+              />
+            ))}
+          </div>
+        </section>
+
+        {/* Plugins Section */}
+        <section id="plugins" className="mb-16">
+          <div className="flex items-center justify-between mb-6">
+            <div>
+              <h2 className="text-2xl font-bold text-green font-mono mb-1">Featured Plugins</h2>
+              <div className="w-12 h-1 bg-green rounded-full"></div>
+            </div>
+            <NavButton href="/plugins">
+              View All
+            </NavButton>
+          </div>
+          <p className="text-foreground/80 mb-8">
+            Hand-picked shell plugins for Omarchy 4, from bar widgets to overlays. Copy the install command and go.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {featuredPlugins.map((plugin) => (
+              <PluginCard
+                key={plugin.id}
+                name={plugin.name}
+                description={plugin.description}
+                kind={plugin.kind}
+                category={plugin.category}
+                author={plugin.author}
+                link={plugin.link}
+                install={plugin.install}
+                screenshot={plugin.screenshot}
+                tags={plugin.tags}
               />
             ))}
           </div>
@@ -314,6 +364,15 @@ export default function Home() {
             >
               <Palette size={18} className="text-blue flex-shrink-0" />
               <span className="font-mono text-base text-foreground">Submit Theme</span>
+            </a>
+            <a 
+              href="https://github.com/deepakness/omarchy-hub/issues/new?template=plugin-submission.yml"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              className="pixel-card flex items-center gap-3"
+            >
+              <Puzzle size={18} className="text-blue flex-shrink-0" />
+              <span className="font-mono text-base text-foreground">Submit Plugin</span>
             </a>
             <a 
               href="https://github.com/deepakness/omarchy-hub/issues/new?template=resource-submission.yml"

@@ -32,6 +32,12 @@ const Header = () => {
               Themes
             </Link>
             <Link 
+              href="/plugins" 
+              className="text-foreground hover:text-blue transition-colors font-mono"
+            >
+              Plugins
+            </Link>
+            <Link 
               href="/resources" 
               className="text-foreground hover:text-blue transition-colors font-mono"
             >
@@ -89,6 +95,12 @@ const Header = () => {
               className="text-foreground hover:text-blue transition-colors font-mono py-2"
             >
               Themes
+            </Link>
+            <Link 
+              href="/plugins" 
+              className="text-foreground hover:text-blue transition-colors font-mono py-2"
+            >
+              Plugins
             </Link>
             <Link 
               href="/resources" 
