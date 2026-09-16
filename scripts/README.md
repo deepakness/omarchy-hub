@@ -51,3 +51,27 @@ The releases data is automatically displayed on the homepage in a "Latest Releas
 - Short description
 - Publication date
 - Link to GitHub release page
+
+## optimize-images.js
+
+Converts every image in `public/setups/`, `public/themes/` and `public/plugins/` to WebP (1080px max width, quality 80), deletes the original file and records a content SHA-256 in the matching `.optimization-metadata.json`. Files whose hash is already recorded are skipped, so repeat runs are cheap and `git pull` never triggers reprocessing.
+
+### Usage
+
+```bash
+npm run optimize-images
+```
+
+Run it after adding a new setup, theme or plugin screenshot, then reference the `.webp` file in the matching `data/*.json` entry.
+
+## generate-docs.js
+
+Regenerates `SETUPS.md`, `THEMES.md`, `RESOURCES.md` and `PLUGINS.md` from the JSON files in `data/`, and updates the statistics line between the `<!--STATS:START-->` and `<!--STATS:END-->` markers in `README.md`.
+
+### Usage
+
+```bash
+npm run generate-docs
+```
+
+The generated markdown files are committed to the repository, so run this before committing new data.

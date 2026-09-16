@@ -1,12 +1,13 @@
 # Omarchy Hub
 
-A community-driven website for collecting and sharing themes, setups, resources, and links for [Omarchy](https://omarchy.org) - the beautiful, fun & agentic Linux distribution by DHH, built on Arch + Hyprland. <!--STATS:START-->
-Currently, omarchy-hub showcases **114 workstation setups**, **102 beautiful themes**, **14 useful resources** and more from the community.
+A community-driven website for collecting and sharing themes, setups, plugins, resources, and links for [Omarchy](https://omarchy.org) - the beautiful, fun & agentic Linux distribution by DHH, built on Arch + Hyprland. <!--STATS:START-->
+Currently, omarchy-hub showcases **114 workstation setups**, **102 beautiful themes**, **14 useful resources**, **14 shell plugins** and more from the community.
 <!--STATS:END-->
 
 🌐 **Live website**: [omarchy.deepakness.com](https://omarchy.deepakness.com)  
 📸 **Workstation setup gallery**: [SETUPS.md](SETUPS.md)  
 🎨 **Theme collection**: [THEMES.md](THEMES.md)
+🧩 **Plugin collection**: [PLUGINS.md](PLUGINS.md)
 
 <!-- Badges -->
 
@@ -26,6 +27,9 @@ Currently, omarchy-hub showcases **114 workstation setups**, **102 beautiful the
 │   ├── setups/             # Setups section
 │   │   ├── layout.tsx      # Setups layout
 │   │   └── page.tsx        # Setups listing page
+│   ├── plugins/            # Plugins section
+│   │   ├── layout.tsx      # Plugins layout
+│   │   └── page.tsx        # Plugins listing page
 │   └── resources/          # Resources section
 │       ├── layout.tsx      # Resources layout
 │       └── page.tsx        # Resources listing page
@@ -33,16 +37,20 @@ Currently, omarchy-hub showcases **114 workstation setups**, **102 beautiful the
 │   ├── themes.json         # Themes data
 │   ├── setups.json         # Setups data
 │   ├── resources.json      # Resources data
+│   ├── plugins.json        # Plugins data
 │   ├── releases.json       # Omarchy releases, scrapes automatically
 │   └── links.json          # Links data
 ├── scripts/                # Automation scripts
 │   ├── generate-docs.js    # Generate documentation from JSON data
 │   ├── fetch-releases.js   # Fetch latest Omarchy releases
-│   └── optimize-images.js  # Optimize setup images
+│   └── optimize-images.js  # Optimize setup, theme and plugin images
 ├── public/                 # Static assets
-│   └── setups/             # Setup screenshots
+│   ├── setups/             # Setup screenshots
+│   ├── themes/             # Theme screenshots
+│   └── plugins/            # Plugin screenshots
 ├── SETUPS.md               # Setup gallery
 ├── THEMES.md               # Theme collection
+├── PLUGINS.md              # Plugin collection
 ├── RESOURCES.md            # Resources collection
 └── CONTRIBUTING.md         # Contribution guidelines
 ```
@@ -58,6 +66,7 @@ We welcome contributions from the community! There are several ways to contribut
 
 - 🖥️ **[Submit a Setup](https://github.com/deepakness/omarchy-hub/issues/new?template=setup-submission.yml)** - Share your Omarchy workstation
 - 🎨 **[Submit a Theme](https://github.com/deepakness/omarchy-hub/issues/new?template=theme-submission.yml)** - Share custom color schemes
+- 🧩 **[Submit a Plugin](https://github.com/deepakness/omarchy-hub/issues/new?template=plugin-submission.yml)** - Share shell plugins for Omarchy 4
 - 📚 **[Submit a Resource](https://github.com/deepakness/omarchy-hub/issues/new?template=resource-submission.yml)** - Share guides and tutorials
 - 🔗 **[Submit a Link](https://github.com/deepakness/omarchy-hub/issues/new?template=link-submission.yml)** - Suggest useful links
 
@@ -96,6 +105,22 @@ We welcome contributions from the community! There are several ways to contribut
   "author": "Author Name",
   "screenshot": "https://screenshot-url.com",
   "tags": ["official", "popular"]
+}
+```
+
+**Plugins** (`data/plugins.json`):
+```json
+{
+  "id": "unique-id",
+  "name": "Plugin Name",
+  "description": "Brief one-line description of the plugin",
+  "kind": "bar-widget | panel | overlay | menu | service | bar | suite",
+  "category": "Widgets | Productivity | System | Hardware | Appearance | Desktop | Developer Tools",
+  "author": "GitHub username",
+  "link": "https://github.com/username/omarchy-plugin",
+  "install": "omarchy plugin add https://github.com/username/omarchy-plugin.git --enable",
+  "screenshot": "plugins/plugin-name-1.webp",
+  "tags": ["bar", "productivity"]
 }
 ```
 

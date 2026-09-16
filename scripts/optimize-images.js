@@ -9,11 +9,13 @@ const __dirname = path.dirname(__filename);
 
 const setupsDir = path.join(__dirname, '..', 'public', 'setups');
 const themesDir = path.join(__dirname, '..', 'public', 'themes');
+const pluginsDir = path.join(__dirname, '..', 'public', 'plugins');
 const maxWidth = 1080;
 const webpQuality = 80;
 const webpEffort = 6;
 const setupsMetadataFile = path.join(__dirname, '..', 'public', 'setups', '.optimization-metadata.json');
 const themesMetadataFile = path.join(__dirname, '..', 'public', 'themes', '.optimization-metadata.json');
+const pluginsMetadataFile = path.join(__dirname, '..', 'public', 'plugins', '.optimization-metadata.json');
 
 // Supported image formats (input formats to convert)
 const supportedFormats = /\.(jpe?g|png|webp|tiff|gif|avif)$/i;
@@ -25,10 +27,14 @@ if (!fs.existsSync(setupsDir)) {
 if (!fs.existsSync(themesDir)) {
   fs.mkdirSync(themesDir, { recursive: true });
 }
+if (!fs.existsSync(pluginsDir)) {
+  fs.mkdirSync(pluginsDir, { recursive: true });
+}
 
 // Load or create optimization metadata
 let setupsMetadata = {};
 let themesMetadata = {};
+let pluginsMetadata = {};
 
 if (fs.existsSync(setupsMetadataFile)) {
   try {
@@ -45,6 +51,15 @@ if (fs.existsSync(themesMetadataFile)) {
   } catch {
     console.warn('Warning: Could not read themes optimization metadata, starting fresh');
     themesMetadata = {};
+  }
+}
+
+if (fs.existsSync(pluginsMetadataFile)) {
+  try {
+    pluginsMetadata = JSON.parse(fs.readFileSync(pluginsMetadataFile, 'utf8'));
+  } catch {
+    console.warn('Warning: Could not read plugins optimization metadata, starting fresh');
+    pluginsMetadata = {};
   }
 }
 
@@ -229,11 +244,14 @@ const processImages = async () => {
   // Process themes directory
   const themesResults = await processDirectory(themesDir, 'themes', themesMetadata, themesMetadataFile);
 
+  // Process plugins directory
+  const pluginsResults = await processDirectory(pluginsDir, 'plugins', pluginsMetadata, pluginsMetadataFile);
+
   // Calculate totals
-  const totalProcessed = setupsResults.processedCount + themesResults.processedCount;
-  const totalSkipped = setupsResults.skippedCount + themesResults.skippedCount;
-  const totalErrors = setupsResults.errorCount + themesResults.errorCount;
-  const totalSizeReduction = setupsResults.totalSizeReduction + themesResults.totalSizeReduction;
+  const totalProcessed = setupsResults.processedCount + themesResults.processedCount + pluginsResults.processedCount;
+  const totalSkipped = setupsResults.skippedCount + themesResults.skippedCount + pluginsResults.skippedCount;
+  const totalErrors = setupsResults.errorCount + themesResults.errorCount + pluginsResults.errorCount;
+  const totalSizeReduction = setupsResults.totalSizeReduction + themesResults.totalSizeReduction + pluginsResults.totalSizeReduction;
 
   console.log('\n📊 Optimization Summary:');
   console.log(`   Setups - Processed: ${setupsResults.processedCount}, Skipped: ${setupsResults.skippedCount}, Errors: ${setupsResults.errorCount}`);
@@ -243,6 +261,10 @@ const processImages = async () => {
   console.log(`   Themes - Processed: ${themesResults.processedCount}, Skipped: ${themesResults.skippedCount}, Errors: ${themesResults.errorCount}`);
   if (themesResults.totalSizeReduction > 0) {
     console.log(`            Size reduction: ${formatFileSize(themesResults.totalSizeReduction)}`);
+  }
+  console.log(`   Plugins - Processed: ${pluginsResults.processedCount}, Skipped: ${pluginsResults.skippedCount}, Errors: ${pluginsResults.errorCount}`);
+  if (pluginsResults.totalSizeReduction > 0) {
+    console.log(`            Size reduction: ${formatFileSize(pluginsResults.totalSizeReduction)}`);
   }
   console.log(`   Total - Processed: ${totalProcessed}, Skipped: ${totalSkipped}, Errors: ${totalErrors}`);
   if (totalSizeReduction > 0) {
