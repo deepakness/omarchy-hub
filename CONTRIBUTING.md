@@ -10,6 +10,7 @@ You can contribute by adding new content to any of these categories:
 
 - **Setups**: Share your Omarchy workstation configurations
 - **Themes**: Submit custom color schemes and visual themes  
+- **Plugins**: Submit shell plugins for Omarchy 4
 - **Resources**: Add helpful documentation, guides, and tutorials
 - **Links**: Suggest useful Omarchy-related links
 
@@ -21,6 +22,7 @@ You can contribute by adding new content to any of these categories:
 3. Choose the appropriate template:
    - 🖥️ **Setup Submission**
    - 🎨 **Theme Submission** 
+   - 🧩 **Plugin Submission**
    - 📚 **Resource Submission**
    - 🔗 **Link Submission**
 4. Fill out the template with your content details
@@ -91,6 +93,40 @@ You can contribute by adding new content to any of these categories:
 }
 ```
 
+### Plugin Submissions
+
+**Required Information:**
+- Plugin name
+- Brief one-line description
+- Kind (Bar Widget, Panel, Overlay, Menu, Service, Bar, Shell Suite)
+- Category (Widgets, Productivity, System, Hardware, Appearance, Desktop, Developer Tools)
+- Author (GitHub username)
+- Link to the public plugin repository
+- Install command
+- Screenshot (optional, but a plugin without one gets a text-only card)
+- Relevant tags
+
+**Requirements:**
+- The plugin should be installable with `omarchy plugin add <repo>`, or have clear setup steps in its README
+- The plugin repository should include a valid `manifest.json`
+- Plugins run unsandboxed inside the Omarchy shell process, so only submit code you are happy for people to run
+
+**Data Structure:**
+```json
+{
+  "id": "unique-id",
+  "name": "Plugin Name",
+  "description": "Brief one-line description of the plugin",
+  "kind": "bar-widget",
+  "category": "Widgets",
+  "author": "GitHub username",
+  "link": "https://github.com/username/omarchy-plugin",
+  "install": "omarchy plugin add https://github.com/username/omarchy-plugin.git --enable",
+  "screenshot": "plugins/plugin-name-1.webp",
+  "tags": ["bar", "productivity"]
+}
+```
+
 ### Resource Submissions
 
 **Required Information:**
@@ -143,6 +179,12 @@ You can contribute by adding new content to any of these categories:
 2. **Resolution**: Minimum 1920x1080
 3. **Content**: Show the theme in action (desktop, terminal, applications)
 4. **Hosting**: Can be hosted on GitHub, Imgur, or other reliable CDN
+
+### For Plugin Screenshots
+1. **File Format**: PNG, JPG or WebP
+2. **Resolution**: 1600x900 or higher
+3. **Content**: Show the plugin running on an Omarchy desktop
+4. **Note**: Screenshots are copied into `public/plugins/` as `<slug>-1.webp` and optimized with `npm run optimize-images`
 
 ## Review Process
 

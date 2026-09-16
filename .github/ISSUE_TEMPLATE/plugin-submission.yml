@@ -1,0 +1,127 @@
+name: 🧩 Plugin Submission
+description: Submit an Omarchy shell plugin to be listed on the website
+title: "[PLUGIN] Your Plugin Name"
+labels: ["plugin", "submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for sharing your Omarchy plugin! Please fill out the form below.
+
+        Plugins run unsandboxed inside the long-lived Omarchy shell process, so people will want to read the source before they enable it.
+
+  - type: input
+    id: plugin-name
+    attributes:
+      label: Plugin Name
+      description: The name of your plugin, as it appears in its manifest
+      placeholder: "e.g., Omapager, Time Machine"
+    validations:
+      required: true
+
+  - type: input
+    id: plugin-description
+    attributes:
+      label: Plugin Description
+      description: Brief one-line description of what the plugin does
+      placeholder: "e.g., Rich notifications for Omarchy with inline reply and snooze"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: plugin-kind
+    attributes:
+      label: Plugin Kind
+      description: The kind declared in your plugin's manifest.json
+      options:
+        - Bar Widget
+        - Panel
+        - Overlay
+        - Menu
+        - Service
+        - Bar
+        - Shell Suite
+    validations:
+      required: true
+
+  - type: dropdown
+    id: plugin-category
+    attributes:
+      label: Plugin Category
+      description: Which category fits the plugin best?
+      options:
+        - Widgets
+        - Productivity
+        - System
+        - Hardware
+        - Appearance
+        - Desktop
+        - Developer Tools
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: author-name
+    attributes:
+      label: Author Name
+      description: Your name or GitHub username
+      placeholder: "e.g., @njpatel"
+    validations:
+      required: true
+
+  - type: input
+    id: plugin-repo
+    attributes:
+      label: Plugin Repository URL
+      description: Link to the public git repository (it should contain a manifest.json at its root)
+      placeholder: "https://github.com/username/omarchy-plugin"
+    validations:
+      required: true
+
+  - type: input
+    id: install-command
+    attributes:
+      label: Install Command
+      description: The command that installs and enables the plugin
+      placeholder: "omarchy plugin add https://github.com/username/omarchy-plugin.git --enable"
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags (e.g., bar, media, productivity)
+      placeholder: "bar, media, productivity"
+    validations:
+      required: true
+
+  - type: input
+    id: screenshot-url
+    attributes:
+      label: Screenshot URL (Optional)
+      description: External URL to a screenshot showing the plugin in action
+      placeholder: "https://example.com/plugin-screenshot.png"
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        **Screenshot**: You can either upload a screenshot directly to this issue or provide an external URL above. Desktop screenshots work best; portrait screenshots are fine too.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      description: Please confirm the following
+      options:
+        - label: I have read the contribution guidelines
+          required: true
+        - label: The repository is public and includes a valid manifest.json
+          required: true
+        - label: The install command has been tested and works
+          required: true
+        - label: I have permission to share this content
+          required: true

@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Omarchy Hub is a Next.js site listing community themes, setups, and resources for [Omarchy](https://omarchy.org). Content lives in `data/*.json`. Use npm.
+Omarchy Hub is a Next.js site listing community themes, setups, plugins, and resources for [Omarchy](https://omarchy.org). Content lives in `data/*.json`. Use npm.
 
 ## Adding a theme (from a GitHub issue)
 
@@ -21,18 +21,29 @@ Omarchy Hub is a Next.js site listing community themes, setups, and resources fo
 5. Verify with `npm run build`.
 6. Commit and push. Setups live at `https://omarchy.deepakness.com/setups` — do not link to `omarchy.org`.
 
+## Adding a plugin (from a GitHub issue)
+
+1. Download or copy a screenshot (PNG/JPG/WebP) into `public/plugins/<slug>-1.<ext>` (slug = kebab-case plugin name). The plugin's own README and the marketplace catalog at `https://plugins.omarchy.org/catalog.json` both have preview images; portrait screenshots are fine, because plugin cards letterbox rather than crop.
+2. Run `npm run optimize-images` — converts to WebP (1080px max width), deletes the original and updates `public/plugins/.optimization-metadata.json`.
+3. Add an entry to `data/plugins.json` with the next sequential `id`, referencing only the `.webp` file in `screenshot` (e.g. `plugins/omapager-1.webp`). Set `install` to the command that actually works: copy it from the plugin's README or the marketplace `installCommand` field, and check it, since monorepo plugins and plugins that need an extra package differ from the plain `omarchy plugin add <repo> --enable` form.
+4. Run `npm run generate-docs` — regenerates PLUGINS.md and README stats.
+5. Verify with `npm run build`.
+6. Commit and push, then close the issue with a thank-you comment linking to the live listing. Plugins live at `https://omarchy.deepakness.com/plugins` — do not link to `omarchy.org`.
+
 ## Maintenance scripts
 
 - `npm run fetch-releases` — updates `data/releases.json` from GitHub. Run before committing when origin has newer release-sync commits.
-- `npm run generate-docs` — regenerates SETUPS.md, THEMES.md, RESOURCES.md, and README stats.
+- `npm run generate-docs` — regenerates SETUPS.md, THEMES.md, RESOURCES.md, PLUGINS.md, and README stats.
 
 ## Conventions
 
 - Tags: keep them short — start with `unofficial`, then 2–3 tags trimmed from the issue (hyphenate multi-word tags, e.g. `pure-black`). Follow recent entries in `data/themes.json`.
 - Author: plain GitHub username; link: repo URL without `.git`.
 - Setups: plain username or name in the entry `name`; `device` summarizes the hardware from the tweet; tags follow entries in `data/setups.json` (e.g. `rgb`, `dual-monitor`, `thinkpad`).
+- Plugins: `kind` is one of `bar-widget`, `panel`, `overlay`, `menu`, `service`, `bar`, `suite`, taken from the plugin's `manifest.json`; `category` follows the marketplace vocabulary (Widgets, Productivity, System, Hardware, Appearance, Desktop, Developer Tools); `link` is the repo URL without `.git`; entry descriptions are one factual line, no marketing copy.
 
 ## Pitfalls
 
-- `optimize-images` processes both `public/themes/` and `public/setups/`; if unrelated reprocessing happens, only the new image's changes (new `.webp` + its metadata line) should survive — revert the rest (`git checkout -- public/themes/ public/setups/`).
+- `optimize-images` processes `public/themes/`, `public/setups/` and `public/plugins/`; if unrelated reprocessing happens, only the new image's changes (new `.webp` + its metadata line) should survive — revert the rest (`git checkout -- public/themes/ public/setups/ public/plugins/`).
+- Plugin screenshots are stored as `plugins/<slug>-1.webp` and rendered straight from the site (no `i0.wp.com` prefix), so they resolve in local dev as well as in production.
 - Hashes are content-based (SHA-256), so `git pull`/checkouts no longer trigger spurious reprocessing.
