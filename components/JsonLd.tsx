@@ -31,7 +31,7 @@ export function WebSiteJsonLd() {
       data={{
         name: 'Omarchy Hub',
         url: 'https://omarchy.deepakness.com',
-        description: 'Community hub for Omarchy Linux themes, setups, and resources. Discover beautiful desktop configurations, color schemes, and helpful guides.',
+        description: 'Community hub for Omarchy Linux themes, setups, plugins, and resources. Discover beautiful desktop configurations, color schemes, and helpful guides.',
         publisher: {
           '@type': 'Organization',
           name: 'Omarchy Hub',
