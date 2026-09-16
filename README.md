@@ -6,7 +6,7 @@ Currently, omarchy-hub showcases **114 workstation setups**, **102 beautiful the
 
 🌐 **Live website**: [omarchy.deepakness.com](https://omarchy.deepakness.com)  
 📸 **Workstation setup gallery**: [SETUPS.md](SETUPS.md)  
-🎨 **Theme collection**: [THEMES.md](THEMES.md)
+🎨 **Theme collection**: [THEMES.md](THEMES.md)  
 🧩 **Plugin collection**: [PLUGINS.md](PLUGINS.md)
 
 <!-- Badges -->
