@@ -1,9 +1,17 @@
 [
   {
+    "tag": "v4.0.4",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.4",
+    "publishedAt": "2026-09-15T21:39:29Z",
+    "isLatest": true,
+    "changelog": "This release brings our bespoke kernel to everyone. The Omarchy kernel is tuned to keep the desktop responsive and multitasking smooth, even under heavy load or memory pressure. It improves gaming compatibility, enables smoother gaming on supported AMD HDMI displays, speeds up common Btrfs file operations, and refines power management. It also fixes everyday hardware frustrations, including missing audio, unresponsive touchpads, display freezes, and slow startup or resume on affected machines. Y...",
+    "description": "This release brings our bespoke kernel to everyone."
+  },
+  {
     "tag": "v4.0.3",
     "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.3",
     "publishedAt": "2026-09-08T19:50:46Z",
-    "isLatest": true,
+    "isLatest": false,
     "changelog": "This release brings amazing out-of-the-box integration for both Hermes and Openclaw as well as additional set of security fixes that were validated and examined by the Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security . 🙏 You can upgrade existing machines with Update > Omarchy. Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.3.iso SHA256: 03d60bc74306dca51f96e1a84b...",
     "description": "This release brings amazing out-of-the-box integration for both Hermes and Openclaw as well as additional set of securit..."
   },
@@ -70,13 +78,5 @@
     "isLatest": false,
     "changelog": "The Defaults Edition Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.0.iso SHA256: a9b271e8884dc123f0787e10cff3153dca7361cc6583edd1a3baa283a031f872 Features Add setting reminders via Super + Ctrl + R , seeing all the ones set via Super + Ctrl + Alt + R , and clearing all via Super + Ctrl + Shift + R . Everything also accessible via Trigger > Reminder by @dhh Add liv...",
     "description": "Features Add setting reminders via Super + Ctrl + R , seeing all the ones set via Super + Ctrl + Alt + R , and clearing..."
-  },
-  {
-    "tag": "v3.7.1",
-    "url": "https://github.com/omacom/omarchy/releases/tag/v3.7.1",
-    "publishedAt": "2026-05-04T23:53:20Z",
-    "isLatest": false,
-    "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Fixes Hotfix to remove lingering xe.enable_panel_replay=0 setting from KERNEL_CMDLINE by @ryanrhughes",
-    "description": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space )."
   }
 ]
