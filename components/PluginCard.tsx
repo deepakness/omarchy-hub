@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { Check, Copy, Globe } from 'lucide-react';
+import { getImageUrl } from './imageUrl';
 
 // Display names for the plugin kinds declared in a plugin's manifest.json.
 // See https://omarchy.org/manual/shell-plugins/ for the kind list.
@@ -55,13 +56,8 @@ export default function PluginCard({
     rel: 'noopener noreferrer nofollow',
   } as const;
 
-  // Plugin screenshots are local files in public/plugins/, so they are served
-  // from the site itself and resolve in development as well as in production.
-  const imageSrc = screenshot
-    ? screenshot.startsWith('http')
-      ? screenshot
-      : `/${screenshot.replace(/^\//, '')}`
-    : null;
+  // Plugin screenshots go through the same CDN as theme and setup images.
+  const imageSrc = screenshot ? getImageUrl(screenshot) : null;
 
   // Repo link text: drop the scheme so the line stays readable and short.
   const displayUrl = link.replace(/^https?:\/\//, '').replace(/\/$/, '');

@@ -45,5 +45,6 @@ Omarchy Hub is a Next.js site listing community themes, setups, plugins, and res
 ## Pitfalls
 
 - `optimize-images` processes `public/themes/`, `public/setups/` and `public/plugins/`; if unrelated reprocessing happens, only the new image's changes (new `.webp` + its metadata line) should survive — revert the rest (`git checkout -- public/themes/ public/setups/ public/plugins/`).
-- Plugin screenshots are stored as `plugins/<slug>-1.webp` and rendered straight from the site (no `i0.wp.com` prefix), so they resolve in local dev as well as in production.
+- Every screenshot (theme, setup and plugin) is rendered through the `i0.wp.com` CDN by `components/imageUrl.ts`, so a brand-new image only appears once the file is deployed and the CDN has fetched it. Check new screenshots on the deployed site, not just in local dev.
+- The CDN caches by URL for about two years, so never replace a screenshot's content under the same filename — add a new file (`<slug>-2.webp`) and update the entry instead.
 - Hashes are content-based (SHA-256), so `git pull`/checkouts no longer trigger spurious reprocessing.
