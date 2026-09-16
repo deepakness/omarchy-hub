@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1",
+    "name": "FileBlade",
+    "description": "Customizable IDE-like sidebars for managing files and referencing information while you work.",
+    "kind": "service",
+    "category": "Developer Tools",
+    "author": "data-goblin",
+    "link": "https://github.com/data-goblin/fileblade",
+    "install": "omarchy plugin add https://github.com/data-goblin/fileblade.git --enable",
+    "screenshot": "plugins/fileblade-1.webp",
+    "tags": [
+      "files",
+      "sidebar",
+      "dev-tools"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Okomart",
+    "description": "A storefront and manager to browse, install, enable, update and remove Omarchy plugins from inside the shell.",
+    "kind": "panel",
+    "category": "System",
+    "author": "brianblakely",
+    "link": "https://github.com/brianblakely/omarchy-plugins",
+    "install": "omarchy plugin add https://github.com/brianblakely/omarchy-plugins.git --enable",
+    "screenshot": "plugins/okomart-1.webp",
+    "tags": [
+      "plugins",
+      "store",
+      "manager"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Omaland",
+    "description": "Edit Hyprland's visual look and feel from a panel, with live preview.",
+    "kind": "panel",
+    "category": "Appearance",
+    "author": "bobby-nicholas",
+    "link": "https://github.com/bobby-nicholas/omaland",
+    "install": "omarchy plugin add https://github.com/bobby-nicholas/omaland.git --enable",
+    "screenshot": "plugins/omaland-1.webp",
+    "tags": [
+      "hyprland",
+      "look-and-feel",
+      "panel"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Omapager",
+    "description": "A stacking, grouping replacement for Omarchy notifications, with inline reply, source icons and per-source snooze.",
+    "kind": "bar-widget",
+    "category": "Desktop",
+    "author": "njpatel",
+    "link": "https://github.com/njpatel/omapager",
+    "install": "omarchy plugin add https://github.com/njpatel/omapager.git --enable",
+    "screenshot": "plugins/omapager-1.webp",
+    "tags": [
+      "notifications",
+      "desktop",
+      "bar"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "hyprmoncfg",
+    "description": "Saves a monitor profile per setup and applies it automatically on hotplug, lid events and resume, with an editor for scale, HDR, brightness and rotation.",
+    "kind": "bar-widget",
+    "category": "Hardware",
+    "author": "crmne",
+    "link": "https://github.com/crmne/omarchy-hyprmoncfg",
+    "install": "omarchy plugin add https://github.com/crmne/omarchy-hyprmoncfg.git --enable",
+    "screenshot": "plugins/hyprmoncfg-1.webp",
+    "tags": [
+      "monitors",
+      "multi-monitor",
+      "hyprland"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Omastorm",
+    "description": "Live NEXRAD weather radar on your desktop, built with Rust and Quickshell.",
+    "kind": "bar-widget",
+    "category": "Widgets",
+    "author": "wesleygrimes",
+    "link": "https://github.com/wesleygrimes/omastorm",
+    "install": "omarchy plugin add https://github.com/wesleygrimes/omastorm.git --enable",
+    "screenshot": "plugins/omastorm-1.webp",
+    "tags": [
+      "weather",
+      "radar",
+      "bar"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Infomarchy",
+    "description": "Turns the wallpaper into a live information desk for AI sessions, rate limits, repository health, Ollama controls and machine telemetry.",
+    "kind": "overlay",
+    "category": "Desktop",
+    "author": "nixfred",
+    "link": "https://github.com/nixfred/infomarchy",
+    "install": "omarchy plugin add https://github.com/nixfred/infomarchy.git --enable --yes",
+    "screenshot": "plugins/infomarchy-1.webp",
+    "tags": [
+      "ai",
+      "wallpaper",
+      "overlay"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Time Machine",
+    "description": "Scheduled restic backups with a destination picker and a snapshot browser in the bar.",
+    "kind": "bar-widget",
+    "category": "System",
+    "author": "jankeesvw",
+    "link": "https://github.com/jankeesvw/omarchy-time-machine",
+    "install": "omarchy plugin add https://github.com/jankeesvw/omarchy-time-machine.git --enable",
+    "screenshot": "plugins/time-machine-1.webp",
+    "tags": [
+      "backups",
+      "restic",
+      "system"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Mihoro",
+    "description": "Control the Mihomo (Clash.Meta) proxy core from the bar: node selection with delay tests, TUN toggling and subscription switching.",
+    "kind": "bar-widget",
+    "category": "Widgets",
+    "author": "huacnlee",
+    "link": "https://github.com/huacnlee/omarchy-mihoro",
+    "install": "omarchy plugin add https://github.com/huacnlee/omarchy-mihoro.git --enable",
+    "screenshot": "plugins/mihoro-1.webp",
+    "tags": [
+      "proxy",
+      "clash",
+      "network"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Lock Screen Explorer",
+    "description": "Lock screen designs with a picker to preview and switch between them, plus a designer for building your own.",
+    "kind": "overlay",
+    "category": "Appearance",
+    "author": "SirJul1337",
+    "link": "https://github.com/SirJul1337/omarchy-lock-explorer",
+    "install": "omarchy plugin add https://github.com/SirJul1337/omarchy-lock-explorer.git --enable",
+    "screenshot": "plugins/lock-screen-explorer-1.webp",
+    "tags": [
+      "lock-screen",
+      "designs",
+      "customization"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "AirPods",
+    "description": "AirPods in the bar: per-bud and case battery, listening mode, adaptive noise level and one-bud ANC.",
+    "kind": "bar-widget",
+    "category": "Hardware",
+    "author": "thisisgm",
+    "link": "https://github.com/thisisgm/omarchy-pods",
+    "install": "omarchy plugin add https://github.com/thisisgm/omarchy-pods --enable",
+    "screenshot": "plugins/airpods-1.webp",
+    "tags": [
+      "airpods",
+      "bluetooth",
+      "hardware"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Omarchy Spotify",
+    "description": "Spotify in the shell with a mini player and keyboard shortcuts. About 60 MB of RAM instead of the desktop client's 950 MB.",
+    "kind": "bar-widget",
+    "category": "Widgets",
+    "author": "stappmus",
+    "link": "https://github.com/stappmus/Omarchy-Spotify",
+    "install": "omarchy plugin add https://github.com/stappmus/Omarchy-Spotify.git --enable",
+    "screenshot": "plugins/omarchy-spotify-1.webp",
+    "tags": [
+      "spotify",
+      "music",
+      "bar"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Omamail",
+    "description": "Read, triage and reply to Gmail, HEY, JMAP and IMAP mail in a native window, with several accounts at once.",
+    "kind": "bar-widget",
+    "category": "Productivity",
+    "author": "huacnlee",
+    "link": "https://github.com/huacnlee/omamail",
+    "install": "omarchy plugin add https://github.com/huacnlee/omamail.git --enable",
+    "screenshot": "plugins/omamail-1.webp",
+    "tags": [
+      "email",
+      "productivity",
+      "bar"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "AI Usage",
+    "description": "Live Claude, Codex, GLM and OpenRouter plan usage and balances in the panel, with reset countdowns and provider tabs.",
+    "kind": "bar-widget",
+    "category": "Widgets",
+    "author": "akitaonrails",
+    "link": "https://github.com/akitaonrails/ai-usagebar",
+    "install": "omarchy pkg aur add ai-usagebar-bin && omarchy plugin add https://github.com/akitaonrails/ai-usagebar.git --enable",
+    "screenshot": "plugins/ai-usage-1.webp",
+    "tags": [
+      "ai",
+      "usage",
+      "bar"
+    ]
+  }
+]
