@@ -174,6 +174,18 @@ A two-panel TUI (Terminal User Interface) debloater and optimizer for Omarchy Li
 
 **Link:** [View resource](https://github.com/DanielCoffey1/a-la-carchy)
 
+---
+
+### 16. Grabbar
+
+Window title-strip controls and a minimized-window drawer for Omarchy Quattro, plus a native Hyprland plugin (preview).
+
+**Category:** Tool
+
+**Author:** Greyforge Labs
+
+**Link:** [View resource](https://github.com/GreyforgeLabs/omarchy-grabbar)
+
 
 ---
 

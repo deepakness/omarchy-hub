@@ -179,5 +179,18 @@
       "debloat",
       "optimize"
     ]
+  },
+  {
+    "id": "16",
+    "name": "Grabbar",
+    "description": "Window title-strip controls and a minimized-window drawer for Omarchy Quattro, plus a native Hyprland plugin (preview).",
+    "category": "Tool",
+    "link": "https://github.com/GreyforgeLabs/omarchy-grabbar",
+    "author": "Greyforge Labs",
+    "tags": [
+      "window-management",
+      "hyprland",
+      "quickshell"
+    ]
   }
 ]
