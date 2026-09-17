@@ -6,8 +6,8 @@ Welcome to the collection of Omarchy plugins! This page showcases hand-picked sh
 
 ## Statistics
 
-- **Total plugins:** 14
-- **Bar widgets:** 9
+- **Total plugins:** 15
+- **Bar widgets:** 10
 - **Panels:** 2
 - **Overlays:** 2
 - **Services:** 1
@@ -355,6 +355,30 @@ omarchy pkg aur add ai-usagebar-bin && omarchy plugin add https://github.com/aki
 ```
 
 **Source:** [View plugin repository](https://github.com/akitaonrails/ai-usagebar)
+
+---
+
+### 15. Vessel
+
+A marine radar for Omarchy. Put a name to the boats on your horizon, with a little robot keeping watch.
+
+**Kind:** Bar widgets
+
+**Category:** Widgets
+
+**Author:** simoz
+
+<img src="/public/plugins/vessel-1.webp" alt="Vessel" width="450">
+
+**Tags:** `marine`, `radar`, `ais`
+
+**Install:**
+
+```bash
+omarchy plugin add https://github.com/simoz/omarchy-vessel.git --enable
+```
+
+**Source:** [View plugin repository](https://github.com/simoz/omarchy-vessel)
 
 
 ---

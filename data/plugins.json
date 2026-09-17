@@ -222,5 +222,21 @@
       "usage",
       "bar"
     ]
+  },
+  {
+    "id": "15",
+    "name": "Vessel",
+    "description": "A marine radar for Omarchy. Put a name to the boats on your horizon, with a little robot keeping watch.",
+    "kind": "bar-widget",
+    "category": "Widgets",
+    "author": "simoz",
+    "link": "https://github.com/simoz/omarchy-vessel",
+    "install": "omarchy plugin add https://github.com/simoz/omarchy-vessel.git --enable",
+    "screenshot": "plugins/vessel-1.webp",
+    "tags": [
+      "marine",
+      "radar",
+      "ais"
+    ]
   }
 ]
