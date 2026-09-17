@@ -1294,5 +1294,19 @@
       "pixel-art",
       "vintage"
     ]
+  },
+  {
+    "id": "104",
+    "name": "Another World",
+    "category": "Dark Theme",
+    "link": "https://github.com/simoz/omarchy-another-world-theme",
+    "author": "simoz",
+    "screenshot": "themes/another-world-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "cinematic",
+      "teal"
+    ]
   }
 ]

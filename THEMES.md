@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 103
+- **Total themes:** 104
 - **Official themes:** 21
-- **Community themes:** 82
-- **Dark themes:** 87
+- **Community themes:** 83
+- **Dark themes:** 88
 - **Light themes:** 16
 
 ## About these themes
@@ -1460,6 +1460,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `pixel-art`, `vintage`
 
 **Install:** [View theme repository](https://github.com/simoz/omarchy-1800-theme)
+
+---
+
+### 104. Another World
+
+**Category:** Dark Theme
+
+**Author:** simoz
+
+<img src="/public/themes/another-world-1.webp" alt="Another World" width="450">
+
+**Tags:** `unofficial`, `dark`, `cinematic`, `teal`
+
+**Install:** [View theme repository](https://github.com/simoz/omarchy-another-world-theme)
 
 
 ---
