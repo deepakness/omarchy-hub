@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 102
+- **Total themes:** 103
 - **Official themes:** 21
-- **Community themes:** 81
-- **Dark themes:** 86
+- **Community themes:** 82
+- **Dark themes:** 87
 - **Light themes:** 16
 
 ## About these themes
@@ -1446,6 +1446,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `light`, `pixel-art`
 
 **Install:** [View theme repository](https://github.com/simoz/omarchy-haven-theme)
+
+---
+
+### 103. 1800
+
+**Category:** Dark Theme
+
+**Author:** simoz
+
+<img src="/public/themes/1800-1.webp" alt="1800" width="450">
+
+**Tags:** `unofficial`, `dark`, `pixel-art`, `vintage`
+
+**Install:** [View theme repository](https://github.com/simoz/omarchy-1800-theme)
 
 
 ---

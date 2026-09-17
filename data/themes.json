@@ -1280,5 +1280,19 @@
       "light",
       "pixel-art"
     ]
+  },
+  {
+    "id": "103",
+    "name": "1800",
+    "category": "Dark Theme",
+    "link": "https://github.com/simoz/omarchy-1800-theme",
+    "author": "simoz",
+    "screenshot": "themes/1800-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "pixel-art",
+      "vintage"
+    ]
   }
 ]
