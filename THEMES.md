@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 104
+- **Total themes:** 105
 - **Official themes:** 21
-- **Community themes:** 83
-- **Dark themes:** 88
+- **Community themes:** 84
+- **Dark themes:** 89
 - **Light themes:** 16
 
 ## About these themes
@@ -1474,6 +1474,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `cinematic`, `teal`
 
 **Install:** [View theme repository](https://github.com/simoz/omarchy-another-world-theme)
+
+---
+
+### 105. Sword Art
+
+**Category:** Dark Theme
+
+**Author:** KitsuneSemCalda
+
+<img src="/public/themes/sword-art-1.webp" alt="Sword Art" width="450">
+
+**Tags:** `unofficial`, `dark`, `cyan`, `anime`
+
+**Install:** [View theme repository](https://github.com/KitsuneSemCalda/omarchy-sword-art-theme)
 
 
 ---

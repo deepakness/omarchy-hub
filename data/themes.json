@@ -1308,5 +1308,19 @@
       "cinematic",
       "teal"
     ]
+  },
+  {
+    "id": "105",
+    "name": "Sword Art",
+    "category": "Dark Theme",
+    "link": "https://github.com/KitsuneSemCalda/omarchy-sword-art-theme",
+    "author": "KitsuneSemCalda",
+    "screenshot": "themes/sword-art-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "cyan",
+      "anime"
+    ]
   }
 ]
