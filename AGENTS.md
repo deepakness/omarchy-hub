@@ -41,6 +41,7 @@ Omarchy Hub is a Next.js site listing community themes, setups, plugins, and res
 - Author: plain GitHub username; link: repo URL without `.git`.
 - Setups: plain username or name in the entry `name`; `device` summarizes the hardware from the tweet; tags follow entries in `data/setups.json` (e.g. `rgb`, `dual-monitor`, `thinkpad`).
 - Plugins: `kind` is one of `bar-widget`, `panel`, `overlay`, `menu`, `service`, `bar`, `suite`, taken from the plugin's `manifest.json`; `category` follows the marketplace vocabulary (Widgets, Productivity, System, Hardware, Appearance, Desktop, Developer Tools); `link` is the repo URL without `.git`; entry descriptions are one factual line, no marketing copy.
+- Issue comments: short and factual. Confirm the listing is live, give the listing URL, and state only what the submitter needs to act on (e.g. a screenshot to send, a README fix). No praise padding, no restating the steps.
 
 ## Pitfalls
 
