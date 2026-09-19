@@ -1322,5 +1322,19 @@
       "cyan",
       "anime"
     ]
+  },
+  {
+    "id": "106",
+    "name": "Dark Knight",
+    "category": "Dark Theme",
+    "link": "https://github.com/itsgg/omarchy-dark-knight-theme",
+    "author": "itsgg",
+    "screenshot": "themes/dark-knight-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "minimal",
+      "blue"
+    ]
   }
 ]

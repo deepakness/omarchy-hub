@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 105
+- **Total themes:** 106
 - **Official themes:** 21
-- **Community themes:** 84
-- **Dark themes:** 89
+- **Community themes:** 85
+- **Dark themes:** 90
 - **Light themes:** 16
 
 ## About these themes
@@ -1488,6 +1488,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `cyan`, `anime`
 
 **Install:** [View theme repository](https://github.com/KitsuneSemCalda/omarchy-sword-art-theme)
+
+---
+
+### 106. Dark Knight
+
+**Category:** Dark Theme
+
+**Author:** itsgg
+
+<img src="/public/themes/dark-knight-1.webp" alt="Dark Knight" width="450">
+
+**Tags:** `unofficial`, `dark`, `minimal`, `blue`
+
+**Install:** [View theme repository](https://github.com/itsgg/omarchy-dark-knight-theme)
 
 
 ---
