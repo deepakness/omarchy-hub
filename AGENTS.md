@@ -30,6 +30,15 @@ Omarchy Hub is a Next.js site listing community themes, setups, plugins, and res
 5. Verify with `npm run build`.
 6. Commit and push, then close the issue with a thank-you comment linking to the live listing. Plugins live at `https://omarchy.deepakness.com/plugins` — do not link to `omarchy.org`.
 
+## Adding a resource (from a GitHub issue)
+
+1. Append an entry to `data/resources.json` with the next sequential `id`, a one-line factual `description`, a `category` from the existing vocabulary (Documentation, Article, Discussion, Development, Application, Tool), the canonical URL as `link` (the project repo for apps and tools), the author's display name and 3–4 lowercase hyphenated tags.
+2. Run `npm run generate-docs` — regenerates RESOURCES.md and README stats.
+3. Verify with `npm run build`.
+4. Commit and push, then close the issue with a short comment linking to the live listing. Resources live at `https://omarchy.deepakness.com/resources` — do not link to `omarchy.org`.
+
+`[LINK]` submissions go to `data/links.json` instead: that file is `name` + `url` only, and is reserved for Omarchy's own destinations (site, repo, marketplace, Discord, merch, security, meetups, hardware). Anything with a description, author or category — third-party apps, tools, articles, guides — belongs in `data/resources.json`.
+
 ## Maintenance scripts
 
 - `npm run fetch-releases` — updates `data/releases.json` from GitHub. Run before committing when origin has newer release-sync commits.
