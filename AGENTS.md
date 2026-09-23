@@ -10,7 +10,7 @@ Omarchy Hub is a Next.js site listing community themes, setups, plugins, and res
 4. Add the new file's hash to `public/themes/.optimization-metadata.json` (content SHA-256 hex, e.g. `"noir-1.webp": "db98afa543e0b97016f27394dcf4a0cdf635253b57c303330983d270a2959b85"`; `optimize-images` adds it automatically, so this step is normally not needed).
 5. Run `npm run generate-docs` — regenerates THEMES.md and README stats.
 6. Verify with `npm run build`.
-7. Commit and push, then close the issue with a thank-you comment linking to the live listing. The site is hosted at `https://omarchy.deepakness.com` (themes live at `https://omarchy.deepakness.com/themes`) — do not link to `omarchy.org`, which is the Omarchy project site, not the hub.
+7. Commit and push, then close the issue with a short comment linking to the live listing. The site is hosted at `https://omarchy.deepakness.com` (themes live at `https://omarchy.deepakness.com/themes`) — do not link to `omarchy.org`, which is the Omarchy project site, not the hub.
 
 ## Adding a setup (from a tweet)
 
@@ -28,7 +28,7 @@ Omarchy Hub is a Next.js site listing community themes, setups, plugins, and res
 3. Add an entry to `data/plugins.json` with the next sequential `id`, referencing only the `.webp` file in `screenshot` (e.g. `plugins/omapager-1.webp`). Set `install` to the command that actually works: copy it from the plugin's README or the marketplace `installCommand` field, and check it, since monorepo plugins and plugins that need an extra package differ from the plain `omarchy plugin add <repo> --enable` form.
 4. Run `npm run generate-docs` — regenerates PLUGINS.md and README stats.
 5. Verify with `npm run build`.
-6. Commit and push, then close the issue with a thank-you comment linking to the live listing. Plugins live at `https://omarchy.deepakness.com/plugins` — do not link to `omarchy.org`.
+6. Commit and push, then close the issue with a short comment linking to the live listing. Plugins live at `https://omarchy.deepakness.com/plugins` — do not link to `omarchy.org`.
 
 ## Adding a resource (from a GitHub issue)
 
