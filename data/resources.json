@@ -192,5 +192,19 @@
       "hyprland",
       "quickshell"
     ]
+  },
+  {
+    "id": "17",
+    "name": "Mluva",
+    "description": "A GTK4 dictation app for Omarchy with F9 recording, editable rewrites, searchable history and a Quickshell bar widget, using local models or your own provider credentials.",
+    "category": "Application",
+    "link": "https://github.com/1vecera/Mluva",
+    "author": "Daniel Vecera",
+    "tags": [
+      "dictation",
+      "speech-to-text",
+      "quickshell",
+      "gtk4"
+    ]
   }
 ]

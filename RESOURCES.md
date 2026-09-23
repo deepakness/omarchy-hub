@@ -186,6 +186,18 @@ Window title-strip controls and a minimized-window drawer for Omarchy Quattro, p
 
 **Link:** [View resource](https://github.com/GreyforgeLabs/omarchy-grabbar)
 
+---
+
+### 17. Mluva
+
+A GTK4 dictation app for Omarchy with F9 recording, editable rewrites, searchable history and a Quickshell bar widget, using local models or your own provider credentials.
+
+**Category:** Application
+
+**Author:** Daniel Vecera
+
+**Link:** [View resource](https://github.com/1vecera/Mluva)
+
 
 ---
 
