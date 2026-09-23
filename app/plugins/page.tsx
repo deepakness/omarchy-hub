@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import Breadcrumb from '../../components/Breadcrumb';
 import PluginCard, { KIND_PLURALS } from '../../components/PluginCard';
+import { isFeatured } from '../../components/featured';
 import pluginsData from '../../data/plugins.json';
 import { ShieldAlert } from 'lucide-react';
 
@@ -118,6 +119,7 @@ export default function PluginsPage() {
               install={plugin.install}
               screenshot={plugin.screenshot}
               tags={plugin.tags}
+              featured={isFeatured(plugin)}
             />
           ))}
         </div>

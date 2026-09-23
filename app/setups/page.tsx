@@ -1,6 +1,7 @@
 'use client';
 import { useState } from 'react';
 import Card from '../../components/Card';
+import { isFeatured } from '../../components/featured';
 import Breadcrumb from '../../components/Breadcrumb';
 import setupsData from '../../data/setups.json';
 
@@ -75,6 +76,7 @@ export default function SetupsPage() {
               device={setup.device}
               category={setup.category}
               tags={setup.tags}
+              featured={isFeatured(setup)}
             />
           ))}
         </div>

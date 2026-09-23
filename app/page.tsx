@@ -2,6 +2,7 @@ import Card from '../components/Card';
 import NavButton from '../components/NavButton';
 import PluginCard from '../components/PluginCard';
 import ReleaseCard from '../components/ReleaseCard';
+import { byFeaturedThenNewest, isFeatured } from '../components/featured';
 import { Globe, Palette, Monitor, BookOpen, GitPullRequest, Download, Tag, Puzzle } from 'lucide-react';
 
 // Import data
@@ -13,17 +14,18 @@ import linksData from '../data/links.json';
 import releasesData from '../data/releases.json';
 
 export default function Home() {
+  // Featured entries are pinned first; the rest stay newest-first.
   const featuredThemes = [...themesData]
-    .sort((a, b) => Number(b.id) - Number(a.id))
+    .sort(byFeaturedThenNewest)
     .slice(0, 6);
   const featuredSetups = [...setupsData]
-    .sort((a, b) => Number(b.id) - Number(a.id))
+    .sort(byFeaturedThenNewest)
     .slice(0, 6);
   const featuredResources = [...resourcesData]
-    .sort((a, b) => Number(b.id) - Number(a.id))
+    .sort(byFeaturedThenNewest)
     .slice(0, 6);
   const featuredPlugins = [...pluginsData]
-    .sort((a, b) => Number(b.id) - Number(a.id))
+    .sort(byFeaturedThenNewest)
     .slice(0, 3);
   const featuredReleases = releasesData.slice(0, 3);
   const latestRelease = releasesData.find(release => release.isLatest) || releasesData[0];
@@ -169,6 +171,7 @@ export default function Home() {
                 screenshotAlt="Setup Screenshot"
                 device={setup.device}
                 tags={setup.tags}
+                featured={isFeatured(setup)}
               />
             ))}
           </div>
@@ -197,6 +200,7 @@ export default function Home() {
                 category={theme.category}
                 author={theme.author}
                 tags={theme.tags}
+                featured={isFeatured(theme)}
                 link={theme.link}
                 screenshot={theme.screenshot}
                 screenshotAlt="Theme Screenshot"
@@ -232,6 +236,7 @@ export default function Home() {
                 install={plugin.install}
                 screenshot={plugin.screenshot}
                 tags={plugin.tags}
+                featured={isFeatured(plugin)}
               />
             ))}
           </div>
@@ -260,6 +265,7 @@ export default function Home() {
                 category={resource.category}
                 author={resource.author}
                 tags={resource.tags}
+                featured={isFeatured(resource)}
                 link={resource.link}
               />
             ))}

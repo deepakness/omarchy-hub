@@ -1,6 +1,7 @@
 'use client';
 import { useState } from 'react';
 import Card from '../../components/Card';
+import { isFeatured } from '../../components/featured';
 import Breadcrumb from '../../components/Breadcrumb';
 import themesData from '../../data/themes.json';
 
@@ -71,6 +72,7 @@ export default function ThemesPage() {
               category={theme.category}
               author={theme.author}
               tags={theme.tags}
+              featured={isFeatured(theme)}
               link={theme.link}
               screenshot={theme.screenshot}
               screenshotAlt="Theme Screenshot"

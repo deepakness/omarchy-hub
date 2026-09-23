@@ -6,6 +6,7 @@ interface CardProps {
   description?: string;
   category?: string;
   tags?: string[];
+  featured?: boolean;
   author?: string;
   link?: string;
   screenshot?: string;
@@ -19,6 +20,7 @@ export default function Card({
   description, 
   category, 
   tags, 
+  featured,
   author, 
   link, 
   screenshot,
@@ -26,6 +28,8 @@ export default function Card({
   device,
   children 
 }: CardProps) {
+  // The `#featured` badge is derived from the field, never from a tag.
+  const tagLabels = featured ? [...(tags ?? []), 'featured'] : (tags ?? []);
   const CardWrapper = link ? 'a' : 'div';
   const cardProps = link 
     ? { href: link, target: '_blank', rel: 'noopener noreferrer nofollow' }
@@ -78,9 +82,9 @@ export default function Card({
           </p>
         )}
         
-        {tags && tags.length > 0 && (
+        {tagLabels.length > 0 && (
           <div className={`flex flex-wrap gap-1 mt-3 ${children ? 'mb-2' : 'mb-0'}`}>
-            {tags.map((tag, index) => (
+            {tagLabels.map((tag, index) => (
               <span 
                 key={index}
                 className="text-xs font-mono text-blue bg-blue/20 border border-blue/30 px-2 py-1 rounded"

@@ -5,11 +5,11 @@
     "category": "Dark Theme",
     "link": "https://github.com/omacom/omarchy/tree/quattro/themes/tokyo-night",
     "author": "Omarchy",
+    "featured": true,
     "screenshot": "themes/tokyo-night-1.webp",
     "tags": [
       "official",
-      "popular",
-      "featured"
+      "popular"
     ]
   },
   {
@@ -18,11 +18,11 @@
     "category": "Dark Theme",
     "link": "https://github.com/omacom/omarchy/tree/quattro/themes/osaka-jade",
     "author": "Omarchy",
+    "featured": true,
     "screenshot": "themes/osaka-jade-2.webp",
     "tags": [
       "official",
-      "popular",
-      "featured"
+      "popular"
     ]
   },
   {
@@ -31,12 +31,12 @@
     "category": "Dark Theme",
     "link": "https://github.com/omacom/omarchy/tree/quattro/themes/rose-pine",
     "author": "Omarchy",
+    "featured": true,
     "screenshot": "themes/rose-pine-3.webp",
     "tags": [
       "official",
       "pastel",
-      "popular",
-      "featured"
+      "popular"
     ]
   },
   {

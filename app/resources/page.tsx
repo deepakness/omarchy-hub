@@ -1,6 +1,7 @@
 'use client';
 import { useState } from 'react';
 import Card from '../../components/Card';
+import { isFeatured } from '../../components/featured';
 import Breadcrumb from '../../components/Breadcrumb';
 import resourcesData from '../../data/resources.json';
 
@@ -72,6 +73,7 @@ export default function ResourcesPage() {
               category={resource.category}
               author={resource.author}
               tags={resource.tags}
+              featured={isFeatured(resource)}
               link={resource.link}
             />
           ))}

@@ -36,6 +36,7 @@ interface PluginCardProps {
   install: string;
   screenshot?: string;
   tags?: string[];
+  featured?: boolean;
 }
 
 export default function PluginCard({
@@ -48,7 +49,10 @@ export default function PluginCard({
   install,
   screenshot,
   tags,
+  featured,
 }: PluginCardProps) {
+  // Mirrors Card.tsx: the pin lives in the `featured` field, the badge is derived.
+  const tagLabels = featured ? [...(tags ?? []), 'featured'] : (tags ?? []);
   const [copied, setCopied] = useState(false);
   const linkProps = {
     href: link,
@@ -138,9 +142,9 @@ export default function PluginCard({
 
           <p className="text-xs text-blue font-mono mt-3">by {author}</p>
 
-          {tags && tags.length > 0 && (
+          {tagLabels.length > 0 && (
             <div className="flex flex-wrap gap-1 mt-3">
-              {tags.map((tag) => (
+              {tagLabels.map((tag) => (
                 <span
                   key={tag}
                   className="text-xs font-mono text-blue bg-blue/20 border border-blue/30 px-2 py-1 rounded"

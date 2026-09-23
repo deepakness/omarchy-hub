@@ -12,6 +12,12 @@ const __dirname = path.dirname(__filename);
  * This script reads the JSON files in data/ and creates comprehensive markdown documentation
  */
 
+// The site derives its `#featured` badge from the `featured` field rather than a
+// tag, so the generated docs mirror that and stay in step with the cards.
+function entryTags(entry) {
+  return entry.featured ? [...(entry.tags || []), 'featured'] : entry.tags || [];
+}
+
 function generateSetupsMarkdown() {
   try {
     // Read setups.json
@@ -76,8 +82,9 @@ These setups represent real-world installations of Omarchy Linux, showcasing:
       }
       
       // Add tags
-      if (setup.tags && setup.tags.length > 0) {
-        markdown += `**Tags:** ${setup.tags.map(tag => `\`${tag}\``).join(', ')}\n\n`;
+      const setupTags = entryTags(setup);
+      if (setupTags.length > 0) {
+        markdown += `**Tags:** ${setupTags.map(tag => `\`${tag}\``).join(', ')}\n\n`;
       }
       
       // Add link if available
@@ -176,8 +183,9 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
       }
       
       // Add tags
-      if (theme.tags && theme.tags.length > 0) {
-        markdown += `**Tags:** ${theme.tags.map(tag => `\`${tag}\``).join(', ')}\n\n`;
+      const themeTags = entryTags(theme);
+      if (themeTags.length > 0) {
+        markdown += `**Tags:** ${themeTags.map(tag => `\`${tag}\``).join(', ')}\n\n`;
       }
       
       // Add link if available
@@ -344,8 +352,9 @@ Plugins run unsandboxed with your user permissions, so read the source before yo
       }
 
       // Add tags
-      if (plugin.tags && plugin.tags.length > 0) {
-        markdown += `**Tags:** ${plugin.tags.map(tag => `\`${tag}\``).join(', ')}\n\n`;
+      const pluginTags = entryTags(plugin);
+      if (pluginTags.length > 0) {
+        markdown += `**Tags:** ${pluginTags.map(tag => `\`${tag}\``).join(', ')}\n\n`;
       }
 
       // Add install command
