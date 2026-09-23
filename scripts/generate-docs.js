@@ -15,7 +15,8 @@ const __dirname = path.dirname(__filename);
 // The site derives its `#featured` badge from the `featured` field rather than a
 // tag, so the generated docs mirror that and stay in step with the cards.
 function entryTags(entry) {
-  return entry.featured ? [...(entry.tags || []), 'featured'] : entry.tags || [];
+  // Mirrors tagLabelsFor() in components/featured.ts, including the dedupe.
+  return [...new Set([...(entry.tags || []), ...(entry.featured ? ['featured'] : [])])];
 }
 
 function generateSetupsMarkdown() {

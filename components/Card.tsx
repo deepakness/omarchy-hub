@@ -1,5 +1,6 @@
 import { Smartphone } from 'lucide-react';
 import { getImageUrl } from './imageUrl';
+import { tagLabelsFor } from './featured';
 
 interface CardProps {
   title: string;
@@ -29,7 +30,7 @@ export default function Card({
   children 
 }: CardProps) {
   // The `#featured` badge is derived from the field, never from a tag.
-  const tagLabels = featured ? [...(tags ?? []), 'featured'] : (tags ?? []);
+  const tagLabels = tagLabelsFor(tags, featured ?? false);
   const CardWrapper = link ? 'a' : 'div';
   const cardProps = link 
     ? { href: link, target: '_blank', rel: 'noopener noreferrer nofollow' }

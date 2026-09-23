@@ -10,6 +10,12 @@ export function isFeatured(entry: { id: string; featured?: boolean }): boolean {
   return entry.featured === true;
 }
 
+// Badge labels for a card: the entry's tags plus `featured` when pinned. Set
+// semantics keep the badge from rendering twice if a `featured` tag slips in.
+export function tagLabelsFor(tags: string[] | undefined, featured: boolean): string[] {
+  return [...new Set([...(tags ?? []), ...(featured ? ['featured'] : [])])];
+}
+
 export function byFeaturedThenNewest<T extends { id: string; featured?: boolean }>(
   a: T,
   b: T,

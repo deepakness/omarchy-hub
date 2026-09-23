@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { Check, Copy, Globe } from 'lucide-react';
 import { getImageUrl } from './imageUrl';
+import { tagLabelsFor } from './featured';
 
 // Display names for the plugin kinds declared in a plugin's manifest.json.
 // See https://omarchy.org/manual/shell-plugins/ for the kind list.
@@ -52,7 +53,7 @@ export default function PluginCard({
   featured,
 }: PluginCardProps) {
   // Mirrors Card.tsx: the pin lives in the `featured` field, the badge is derived.
-  const tagLabels = featured ? [...(tags ?? []), 'featured'] : (tags ?? []);
+  const tagLabels = tagLabelsFor(tags, featured ?? false);
   const [copied, setCopied] = useState(false);
   const linkProps = {
     href: link,
