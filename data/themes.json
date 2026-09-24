@@ -1336,5 +1336,19 @@
       "minimal",
       "blue"
     ]
+  },
+  {
+    "id": "107",
+    "name": "Symfony Night",
+    "category": "Dark Theme",
+    "link": "https://github.com/cvtmal/omarchy-symfony-night-theme",
+    "author": "cvtmal",
+    "screenshot": "themes/symfony-night-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "minimal",
+      "blue"
+    ]
   }
 ]

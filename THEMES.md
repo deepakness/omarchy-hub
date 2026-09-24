@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 106
+- **Total themes:** 107
 - **Official themes:** 21
-- **Community themes:** 85
-- **Dark themes:** 90
+- **Community themes:** 86
+- **Dark themes:** 91
 - **Light themes:** 16
 
 ## About these themes
@@ -1502,6 +1502,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `minimal`, `blue`
 
 **Install:** [View theme repository](https://github.com/itsgg/omarchy-dark-knight-theme)
+
+---
+
+### 107. Symfony Night
+
+**Category:** Dark Theme
+
+**Author:** cvtmal
+
+<img src="/public/themes/symfony-night-1.webp" alt="Symfony Night" width="450">
+
+**Tags:** `unofficial`, `dark`, `minimal`, `blue`
+
+**Install:** [View theme repository](https://github.com/cvtmal/omarchy-symfony-night-theme)
 
 
 ---
