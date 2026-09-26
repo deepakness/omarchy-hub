@@ -641,7 +641,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Category:** Dark Theme
 
-**Author:** @scar45
+**Author:** scar45
 
 <img src="/public/themes/c64-45.webp" alt="C64" width="450">
 
@@ -655,7 +655,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Category:** Dark Theme
 
-**Author:** @komagata
+**Author:** komagata
 
 <img src="/public/themes/kawasaki-foundry-46.webp" alt="Kawasaki Foundry" width="450">
 
@@ -669,13 +669,13 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Category:** Dark Theme
 
-**Author:** @Grenish
+**Author:** Grenish
 
 <img src="/public/themes/akane-47.webp" alt="Akane" width="450">
 
 **Tags:** `unofficial`, `red`, `autumn`, `japanese`
 
-**Install:** [View theme repository](https://github.com/Grenish/omarchy-akane-theme.git)
+**Install:** [View theme repository](https://github.com/Grenish/omarchy-akane-theme)
 
 ---
 
@@ -753,7 +753,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Category:** Dark Theme
 
-**Author:** @hoblin
+**Author:** hoblin
 
 <img src="/public/themes/cobalt2-1.webp" alt="Cobalt2" width="450">
 
@@ -809,7 +809,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Category:** Dark Theme
 
-**Author:** @shresth-dwivedi
+**Author:** shresth-dwivedi
 
 <img src="/public/themes/stillwood-1.webp" alt="Stillwood" width="450">
 
@@ -843,7 +843,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `unofficial`, `dark`, `minimal`, `snow`
 
-**Install:** [View theme repository](https://github.com/28bby/Snow-Theme.git)
+**Install:** [View theme repository](https://github.com/28bby/Snow-Theme)
 
 ---
 
@@ -857,7 +857,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Tags:** `unofficial`, `minimal`
 
-**Install:** [View theme repository](https://github.com/hembramnishant50-glitch/omarchy-coppernight-theme.git)
+**Install:** [View theme repository](https://github.com/hembramnishant50-glitch/omarchy-coppernight-theme)
 
 ---
 
@@ -921,7 +921,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Category:** Dark Theme
 
-**Author:** @Jannik-Schroeder
+**Author:** Jannik-Schroeder
 
 <img src="/public/themes/kurenai-1.webp" alt="Kurenai" width="450">
 
@@ -935,7 +935,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Category:** Dark Theme
 
-**Author:** @mavdi
+**Author:** mavdi
 
 <img src="/public/themes/god-is-in-the-rain-1.webp" alt="God Is In The Rain" width="450">
 
@@ -991,7 +991,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Category:** Dark Theme
 
-**Author:** @luquatic
+**Author:** luquatic
 
 <img src="/public/themes/catppuccin-mocha-dark-1.webp" alt="Catppuccin Mocha Dark" width="450">
 
@@ -1005,7 +1005,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Category:** Light Theme
 
-**Author:** @luquatic
+**Author:** luquatic
 
 <img src="/public/themes/catppuccin-mocha-glass-1.webp" alt="Catppuccin Mocha Glass" width="450">
 

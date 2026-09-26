@@ -501,7 +501,7 @@
     "name": "C64",
     "category": "Dark Theme",
     "link": "https://github.com/scar45/omarchy-c64-theme",
-    "author": "@scar45",
+    "author": "scar45",
     "screenshot": "themes/c64-45.webp",
     "tags": [
       "unofficial",
@@ -515,7 +515,7 @@
     "name": "Kawasaki Foundry",
     "category": "Dark Theme",
     "link": "https://github.com/komagata/omarchy-kawasaki-foundry-theme",
-    "author": "@komagata",
+    "author": "komagata",
     "screenshot": "themes/kawasaki-foundry-46.webp",
     "tags": [
       "unofficial",
@@ -527,8 +527,8 @@
     "id": "47",
     "name": "Akane",
     "category": "Dark Theme",
-    "link": "https://github.com/Grenish/omarchy-akane-theme.git",
-    "author": "@Grenish",
+    "link": "https://github.com/Grenish/omarchy-akane-theme",
+    "author": "Grenish",
     "screenshot": "themes/akane-47.webp",
     "tags": [
       "unofficial",
@@ -603,7 +603,7 @@
     "name": "Cobalt2",
     "category": "Dark Theme",
     "link": "https://github.com/hoblin/omarchy-cobalt2-theme",
-    "author": "@hoblin",
+    "author": "hoblin",
     "screenshot": "themes/cobalt2-1.webp",
     "tags": [
       "unofficial",
@@ -654,7 +654,7 @@
     "name": "Stillwood",
     "category": "Dark Theme",
     "link": "https://github.com/shresth-dwivedi/omarchy-stillwood-theme",
-    "author": "@shresth-dwivedi",
+    "author": "shresth-dwivedi",
     "screenshot": "themes/stillwood-1.webp",
     "tags": [
       "unofficial",
@@ -680,7 +680,7 @@
     "id": "59",
     "name": "Snow",
     "category": "Dark Theme",
-    "link": "https://github.com/28bby/Snow-Theme.git",
+    "link": "https://github.com/28bby/Snow-Theme",
     "author": "28bby",
     "screenshot": "themes/snow-1.webp",
     "tags": [
@@ -694,7 +694,7 @@
     "id": "60",
     "name": "Copper night",
     "category": "Dark Theme",
-    "link": "https://github.com/hembramnishant50-glitch/omarchy-coppernight-theme.git",
+    "link": "https://github.com/hembramnishant50-glitch/omarchy-coppernight-theme",
     "author": "hembramnishant50-glitch",
     "screenshot": "themes/copper-night-1.webp",
     "tags": [
@@ -761,7 +761,7 @@
     "name": "Kurenai",
     "category": "Dark Theme",
     "link": "https://github.com/Jannik-Schroeder/omarchy-kurenai-theme",
-    "author": "@Jannik-Schroeder",
+    "author": "Jannik-Schroeder",
     "screenshot": "themes/kurenai-1.webp",
     "tags": [
       "unofficial",
@@ -775,7 +775,7 @@
     "name": "God Is In The Rain",
     "category": "Dark Theme",
     "link": "https://github.com/mavdi/omarchy-god-is-in-the-rain",
-    "author": "@mavdi",
+    "author": "mavdi",
     "screenshot": "themes/god-is-in-the-rain-1.webp",
     "tags": [
       "unofficial",
@@ -833,7 +833,7 @@
     "name": "Catppuccin Mocha Dark",
     "category": "Dark Theme",
     "link": "https://github.com/Luquatic/omarchy-catppuccin-dark",
-    "author": "@luquatic",
+    "author": "luquatic",
     "screenshot": "themes/catppuccin-mocha-dark-1.webp",
     "tags": [
       "unofficial",
@@ -847,7 +847,7 @@
     "name": "Catppuccin Mocha Glass",
     "category": "Light Theme",
     "link": "https://github.com/Luquatic/omarchy-catppuccin-glass",
-    "author": "@luquatic",
+    "author": "luquatic",
     "screenshot": "themes/catppuccin-mocha-glass-1.webp",
     "tags": [
       "unofficial",
