@@ -88,8 +88,11 @@ These setups represent real-world installations of Omarchy Linux, showcasing:
         markdown += `**Tags:** ${setupTags.map(tag => `\`${tag}\``).join(', ')}\n\n`;
       }
       
-      // Add link if available
-      if (setup.link) {
+      // Add link if available. Entries whose source post is gone keep the URL for
+      // provenance, so it is shown as plain text instead of a dead link.
+      if (setup.link && setup.deadLink) {
+        markdown += `**Source:** original post no longer available — \`${setup.link}\`\n\n`;
+      } else if (setup.link) {
         markdown += `**Source:** [View original post](${setup.link})\n\n`;
       }
       

@@ -48,6 +48,7 @@ Omarchy Hub is a Next.js site listing community themes, setups, plugins, and res
 
 - Tags: keep them short — start with `unofficial`, then 2–3 tags trimmed from the issue (hyphenate multi-word tags, e.g. `pure-black`). Follow recent entries in `data/themes.json`.
 - `featured: true` pins an entry to the top of its homepage strip (themes, setups, plugins, resources); everything else stays newest-first. `Card` and `PluginCard` derive the `#featured` badge from the field, so never add a `featured` tag.
+- `deadLink: true` (setups) keeps a source post that is gone in `link` for provenance: the card renders without a link and `SETUPS.md` prints the URL as plain text instead of a dead link. Only use it after confirming the post 404s (the X oEmbed endpoint, `https://publish.twitter.com/oembed?url=<tweet>`).
 - Author: plain GitHub username; link: repo URL without `.git`.
 - Setups: plain username or name in the entry `name`; `device` summarizes the hardware from the tweet; tags follow entries in `data/setups.json` (e.g. `rgb`, `dual-monitor`, `thinkpad`).
 - Plugins: `kind` is one of `bar-widget`, `panel`, `overlay`, `menu`, `service`, `bar`, `suite`, taken from the plugin's `manifest.json`; `category` follows the marketplace vocabulary (Widgets, Productivity, System, Hardware, Appearance, Desktop, Developer Tools); `link` is the repo URL without `.git`; entry descriptions are one factual line, no marketing copy.

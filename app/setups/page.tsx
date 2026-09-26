@@ -70,7 +70,9 @@ export default function SetupsPage() {
               key={setup.id}
               title={setup.name}
               description={setup.description}
-              link={setup.link}
+              // Sources that are gone keep their URL in the data for provenance,
+              // but the card must not offer a dead link.
+              link={setup.deadLink ? undefined : setup.link}
               screenshot={setup.screenshot}
               screenshotAlt="Setup Screenshot"
               device={setup.device}

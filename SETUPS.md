@@ -187,7 +187,7 @@ Omarchy running fast on a $385 Beelink PC with stunning visuals on Apple Studio 
 
 **Tags:** `beelink`, `studio-display`
 
-**Source:** [View original post](https://x.com/lylo/status/1965826027101520290)
+**Source:** original post no longer available — `https://x.com/lylo/status/1965826027101520290`
 
 ---
 
@@ -229,7 +229,7 @@ Highly customized dual-monitor gaming and productivity setup with RGB lighting.
 
 **Tags:** `gaming`, `dual-monitor`
 
-**Source:** [View original post](https://x.com/rahnolds/status/1966240885311758338)
+**Source:** original post no longer available — `https://x.com/rahnolds/status/1966240885311758338`
 
 ---
 
@@ -243,7 +243,7 @@ ZenBook Duo with Omarchy - dual-screen laptop with split ergonomic keyboard and 
 
 **Tags:** `dual-screen`, `split-keyboard`
 
-**Source:** [View original post](https://x.com/rahnolds/status/1966251916096397573)
+**Source:** original post no longer available — `https://x.com/rahnolds/status/1966251916096397573`
 
 ---
 
@@ -285,7 +285,7 @@ Professional content creation workstation with custom liquid-cooled PC with ultr
 
 **Tags:** `liquid-cooled`, `ultrawide`
 
-**Source:** [View original post](https://x.com/DenLoginoff/status/1966247834052944244)
+**Source:** original post no longer available — `https://x.com/DenLoginoff/status/1966247834052944244`
 
 ---
 
@@ -397,7 +397,7 @@ Old Dell Inspiron laptop brought back to life with Omarchy Linux.
 
 **Tags:** `dell`, `inspiron`
 
-**Source:** [View original post](https://x.com/scarowar/status/1966795535957848176)
+**Source:** original post no longer available — `https://x.com/scarowar/status/1966795535957848176`
 
 ---
 
@@ -817,7 +817,7 @@ Modern home office with large monitor displaying Omarchy desktop environment.
 
 **Tags:** `home-office`
 
-**Source:** [View original post](https://x.com/lexoj/status/1969242037930037420)
+**Source:** original post no longer available — `https://x.com/lexoj/status/1969242037930037420`
 
 ---
 
@@ -887,7 +887,7 @@ Black Alienware gaming laptop with blue backlit keyboard testing Omarchy Linux.
 
 **Tags:** `alienware`, `gaming`
 
-**Source:** [View original post](https://x.com/angel_santosa/status/1969672112517292179)
+**Source:** original post no longer available — `https://x.com/angel_santosa/status/1969672112517292179`
 
 ---
 

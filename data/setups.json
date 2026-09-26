@@ -151,6 +151,7 @@
     "description": "Omarchy running fast on a $385 Beelink PC with stunning visuals on Apple Studio Display.",
     "screenshot": "setups/setup-12.webp",
     "link": "https://x.com/lylo/status/1965826027101520290",
+    "deadLink": true,
     "device": "Beelink PC + Apple Studio Display",
     "category": "Desktop",
     "tags": [
@@ -190,6 +191,7 @@
     "description": "Highly customized dual-monitor gaming and productivity setup with RGB lighting.",
     "screenshot": "setups/setup-15.webp",
     "link": "https://x.com/rahnolds/status/1966240885311758338",
+    "deadLink": true,
     "device": "Custom PC + Dual Monitors",
     "category": "Desktop",
     "tags": [
@@ -203,6 +205,7 @@
     "description": "ZenBook Duo with Omarchy - dual-screen laptop with split ergonomic keyboard and external monitor.",
     "screenshot": "setups/setup-16.webp",
     "link": "https://x.com/rahnolds/status/1966251916096397573",
+    "deadLink": true,
     "device": "ASUS ZenBook Duo + Split Ergonomic Keyboard",
     "category": "Laptop",
     "tags": [
@@ -242,6 +245,7 @@
     "description": "Professional content creation workstation with custom liquid-cooled PC with ultrawide monitor.",
     "screenshot": "setups/setup-19.webp",
     "link": "https://x.com/DenLoginoff/status/1966247834052944244",
+    "deadLink": true,
     "device": "Custom PC + Alienware Ultrawide",
     "category": "Desktop",
     "tags": [
@@ -346,6 +350,7 @@
     "description": "Old Dell Inspiron laptop brought back to life with Omarchy Linux.",
     "screenshot": "setups/setup-27.webp",
     "link": "https://x.com/scarowar/status/1966795535957848176",
+    "deadLink": true,
     "device": "Dell Inspiron Laptop",
     "category": "Laptop",
     "tags": [
@@ -736,6 +741,7 @@
     "description": "Modern home office with large monitor displaying Omarchy desktop environment.",
     "screenshot": "setups/setup-57.webp",
     "link": "https://x.com/lexoj/status/1969242037930037420",
+    "deadLink": true,
     "device": "Large Monitor + White Keyboard",
     "category": "Desktop",
     "tags": [
@@ -799,6 +805,7 @@
     "description": "Black Alienware gaming laptop with blue backlit keyboard testing Omarchy Linux.",
     "screenshot": "setups/setup-62.webp",
     "link": "https://x.com/angel_santosa/status/1969672112517292179",
+    "deadLink": true,
     "device": "Alienware Gaming Laptop",
     "category": "Laptop",
     "tags": [
