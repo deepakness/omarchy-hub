@@ -1350,5 +1350,19 @@
       "minimal",
       "blue"
     ]
+  },
+  {
+    "id": "108",
+    "name": "Konbini",
+    "category": "Dark Theme",
+    "link": "https://github.com/Lohan-Pieterse/omarchy-konbini-theme",
+    "author": "Lohan-Pieterse",
+    "screenshot": "themes/konbini-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "warm",
+      "anime"
+    ]
   }
 ]

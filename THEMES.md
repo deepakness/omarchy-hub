@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 107
+- **Total themes:** 108
 - **Official themes:** 21
-- **Community themes:** 86
-- **Dark themes:** 91
+- **Community themes:** 87
+- **Dark themes:** 92
 - **Light themes:** 16
 
 ## About these themes
@@ -1516,6 +1516,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `minimal`, `blue`
 
 **Install:** [View theme repository](https://github.com/cvtmal/omarchy-symfony-night-theme)
+
+---
+
+### 108. Konbini
+
+**Category:** Dark Theme
+
+**Author:** Lohan-Pieterse
+
+<img src="/public/themes/konbini-1.webp" alt="Konbini" width="450">
+
+**Tags:** `unofficial`, `dark`, `warm`, `anime`
+
+**Install:** [View theme repository](https://github.com/Lohan-Pieterse/omarchy-konbini-theme)
 
 
 ---
