@@ -1525,7 +1525,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Lohan-Pieterse
 
-<img src="/public/themes/konbini-1.webp" alt="Konbini" width="450">
+<img src="/public/themes/konbini-2.webp" alt="Konbini" width="450">
 
 **Tags:** `unofficial`, `dark`, `warm`, `anime`
 
