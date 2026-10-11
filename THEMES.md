@@ -1539,7 +1539,7 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 
 **Author:** Angelo-Tassi
 
-<img src="/public/themes/mycelium-1.webp" alt="Mycelium" width="450">
+<img src="/public/themes/mycelium-2.webp" alt="Mycelium" width="450">
 
 **Tags:** `unofficial`, `dark`, `purple`, `amber`
 
