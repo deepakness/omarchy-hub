@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 108
+- **Total themes:** 109
 - **Official themes:** 21
-- **Community themes:** 87
-- **Dark themes:** 92
+- **Community themes:** 88
+- **Dark themes:** 93
 - **Light themes:** 16
 
 ## About these themes
@@ -1530,6 +1530,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `warm`, `anime`
 
 **Install:** [View theme repository](https://github.com/Lohan-Pieterse/omarchy-konbini-theme)
+
+---
+
+### 109. Mycelium
+
+**Category:** Dark Theme
+
+**Author:** Angelo-Tassi
+
+<img src="/public/themes/mycelium-1.webp" alt="Mycelium" width="450">
+
+**Tags:** `unofficial`, `dark`, `purple`, `amber`
+
+**Install:** [View theme repository](https://github.com/Angelo-Tassi/omarchy-mycelium-theme)
 
 
 ---

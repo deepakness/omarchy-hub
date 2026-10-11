@@ -1364,5 +1364,19 @@
       "warm",
       "anime"
     ]
+  },
+  {
+    "id": "109",
+    "name": "Mycelium",
+    "category": "Dark Theme",
+    "link": "https://github.com/Angelo-Tassi/omarchy-mycelium-theme",
+    "author": "Angelo-Tassi",
+    "screenshot": "themes/mycelium-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "purple",
+      "amber"
+    ]
   }
 ]
