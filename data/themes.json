@@ -1392,5 +1392,117 @@
       "purple",
       "amber"
     ]
+  },
+  {
+    "id": "111",
+    "name": "Chat with Work Dark",
+    "category": "Dark Theme",
+    "link": "https://github.com/crmne/omarchy-chat-with-work-dark-theme",
+    "author": "crmne",
+    "screenshot": "themes/chat-with-work-dark-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "purple",
+      "minimal"
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Chat with Work Light",
+    "category": "Light Theme",
+    "link": "https://github.com/crmne/omarchy-chat-with-work-light-theme",
+    "author": "crmne",
+    "screenshot": "themes/chat-with-work-light-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "purple",
+      "minimal"
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Plenty Dark",
+    "category": "Dark Theme",
+    "link": "https://github.com/crmne/omarchy-plenty-dark-theme",
+    "author": "crmne",
+    "screenshot": "themes/plenty-dark-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "orange",
+      "minimal"
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Plenty Light",
+    "category": "Light Theme",
+    "link": "https://github.com/crmne/omarchy-plenty-light-theme",
+    "author": "crmne",
+    "screenshot": "themes/plenty-light-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "orange",
+      "minimal"
+    ]
+  },
+  {
+    "id": "115",
+    "name": "RubyLLM Dark",
+    "category": "Dark Theme",
+    "link": "https://github.com/crmne/omarchy-ruby-llm-dark-theme",
+    "author": "crmne",
+    "screenshot": "themes/rubyllm-dark-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "red",
+      "minimal"
+    ]
+  },
+  {
+    "id": "116",
+    "name": "RubyLLM Light",
+    "category": "Light Theme",
+    "link": "https://github.com/crmne/omarchy-ruby-llm-light-theme",
+    "author": "crmne",
+    "screenshot": "themes/rubyllm-light-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "red",
+      "minimal"
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Solco Dark",
+    "category": "Dark Theme",
+    "link": "https://github.com/crmne/omarchy-solco-dark-theme",
+    "author": "crmne",
+    "screenshot": "themes/solco-dark-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "purple",
+      "minimal"
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Solco Light",
+    "category": "Light Theme",
+    "link": "https://github.com/crmne/omarchy-solco-light-theme",
+    "author": "crmne",
+    "screenshot": "themes/solco-light-1.webp",
+    "tags": [
+      "unofficial",
+      "light",
+      "purple",
+      "minimal"
+    ]
   }
 ]

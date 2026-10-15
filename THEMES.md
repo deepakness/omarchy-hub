@@ -6,11 +6,11 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 110
+- **Total themes:** 118
 - **Official themes:** 21
-- **Community themes:** 89
-- **Dark themes:** 94
-- **Light themes:** 16
+- **Community themes:** 97
+- **Dark themes:** 98
+- **Light themes:** 20
 
 ## About these themes
 
@@ -1558,6 +1558,118 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `purple`, `amber`
 
 **Install:** [View theme repository](https://github.com/nathankramm/omarchy-ingolstadt-1792-theme)
+
+---
+
+### 111. Chat with Work Dark
+
+**Category:** Dark Theme
+
+**Author:** crmne
+
+<img src="/public/themes/chat-with-work-dark-1.webp" alt="Chat with Work Dark" width="450">
+
+**Tags:** `unofficial`, `dark`, `purple`, `minimal`
+
+**Install:** [View theme repository](https://github.com/crmne/omarchy-chat-with-work-dark-theme)
+
+---
+
+### 112. Chat with Work Light
+
+**Category:** Light Theme
+
+**Author:** crmne
+
+<img src="/public/themes/chat-with-work-light-1.webp" alt="Chat with Work Light" width="450">
+
+**Tags:** `unofficial`, `light`, `purple`, `minimal`
+
+**Install:** [View theme repository](https://github.com/crmne/omarchy-chat-with-work-light-theme)
+
+---
+
+### 113. Plenty Dark
+
+**Category:** Dark Theme
+
+**Author:** crmne
+
+<img src="/public/themes/plenty-dark-1.webp" alt="Plenty Dark" width="450">
+
+**Tags:** `unofficial`, `dark`, `orange`, `minimal`
+
+**Install:** [View theme repository](https://github.com/crmne/omarchy-plenty-dark-theme)
+
+---
+
+### 114. Plenty Light
+
+**Category:** Light Theme
+
+**Author:** crmne
+
+<img src="/public/themes/plenty-light-1.webp" alt="Plenty Light" width="450">
+
+**Tags:** `unofficial`, `light`, `orange`, `minimal`
+
+**Install:** [View theme repository](https://github.com/crmne/omarchy-plenty-light-theme)
+
+---
+
+### 115. RubyLLM Dark
+
+**Category:** Dark Theme
+
+**Author:** crmne
+
+<img src="/public/themes/rubyllm-dark-1.webp" alt="RubyLLM Dark" width="450">
+
+**Tags:** `unofficial`, `dark`, `red`, `minimal`
+
+**Install:** [View theme repository](https://github.com/crmne/omarchy-ruby-llm-dark-theme)
+
+---
+
+### 116. RubyLLM Light
+
+**Category:** Light Theme
+
+**Author:** crmne
+
+<img src="/public/themes/rubyllm-light-1.webp" alt="RubyLLM Light" width="450">
+
+**Tags:** `unofficial`, `light`, `red`, `minimal`
+
+**Install:** [View theme repository](https://github.com/crmne/omarchy-ruby-llm-light-theme)
+
+---
+
+### 117. Solco Dark
+
+**Category:** Dark Theme
+
+**Author:** crmne
+
+<img src="/public/themes/solco-dark-1.webp" alt="Solco Dark" width="450">
+
+**Tags:** `unofficial`, `dark`, `purple`, `minimal`
+
+**Install:** [View theme repository](https://github.com/crmne/omarchy-solco-dark-theme)
+
+---
+
+### 118. Solco Light
+
+**Category:** Light Theme
+
+**Author:** crmne
+
+<img src="/public/themes/solco-light-1.webp" alt="Solco Light" width="450">
+
+**Tags:** `unofficial`, `light`, `purple`, `minimal`
+
+**Install:** [View theme repository](https://github.com/crmne/omarchy-solco-light-theme)
 
 
 ---
