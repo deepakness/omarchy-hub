@@ -238,5 +238,149 @@
       "radar",
       "ais"
     ]
+  },
+  {
+    "id": "16",
+    "name": "Active Window + Icon",
+    "description": "Shows the focused window title and application icon in the bar, with adjustable icon saturation.",
+    "kind": "bar-widget",
+    "category": "Widgets",
+    "author": "crmne",
+    "link": "https://github.com/crmne/omarchy-active-window",
+    "install": "omarchy plugin add https://github.com/crmne/omarchy-active-window.git --enable --yes",
+    "screenshot": "plugins/active-window-1.webp",
+    "tags": [
+      "bar",
+      "window-title",
+      "app-icons"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Files",
+    "description": "Searches files and folders from an overlay with actions to open, copy, share, or move results to the Trash.",
+    "kind": "overlay",
+    "category": "Productivity",
+    "author": "crmne",
+    "link": "https://github.com/crmne/omarchy-files",
+    "install": "omarchy plugin add https://github.com/crmne/omarchy-files.git --enable --yes",
+    "screenshot": "plugins/files-1.webp",
+    "tags": [
+      "file-search",
+      "launcher",
+      "overlay"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Lyrics Synced with Music",
+    "description": "Displays lyrics for the current media player track and highlights each line as the song plays.",
+    "kind": "bar-widget",
+    "category": "Widgets",
+    "author": "crmne",
+    "link": "https://github.com/crmne/omarchy-lyrics",
+    "install": "omarchy plugin add https://github.com/crmne/omarchy-lyrics.git --enable --yes",
+    "screenshot": "plugins/lyrics-synced-with-music-1.webp",
+    "tags": [
+      "lyrics",
+      "music",
+      "mpris"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "MOZA",
+    "description": "Controls MOZA racing hardware through native Boxflat settings and telemetry-driven rev lights.",
+    "kind": "bar-widget",
+    "category": "Hardware",
+    "author": "crmne",
+    "link": "https://github.com/crmne/omarchy-moza",
+    "install": "omarchy plugin add https://github.com/crmne/omarchy-moza.git --enable",
+    "screenshot": "plugins/moza-1.webp",
+    "tags": [
+      "moza",
+      "sim-racing",
+      "hardware"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Media Controls + Album Art",
+    "description": "Shows album art, track details, and playback controls for MPRIS media players in the bar.",
+    "kind": "bar-widget",
+    "category": "Widgets",
+    "author": "crmne",
+    "link": "https://github.com/crmne/omarchy-mpris",
+    "install": "omarchy plugin add https://github.com/crmne/omarchy-mpris.git --enable --yes",
+    "screenshot": "plugins/media-controls-album-art-1.webp",
+    "tags": [
+      "mpris",
+      "media-controls",
+      "album-art"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "OmaCal",
+    "description": "Adds calendar events, quick add, reminders, and time tracking to the stock clock and calendar, with a HEY backend.",
+    "kind": "bar-widget",
+    "category": "Productivity",
+    "author": "crmne",
+    "link": "https://github.com/crmne/omacal",
+    "install": "omarchy plugin add https://github.com/crmne/omacal.git --enable",
+    "screenshot": "plugins/omacal-1.webp",
+    "tags": [
+      "calendar",
+      "hey",
+      "productivity"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "OmaStats",
+    "description": "Monitors CPU, GPU, memory, disks, network, temperatures, fans, and battery with bar graphs and detailed panels.",
+    "kind": "bar-widget",
+    "category": "System",
+    "author": "crmne",
+    "link": "https://github.com/crmne/omastats",
+    "install": "omarchy plugin add https://github.com/crmne/omastats.git --enable",
+    "screenshot": "plugins/omastats-1.webp",
+    "tags": [
+      "system-monitor",
+      "graphs",
+      "sensors"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "OmaTasks for Todoist",
+    "description": "Brings Todoist tasks, Quick Add, editing, and drag-to-reorder into the Omarchy bar.",
+    "kind": "bar-widget",
+    "category": "Productivity",
+    "author": "crmne",
+    "link": "https://github.com/crmne/omatasks",
+    "install": "omarchy plugin add https://github.com/crmne/omatasks.git --enable",
+    "screenshot": "plugins/omatasks-1.webp",
+    "tags": [
+      "todoist",
+      "tasks",
+      "productivity"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Ultimate Guitar Tabs",
+    "description": "Finds guitar tabs for the current media player track, with auto-scroll, version switching, and text sizing.",
+    "kind": "bar-widget",
+    "category": "Widgets",
+    "author": "crmne",
+    "link": "https://github.com/crmne/omarchy-ultimate-guitar",
+    "install": "omarchy plugin add https://github.com/crmne/omarchy-ultimate-guitar.git --enable --yes",
+    "screenshot": "plugins/ultimate-guitar-tabs-1.webp",
+    "tags": [
+      "guitar-tabs",
+      "music",
+      "mpris"
+    ]
   }
 ]
