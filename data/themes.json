@@ -1378,5 +1378,19 @@
       "purple",
       "amber"
     ]
+  },
+  {
+    "id": "110",
+    "name": "Ingolstadt 1792",
+    "category": "Dark Theme",
+    "link": "https://github.com/nathankramm/omarchy-ingolstadt-1792-theme",
+    "author": "nathankramm",
+    "screenshot": "themes/ingolstadt-1792-1.webp",
+    "tags": [
+      "unofficial",
+      "dark",
+      "purple",
+      "amber"
+    ]
   }
 ]

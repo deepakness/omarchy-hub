@@ -206,5 +206,18 @@
       "quickshell",
       "gtk4"
     ]
+  },
+  {
+    "id": "18",
+    "name": "Omarchy Pixel Cursors",
+    "description": "Animated 8-bit cursor theme that recolors itself to match your Omarchy theme on every theme switch, with accent, light and dark styles.",
+    "category": "Tool",
+    "link": "https://github.com/FarzadHayat/omarchy-pixel-cursors",
+    "author": "Farzad Hayat",
+    "tags": [
+      "cursor",
+      "pixel-art",
+      "hyprland"
+    ]
   }
 ]

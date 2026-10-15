@@ -198,6 +198,18 @@ A GTK4 dictation app for Omarchy with F9 recording, editable rewrites, searchabl
 
 **Link:** [View resource](https://github.com/1vecera/Mluva)
 
+---
+
+### 18. Omarchy Pixel Cursors
+
+Animated 8-bit cursor theme that recolors itself to match your Omarchy theme on every theme switch, with accent, light and dark styles.
+
+**Category:** Tool
+
+**Author:** Farzad Hayat
+
+**Link:** [View resource](https://github.com/FarzadHayat/omarchy-pixel-cursors)
+
 
 ---
 

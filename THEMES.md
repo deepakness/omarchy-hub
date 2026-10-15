@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 109
+- **Total themes:** 110
 - **Official themes:** 21
-- **Community themes:** 88
-- **Dark themes:** 93
+- **Community themes:** 89
+- **Dark themes:** 94
 - **Light themes:** 16
 
 ## About these themes
@@ -1544,6 +1544,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `dark`, `purple`, `amber`
 
 **Install:** [View theme repository](https://github.com/Angelo-Tassi/omarchy-mycelium-theme)
+
+---
+
+### 110. Ingolstadt 1792
+
+**Category:** Dark Theme
+
+**Author:** nathankramm
+
+<img src="/public/themes/ingolstadt-1792-1.webp" alt="Ingolstadt 1792" width="450">
+
+**Tags:** `unofficial`, `dark`, `purple`, `amber`
+
+**Install:** [View theme repository](https://github.com/nathankramm/omarchy-ingolstadt-1792-theme)
 
 
 ---
