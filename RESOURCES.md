@@ -210,6 +210,18 @@ Animated 8-bit cursor theme that recolors itself to match your Omarchy theme on 
 
 **Link:** [View resource](https://github.com/FarzadHayat/omarchy-pixel-cursors)
 
+---
+
+### 19. First desktop-agent task on an Omarchy spare
+
+A step-by-step guide to giving a desktop agent a first task on an Omarchy spare, checking screenshot evidence, then testing your own app.
+
+**Category:** Article
+
+**Author:** Tyler Mayberry
+
+**Link:** [View resource](https://ibara.app/docs/first-task)
+
 
 ---
 

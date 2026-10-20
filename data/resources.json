@@ -219,5 +219,19 @@
       "pixel-art",
       "hyprland"
     ]
+  },
+  {
+    "id": "19",
+    "name": "First desktop-agent task on an Omarchy spare",
+    "description": "A step-by-step guide to giving a desktop agent a first task on an Omarchy spare, checking screenshot evidence, then testing your own app.",
+    "category": "Article",
+    "link": "https://ibara.app/docs/first-task",
+    "author": "Tyler Mayberry",
+    "tags": [
+      "mcp",
+      "computer-use",
+      "testing",
+      "tutorial"
+    ]
   }
 ]

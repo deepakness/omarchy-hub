@@ -1,7 +1,7 @@
 # Omarchy Hub
 
 A community-driven website for collecting and sharing themes, setups, plugins, resources, and links for [Omarchy](https://omarchy.org) - the beautiful, fun & agentic Linux distribution by DHH, built on Arch + Hyprland. <!--STATS:START-->
-Currently, omarchy-hub showcases **114 workstation setups**, **118 beautiful themes**, **17 useful resources**, **24 shell plugins** and more from the community.
+Currently, omarchy-hub showcases **114 workstation setups**, **118 beautiful themes**, **18 useful resources**, **24 shell plugins** and more from the community.
 <!--STATS:END-->
 
 🌐 **Live website**: [omarchy.deepakness.com](https://omarchy.deepakness.com)  
