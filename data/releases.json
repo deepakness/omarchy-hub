@@ -1,9 +1,17 @@
 [
   {
+    "tag": "v4.0.6",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.6",
+    "publishedAt": "2026-10-19T22:49:53Z",
+    "isLatest": true,
+    "changelog": "This patch release resolves a few small hiccups specific users encountered with v4.0.5. You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.6.iso SHA256: b542db5fecc37395d9af6654a8146ebed225f275ae4d5a6fcf432e40afe7bb88 Fixes Fix updates stopping at the OpenClaw migration from 4.0.5 by @spencerbull in #14212 Fix the OpenClaw move stopping updates when you have your own OpenClaw by @emirb in #15875 Fix the sc...",
+    "description": "Fixes Fix updates stopping at the OpenClaw migration from 4.0."
+  },
+  {
     "tag": "v4.0.5",
     "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.5",
     "publishedAt": "2026-10-18T02:50:41Z",
-    "isLatest": true,
+    "isLatest": false,
     "changelog": "This release brings a bunch of fixes and refinements to tighten things up as we prep for the next feature release coming soon. Under the hood, it also moves Omarchy onto Qt 6.12, bumps the packages on the stable ring, and brings an updated Omarchy kernel with BORE scheduler. You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.5.iso SHA256: 73fd4334f1f67b19cd8a5589f9363173fc3aec07c0a59f198833eaddb66877a1 Imp...",
     "description": "This release brings a bunch of fixes and refinements to tighten things up as we prep for the next feature release coming..."
   },
@@ -70,13 +78,5 @@
     "isLatest": false,
     "changelog": "Omarchy 3.8.2 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.2.iso SHA256: dc3d096ed17f50cadc74d5f2fe1914b12e1ba6b69e84447225deaf1896a0820d What's Changed Fix logs uploading by switching to Omarchy-owned log container by @ryanrhughes Fix compatibility with Hyprland 0.55 (but without converting configs to lua) @tuklu , @dhh Fix cases where boot could put you on the wr...",
     "description": "What's Changed Fix logs uploading by switching to Omarchy-owned log container by @ryanrhughes Fix compatibility with Hyp..."
-  },
-  {
-    "tag": "v3.8.1",
-    "url": "https://github.com/omacom/omarchy/releases/tag/v3.8.1",
-    "publishedAt": "2026-05-14T17:24:53Z",
-    "isLatest": false,
-    "changelog": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space ). Fixes Hotfix to pin omarchy-reinstall-git to master branch to prevent accidental switch to dev by @ryanrhughes",
-    "description": "What changed? Update existing installations using Update > Omarchy from Omarchy menu ( Super + Alt + Space )."
   }
 ]
