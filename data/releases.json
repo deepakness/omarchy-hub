@@ -1,5 +1,13 @@
 [
   {
+    "tag": "v4.5.0-rc1",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc1",
+    "publishedAt": "2026-10-20T08:54:48Z",
+    "isLatest": false,
+    "changelog": "⚠️ This is a release candidate, not a final release. Expect bugs, rough edges, and the occasional thing that breaks outright. Run it on a test machine, or make sure you have a working backup (or a snapshot you know how to roll back to) before you upgrade a machine you depend on. This is the release candidate for Omarchy 4.5, the first feature release since Quattro. It brings new, enhanced notifications, Omarchy in 50 languages, per-monitor workspaces, floating workspaces with a dock, a new Appea...",
+    "description": "⚠️ This is a release candidate, not a final release."
+  },
+  {
     "tag": "v4.0.6",
     "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.6",
     "publishedAt": "2026-10-19T22:49:53Z",
@@ -70,13 +78,5 @@
     "isLatest": false,
     "changelog": "Omarchy 3.8.3 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.3.iso SHA256: 40c9368eeb7e021a13d0899b379517843b4839f6e7721473169369fbd0fe61ac Additions Add easier tmux pane controls with Alt+Enter / Alt+Shift+Enter / Alt+Escape splits, plus CSI-u Shift+Return encoding across Alacritty, Foot, Ghostty, and Kitty so tmux can distinguish the bindings. Existing customized c...",
     "description": "Additions Add easier tmux pane controls with Alt+Enter / Alt+Shift+Enter / Alt+Escape splits, plus CSI-u Shift+Return en..."
-  },
-  {
-    "tag": "v3.8.2",
-    "url": "https://github.com/omacom/omarchy/releases/tag/v3.8.2",
-    "publishedAt": "2026-05-24T11:23:18Z",
-    "isLatest": false,
-    "changelog": "Omarchy 3.8.2 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.2.iso SHA256: dc3d096ed17f50cadc74d5f2fe1914b12e1ba6b69e84447225deaf1896a0820d What's Changed Fix logs uploading by switching to Omarchy-owned log container by @ryanrhughes Fix compatibility with Hyprland 0.55 (but without converting configs to lua) @tuklu , @dhh Fix cases where boot could put you on the wr...",
-    "description": "What's Changed Fix logs uploading by switching to Omarchy-owned log container by @ryanrhughes Fix compatibility with Hyp..."
   }
 ]
