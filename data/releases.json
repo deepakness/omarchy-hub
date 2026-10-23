@@ -4,8 +4,8 @@
     "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc1",
     "publishedAt": "2026-10-20T08:54:48Z",
     "isLatest": false,
-    "changelog": "⚠️ This is a release candidate, not a final release. Expect bugs, rough edges, and the occasional thing that breaks outright. Run it on a test machine, or make sure you have a working backup (or a snapshot you know how to roll back to) before you upgrade a machine you depend on. This is the release candidate for Omarchy 4.5, the first feature release since Quattro. It brings new, enhanced notifications, Omarchy in 50 languages, per-monitor workspaces, floating workspaces with a dock, a new Appea...",
-    "description": "⚠️ This is a release candidate, not a final release."
+    "changelog": "Omarchy 4.5 Release Candidate ⚠️ This is a release candidate, not a final release. Expect bugs, rough edges, and the occasional thing that breaks outright. Run it on a test machine, or make sure you have a working backup (or a snapshot you know how to roll back to) before you upgrade a machine you depend on. Omarchy 4.5 is the first feature release since Quattro. It speaks 50 languages, gives every monitor its own workspaces, adds floating workspaces with a dock, rebuilds notifications, gathers ...",
+    "description": "Release Candidate ⚠️ This is a release candidate, not a final release."
   },
   {
     "tag": "v4.0.6",
