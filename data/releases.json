@@ -1,5 +1,13 @@
 [
   {
+    "tag": "v4.5.0-rc2",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc2",
+    "publishedAt": "2026-10-27T23:07:38Z",
+    "isLatest": false,
+    "changelog": "⚠️ This is a release candidate, not a final release. Expect bugs, rough edges, and the occasional thing that breaks outright. Run it on a test machine, or make sure you have a working backup (or a snapshot you know how to roll back to) before you upgrade a machine you depend on. Omarchy 4.5 is the first feature release since Quattro. It speaks 50 languages, gives every monitor its own workspaces, adds floating workspaces with a dock, rebuilds notifications, gathers how the desktop looks into a n...",
+    "description": "⚠️ This is a release candidate, not a final release."
+  },
+  {
     "tag": "v4.5.0-rc1",
     "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc1",
     "publishedAt": "2026-10-20T08:54:48Z",
@@ -70,13 +78,5 @@
     "isLatest": false,
     "changelog": "Omarchy 3.8.4 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.4.iso SHA256: 7bc1dc7d98f3d088e57dc06581a494ea441fb15f3edd191360fd1696931bd895 Fixes Fix Neovim theme symlink pointing at the Omarchy 4 theme location by @dhh Fix Install > Gaming > Retroarch installer by @dhh Fix Foot bindings migration by @dhh Fix waybar not restarting correctly by @dhh Full Changelog : v...",
     "description": "Fixes Fix Neovim theme symlink pointing at the Omarchy 4 theme location by @dhh Fix Install > Gaming > Retroarch install..."
-  },
-  {
-    "tag": "v3.8.3",
-    "url": "https://github.com/omacom/omarchy/releases/tag/v3.8.3",
-    "publishedAt": "2026-07-13T23:10:19Z",
-    "isLatest": false,
-    "changelog": "Omarchy 3.8.3 Update existing installations using Update > Omarchy from Omarchy menu (Super + Alt + Space). Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-3.8.3.iso SHA256: 40c9368eeb7e021a13d0899b379517843b4839f6e7721473169369fbd0fe61ac Additions Add easier tmux pane controls with Alt+Enter / Alt+Shift+Enter / Alt+Escape splits, plus CSI-u Shift+Return encoding across Alacritty, Foot, Ghostty, and Kitty so tmux can distinguish the bindings. Existing customized c...",
-    "description": "Additions Add easier tmux pane controls with Alt+Enter / Alt+Shift+Enter / Alt+Escape splits, plus CSI-u Shift+Return en..."
   }
 ]
