@@ -6,10 +6,10 @@ Welcome to the collection of Omarchy plugins! This page showcases hand-picked sh
 
 ## Statistics
 
-- **Total plugins:** 24
+- **Total plugins:** 25
 - **Bar widgets:** 18
+- **Panels:** 3
 - **Overlays:** 3
-- **Panels:** 2
 - **Services:** 1
 
 ## About these plugins
@@ -595,6 +595,30 @@ omarchy plugin add https://github.com/crmne/omarchy-ultimate-guitar.git --enable
 ```
 
 **Source:** [View plugin repository](https://github.com/crmne/omarchy-ultimate-guitar)
+
+---
+
+### 25. OmaMessenger
+
+Keyboard-first Telegram and WhatsApp client in one window inside omarchy-shell, with messages stored locally.
+
+**Kind:** Panels
+
+**Category:** Productivity
+
+**Author:** timlittle
+
+<img src="/public/plugins/omamessenger-1.webp" alt="OmaMessenger" width="450">
+
+**Tags:** `telegram`, `whatsapp`, `messaging`
+
+**Install:**
+
+```bash
+omarchy plugin add https://github.com/timlittle/omamessenger --enable
+```
+
+**Source:** [View plugin repository](https://github.com/timlittle/omamessenger)
 
 
 ---

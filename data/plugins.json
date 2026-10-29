@@ -382,5 +382,21 @@
       "music",
       "mpris"
     ]
+  },
+  {
+    "id": "25",
+    "name": "OmaMessenger",
+    "description": "Keyboard-first Telegram and WhatsApp client in one window inside omarchy-shell, with messages stored locally.",
+    "kind": "panel",
+    "category": "Productivity",
+    "author": "timlittle",
+    "link": "https://github.com/timlittle/omamessenger",
+    "install": "omarchy plugin add https://github.com/timlittle/omamessenger --enable",
+    "screenshot": "plugins/omamessenger-1.webp",
+    "tags": [
+      "telegram",
+      "whatsapp",
+      "messaging"
+    ]
   }
 ]
