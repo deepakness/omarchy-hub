@@ -1504,5 +1504,19 @@
       "purple",
       "minimal"
     ]
+  },
+  {
+    "id": "119",
+    "name": "Leonida",
+    "category": "Dark Theme",
+    "link": "https://github.com/angbandz/omarchy-leonida-theme",
+    "author": "angbandz",
+    "screenshot": "themes/leonida-1.webp",
+    "tags": [
+      "unofficial",
+      "synthwave",
+      "neon",
+      "purple"
+    ]
   }
 ]

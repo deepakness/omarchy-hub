@@ -6,10 +6,10 @@ Welcome to the comprehensive collection of Omarchy themes! This page showcases a
 
 ## Statistics
 
-- **Total themes:** 118
+- **Total themes:** 119
 - **Official themes:** 21
-- **Community themes:** 97
-- **Dark themes:** 98
+- **Community themes:** 98
+- **Dark themes:** 99
 - **Light themes:** 20
 
 ## About these themes
@@ -1670,6 +1670,20 @@ These themes represent the diverse visual styles available for Omarchy Linux, in
 **Tags:** `unofficial`, `light`, `purple`, `minimal`
 
 **Install:** [View theme repository](https://github.com/crmne/omarchy-solco-light-theme)
+
+---
+
+### 119. Leonida
+
+**Category:** Dark Theme
+
+**Author:** angbandz
+
+<img src="/public/themes/leonida-1.webp" alt="Leonida" width="450">
+
+**Tags:** `unofficial`, `synthwave`, `neon`, `purple`
+
+**Install:** [View theme repository](https://github.com/angbandz/omarchy-leonida-theme)
 
 
 ---
