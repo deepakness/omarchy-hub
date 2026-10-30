@@ -398,5 +398,21 @@
       "whatsapp",
       "messaging"
     ]
+  },
+  {
+    "id": "26",
+    "name": "Ilha",
+    "description": "Floating island bar that replaces the default Omarchy bar: a clock at rest, one status line on hover and one panel at a time.",
+    "kind": "bar",
+    "category": "Desktop",
+    "author": "Esegnorelli",
+    "link": "https://github.com/Esegnorelli/omarchy-ilha",
+    "install": "omarchy plugin add https://github.com/Esegnorelli/omarchy-ilha.git --enable",
+    "screenshot": "plugins/ilha-1.webp",
+    "tags": [
+      "bar",
+      "quickshell",
+      "workspaces"
+    ]
   }
 ]

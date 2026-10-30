@@ -6,11 +6,12 @@ Welcome to the collection of Omarchy plugins! This page showcases hand-picked sh
 
 ## Statistics
 
-- **Total plugins:** 25
+- **Total plugins:** 26
 - **Bar widgets:** 18
 - **Panels:** 3
 - **Overlays:** 3
 - **Services:** 1
+- **Bars:** 1
 
 ## About these plugins
 
@@ -619,6 +620,30 @@ omarchy plugin add https://github.com/timlittle/omamessenger --enable
 ```
 
 **Source:** [View plugin repository](https://github.com/timlittle/omamessenger)
+
+---
+
+### 26. Ilha
+
+Floating island bar that replaces the default Omarchy bar: a clock at rest, one status line on hover and one panel at a time.
+
+**Kind:** Bars
+
+**Category:** Desktop
+
+**Author:** Esegnorelli
+
+<img src="/public/plugins/ilha-1.webp" alt="Ilha" width="450">
+
+**Tags:** `bar`, `quickshell`, `workspaces`
+
+**Install:**
+
+```bash
+omarchy plugin add https://github.com/Esegnorelli/omarchy-ilha.git --enable
+```
+
+**Source:** [View plugin repository](https://github.com/Esegnorelli/omarchy-ilha)
 
 
 ---
