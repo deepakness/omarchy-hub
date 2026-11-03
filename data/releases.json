@@ -1,1 +1,82 @@
-PLACEHOLDER - I will replace with actual content
+[
+  {
+    "tag": "v4.5.0-rc3",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc3",
+    "publishedAt": "2026-11-02T07:15:22Z",
+    "isLatest": false,
+    "changelog": "⚠️ This is a release candidate, not a final release. Expect bugs, rough edges, and the occasional thing that breaks outright. Run it on a test machine, or make sure you have a working backup (or a snapshot you know how to roll back to) before you upgrade a machine you depend on. Omarchy 4.5 is the first feature release since Quattro. It speaks 50 languages, gives every monitor its own workspaces, adds floating workspaces with a dock, rebuilds notifications, gathers how the desktop looks into a n...",
+    "description": "⚠️ This is a release candidate, not a final release."
+  },
+  {
+    "tag": "v4.5.0-rc2",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc2",
+    "publishedAt": "2026-10-27T23:07:38Z",
+    "isLatest": false,
+    "changelog": "⚠️ This is a release candidate, not a final release. Expect bugs, rough edges, and the occasional thing that breaks outright. Run it on a test machine, or make sure you have a working backup (or a snapshot you know how to roll back to) before you upgrade a machine you depend on. Omarchy 4.5 is the first feature release since Quattro. It speaks 50 languages, gives every monitor its own workspaces, adds floating workspaces with a dock, rebuilds notifications, gathers how the desktop looks into a n...",
+    "description": "⚠️ This is a release candidate, not a final release."
+  },
+  {
+    "tag": "v4.5.0-rc1",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc1",
+    "publishedAt": "2026-10-20T08:54:48Z",
+    "isLatest": false,
+    "changelog": "Omarchy 4.5 Release Candidate ⚠️ This is a release candidate, not a final release. Expect bugs, rough edges, and the occasional thing that breaks outright. Run it on a test machine, or make sure you have a working backup (or a snapshot you know how to roll back to) before you upgrade a machine you depend on. Omarchy 4.5 is the first feature release since Quattro. It speaks 50 languages, gives every monitor its own workspaces, adds floating workspaces with a dock, rebuilds notifications, gathers ...",
+    "description": "Release Candidate ⚠️ This is a release candidate, not a final release."
+  },
+  {
+    "tag": "v4.0.6",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.6",
+    "publishedAt": "2026-10-19T22:49:53Z",
+    "isLatest": true,
+    "changelog": "This patch release resolves a few small hiccups specific users encountered with v4.0.5. You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.6.iso SHA256: b542db5fecc37395d9af6654a8146ebed225f275ae4d5a6fcf432e40afe7bb88 Fixes Fix updates stopping at the OpenClaw migration from 4.0.5 by @spencerbull in #14212 Fix the OpenClaw move stopping updates when you have your own OpenClaw by @emirb in #15875 Fix the sc...",
+    "description": "Fixes Fix updates stopping at the OpenClaw migration from 4.0."
+  },
+  {
+    "tag": "v4.0.5",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.5",
+    "publishedAt": "2026-10-18T02:50:41Z",
+    "isLatest": false,
+    "changelog": "This release brings a bunch of fixes and refinements to tighten things up as we prep for the next feature release coming soon. Under the hood, it also moves Omarchy onto Qt 6.12, bumps the packages on the stable ring, and brings an updated Omarchy kernel with BORE scheduler. You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.5.iso SHA256: 73fd4334f1f67b19cd8a5589f9363173fc3aec07c0a59f198833eaddb66877a1 Imp...",
+    "description": "This release brings a bunch of fixes and refinements to tighten things up as we prep for the next feature release coming..."
+  },
+  {
+    "tag": "v4.0.4",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.4",
+    "publishedAt": "2026-09-15T21:39:29Z",
+    "isLatest": false,
+    "changelog": "This release brings our bespoke kernel to everyone. The Omarchy kernel is tuned to keep the desktop responsive and multitasking smooth, even under heavy load or memory pressure. It improves gaming compatibility, enables smoother gaming on supported AMD HDMI displays, speeds up common Btrfs file operations, and refines power management. It also fixes everyday hardware frustrations, including missing audio, unresponsive touchpads, display freezes, and slow startup or resume on affected machines. Y...",
+    "description": "This release brings our bespoke kernel to everyone."
+  },
+  {
+    "tag": "v4.0.3",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.3",
+    "publishedAt": "2026-09-08T19:50:46Z",
+    "isLatest": false,
+    "changelog": "This release brings amazing out-of-the-box integration for both Hermes and Openclaw as well as additional set of security fixes that were validated and examined by the Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security . 🙏 You can upgrade existing machines with Update > Omarchy. Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.3.iso SHA256: 03d60bc74306dca51f96e1a84b...",
+    "description": "This release brings amazing out-of-the-box integration for both Hermes and Openclaw as well as additional set of securit..."
+  },
+  {
+    "tag": "v4.0.2",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.2",
+    "publishedAt": "2026-08-31T03:42:33Z",
+    "isLatest": false,
+    "changelog": "This is an additional set of security fixes that were validated and examined by the Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security . 🙏 You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.2.iso SHA256: 2ef8e624aa1bec7e277e28056b8535a6c9373ba48d7ede3f1a01cb6d2373cfb8 Improvements Repair legacy paths and privile...",
+    "description": "Improvements Repair legacy paths and privile"
+  },
+  {
+    "tag": "v4.0.1",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.1",
+    "publishedAt": "2026-08-25T11:24:30Z",
+    "isLatest": false,
+    "changelog": "Fast-Follow Fixes This is mostly for a collection of security fixes that was validated and examined by the new Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security 🙏 You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.1.iso SHA256: 69cbb4e10d98ad831c3c9f245b5757a9d1fedfd0c9592780e977d6f950dea8c3 Security Launch cla...",
+    "description": "Fast-Follow Fixes This is mostly for a collection of security fixes that was validated and examined by the new Omarchy S..."
+  },
+  {
+    "tag": "v4.0.0",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.0",
+    "publishedAt": "2026-08-14T16:35:40Z",
+    "isLatest": false,
+    "changelog": "The Quattro Release Omarchy 4 aka Quattro is the biggest release since the project started. The entire desktop shell has been reimagined in Quickshell : the bar, launcher, menus, notifications, on-screen displays, control panels, lock screen, and polkit agent now all live inside a single long-running shell process with a plugin architecture. That means Waybar, Walker, Mako, SwayOSD, hyprlock, hypridle, swaybg, and polkit-gnome are all gone, replaced by one coherent, fully-themed, IPC-scriptable ...",
+    "description": "The Quattro Release Omarchy 4 aka Quattro is the biggest release since the project started."
+  }
+]
