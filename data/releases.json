@@ -1,5 +1,13 @@
 [
   {
+    "tag": "v4.5.0",
+    "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0",
+    "publishedAt": "2026-11-05T05:36:53Z",
+    "isLatest": true,
+    "changelog": "Omarchy 4.5 (aka Quattro RS!) is the first big feature release since Quattro , and it’s a whopper: over 740 pull requests merged from more than 180 contributors in just twelve weeks. It now offers a traditional desktop mode next to the tiling default. You can install it natively on a M1/M2/M3/Neo MacBooks. And it speaks 50 languages. And a gazillion other features, fixes, and improvements. Release notes: https://omarchy.org/news/2026/11/omarchy-4-5/",
+    "description": "(aka Quattro RS!) is the first big feature release since Quattro , and it’s a whopper: over 740 pull requests merged fro..."
+  },
+  {
     "tag": "v4.5.0-rc3",
     "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc3",
     "publishedAt": "2026-11-02T07:15:22Z",
@@ -27,7 +35,7 @@
     "tag": "v4.0.6",
     "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.6",
     "publishedAt": "2026-10-19T22:49:53Z",
-    "isLatest": true,
+    "isLatest": false,
     "changelog": "This patch release resolves a few small hiccups specific users encountered with v4.0.5. You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.6.iso SHA256: b542db5fecc37395d9af6654a8146ebed225f275ae4d5a6fcf432e40afe7bb88 Fixes Fix updates stopping at the OpenClaw migration from 4.0.5 by @spencerbull in #14212 Fix the OpenClaw move stopping updates when you have your own OpenClaw by @emirb in #15875 Fix the sc...",
     "description": "Fixes Fix updates stopping at the OpenClaw migration from 4.0."
   },
@@ -70,13 +78,5 @@
     "isLatest": false,
     "changelog": "Fast-Follow Fixes This is mostly for a collection of security fixes that was validated and examined by the new Omarchy Security team . If you ever find security issues with Omarchy, please follow the responsible disclosure procedure on omarchy.org/security 🙏 You can upgrade existing machines with Update > Omarchy . Install on new machines with the ISO: Download: https://iso.omarchy.org/omarchy-4.0.1.iso SHA256: 69cbb4e10d98ad831c3c9f245b5757a9d1fedfd0c9592780e977d6f950dea8c3 Security Launch cla...",
     "description": "Fast-Follow Fixes This is mostly for a collection of security fixes that was validated and examined by the new Omarchy S..."
-  },
-  {
-    "tag": "v4.0.0",
-    "url": "https://github.com/omacom/omarchy/releases/tag/v4.0.0",
-    "publishedAt": "2026-08-14T16:35:40Z",
-    "isLatest": false,
-    "changelog": "The Quattro Release Omarchy 4 aka Quattro is the biggest release since the project started. The entire desktop shell has been reimagined in Quickshell : the bar, launcher, menus, notifications, on-screen displays, control panels, lock screen, and polkit agent now all live inside a single long-running shell process with a plugin architecture. That means Waybar, Walker, Mako, SwayOSD, hyprlock, hypridle, swaybg, and polkit-gnome are all gone, replaced by one coherent, fully-themed, IPC-scriptable ...",
-    "description": "The Quattro Release Omarchy 4 aka Quattro is the biggest release since the project started."
   }
 ]
