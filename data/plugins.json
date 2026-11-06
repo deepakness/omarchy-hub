@@ -414,5 +414,21 @@
       "quickshell",
       "workspaces"
     ]
+  },
+  {
+    "id": "27",
+    "name": "Command Bar",
+    "description": "Spotlight-style command bar for launching apps, switching windows, searching files, calculations, currency and unit conversions, emoji and custom keyword commands.",
+    "kind": "overlay",
+    "category": "Productivity",
+    "author": "Saikomantisu",
+    "link": "https://github.com/Saikomantisu/omarchy-commandbar",
+    "install": "omarchy plugin add https://github.com/Saikomantisu/omarchy-commandbar --enable",
+    "screenshot": "plugins/command-bar-1.webp",
+    "tags": [
+      "launcher",
+      "quickshell",
+      "hyprland"
+    ]
   }
 ]

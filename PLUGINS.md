@@ -6,10 +6,10 @@ Welcome to the collection of Omarchy plugins! This page showcases hand-picked sh
 
 ## Statistics
 
-- **Total plugins:** 26
+- **Total plugins:** 27
 - **Bar widgets:** 18
+- **Overlays:** 4
 - **Panels:** 3
-- **Overlays:** 3
 - **Services:** 1
 - **Bars:** 1
 
@@ -644,6 +644,30 @@ omarchy plugin add https://github.com/Esegnorelli/omarchy-ilha.git --enable
 ```
 
 **Source:** [View plugin repository](https://github.com/Esegnorelli/omarchy-ilha)
+
+---
+
+### 27. Command Bar
+
+Spotlight-style command bar for launching apps, switching windows, searching files, calculations, currency and unit conversions, emoji and custom keyword commands.
+
+**Kind:** Overlays
+
+**Category:** Productivity
+
+**Author:** Saikomantisu
+
+<img src="/public/plugins/command-bar-1.webp" alt="Command Bar" width="450">
+
+**Tags:** `launcher`, `quickshell`, `hyprland`
+
+**Install:**
+
+```bash
+omarchy plugin add https://github.com/Saikomantisu/omarchy-commandbar --enable
+```
+
+**Source:** [View plugin repository](https://github.com/Saikomantisu/omarchy-commandbar)
 
 
 ---
