@@ -430,5 +430,21 @@
       "quickshell",
       "hyprland"
     ]
+  },
+  {
+    "id": "28",
+    "name": "Kokoro read-aloud",
+    "description": "Reads selected text aloud with a local Kokoro TTS voice on Ctrl+Alt+R; the bar widget sets it up, switches between GPU, CPU and off, and shows the sentence being read.",
+    "kind": "bar-widget",
+    "category": "Productivity",
+    "author": "sayed-qutob-work",
+    "link": "https://github.com/sayed-qutob-work/kokoro-read-aloud",
+    "install": "sudo pacman -S --needed tk portaudio wl-clipboard jq curl libnotify && omarchy plugin add https://github.com/sayed-qutob-work/kokoro-read-aloud --enable",
+    "screenshot": "plugins/kokoro-read-aloud-1.webp",
+    "tags": [
+      "tts",
+      "accessibility",
+      "ai"
+    ]
   }
 ]

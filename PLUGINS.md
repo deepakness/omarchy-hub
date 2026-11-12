@@ -6,8 +6,8 @@ Welcome to the collection of Omarchy plugins! This page showcases hand-picked sh
 
 ## Statistics
 
-- **Total plugins:** 27
-- **Bar widgets:** 18
+- **Total plugins:** 28
+- **Bar widgets:** 19
 - **Overlays:** 4
 - **Panels:** 3
 - **Services:** 1
@@ -668,6 +668,30 @@ omarchy plugin add https://github.com/Saikomantisu/omarchy-commandbar --enable
 ```
 
 **Source:** [View plugin repository](https://github.com/Saikomantisu/omarchy-commandbar)
+
+---
+
+### 28. Kokoro read-aloud
+
+Reads selected text aloud with a local Kokoro TTS voice on Ctrl+Alt+R; the bar widget sets it up, switches between GPU, CPU and off, and shows the sentence being read.
+
+**Kind:** Bar widgets
+
+**Category:** Productivity
+
+**Author:** sayed-qutob-work
+
+<img src="/public/plugins/kokoro-read-aloud-1.webp" alt="Kokoro read-aloud" width="450">
+
+**Tags:** `tts`, `accessibility`, `ai`
+
+**Install:**
+
+```bash
+sudo pacman -S --needed tk portaudio wl-clipboard jq curl libnotify && omarchy plugin add https://github.com/sayed-qutob-work/kokoro-read-aloud --enable
+```
+
+**Source:** [View plugin repository](https://github.com/sayed-qutob-work/kokoro-read-aloud)
 
 
 ---
